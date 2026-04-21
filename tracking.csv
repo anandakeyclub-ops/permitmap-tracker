@@ -1,0 +1,2 @@
+timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
+2026-04-21 04:00:36,open,test_open_palm_beach_roofing,test,open,palm,beach_roofing,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
