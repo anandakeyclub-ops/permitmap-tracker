@@ -19,10 +19,13 @@ LOG_FILE        = Path(__file__).parent / "tracking.csv"
 LOG_FIELDS      = ["timestamp", "event", "tracking_id", "contractor_id",
                    "send_type", "county", "trade", "ip", "user_agent"]
 
-GITHUB_TOKEN    = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO     = os.environ.get("GITHUB_REPO", "anandakeyclub-ops/permitmap-tracker")
 GITHUB_PATH     = "tracking.csv"
 GITHUB_BRANCH   = os.environ.get("GITHUB_BRANCH", "main")
+
+def get_token() -> str:
+    """Read token dynamically so Render env vars are always current."""
+    return os.environ.get("GITHUB_TOKEN", "").strip()
 
 PIXEL_GIF = base64.b64decode(
     "R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
@@ -43,7 +46,7 @@ def parse_tracking_id(tracking_id):
 
 def _github_headers() -> dict:
     return {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Authorization": f"Bearer {get_token()}",
         "Accept":        "application/vnd.github+json",
         "Content-Type":  "application/json",
         "X-GitHub-Api-Version": "2022-11-28",
@@ -57,7 +60,7 @@ def _github_url() -> str:
 def pull_from_github() -> None:
     """Pull tracking.csv from GitHub on startup so we have full history."""
     global _github_sha
-    if not GITHUB_TOKEN:
+    if not get_token():
         return
     try:
         req = urllib.request.Request(
@@ -83,7 +86,7 @@ def pull_from_github() -> None:
 def push_to_github() -> None:
     """Push local tracking.csv to GitHub after each event."""
     global _github_sha
-    if not GITHUB_TOKEN:
+    if not get_token():
         return
     if not LOG_FILE.exists():
         return
@@ -139,7 +142,15 @@ def log_event(event, tracking_id):
 @app.route("/health")
 def health():
     lines = len(LOG_FILE.read_text().splitlines()) - 1 if LOG_FILE.exists() else 0
-    return {"status": "ok", "events": lines, "github_sync": bool(GITHUB_TOKEN)}
+    token = get_token()
+    return {
+        "status":      "ok",
+        "events":      lines,
+        "github_sync": bool(token),
+        "token_set":   bool(token),
+        "token_prefix": token[:6] + "..." if token else "NOT SET",
+        "repo":        GITHUB_REPO,
+    }
 
 
 @app.route("/pixel/<tracking_id>")
@@ -197,7 +208,7 @@ def stats():
     <html><body style="font-family:monospace;padding:20px;background:#0f172a;color:#e2e8f0">
     <h2 style="color:#3b82f6">PermitMap Tracking Stats</h2>
     <p>Total opens: <b>{total_opens}</b> &nbsp; Total clicks: <b>{total_clicks}</b></p>
-    <p>GitHub sync: <b>{'enabled' if GITHUB_TOKEN else 'DISABLED — data will be lost on restart'}</b></p>
+    <p>GitHub sync: <b>{'enabled' if get_token() else 'DISABLED — data will be lost on restart'}</b></p>
     <table border=1 cellpadding=6 style="border-collapse:collapse;color:#e2e8f0">
       <tr><th>Send Type</th><th>Opens</th><th>Clicks</th></tr>
       {rows_html}
