@@ -163,3 +163,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-22 15:22:06,open,196_followup_1_martin_roofing,196,followup,1,martin_roofing,127.0.0.1,Mozilla/5.0
 2026-04-22 15:22:06,open,190_followup_1_martin_roofing,190,followup,1,martin_roofing,127.0.0.1,Mozilla/5.0
 2026-04-22 15:22:06,open,190_followup_1_martin_roofing,190,followup,1,martin_roofing,127.0.0.1,Mozilla/5.0
+2026-04-22 15:30:33,open,233_followup_1_martin_pool,233,followup,1,martin_pool,127.0.0.1,Mozilla/5.0
