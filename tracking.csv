@@ -22,3 +22,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-22 11:22:28,open,140_followup_1_palm_beach_plumbing,140,followup,1,palm_beach_plumbing,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge"
 2026-04-22 11:22:29,open,132_followup_1_palm_beach_hvac,132,followup,1,palm_beach_hvac,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-04-22 11:22:32,open,144_followup_1_palm_beach_plumbing,144,followup,1,palm_beach_plumbing,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge"
+2026-04-22 11:22:32,open,132_followup_1_palm_beach_hvac,132,followup,1,palm_beach_hvac,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-04-22 11:22:37,open,138_followup_1_palm_beach_plumbing,138,followup,1,palm_beach_plumbing,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
