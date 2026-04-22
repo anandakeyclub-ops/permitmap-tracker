@@ -164,3 +164,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-22 15:22:06,open,190_followup_1_martin_roofing,190,followup,1,martin_roofing,127.0.0.1,Mozilla/5.0
 2026-04-22 15:22:06,open,190_followup_1_martin_roofing,190,followup,1,martin_roofing,127.0.0.1,Mozilla/5.0
 2026-04-22 15:30:33,open,233_followup_1_martin_pool,233,followup,1,martin_pool,127.0.0.1,Mozilla/5.0
+2026-04-22 15:33:18,open,161_followup_1_palm_beach_pool,161,followup,1,palm_beach_pool,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
