@@ -38,3 +38,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-22 11:24:49,open,61_followup_2_martin_roofing,61,followup,2,martin_roofing,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge"
 2026-04-22 11:24:52,open,63_followup_2_martin_roofing,63,followup,2,martin_roofing,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge"
 2026-04-22 11:24:54,open,65_followup_2_martin_hvac,65,followup,2,martin_hvac,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge"
+2026-04-22 11:24:56,open,66_followup_2_martin_hvac,66,followup,2,martin_hvac,127.0.0.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge"
