@@ -103,3 +103,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-22 11:52:41,open,120_followup_1_palm_beach_roofing,120,followup,1,palm_beach_roofing,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-04-22 11:52:43,open,180_followup_1_palm_beach_general_contractor,180,followup,1,palm_beach_general_contractor,127.0.0.1,Mozilla/5.0
 2026-04-22 11:52:57,open,141_followup_1_palm_beach_plumbing,141,followup,1,palm_beach_plumbing,127.0.0.1,Mozilla/5.0
+2026-04-22 11:54:59,open,27_followup_2_palm_beach_plumbing,27,followup,2,palm_beach_plumbing,127.0.0.1,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
