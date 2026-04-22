@@ -413,3 +413,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-22 18:38:33,open,8_followup_2_palm_beach_roofing,8,followup,2,palm_beach_roofing,127.0.0.1,Mozilla/5.0
 2026-04-22 18:38:33,open,24_followup_2_palm_beach_plumbing,24,followup,2,palm_beach_plumbing,127.0.0.1,Mozilla/5.0
 2026-04-22 18:38:33,open,14_followup_2_palm_beach_hvac,14,followup,2,palm_beach_hvac,127.0.0.1,Mozilla/5.0
+2026-04-22 19:05:25,open,169_followup_1_palm_beach_general_contractor,169,followup,1,palm_beach_general_contractor,127.0.0.1,Mozilla/5.0
