@@ -129,3 +129,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-22 12:35:19,open,27_followup_2_palm_beach_plumbing,27,followup,2,palm_beach_plumbing,127.0.0.1,Mozilla/5.0
 2026-04-22 12:35:23,open,167_followup_1_palm_beach_general_contractor,167,followup,1,palm_beach_general_contractor,127.0.0.1,Mozilla/5.0
 2026-04-22 12:37:24,open,252_followup_1_martin_general_contractor,252,followup,1,martin_general_contractor,127.0.0.1,Mozilla/5.0
+2026-04-22 12:37:27,open,46_followup_2_palm_beach_general_contractor,46,followup,2,palm_beach_general_contractor,127.0.0.1,Mozilla/5.0
