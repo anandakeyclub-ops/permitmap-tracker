@@ -416,3 +416,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-22 19:05:25,open,169_followup_1_palm_beach_general_contractor,169,followup,1,palm_beach_general_contractor,127.0.0.1,Mozilla/5.0
 2026-04-22 19:28:00,open,245_followup_1_martin_general_contractor,245,followup,1,martin_general_contractor,127.0.0.1,Mozilla/5.0
 2026-04-22 19:28:04,open,30_followup_2_palm_beach_pool,30,followup,2,palm_beach_pool,127.0.0.1,Mozilla/5.0
+2026-04-22 19:33:04,open,189_followup_1_martin_roofing,189,followup,1,martin_roofing,127.0.0.1,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
