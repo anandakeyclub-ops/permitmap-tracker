@@ -437,3 +437,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-23 01:40:39,open,163_followup_1_palm_beach_pool,163,followup,1,palm_beach_pool,127.0.0.1,Mozilla/5.0
 2026-04-23 01:51:18,open,253_followup_1_martin_general_contractor,253,followup,1,martin_general_contractor,127.0.0.1,Mozilla/5.0
 2026-04-23 01:59:26,open,251_followup_1_martin_general_contractor,251,followup,1,martin_general_contractor,127.0.0.1,Mozilla/5.0
+2026-04-23 02:06:54,open,106_followup_1_martin_general_contractor,106,followup,1,martin_general_contractor,127.0.0.1,Mozilla/5.0
