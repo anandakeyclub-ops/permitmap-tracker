@@ -1,225 +1,135 @@
-"""
-permitmap.org — Email Tracking Server (v2)
-Persists tracking.csv to GitHub so data survives Render restarts.
-"""
-import csv
-import os
-import base64
-import json
-import urllib.request
-from datetime import datetime
+from __future__ import annotations
+
 from pathlib import Path
-from collections import defaultdict
-from flask import Flask, redirect, request, Response
+import pandas as pd
+import streamlit as st
 
-app = Flask(__name__)
+base_folder = Path(__file__).resolve().parent.parent
 
-STRIPE_BASE_URL = os.environ.get("STRIPE_BASE_URL", "https://buy.stripe.com/14AeVddOnbPx1g23VIdUY04")
-LOG_FILE        = Path(__file__).parent / "tracking.csv"
-LOG_FIELDS      = ["timestamp", "event", "tracking_id", "contractor_id",
-                   "send_type", "county", "trade", "ip", "user_agent"]
+st.set_page_config(page_title="Permit Funnel Dashboard", layout="wide")
+st.title("Permit Funnel Dashboard")
 
-GITHUB_REPO     = os.environ.get("GITHUB_REPO", "anandakeyclub-ops/permitmap-tracker")
-GITHUB_PATH     = "tracking.csv"
-GITHUB_BRANCH   = os.environ.get("GITHUB_BRANCH", "main")
-
-def get_token() -> str:
-    """Read token dynamically so Render env vars are always current."""
-    return os.environ.get("GITHUB_TOKEN", "").strip()
-
-PIXEL_GIF = base64.b64decode(
-    "R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-)
-
-_github_sha: str | None = None  # cached SHA for updates
+contractors_path = base_folder / "config" / "contractors_master.csv"
+sent_log_path = base_folder / "logs" / "sent_emails.csv"
+replies_log_path = base_folder / "logs" / "replies_detected.csv"
 
 
-def parse_tracking_id(tracking_id):
-    parts = tracking_id.split("_", 3)
-    return {
-        "contractor_id": parts[0] if len(parts) > 0 else "",
-        "send_type":     parts[1] if len(parts) > 1 else "",
-        "county":        parts[2] if len(parts) > 2 else "",
-        "trade":         parts[3] if len(parts) > 3 else "",
-    }
+def safe_read_csv(path: Path) -> pd.DataFrame:
+    if not path.exists():
+        return pd.DataFrame()
 
-
-def _github_headers() -> dict:
-    return {
-        "Authorization": f"Bearer {get_token()}",
-        "Accept":        "application/vnd.github+json",
-        "Content-Type":  "application/json",
-        "X-GitHub-Api-Version": "2022-11-28",
-    }
-
-
-def _github_url() -> str:
-    return f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_PATH}"
-
-
-def pull_from_github() -> None:
-    """Pull tracking.csv from GitHub on startup so we have full history."""
-    global _github_sha
-    if not get_token():
-        return
     try:
-        req = urllib.request.Request(
-            _github_url() + f"?ref={GITHUB_BRANCH}",
-            headers=_github_headers()
+        return pd.read_csv(path, dtype=str, keep_default_na=False)
+    except pd.errors.ParserError:
+        # fallback: skip malformed rows so dashboard still loads
+        return pd.read_csv(
+            path,
+            dtype=str,
+            keep_default_na=False,
+            engine="python",
+            on_bad_lines="skip",
         )
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            data = json.loads(resp.read())
-        _github_sha = data.get("sha", "")
-        content = base64.b64decode(data["content"].replace("\n", "")).decode("utf-8")
-        LOG_FILE.write_text(content, encoding="utf-8")
-        lines = content.count("\n")
-        print(f"[tracker] Pulled tracking.csv from GitHub ({lines} lines, sha={_github_sha[:8]})")
-    except urllib.error.HTTPError as e:
-        if e.code == 404:
-            print("[tracker] No tracking.csv on GitHub yet — will create on first event")
-        else:
-            print(f"[tracker] GitHub pull error: {e}")
-    except Exception as e:
-        print(f"[tracker] GitHub pull error: {e}")
 
 
-def push_to_github() -> None:
-    """Push local tracking.csv to GitHub after each event."""
-    global _github_sha
-    if not get_token():
-        return
-    if not LOG_FILE.exists():
-        return
-    try:
-        content_b64 = base64.b64encode(
-            LOG_FILE.read_bytes()
-        ).decode("ascii")
+contractors = safe_read_csv(contractors_path)
+sent_log = safe_read_csv(sent_log_path)
+replies_log = safe_read_csv(replies_log_path)
 
-        payload = {
-            "message": f"tracking update {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')}",
-            "content": content_b64,
-            "branch":  GITHUB_BRANCH,
-        }
-        if _github_sha:
-            payload["sha"] = _github_sha
+if not contractors.empty:
+    contractors.columns = [c.strip() for c in contractors.columns]
 
-        data = json.dumps(payload).encode()
-        req  = urllib.request.Request(
-            _github_url(),
-            data=data,
-            headers=_github_headers(),
-            method="PUT",
-        )
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            result = json.loads(resp.read())
-        _github_sha = result.get("content", {}).get("sha", _github_sha)
-    except Exception as e:
-        print(f"[tracker] GitHub push error: {e}")
+# Basic metrics
+total_contractors = len(contractors) if not contractors.empty else 0
+prospects = (contractors["status"].str.lower() == "prospect").sum() if "status" in contractors.columns else 0
+active_clients = (contractors["status"].str.lower() == "active").sum() if "status" in contractors.columns else 0
+active_paid = (contractors["billing_status"].str.lower() == "active_paid").sum() if "billing_status" in contractors.columns else 0
 
+# Funnel metrics
+first_outreach_sent_count = (contractors["first_outreach_sent"].str.upper() == "TRUE").sum() if "first_outreach_sent" in contractors.columns else 0
+replied_count = contractors["last_response_date"].astype(str).str.strip().ne("").sum() if "last_response_date" in contractors.columns else 0
+interested_count = (contractors["current_stage"].str.lower() == "interested").sum() if "current_stage" in contractors.columns else 0
+closed_count = active_paid
 
-def log_event(event, tracking_id):
-    parsed = parse_tracking_id(tracking_id)
-    row = {
-        "timestamp":     datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S"),
-        "event":         event,
-        "tracking_id":   tracking_id,
-        "contractor_id": parsed["contractor_id"],
-        "send_type":     parsed["send_type"],
-        "county":        parsed["county"],
-        "trade":         parsed["trade"],
-        "ip":            request.remote_addr or "",
-        "user_agent":    request.headers.get("User-Agent", "")[:120],
-    }
-    file_exists = LOG_FILE.exists()
-    with open(LOG_FILE, "a", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=LOG_FIELDS)
-        if not file_exists:
-            writer.writeheader()
-        writer.writerow(row)
-    push_to_github()
+reply_rate = (replied_count / first_outreach_sent_count * 100) if first_outreach_sent_count else 0
+close_rate = (closed_count / replied_count * 100) if replied_count else 0
 
+# Revenue
+def get_monthly_value(row):
+    if str(row.get("billing_status", "")).strip().lower() == "active_paid":
+        return 99
+    return 0
 
-@app.route("/health")
-def health():
-    lines = len(LOG_FILE.read_text().splitlines()) - 1 if LOG_FILE.exists() else 0
-    token = get_token()
-    return {
-        "status":      "ok",
-        "events":      lines,
-        "github_sync": bool(token),
-        "token_set":   bool(token),
-        "token_prefix": token[:6] + "..." if token else "NOT SET",
-        "repo":        GITHUB_REPO,
-    }
+if not contractors.empty:
+    contractors["monthly_value"] = contractors.apply(get_monthly_value, axis=1)
+    estimated_mrr = contractors["monthly_value"].sum()
+else:
+    estimated_mrr = 0
 
-
-@app.route("/pixel/<tracking_id>")
-def pixel(tracking_id):
-    log_event("open", tracking_id)
-    return Response(
-        PIXEL_GIF,
-        mimetype="image/gif",
-        headers={
-            "Cache-Control": "no-cache, no-store, must-revalidate",
-            "Pragma":        "no-cache",
-            "Expires":       "0",
-        }
+if not contractors.empty and {"state", "county", "monthly_value"}.issubset(contractors.columns):
+    county_revenue = (
+        contractors.groupby(["state", "county"], dropna=False)["monthly_value"]
+        .sum()
+        .reset_index()
+        .sort_values("monthly_value", ascending=False)
     )
+else:
+    county_revenue = pd.DataFrame()
 
-
-@app.route("/click/<tracking_id>")
-def click(tracking_id):
-    log_event("click", tracking_id)
-    parsed  = parse_tracking_id(tracking_id)
-    county  = parsed.get("county", "")
-    trade   = parsed.get("trade", "")
-    tag     = county + "_" + trade if county and trade else tracking_id
-    url     = STRIPE_BASE_URL + "?client_reference_id=" + tag
-    return redirect(url, code=302)
-
-
-@app.route("/stats")
-def stats():
-    if not LOG_FILE.exists():
-        return "<h2>No tracking data yet.</h2>"
-
-    opens  = defaultdict(int)
-    clicks = defaultdict(int)
-    today  = datetime.utcnow().strftime("%Y-%m-%d")
-
-    with open(LOG_FILE, newline="", encoding="utf-8", errors="ignore") as f:
-        for row in csv.DictReader(f):
-            key = row.get("send_type", "unknown")
-            ts  = row.get("timestamp", "")
-            if row.get("event") == "open":
-                opens[key]  += 1
-            elif row.get("event") == "click":
-                clicks[key] += 1
-
-    total_opens  = sum(opens.values())
-    total_clicks = sum(clicks.values())
-
-    rows_html = "".join(
-        f"<tr><td>{k}</td><td>{opens.get(k,0)}</td><td>{clicks.get(k,0)}</td></tr>"
-        for k in sorted(set(list(opens.keys()) + list(clicks.keys())))
+if not contractors.empty and "current_stage" in contractors.columns:
+    stage_breakdown = (
+        contractors["current_stage"]
+        .replace("", "blank")
+        .value_counts()
+        .reset_index()
     )
+    stage_breakdown.columns = ["stage", "count"]
+else:
+    stage_breakdown = pd.DataFrame()
 
-    return f"""
-    <html><body style="font-family:monospace;padding:20px;background:#0f172a;color:#e2e8f0">
-    <h2 style="color:#3b82f6">PermitMap Tracking Stats</h2>
-    <p>Total opens: <b>{total_opens}</b> &nbsp; Total clicks: <b>{total_clicks}</b></p>
-    <p>GitHub sync: <b>{'enabled' if get_token() else 'DISABLED — data will be lost on restart'}</b></p>
-    <table border=1 cellpadding=6 style="border-collapse:collapse;color:#e2e8f0">
-      <tr><th>Send Type</th><th>Opens</th><th>Clicks</th></tr>
-      {rows_html}
-    </table>
-    </body></html>
-    """
+col1, col2, col3, col4 = st.columns(4)
+col1.metric("Total Contractors", total_contractors)
+col2.metric("Prospects", prospects)
+col3.metric("Active Paid Clients", active_paid)
+col4.metric("Estimated MRR", f"${estimated_mrr:,.0f}")
 
+col5, col6, col7 = st.columns(3)
+col5.metric("First Outreach Sent", first_outreach_sent_count)
+col6.metric("Reply Rate", f"{reply_rate:.1f}%")
+col7.metric("Close Rate", f"{close_rate:.1f}%")
 
-# Pull from GitHub on startup so history survives restarts
-pull_from_github()
+st.subheader("Revenue by County")
+if not county_revenue.empty:
+    st.dataframe(county_revenue, use_container_width=True)
+else:
+    st.info("No county revenue data yet.")
 
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port)
+st.subheader("Stage Breakdown")
+if not stage_breakdown.empty:
+    st.dataframe(stage_breakdown, use_container_width=True)
+else:
+    st.info("No stage data yet.")
+
+st.subheader("Contractors")
+if not contractors.empty:
+    cols = [
+        c for c in [
+            "name", "email", "trade", "state", "county", "status",
+            "billing_status", "current_stage", "next_action",
+            "first_outreach_sent", "last_response_date", "monthly_value"
+        ] if c in contractors.columns
+    ]
+    st.dataframe(contractors[cols], use_container_width=True)
+else:
+    st.info("No contractor data found.")
+
+st.subheader("Recent Sends")
+if not sent_log.empty:
+    st.dataframe(sent_log.tail(50), use_container_width=True)
+else:
+    st.info("No sent email log yet.")
+
+st.subheader("Detected Replies")
+if not replies_log.empty:
+    st.dataframe(replies_log.tail(50), use_container_width=True)
+else:
+    st.info("No reply log yet.")
