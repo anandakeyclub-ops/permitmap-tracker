@@ -469,3 +469,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-24 11:19:00,open,132_followup_2_palm_beach_hvac,132,followup,2,palm_beach_hvac,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-04-24 11:19:46,open,36_close_email_palm_beach_pool,36,close,email,palm_beach_pool,127.0.0.1,Mozilla/5.0
 2026-04-24 11:19:49,open,138_followup_2_palm_beach_plumbing,138,followup,2,palm_beach_plumbing,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-04-24 11:19:59,open,140_followup_2_palm_beach_plumbing,140,followup,2,palm_beach_plumbing,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
