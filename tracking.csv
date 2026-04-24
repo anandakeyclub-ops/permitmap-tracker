@@ -490,3 +490,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-24 11:38:40,open,133_followup_2_palm_beach_hvac,133,followup,2,palm_beach_hvac,127.0.0.1,Mozilla/5.0
 2026-04-24 11:46:22,open,7_close_email_palm_beach_roofing,7,close,email,palm_beach_roofing,127.0.0.1,Mozilla/5.0
 2026-04-24 11:51:16,open,41_close_email_palm_beach_solar,41,close,email,palm_beach_solar,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-04-24 11:55:27,open,117_followup_1_palm_beach_roofing,117,followup,1,palm_beach_roofing,127.0.0.1,Mozilla/5.0
