@@ -478,3 +478,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-24 11:24:07,open,35_close_email_palm_beach_pool,35,close,email,palm_beach_pool,127.0.0.1,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-04-24 11:26:07,open,26_close_email_palm_beach_plumbing,26,close,email,palm_beach_plumbing,127.0.0.1,Mozilla/5.0
 2026-04-24 11:30:02,open,6_close_email_palm_beach_roofing,6,close,email,palm_beach_roofing,127.0.0.1,Mozilla/5.0
+2026-04-24 11:30:05,open,121_followup_2_palm_beach_roofing,121,followup,2,palm_beach_roofing,127.0.0.1,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
