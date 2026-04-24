@@ -502,3 +502,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-24 13:07:56,open,8_close_email_palm_beach_roofing,8,close,email,palm_beach_roofing,127.0.0.1,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-04-24 13:41:04,open,112_followup_2_palm_beach_roofing,112,followup,2,palm_beach_roofing,127.0.0.1,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-04-24 13:43:14,open,18_close_email_palm_beach_hvac,18,close,email,palm_beach_hvac,127.0.0.1,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-04-24 13:47:03,open,141_followup_2_palm_beach_plumbing,141,followup,2,palm_beach_plumbing,127.0.0.1,Mozilla/5.0
