@@ -506,3 +506,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-24 13:58:23,open,46_close_email_palm_beach_general_contractor,46,close,email,palm_beach_general_contractor,127.0.0.1,Mozilla/5.0
 2026-04-24 14:18:46,open,6_close_email_palm_beach_roofing,6,close,email,palm_beach_roofing,127.0.0.1,Mozilla/5.0
 2026-04-24 14:26:48,open,7_close_email_palm_beach_roofing,7,close,email,palm_beach_roofing,127.0.0.1,Mozilla/5.0
+2026-04-24 15:04:14,open,29_close_email_palm_beach_plumbing,29,close,email,palm_beach_plumbing,127.0.0.1,YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
