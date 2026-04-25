@@ -555,3 +555,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-25 15:44:40,open,210_followup_2_martin_hvac,210,followup,2,martin_hvac,"104.28.39.128, 172.71.151.111, 10.29.211.130",Mozilla/5.0
 2026-04-25 15:44:40,open,204_followup_2_martin_hvac,204,followup,2,martin_hvac,"104.28.39.128, 172.71.147.18, 10.27.127.1",Mozilla/5.0
 2026-04-25 15:44:40,open,192_followup_2_martin_roofing,192,followup,2,martin_roofing,"104.28.39.128, 172.71.147.18, 10.30.149.132",Mozilla/5.0
+2026-04-25 16:04:09,open,52_close_email_palm_beach_general_contractor,52,close,email,palm_beach_general_contractor,"66.102.8.70, 172.69.70.235, 10.29.211.130",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
