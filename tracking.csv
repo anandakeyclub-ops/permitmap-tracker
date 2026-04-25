@@ -550,3 +550,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-25 15:44:36,open,246_followup_2_martin_general_contractor,246,followup,2,martin_general_contractor,"104.28.39.128, 104.23.248.112, 10.30.149.132",Mozilla/5.0
 2026-04-25 15:44:36,open,218_followup_2_martin_plumbing,218,followup,2,martin_plumbing,"104.28.39.128, 104.23.248.112, 10.27.127.1",Mozilla/5.0
 2026-04-25 15:44:36,open,216_followup_2_martin_plumbing,216,followup,2,martin_plumbing,"104.28.39.128, 104.23.248.113, 10.27.127.1",Mozilla/5.0
+2026-04-25 15:44:39,open,194_followup_2_martin_roofing,194,followup,2,martin_roofing,"104.28.39.128, 172.71.147.17, 10.27.127.1",Mozilla/5.0
+2026-04-25 15:44:39,open,189_followup_2_martin_roofing,189,followup,2,martin_roofing,"104.28.39.128, 172.71.147.18, 10.25.72.4",Mozilla/5.0
+2026-04-25 15:44:40,open,210_followup_2_martin_hvac,210,followup,2,martin_hvac,"104.28.39.128, 172.71.151.111, 10.29.211.130",Mozilla/5.0
+2026-04-25 15:44:40,open,204_followup_2_martin_hvac,204,followup,2,martin_hvac,"104.28.39.128, 172.71.147.18, 10.27.127.1",Mozilla/5.0
+2026-04-25 15:44:40,open,192_followup_2_martin_roofing,192,followup,2,martin_roofing,"104.28.39.128, 172.71.147.18, 10.30.149.132",Mozilla/5.0
