@@ -530,3 +530,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-25 14:32:01,open,127_followup_2_palm_beach_hvac,127,followup,2,palm_beach_hvac,"140.248.44.0, 162.158.41.10, 10.30.149.132",Mozilla/5.0
 2026-04-25 14:32:01,open,135_followup_2_palm_beach_hvac,135,followup,2,palm_beach_hvac,"140.248.44.0, 172.71.147.18, 10.29.211.130",Mozilla/5.0
 2026-04-25 14:32:01,open,129_followup_2_palm_beach_hvac,129,followup,2,palm_beach_hvac,"140.248.44.0, 172.69.132.151, 10.27.127.1",Mozilla/5.0
+2026-04-25 15:44:23,open,143_followup_2_palm_beach_plumbing,143,followup,2,palm_beach_plumbing,"104.28.39.128, 172.71.151.112, 10.29.211.130",Mozilla/5.0
+2026-04-25 15:44:23,open,126_followup_2_palm_beach_hvac,126,followup,2,palm_beach_hvac,"104.28.39.128, 172.71.147.18, 10.25.72.4",Mozilla/5.0
+2026-04-25 15:44:23,open,111_followup_2_palm_beach_roofing,111,followup,2,palm_beach_roofing,"104.28.39.128, 172.71.147.18, 10.30.149.132",Mozilla/5.0
+2026-04-25 15:44:23,open,115_followup_2_palm_beach_roofing,115,followup,2,palm_beach_roofing,"104.28.39.128, 172.71.147.17, 10.29.211.130",Mozilla/5.0
+2026-04-25 15:44:23,open,117_followup_2_palm_beach_roofing,117,followup,2,palm_beach_roofing,"104.28.39.128, 172.71.147.18, 10.29.211.130",Mozilla/5.0
