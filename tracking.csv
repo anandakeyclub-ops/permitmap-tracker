@@ -522,3 +522,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-25 04:56:42,open,74_close_email_martin_plumbing,74,close,email,martin_plumbing,"140.248.44.0, 172.71.147.18, 10.27.127.1",Mozilla/5.0
 2026-04-25 05:21:01,open,205_followup_2_martin_hvac,205,followup,2,martin_hvac,"104.28.39.128, 172.69.132.151, 10.30.149.132",Mozilla/5.0
 2026-04-25 06:33:42,open,21_close_email_palm_beach_plumbing,21,close,email,palm_beach_plumbing,"69.147.86.248, 172.71.150.164, 10.29.211.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-04-25 06:52:41,open,58_close_email_martin_roofing,58,close,email,martin_roofing,"172.226.188.34, 172.71.147.18, 10.26.68.199",Mozilla/5.0
