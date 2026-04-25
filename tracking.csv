@@ -566,3 +566,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-25 16:34:11,open,219_followup_2_martin_plumbing,219,followup,2,martin_plumbing,"172.226.188.12, 172.71.147.57, 10.25.72.4",Mozilla/5.0
 2026-04-25 16:34:11,open,6_close_email_palm_beach_roofing,6,close,email,palm_beach_roofing,"172.226.188.12, 172.70.255.69, 10.25.72.4",Mozilla/5.0
 2026-04-25 16:34:11,open,250_followup_2_martin_general_contractor,250,followup,2,martin_general_contractor,"172.226.188.12, 172.70.255.69, 10.30.149.132",Mozilla/5.0
+2026-04-25 16:34:14,open,185_followup_2_martin_roofing,185,followup,2,martin_roofing,"172.226.188.12, 172.71.147.203, 10.25.72.4",Mozilla/5.0
+2026-04-25 16:34:14,open,211_followup_2_martin_hvac,211,followup,2,martin_hvac,"172.226.188.12, 172.71.147.203, 10.29.220.4",Mozilla/5.0
+2026-04-25 16:34:14,open,187_followup_2_martin_roofing,187,followup,2,martin_roofing,"172.226.188.12, 172.71.147.204, 10.26.68.199",Mozilla/5.0
+2026-04-25 16:34:14,open,43_close_email_palm_beach_solar,43,close,email,palm_beach_solar,"172.226.188.12, 172.70.255.69, 10.25.72.4",Mozilla/5.0
+2026-04-25 16:34:14,open,99_followup_2_martin_general_contractor,99,followup,2,martin_general_contractor,"172.226.188.12, 172.71.147.204, 10.27.127.1",Mozilla/5.0
