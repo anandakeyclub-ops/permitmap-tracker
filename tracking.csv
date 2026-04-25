@@ -556,3 +556,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-25 15:44:40,open,204_followup_2_martin_hvac,204,followup,2,martin_hvac,"104.28.39.128, 172.71.147.18, 10.27.127.1",Mozilla/5.0
 2026-04-25 15:44:40,open,192_followup_2_martin_roofing,192,followup,2,martin_roofing,"104.28.39.128, 172.71.147.18, 10.30.149.132",Mozilla/5.0
 2026-04-25 16:04:09,open,52_close_email_palm_beach_general_contractor,52,close,email,palm_beach_general_contractor,"66.102.8.70, 172.69.70.235, 10.29.211.130",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-04-25 16:34:09,open,16_close_email_palm_beach_hvac,16,close,email,palm_beach_hvac,"172.226.188.12, 172.71.147.204, 10.25.72.4",Mozilla/5.0
+2026-04-25 16:34:09,open,53_close_email_palm_beach_general_contractor,53,close,email,palm_beach_general_contractor,"172.226.188.12, 172.71.147.204, 10.29.220.4",Mozilla/5.0
+2026-04-25 16:34:09,open,21_close_email_palm_beach_plumbing,21,close,email,palm_beach_plumbing,"172.226.188.12, 172.71.147.203, 10.27.127.1",Mozilla/5.0
+2026-04-25 16:34:09,open,19_close_email_palm_beach_hvac,19,close,email,palm_beach_hvac,"172.226.188.12, 172.71.147.154, 10.26.68.199",Mozilla/5.0
+2026-04-25 16:34:09,open,23_close_email_palm_beach_plumbing,23,close,email,palm_beach_plumbing,"172.226.188.12, 172.71.147.203, 10.26.68.199",Mozilla/5.0
