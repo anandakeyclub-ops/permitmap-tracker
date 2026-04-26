@@ -579,3 +579,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-25 17:57:30,open,170_followup_2_palm_beach_general_contractor,170,followup,2,palm_beach_general_contractor,"172.226.188.59, 172.71.147.203, 10.27.127.1",Mozilla/5.0
 2026-04-25 22:21:02,open,27_close_email_palm_beach_plumbing,27,close,email,palm_beach_plumbing,"69.147.86.138, 198.41.227.192, 10.30.149.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-04-25 22:50:13,open,27_close_email_palm_beach_plumbing,27,close,email,palm_beach_plumbing,"69.147.93.12, 172.71.151.112, 10.26.68.199",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-04-26 01:34:50,open,77_close_email_martin_plumbing,77,close,email,martin_plumbing,"172.226.188.55, 172.71.151.111, 10.30.149.132",Mozilla/5.0
+2026-04-26 01:34:50,open,56_close_email_martin_roofing,56,close,email,martin_roofing,"172.226.188.55, 172.71.151.112, 10.27.127.1",Mozilla/5.0
+2026-04-26 01:34:50,open,61_close_email_martin_roofing,61,close,email,martin_roofing,"172.226.188.55, 172.71.147.204, 10.25.72.4",Mozilla/5.0
+2026-04-26 01:34:50,open,176_followup_2_palm_beach_general_contractor,176,followup,2,palm_beach_general_contractor,"172.226.188.55, 172.71.151.112, 10.25.72.4",Mozilla/5.0
+2026-04-26 01:34:50,open,75_close_email_martin_plumbing,75,close,email,martin_plumbing,"172.226.188.55, 172.71.151.112, 10.25.72.4",Mozilla/5.0
