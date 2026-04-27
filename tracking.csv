@@ -692,3 +692,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-27 16:28:22,open,259_first_outreach_palm_beach_roofing,259,first,outreach,palm_beach_roofing,"104.28.39.128, 172.68.7.104, 10.30.149.132",Mozilla/5.0
 2026-04-27 16:36:54,open,311_first_outreach_palm_beach_pool,311,first,outreach,palm_beach_pool,"140.248.44.1, 172.71.147.143, 10.25.208.3",Mozilla/5.0
 2026-04-27 16:42:55,open,282_first_outreach_palm_beach_hvac,282,first,outreach,palm_beach_hvac,"140.248.44.1, 172.71.151.216, 10.27.127.1",Mozilla/5.0
+2026-04-27 16:43:41,open,267_first_outreach_palm_beach_roofing,267,first,outreach,palm_beach_roofing,"69.147.86.248, 172.68.174.111, 10.30.149.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
