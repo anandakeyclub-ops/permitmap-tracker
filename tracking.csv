@@ -701,3 +701,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-27 17:44:51,open,71_close_email_martin_hvac,71,close,email,martin_hvac,"66.102.8.70, 104.22.24.32, 10.25.72.4",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-04-27 17:54:35,open,46_close_email_palm_beach_general_contractor,46,close,email,palm_beach_general_contractor,"172.226.188.33, 172.68.12.173, 10.27.127.1",Mozilla/5.0
 2026-04-27 18:30:42,open,279_first_outreach_palm_beach_hvac,279,first,outreach,palm_beach_hvac,"69.147.86.72, 172.69.65.54, 10.26.68.199",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-04-27 18:31:34,open,158_followup_2_palm_beach_pool,158,followup,2,palm_beach_pool,"104.28.39.128, 172.71.151.2, 10.29.211.130",Mozilla/5.0
