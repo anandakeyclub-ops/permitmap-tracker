@@ -769,3 +769,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-27 23:08:21,open,375_first_outreach_martin_hvac,375,first,outreach,martin_hvac,"104.28.39.128, 104.23.248.113, 10.27.127.1",Mozilla/5.0
 2026-04-27 23:08:43,open,245_followup_2_martin_general_contractor,245,followup,2,martin_general_contractor,"172.225.251.110, 172.71.147.18, 10.29.211.130",Mozilla/5.0
 2026-04-27 23:14:43,open,382_first_outreach_martin_plumbing,382,first,outreach,martin_plumbing,"172.226.190.26, 172.68.12.172, 10.25.221.1",Mozilla/5.0
+2026-04-27 23:30:59,open,245_followup_2_martin_general_contractor,245,followup,2,martin_general_contractor,"172.226.190.20, 172.71.150.183, 10.30.149.132",Mozilla/5.0
