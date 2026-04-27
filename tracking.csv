@@ -705,3 +705,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-27 18:36:17,open,313_first_outreach_palm_beach_pool,313,first,outreach,palm_beach_pool,"69.147.87.121, 172.71.166.122, 10.27.14.3",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-04-27 18:46:30,open,235_followup_2_martin_pool,235,followup,2,martin_pool,"172.226.188.34, 172.71.150.182, 10.26.68.199",Mozilla/5.0
 2026-04-27 18:52:47,open,74_close_email_martin_plumbing,74,close,email,martin_plumbing,"66.102.8.70, 172.71.150.129, 10.29.211.130",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-04-27 19:16:44,open,73_close_email_martin_hvac,73,close,email,martin_hvac,"140.248.44.0, 172.71.151.111, 10.27.127.1",Mozilla/5.0
+2026-04-27 19:18:03,open,80_close_email_martin_plumbing,80,close,email,martin_plumbing,"74.125.213.41, 104.22.56.72, 10.25.72.4",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
