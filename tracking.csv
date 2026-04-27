@@ -766,3 +766,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-27 22:41:45,open,230_followup_1_martin_pool,230,followup,1,martin_pool,"140.248.44.0, 172.71.150.182, 10.27.127.1",Mozilla/5.0
 2026-04-27 22:46:58,open,358_first_outreach_martin_roofing,358,first,outreach,martin_roofing,"66.102.8.73, 172.71.151.2, 10.26.68.199",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-04-27 22:57:26,open,355_first_outreach_martin_roofing,355,first,outreach,martin_roofing,"69.147.93.139, 172.71.151.111, 10.30.149.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-04-27 23:08:21,open,375_first_outreach_martin_hvac,375,first,outreach,martin_hvac,"104.28.39.128, 104.23.248.113, 10.27.127.1",Mozilla/5.0
+2026-04-27 23:08:43,open,245_followup_2_martin_general_contractor,245,followup,2,martin_general_contractor,"172.225.251.110, 172.71.147.18, 10.29.211.130",Mozilla/5.0
