@@ -780,3 +780,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-28 04:26:07,open,205_followup_2_martin_hvac,205,followup,2,martin_hvac,"140.248.44.1, 172.71.150.182, 10.27.127.1",Mozilla/5.0
 2026-04-28 06:34:36,open,197_followup_2_martin_hvac,197,followup,2,martin_hvac,"66.102.8.71, 172.71.150.182, 10.30.149.132",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-04-28 10:11:15,open,392_first_outreach_martin_pool,392,first,outreach,martin_pool,"172.226.190.62, 172.70.255.95, 10.31.34.2",Mozilla/5.0
+2026-04-28 10:24:17,open,172_followup_2_palm_beach_general_contractor,172,followup,2,palm_beach_general_contractor,"2a06:98c0:3600::103,172.68.12.172, 172.71.150.182, 10.25.72.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
