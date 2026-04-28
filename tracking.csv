@@ -807,3 +807,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-28 12:04:45,open,431_first_outreach_lee_roofing,431,first,outreach,lee_roofing,"73.107.59.143, 172.68.7.105, 10.31.34.2","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0 OneOutlook/1.2026.407.100"
 2026-04-28 12:08:34,open,235_followup_2_martin_pool,235,followup,2,martin_pool,"172.226.190.61, 172.70.255.207, 10.25.72.4",Mozilla/5.0
 2026-04-28 12:08:36,open,138_close_email_palm_beach_plumbing,138,close,email,palm_beach_plumbing,"74.125.213.41, 104.22.24.32, 10.25.72.4",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-04-28 12:17:47,open,114_close_email_palm_beach_roofing,114,close,email,palm_beach_roofing,"104.28.32.93, 172.71.151.2, 10.27.127.1",Mozilla/5.0
