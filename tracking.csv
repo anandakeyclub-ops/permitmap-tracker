@@ -811,3 +811,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-28 12:28:43,open,432_first_outreach_lee_roofing,432,first,outreach,lee_roofing,"69.147.87.185, 172.69.67.141, 10.31.34.2",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-04-28 12:35:32,open,371_first_outreach_martin_hvac,371,first,outreach,martin_hvac,"209.73.183.25, 172.71.147.17, 10.31.34.2",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-04-28 12:36:40,open,134_close_email_palm_beach_hvac,134,close,email,palm_beach_hvac,"172.226.188.47, 172.71.150.183, 10.29.211.130",Mozilla/5.0
+2026-04-28 12:45:31,open,372_first_outreach_martin_hvac,372,first,outreach,martin_hvac,"172.226.2.119, 172.68.174.238, 10.25.72.4",Mozilla/5.0
