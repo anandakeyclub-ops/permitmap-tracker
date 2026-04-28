@@ -813,3 +813,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-28 12:36:40,open,134_close_email_palm_beach_hvac,134,close,email,palm_beach_hvac,"172.226.188.47, 172.71.150.183, 10.29.211.130",Mozilla/5.0
 2026-04-28 12:45:31,open,372_first_outreach_martin_hvac,372,first,outreach,martin_hvac,"172.226.2.119, 172.68.174.238, 10.25.72.4",Mozilla/5.0
 2026-04-28 12:55:09,open,115_close_email_palm_beach_roofing,115,close,email,palm_beach_roofing,"69.147.87.121, 172.71.151.112, 10.30.149.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-04-28 13:00:23,open,342_first_outreach_palm_beach_general_contractor,342,first,outreach,palm_beach_general_contractor,"69.147.86.138, 172.68.27.121, 10.31.34.2",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
