@@ -958,3 +958,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-29 18:24:35,open,572_first_outreach_pasco_solar,572,first,outreach,pasco_solar,"140.248.44.1, 172.68.12.172, 10.26.161.109",Mozilla/5.0
 2026-04-29 18:32:01,open,859_first_outreach_st_johns_plumbing,859,first,outreach,st_johns_plumbing,"172.226.188.38, 172.71.151.111, 10.30.90.2",Mozilla/5.0
 2026-04-29 18:40:52,open,46_close_email_palm_beach_general_contractor,46,close,email,palm_beach_general_contractor,"104.28.39.128, 172.71.151.112, 10.29.167.129",Mozilla/5.0
+2026-04-29 19:06:15,open,test_open_palm_beach_roofing,test,open,palm,beach_roofing,"73.244.101.32, 172.71.151.112, 10.30.203.2",Python-urllib/3.13
