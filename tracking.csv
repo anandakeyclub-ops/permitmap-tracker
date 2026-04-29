@@ -965,3 +965,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-29 19:31:55,open,112_close_email_palm_beach_roofing,112,close,email,palm_beach_roofing,"172.226.190.11, 162.159.120.199, 10.30.90.2",Mozilla/5.0
 2026-04-29 19:31:55,open,124_close_email_palm_beach_hvac,124,close,email,palm_beach_hvac,"172.226.190.11, 172.71.151.112, 10.28.111.131",Mozilla/5.0
 2026-04-29 19:31:55,open,143_close_email_palm_beach_plumbing,143,close,email,palm_beach_plumbing,"172.226.190.11, 172.71.151.112, 10.29.167.129",Mozilla/5.0
+2026-04-29 19:31:56,open,122_close_email_palm_beach_hvac,122,close,email,palm_beach_hvac,"172.226.190.11, 172.69.132.150, 10.26.161.109",Mozilla/5.0
