@@ -858,3 +858,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-29 01:20:05,open,574_first_outreach_pasco_solar,574,first,outreach,pasco_solar,"140.248.44.1,140.248.44.1, 172.71.156.170, 10.24.235.2",Mozilla/5.0
 2026-04-29 01:41:50,open,123_close_email_palm_beach_hvac,123,close,email,palm_beach_hvac,"140.248.44.0, 172.68.12.172, 10.31.101.129",Mozilla/5.0
 2026-04-29 01:42:16,open,123_close_email_palm_beach_hvac,123,close,email,palm_beach_hvac,"172.226.188.19, 172.71.151.80, 10.25.178.131",Mozilla/5.0
+2026-04-29 02:55:42,open,657_first_outreach_polk_general_contractor,657,first,outreach,polk_general_contractor,"69.147.87.121, 172.71.151.111, 10.31.101.129",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
