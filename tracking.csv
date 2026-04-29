@@ -899,3 +899,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-29 11:31:56,open,734_first_outreach_osceola_general_contractor,734,first,outreach,osceola_general_contractor,"140.248.44.0, 104.23.248.113, 10.25.178.131",Mozilla/5.0
 2026-04-29 11:49:50,open,733_first_outreach_osceola_general_contractor,733,first,outreach,osceola_general_contractor,"140.248.44.1, 172.68.7.62, 10.25.178.131",Mozilla/5.0
 2026-04-29 12:00:29,open,699_first_outreach_osceola_plumbing,699,first,outreach,osceola_plumbing,"140.248.44.1, 172.68.12.172, 10.31.101.129",Mozilla/5.0
+2026-04-29 12:01:00,open,699_first_outreach_osceola_plumbing,699,first,outreach,osceola_plumbing,"140.248.44.0, 172.68.12.173, 10.30.126.3",Mozilla/5.0
+2026-04-29 12:02:17,open,677_first_outreach_osceola_roofing,677,first,outreach,osceola_roofing,"69.147.87.55, 172.70.94.26, 10.30.126.3",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
