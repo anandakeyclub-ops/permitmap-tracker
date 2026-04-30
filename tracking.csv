@@ -1009,3 +1009,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-29 21:29:52,open,879_first_outreach_st_johns_pool,879,first,outreach,st_johns_pool,"146.75.232.1, 104.22.1.65, 10.28.111.131",Mozilla/5.0
 2026-04-29 21:52:26,open,271_first_outreach_palm_beach_roofing,271,first,outreach,palm_beach_roofing,"69.147.92.219, 172.71.151.112, 10.28.111.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-04-30 00:07:04,open,611_first_outreach_polk_hvac,611,first,outreach,polk_hvac,"140.248.44.1, 162.159.120.198, 10.28.111.131",Mozilla/5.0
+2026-04-30 00:26:04,open,770_first_outreach_lake_hvac,770,first,outreach,lake_hvac,"129.222.89.27, 172.69.132.150, 10.30.203.2",Mozilla/5.0
