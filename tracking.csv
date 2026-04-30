@@ -1012,3 +1012,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-04-30 00:26:04,open,770_first_outreach_lake_hvac,770,first,outreach,lake_hvac,"129.222.89.27, 172.69.132.150, 10.30.203.2",Mozilla/5.0
 2026-04-30 10:06:56,open,30_close_email_palm_beach_pool,30,close,email,palm_beach_pool,"104.28.39.128, 172.68.7.93, 10.26.161.109",Mozilla/5.0
 2026-04-30 10:30:22,open,30_followup_2_palm_beach_pool,30,followup,2,palm_beach_pool,"104.28.39.128, 172.68.12.172, 10.26.161.109",Mozilla/5.0
+2026-04-30 11:10:10,open,700_first_outreach_osceola_plumbing,700,first,outreach,osceola_plumbing,"69.147.92.87, 104.23.209.91, 10.28.111.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
