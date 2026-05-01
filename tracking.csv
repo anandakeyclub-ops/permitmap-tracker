@@ -1107,3 +1107,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-01 22:28:27,open,199_close_email_martin_hvac,199,close,email,martin_hvac,"172.226.190.29, 172.71.151.111, 10.24.119.3",Mozilla/5.0
 2026-05-01 22:28:27,open,183_close_email_martin_roofing,183,close,email,martin_roofing,"172.226.190.29, 172.71.151.111, 10.30.244.132",Mozilla/5.0
 2026-05-01 22:28:27,open,105_close_email_martin_general_contractor,105,close,email,martin_general_contractor,"172.226.190.29, 172.71.151.112, 10.31.19.249",Mozilla/5.0
+2026-05-01 22:46:25,open,170_close_email_palm_beach_general_contractor,170,close,email,palm_beach_general_contractor,"104.28.39.128, 172.71.147.204, 10.24.119.3",Mozilla/5.0
