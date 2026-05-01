@@ -1082,3 +1082,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-01 13:03:53,open,196_close_email_martin_roofing,196,close,email,martin_roofing,"172.226.190.10, 172.71.151.112, 10.25.127.129",Mozilla/5.0
 2026-05-01 13:22:48,open,161_close_email_palm_beach_pool,161,close,email,palm_beach_pool,"66.102.8.74, 172.71.151.112, 10.24.119.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-01 13:41:02,open,170_close_email_palm_beach_general_contractor,170,close,email,palm_beach_general_contractor,"140.248.44.1, 172.69.132.151, 10.25.127.129",Mozilla/5.0
+2026-05-01 13:43:32,open,192_close_email_martin_roofing,192,close,email,martin_roofing,"104.28.32.92, 172.71.146.129, 10.26.129.2",Mozilla/5.0
