@@ -1113,3 +1113,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-01 23:01:26,open,170_close_email_palm_beach_general_contractor,170,close,email,palm_beach_general_contractor,"104.28.39.128, 172.71.146.129, 10.25.127.129",Mozilla/5.0
 2026-05-01 23:01:26,open,151_close_email_palm_beach_plumbing,151,close,email,palm_beach_plumbing,"104.28.39.128, 172.71.146.128, 10.26.129.2",Mozilla/5.0
 2026-05-01 23:01:26,open,155_close_email_palm_beach_pool,155,close,email,palm_beach_pool,"104.28.39.128, 172.71.150.182, 10.30.244.132",Mozilla/5.0
+2026-05-01 23:21:04,open,785_first_outreach_lake_plumbing,785,first,outreach,lake_plumbing,"172.226.188.41, 104.23.248.113, 10.30.244.132",Mozilla/5.0
