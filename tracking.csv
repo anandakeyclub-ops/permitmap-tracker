@@ -1140,3 +1140,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-02 20:01:51,open,211_close_email_martin_hvac,211,close,email,martin_hvac,"172.226.188.11, 172.71.150.183, 10.24.119.3",Mozilla/5.0
 2026-05-03 02:37:18,open,85_followup_2_martin_pool,85,followup,2,martin_pool,"104.28.39.128, 104.23.248.112, 10.26.129.2",Mozilla/5.0
 2026-05-03 18:28:47,open,247_close_email_martin_general_contractor,247,close,email,martin_general_contractor,"172.226.188.58, 172.71.151.2, 10.25.127.129",Mozilla/5.0
+2026-05-03 21:24:48,open,202_followup_2_martin_hvac,202,followup,2,martin_hvac,"140.248.44.1, 172.71.150.183, 10.26.129.2",Mozilla/5.0
