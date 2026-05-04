@@ -1286,3 +1286,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-04 22:48:31,open,536_followup_1_pasco_hvac,536,followup,1,pasco_hvac,"104.28.39.128, 172.71.150.182, 10.26.129.2",Mozilla/5.0
 2026-05-04 22:48:31,open,431_followup_1_lee_roofing,431,followup,1,lee_roofing,"104.28.39.128, 172.71.150.182, 10.26.129.2",Mozilla/5.0
 2026-05-04 22:48:31,open,403_followup_1_martin_pool,403,followup,1,martin_pool,"104.28.39.128, 172.71.151.111, 10.30.244.132",Mozilla/5.0
+2026-05-04 22:48:38,open,473_followup_1_lee_pool,473,followup,1,lee_pool,"104.28.39.128, 172.71.150.183, 10.25.127.129",Mozilla/5.0
+2026-05-04 22:48:38,open,407_followup_1_martin_general_contractor,407,followup,1,martin_general_contractor,"104.28.39.128, 172.71.151.112, 10.26.231.1",Mozilla/5.0
+2026-05-04 22:48:39,open,504_followup_1_lee_general_contractor,504,followup,1,lee_general_contractor,"104.28.39.128, 172.68.7.92, 10.25.127.129",Mozilla/5.0
+2026-05-04 22:48:39,open,432_followup_1_lee_roofing,432,followup,1,lee_roofing,"104.28.39.128, 172.71.151.111, 10.26.231.1",Mozilla/5.0
+2026-05-04 22:48:39,open,510_followup_1_pasco_roofing,510,followup,1,pasco_roofing,"104.28.39.128, 172.68.7.93, 10.26.231.1",Mozilla/5.0
