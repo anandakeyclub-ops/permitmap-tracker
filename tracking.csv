@@ -1271,3 +1271,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-04 22:19:38,open,703_followup_1_osceola_plumbing,703,followup,1,osceola_plumbing,"172.226.190.53, 172.71.150.182, 10.25.127.129",Mozilla/5.0
 2026-05-04 22:19:38,open,691_followup_1_osceola_hvac,691,followup,1,osceola_hvac,"172.226.190.53, 172.71.150.183, 10.26.129.2",Mozilla/5.0
 2026-05-04 22:19:38,open,676_followup_1_osceola_roofing,676,followup,1,osceola_roofing,"172.226.190.53, 172.71.150.182, 10.25.127.129",Mozilla/5.0
+2026-05-04 22:19:43,open,680_followup_1_osceola_roofing,680,followup,1,osceola_roofing,"172.226.190.53, 108.162.212.129, 10.26.129.2",Mozilla/5.0
+2026-05-04 22:19:43,open,619_followup_1_polk_hvac,619,followup,1,polk_hvac,"172.226.190.53, 172.71.150.182, 10.30.244.132",Mozilla/5.0
+2026-05-04 22:19:43,open,621_followup_1_polk_hvac,621,followup,1,polk_hvac,"172.226.190.53, 172.71.150.182, 10.26.231.1",Mozilla/5.0
+2026-05-04 22:19:43,open,626_followup_1_polk_plumbing,626,followup,1,polk_plumbing,"172.226.190.53, 172.71.150.183, 10.30.244.132",Mozilla/5.0
+2026-05-04 22:19:43,open,628_followup_1_polk_plumbing,628,followup,1,polk_plumbing,"172.226.190.53, 172.71.150.183, 10.26.231.1",Mozilla/5.0
