@@ -1249,3 +1249,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-04 20:07:04,open,806_followup_1_lake_solar,806,followup,1,lake_solar,"172.226.188.58, 172.71.151.112, 10.26.231.1",Mozilla/5.0
 2026-05-04 20:07:04,open,803_followup_1_lake_pool,803,followup,1,lake_pool,"172.226.188.58, 172.71.151.111, 10.24.119.3",Mozilla/5.0
 2026-05-04 20:07:04,open,822_followup_1_st_johns_roofing,822,followup,1,st_johns_roofing,"172.226.188.58, 172.71.151.111, 10.30.244.132",Mozilla/5.0
+2026-05-04 20:07:08,open,741_followup_1_osceola_general_contractor,741,followup,1,osceola_general_contractor,"172.226.188.58, 172.71.151.111, 10.24.119.3",Mozilla/5.0
+2026-05-04 20:07:08,open,751_followup_1_lake_roofing,751,followup,1,lake_roofing,"172.226.188.58, 172.71.151.111, 10.30.244.132",Mozilla/5.0
+2026-05-04 20:07:09,open,701_followup_1_osceola_plumbing,701,followup,1,osceola_plumbing,"172.226.188.58, 172.71.151.111, 10.24.119.3",Mozilla/5.0
+2026-05-04 20:07:09,open,733_followup_1_osceola_general_contractor,733,followup,1,osceola_general_contractor,"172.226.188.58, 172.71.151.111, 10.25.127.129",Mozilla/5.0
+2026-05-04 20:07:09,open,743_followup_1_osceola_general_contractor,743,followup,1,osceola_general_contractor,"172.226.188.58, 172.71.151.112, 10.25.127.129",Mozilla/5.0
+2026-05-04 20:07:09,open,821_followup_1_lake_general_contractor,821,followup,1,lake_general_contractor,"172.226.188.58, 172.70.82.91, 10.26.231.1",Mozilla/5.0
