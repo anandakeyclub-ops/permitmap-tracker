@@ -1431,3 +1431,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-05 21:49:08,open,1090_followup_1_sumter_hvac,1090,followup,1,sumter_hvac,"172.226.190.37, 172.71.146.51, 10.26.5.129",Mozilla/5.0
 2026-05-05 21:49:08,open,1088_followup_1_sumter_hvac,1088,followup,1,sumter_hvac,"172.226.190.37, 172.71.146.51, 10.24.119.3",Mozilla/5.0
 2026-05-05 23:18:33,open,1320_first_outreach_marion_plumbing,1320,first,outreach,marion_plumbing,"172.225.202.38, 104.22.24.32, 10.25.127.129",Mozilla/5.0
+2026-05-06 00:10:15,open,241_close_email_martin_pool,241,close,email,martin_pool,"140.248.44.1, 172.68.12.172, 10.30.244.132",Mozilla/5.0
