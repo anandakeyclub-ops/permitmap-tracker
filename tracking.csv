@@ -1465,3 +1465,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-07 10:20:44,open,158_followup_1_palm_beach_pool,158,followup,1,palm_beach_pool,"172.226.190.25, 172.70.82.91, 10.27.251.3",Mozilla/5.0
 2026-05-07 10:28:31,open,158_followup_2_palm_beach_pool,158,followup,2,palm_beach_pool,"172.226.190.25, 172.71.151.112, 10.26.5.135",Mozilla/5.0
 2026-05-07 13:18:00,open,302_first_outreach_palm_beach_pool,302,first,outreach,palm_beach_pool,"172.226.190.0, 172.70.54.245, 10.24.229.132",Mozilla/5.0
+2026-05-07 22:27:42,open,283_followup_1_palm_beach_hvac,283,followup,1,palm_beach_hvac,"104.28.39.128, 172.71.147.2, 10.31.207.168",Mozilla/5.0
