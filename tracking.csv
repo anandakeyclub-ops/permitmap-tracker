@@ -1463,3 +1463,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-07 01:49:04,open,141_close_email_palm_beach_plumbing,141,close,email,palm_beach_plumbing,"140.248.63.232, 172.71.150.254, 10.27.251.3","Mozilla/5.0 AppleWebKit/WebKit_version (KHTML, like Gecko)"
 2026-05-07 01:49:05,open,141_close_email_palm_beach_plumbing,141,close,email,palm_beach_plumbing,"140.248.63.232, 172.70.94.26, 10.26.5.135","Mozilla/5.0 AppleWebKit/WebKit_version (KHTML, like Gecko)"
 2026-05-07 10:20:44,open,158_followup_1_palm_beach_pool,158,followup,1,palm_beach_pool,"172.226.190.25, 172.70.82.91, 10.27.251.3",Mozilla/5.0
+2026-05-07 10:28:31,open,158_followup_2_palm_beach_pool,158,followup,2,palm_beach_pool,"172.226.190.25, 172.71.151.112, 10.26.5.135",Mozilla/5.0
