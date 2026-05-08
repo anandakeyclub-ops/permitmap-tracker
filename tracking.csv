@@ -1467,3 +1467,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-07 13:18:00,open,302_first_outreach_palm_beach_pool,302,first,outreach,palm_beach_pool,"172.226.190.0, 172.70.54.245, 10.24.229.132",Mozilla/5.0
 2026-05-07 22:27:42,open,283_followup_1_palm_beach_hvac,283,followup,1,palm_beach_hvac,"104.28.39.128, 172.71.147.2, 10.31.207.168",Mozilla/5.0
 2026-05-07 23:10:40,open,90_close_email_martin_pool,90,close,email,martin_pool,"172.226.200.12, 172.71.151.112, 10.27.251.3",Mozilla/5.0
+2026-05-08 05:17:07,open,684_followup_1_osceola_hvac,684,followup,1,osceola_hvac,"104.28.39.128, 172.71.146.254, 10.27.251.3",Mozilla/5.0
