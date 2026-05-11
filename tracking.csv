@@ -1499,3 +1499,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-11 12:03:59,open,1347_followup_1_marion_solar,1347,followup,1,marion_solar,"172.226.188.42, 172.71.150.183, 10.25.239.132",Mozilla/5.0
 2026-05-11 12:13:46,open,1320_followup_1_marion_plumbing,1320,followup,1,marion_plumbing,"172.225.246.16, 172.71.146.43, 10.27.251.3",Mozilla/5.0
 2026-05-11 12:38:17,open,1285_followup_1_walton_general_contractor,1285,followup,1,walton_general_contractor,"146.75.164.0, 172.71.146.242, 10.25.239.132",Mozilla/5.0
+2026-05-11 12:59:54,open,1348_followup_1_marion_solar,1348,followup,1,marion_solar,"66.102.8.70, 172.71.146.43, 10.31.207.168",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
