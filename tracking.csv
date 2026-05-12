@@ -1617,3 +1617,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-12 01:26:43,open,658_followup_2_polk_general_contractor,658,followup,2,polk_general_contractor,"172.226.188.23, 104.23.248.63, 10.27.251.3",Mozilla/5.0
 2026-05-12 02:11:55,open,316_followup_2_palm_beach_pool,316,followup,2,palm_beach_pool,"104.28.140.106, 172.71.150.182, 10.29.87.132",Mozilla/5.0
 2026-05-12 02:30:18,open,134_followup_2_palm_beach_hvac,134,followup,2,palm_beach_hvac,"172.226.188.39, 172.70.255.207, 10.29.87.132",Mozilla/5.0
+2026-05-12 02:37:57,open,46_close_email_palm_beach_general_contractor,46,close,email,palm_beach_general_contractor,"140.248.44.0, 172.71.150.182, 10.27.237.129",Mozilla/5.0
+2026-05-12 02:37:57,open,46_followup_2_palm_beach_general_contractor,46,followup,2,palm_beach_general_contractor,"140.248.44.0, 172.71.150.183, 10.25.239.132",Mozilla/5.0
