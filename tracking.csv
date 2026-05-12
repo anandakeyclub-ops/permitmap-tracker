@@ -1640,3 +1640,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-12 22:41:55,open,1248_followup_1_walton_plumbing,1248,followup,1,walton_plumbing,"140.248.44.0, 172.68.7.92, 10.27.251.3",Mozilla/5.0
 2026-05-12 22:41:56,open,1284_followup_1_walton_general_contractor,1284,followup,1,walton_general_contractor,"140.248.44.0, 172.71.151.111, 10.25.239.132",Mozilla/5.0
 2026-05-12 22:41:56,open,1257_followup_1_walton_pool,1257,followup,1,walton_pool,"140.248.44.0, 172.68.7.92, 10.27.237.129",Mozilla/5.0
+2026-05-12 22:42:10,open,660_followup_2_polk_general_contractor,660,followup,2,polk_general_contractor,"140.248.44.0, 172.68.7.92, 10.29.87.132",Mozilla/5.0
+2026-05-12 22:42:10,open,671_followup_2_osceola_roofing,671,followup,2,osceola_roofing,"140.248.44.0, 172.71.151.111, 10.25.239.132",Mozilla/5.0
+2026-05-12 22:42:10,open,669_followup_2_osceola_roofing,669,followup,2,osceola_roofing,"140.248.44.0, 172.71.151.111, 10.26.5.135",Mozilla/5.0
+2026-05-12 22:42:10,open,667_followup_2_polk_general_contractor,667,followup,2,polk_general_contractor,"140.248.44.0, 172.71.151.112, 10.25.239.132",Mozilla/5.0
+2026-05-12 22:42:10,open,682_followup_2_osceola_roofing,682,followup,2,osceola_roofing,"140.248.44.0, 172.71.151.112, 10.26.5.135",Mozilla/5.0
