@@ -1650,3 +1650,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-13 00:52:16,open,342_followup_1_palm_beach_general_contractor,342,followup,1,palm_beach_general_contractor,"172.226.188.4, 104.23.248.112, 10.25.239.132",Mozilla/5.0
 2026-05-13 01:31:33,open,381_followup_1_martin_plumbing,381,followup,1,martin_plumbing,"172.225.216.64, 172.71.146.51, 10.29.87.132",Mozilla/5.0
 2026-05-13 01:31:33,open,381_followup_2_martin_plumbing,381,followup,2,martin_plumbing,"172.225.216.64, 172.71.146.50, 10.29.87.132",Mozilla/5.0
+2026-05-13 02:47:01,open,617_followup_2_polk_hvac,617,followup,2,polk_hvac,"140.248.44.1, 172.71.146.50, 10.27.237.129",Mozilla/5.0
+2026-05-13 02:47:01,open,629_followup_2_polk_plumbing,629,followup,2,polk_plumbing,"140.248.44.1, 172.71.151.111, 10.27.237.129",Mozilla/5.0
+2026-05-13 02:47:01,open,615_followup_2_polk_hvac,615,followup,2,polk_hvac,"140.248.44.1, 172.71.146.50, 10.25.239.132",Mozilla/5.0
+2026-05-13 02:47:01,open,631_followup_2_polk_plumbing,631,followup,2,polk_plumbing,"140.248.44.1, 172.71.146.51, 10.26.5.135",Mozilla/5.0
+2026-05-13 02:47:01,open,626_followup_2_polk_plumbing,626,followup,2,polk_plumbing,"140.248.44.1, 172.71.151.112, 10.29.87.132",Mozilla/5.0
+2026-05-13 02:47:01,open,628_followup_2_polk_plumbing,628,followup,2,polk_plumbing,"140.248.44.1, 172.71.146.50, 10.31.207.168",Mozilla/5.0
