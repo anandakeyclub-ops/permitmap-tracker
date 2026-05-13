@@ -1645,3 +1645,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-12 22:42:10,open,669_followup_2_osceola_roofing,669,followup,2,osceola_roofing,"140.248.44.0, 172.71.151.111, 10.26.5.135",Mozilla/5.0
 2026-05-12 22:42:10,open,667_followup_2_polk_general_contractor,667,followup,2,polk_general_contractor,"140.248.44.0, 172.71.151.112, 10.25.239.132",Mozilla/5.0
 2026-05-12 22:42:10,open,682_followup_2_osceola_roofing,682,followup,2,osceola_roofing,"140.248.44.0, 172.71.151.112, 10.26.5.135",Mozilla/5.0
+2026-05-13 00:52:16,open,342_followup_2_palm_beach_general_contractor,342,followup,2,palm_beach_general_contractor,"172.226.188.4, 172.71.150.182, 10.25.239.132",Mozilla/5.0
+2026-05-13 00:52:16,open,342_followup_2_palm_beach_general_contractor,342,followup,2,palm_beach_general_contractor,"172.226.188.4, 172.71.150.183, 10.27.237.129",Mozilla/5.0
+2026-05-13 00:52:16,open,342_followup_1_palm_beach_general_contractor,342,followup,1,palm_beach_general_contractor,"172.226.188.4, 104.23.248.112, 10.25.239.132",Mozilla/5.0
