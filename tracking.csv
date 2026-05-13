@@ -1666,3 +1666,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-13 02:47:19,open,458_followup_1_lee_plumbing,458,followup,1,lee_plumbing,"140.248.44.1, 172.71.151.111, 10.27.251.3",Mozilla/5.0
 2026-05-13 02:47:20,open,464_followup_1_lee_plumbing,464,followup,1,lee_plumbing,"140.248.44.1, 172.71.151.112, 10.29.87.132",Mozilla/5.0
 2026-05-13 02:47:20,open,466_followup_2_lee_pool,466,followup,2,lee_pool,"140.248.44.1, 172.71.151.111, 10.29.87.132",Mozilla/5.0
+2026-05-13 02:47:25,open,457_followup_1_lee_plumbing,457,followup,1,lee_plumbing,"140.248.44.1, 172.70.54.244, 10.27.251.3",Mozilla/5.0
+2026-05-13 02:47:26,open,398_followup_2_martin_pool,398,followup,2,martin_pool,"140.248.44.1, 172.71.146.50, 10.26.5.135",Mozilla/5.0
+2026-05-13 02:47:26,open,420_followup_2_lee_roofing,420,followup,2,lee_roofing,"140.248.44.1, 172.71.146.51, 10.26.5.135",Mozilla/5.0
