@@ -1704,3 +1704,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-14 02:26:19,open,290_followup_2_palm_beach_plumbing,290,followup,2,palm_beach_plumbing,"140.248.44.1, 172.70.54.245, 10.27.251.3",Mozilla/5.0
 2026-05-14 03:00:06,open,405_followup_2_martin_general_contractor,405,followup,2,martin_general_contractor,"172.226.188.2, 172.70.83.166, 10.27.65.129",Mozilla/5.0
 2026-05-14 03:00:06,open,46_close_email_palm_beach_general_contractor,46,close,email,palm_beach_general_contractor,"104.28.39.128, 172.71.150.183, 10.26.5.135",Mozilla/5.0
+2026-05-14 03:45:43,open,46_followup_2_palm_beach_general_contractor,46,followup,2,palm_beach_general_contractor,"140.248.44.1, 172.71.146.50, 10.25.239.132",Mozilla/5.0
