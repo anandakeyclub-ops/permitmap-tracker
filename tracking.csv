@@ -1709,3 +1709,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-14 13:44:29,open,63_followup_2_martin_roofing,63,followup,2,martin_roofing,"140.248.44.1, 172.71.146.252, 10.27.237.129",Mozilla/5.0
 2026-05-14 13:44:29,open,63_close_email_martin_roofing,63,close,email,martin_roofing,"140.248.44.1, 172.71.146.252, 10.27.251.3",Mozilla/5.0
 2026-05-14 16:02:07,open,658_followup_2_polk_general_contractor,658,followup,2,polk_general_contractor,"104.28.39.128, 172.68.12.173, 10.26.5.135",Mozilla/5.0
+2026-05-14 19:08:38,open,375_followup_2_martin_hvac,375,followup,2,martin_hvac,"104.28.57.239, 172.71.147.2, 10.25.239.132",Mozilla/5.0
