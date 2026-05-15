@@ -1712,3 +1712,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-14 19:08:38,open,375_followup_2_martin_hvac,375,followup,2,martin_hvac,"104.28.57.239, 172.71.147.2, 10.25.239.132",Mozilla/5.0
 2026-05-14 22:33:43,open,699_first_outreach_osceola_plumbing,699,first,outreach,osceola_plumbing,"140.248.44.0, 172.71.147.171, 10.26.5.135",Mozilla/5.0
 2026-05-14 23:01:50,open,699_followup_1_osceola_plumbing,699,followup,1,osceola_plumbing,"140.248.44.0, 172.71.147.172, 10.29.200.4",Mozilla/5.0
+2026-05-15 22:40:10,open,1078_followup_1_sumter_roofing,1078,followup,1,sumter_roofing,"104.28.39.128, 172.71.146.50, 10.27.251.3",Mozilla/5.0
