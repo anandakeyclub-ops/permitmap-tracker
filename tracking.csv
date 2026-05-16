@@ -1718,3 +1718,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-16 12:19:29,open,679_followup_2_osceola_roofing,679,followup,2,osceola_roofing,"140.248.44.0, 172.71.146.239, 10.29.219.132",Mozilla/5.0
 2026-05-16 12:19:30,open,679_followup_1_osceola_roofing,679,followup,1,osceola_roofing,"140.248.44.0, 172.71.146.238, 10.31.207.168",Mozilla/5.0
 2026-05-16 23:37:05,open,391_followup_2_martin_plumbing,391,followup,2,martin_plumbing,"104.28.39.128, 172.71.151.175, 10.31.207.168",Mozilla/5.0
+2026-05-16 23:51:23,open,230_close_email_martin_pool,230,close,email,martin_pool,"172.226.188.41, 172.71.150.254, 10.31.207.168",Mozilla/5.0
