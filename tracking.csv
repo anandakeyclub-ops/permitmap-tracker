@@ -1880,3 +1880,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-19 22:25:38,open,73_first_outreach_martin_hvac,73,first,outreach,martin_hvac,"172.226.190.60, 172.71.151.77, 10.31.207.168",Mozilla/5.0
 2026-05-19 22:32:12,open,641_close_email_polk_pool,641,close,email,polk_pool,"66.249.84.229, 172.71.151.78, 10.27.237.129",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-19 22:51:55,open,7_first_outreach_palm_beach_roofing,7,first,outreach,palm_beach_roofing,"140.248.44.0, 172.71.151.175, 10.27.251.3",Mozilla/5.0
+2026-05-19 23:03:56,open,606_close_email_polk_roofing,606,close,email,polk_roofing,"64.233.172.41, 172.71.151.176, 10.30.241.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
