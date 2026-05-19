@@ -1833,3 +1833,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-19 16:40:54,open,372_close_email_martin_hvac,372,close,email,martin_hvac,"146.75.146.0, 172.68.174.123, 10.27.237.129",Mozilla/5.0
 2026-05-19 16:42:22,open,516_close_email_pasco_roofing,516,close,email,pasco_roofing,"74.125.214.72, 162.158.174.191, 10.30.241.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-19 16:44:24,open,430_close_email_lee_roofing,430,close,email,lee_roofing,"140.248.44.0, 172.71.146.51, 10.27.237.129",Mozilla/5.0
+2026-05-19 16:46:16,open,562_close_email_pasco_pool,562,close,email,pasco_pool,"172.226.190.23, 104.23.248.112, 10.27.237.129",Mozilla/5.0
+2026-05-19 16:46:18,open,287_close_email_palm_beach_plumbing,287,close,email,palm_beach_plumbing,"209.73.183.25, 172.68.174.122, 10.30.241.3",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
