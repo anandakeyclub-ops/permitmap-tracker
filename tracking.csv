@@ -1827,3 +1827,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-19 16:37:27,open,425_close_email_lee_roofing,425,close,email,lee_roofing,"66.102.8.72, 172.71.146.50, 10.30.241.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-19 16:37:31,open,515_close_email_pasco_roofing,515,close,email,pasco_roofing,"74.179.68.90, 172.71.151.212, 10.27.237.129","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-05-19 16:38:02,open,526_close_email_pasco_hvac,526,close,email,pasco_hvac,"172.226.188.49, 172.70.83.165, 10.27.237.129",Mozilla/5.0
+2026-05-19 16:39:54,open,405_close_email_martin_general_contractor,405,close,email,martin_general_contractor,"172.226.190.56, 172.70.83.165, 10.25.239.132",Mozilla/5.0
+2026-05-19 16:40:03,open,506_close_email_lee_general_contractor,506,close,email,lee_general_contractor,"143.223.148.189, 172.71.151.211, 10.25.239.132","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-05-19 16:40:03,open,506_close_email_lee_general_contractor,506,close,email,lee_general_contractor,"143.223.148.189, 172.71.151.211, 10.27.237.129","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-05-19 16:40:54,open,372_close_email_martin_hvac,372,close,email,martin_hvac,"146.75.146.0, 172.68.174.123, 10.27.237.129",Mozilla/5.0
