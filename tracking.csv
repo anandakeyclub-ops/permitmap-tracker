@@ -1854,3 +1854,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-19 18:52:56,open,316_close_email_palm_beach_pool,316,close,email,palm_beach_pool,"104.28.39.128, 172.71.151.211, 10.30.241.3",Mozilla/5.0
 2026-05-19 19:06:23,open,371_close_email_martin_hvac,371,close,email,martin_hvac,"2a06:98c0:3600::103,172.68.12.91, 172.71.150.112, 10.27.251.3",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-05-19 19:45:05,open,300_close_email_palm_beach_plumbing,300,close,email,palm_beach_plumbing,"66.102.8.73, 172.71.146.57, 10.29.87.131",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-05-19 20:20:15,open,509_close_email_lee_general_contractor,509,close,email,lee_general_contractor,"172.226.190.16, 104.23.248.113, 10.26.5.135",Mozilla/5.0
+2026-05-19 20:20:15,open,545_close_email_pasco_plumbing,545,close,email,pasco_plumbing,"66.102.8.70, 172.71.146.56, 10.26.5.135",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
