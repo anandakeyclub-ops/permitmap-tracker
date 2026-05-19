@@ -1838,3 +1838,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-19 16:48:24,open,549_close_email_pasco_plumbing,549,close,email,pasco_plumbing,"64.110.156.108, 172.70.214.218, 10.31.207.168",Mozilla/5.0
 2026-05-19 16:53:10,open,516_close_email_pasco_roofing,516,close,email,pasco_roofing,"74.125.214.74, 172.71.146.51, 10.25.239.132",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-19 16:56:24,open,358_close_email_martin_roofing,358,close,email,martin_roofing,"66.102.8.71, 172.71.151.212, 10.27.251.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-05-19 16:56:52,open,372_close_email_martin_hvac,372,close,email,martin_hvac,"140.248.44.1, 172.71.151.211, 10.31.207.168",Mozilla/5.0
+2026-05-19 16:58:15,open,392_close_email_martin_pool,392,close,email,martin_pool,"172.226.188.1, 172.71.146.51, 10.25.239.132",Mozilla/5.0
