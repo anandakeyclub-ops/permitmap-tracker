@@ -2007,3 +2007,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-20 17:08:00,open,180_first_outreach_palm_beach_general_contractor,180,first,outreach,palm_beach_general_contractor,"172.225.30.93, 172.71.151.110, 10.27.251.3",Mozilla/5.0
 2026-05-20 17:08:15,open,186_first_outreach_martin_roofing,186,first,outreach,martin_roofing,"172.58.133.12, 172.71.151.109, 10.30.43.1","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-05-20 17:09:47,open,179_first_outreach_palm_beach_general_contractor,179,first,outreach,palm_beach_general_contractor,"172.226.188.33, 172.71.151.109, 10.30.43.1",Mozilla/5.0
+2026-05-20 17:15:18,open,200_first_outreach_martin_hvac,200,first,outreach,martin_hvac,"69.147.86.73, 172.71.146.56, 10.30.43.1",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
