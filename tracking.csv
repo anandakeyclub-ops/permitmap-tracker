@@ -1919,3 +1919,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-20 03:19:48,open,283_close_email_palm_beach_hvac,283,close,email,palm_beach_hvac,"172.226.188.19, 172.70.83.166, 10.27.251.3",Mozilla/5.0
 2026-05-20 03:38:19,open,300_close_email_palm_beach_plumbing,300,close,email,palm_beach_plumbing,"172.226.190.43, 172.70.83.166, 10.25.239.132",Mozilla/5.0
 2026-05-20 04:42:12,open,684_followup_1_osceola_hvac,684,followup,1,osceola_hvac,"104.28.39.128, 172.71.151.176, 10.27.237.129",Mozilla/5.0
+2026-05-20 08:29:47,open,325_close_email_palm_beach_solar,325,close,email,palm_beach_solar,"69.147.86.248, 172.71.150.182, 10.30.241.3",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
