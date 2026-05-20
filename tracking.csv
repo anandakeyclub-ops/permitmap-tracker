@@ -1895,3 +1895,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-20 02:14:03,open,593_close_email_polk_roofing,593,close,email,polk_roofing,"140.248.44.1, 104.23.248.113, 10.26.5.135",Mozilla/5.0
 2026-05-20 02:31:03,open,392_close_email_martin_pool,392,close,email,martin_pool,"140.248.44.0, 172.71.151.77, 10.25.239.132",Mozilla/5.0
 2026-05-20 02:43:16,open,315_close_email_palm_beach_pool,315,close,email,palm_beach_pool,"140.248.44.1, 172.71.146.254, 10.27.251.3",Mozilla/5.0
+2026-05-20 02:45:11,open,433_close_email_lee_roofing,433,close,email,lee_roofing,"172.225.248.147, 172.71.151.176, 10.25.239.132",Mozilla/5.0
+2026-05-20 02:45:11,open,465_close_email_lee_pool,465,close,email,lee_pool,"172.225.248.147, 172.71.151.77, 10.25.239.132",Mozilla/5.0
+2026-05-20 02:45:11,open,416_close_email_martin_general_contractor,416,close,email,martin_general_contractor,"172.225.248.147, 172.71.151.78, 10.27.251.3",Mozilla/5.0
+2026-05-20 02:45:11,open,415_close_email_martin_general_contractor,415,close,email,martin_general_contractor,"172.225.248.147, 172.71.147.2, 10.27.237.129",Mozilla/5.0
+2026-05-20 02:45:11,open,467_close_email_lee_pool,467,close,email,lee_pool,"172.225.248.147, 172.71.151.78, 10.25.239.132",Mozilla/5.0
