@@ -1900,3 +1900,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-20 02:45:11,open,416_close_email_martin_general_contractor,416,close,email,martin_general_contractor,"172.225.248.147, 172.71.151.78, 10.27.251.3",Mozilla/5.0
 2026-05-20 02:45:11,open,415_close_email_martin_general_contractor,415,close,email,martin_general_contractor,"172.225.248.147, 172.71.147.2, 10.27.237.129",Mozilla/5.0
 2026-05-20 02:45:11,open,467_close_email_lee_pool,467,close,email,lee_pool,"172.225.248.147, 172.71.151.78, 10.25.239.132",Mozilla/5.0
+2026-05-20 02:45:21,open,293_close_email_palm_beach_plumbing,293,close,email,palm_beach_plumbing,"172.225.248.147, 172.71.151.78, 10.31.207.168",Mozilla/5.0
+2026-05-20 02:45:22,open,291_close_email_palm_beach_plumbing,291,close,email,palm_beach_plumbing,"172.225.248.147, 172.71.147.2, 10.31.207.168",Mozilla/5.0
+2026-05-20 02:45:22,open,278_close_email_palm_beach_hvac,278,close,email,palm_beach_hvac,"172.225.248.147, 172.71.151.78, 10.25.239.132",Mozilla/5.0
+2026-05-20 02:45:22,open,280_close_email_palm_beach_hvac,280,close,email,palm_beach_hvac,"172.225.248.147, 172.71.146.254, 10.31.207.168",Mozilla/5.0
+2026-05-20 02:45:22,open,286_close_email_palm_beach_hvac,286,close,email,palm_beach_hvac,"172.225.248.147, 172.71.23.123, 10.27.237.129",Mozilla/5.0
