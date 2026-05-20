@@ -1960,3 +1960,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-20 12:13:24,open,3_first_outreach_palm_beach_roofing,3,first,outreach,palm_beach_roofing,"74.125.214.74, 172.71.151.109, 10.27.251.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-20 12:13:35,open,3_first_outreach_palm_beach_roofing,3,first,outreach,palm_beach_roofing,"74.125.214.71, 172.71.146.57, 10.27.237.129",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-20 12:19:54,open,287_close_email_palm_beach_plumbing,287,close,email,palm_beach_plumbing,"69.147.94.143, 172.70.42.104, 10.25.239.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-05-20 12:24:12,open,7_first_outreach_palm_beach_roofing,7,first,outreach,palm_beach_roofing,"140.248.44.0, 172.71.150.128, 10.25.239.132",Mozilla/5.0
