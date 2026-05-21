@@ -2115,3 +2115,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 19:06:38,open,1266_close_email_walton_pool,1266,close,email,walton_pool,"172.226.190.27, 172.71.146.57, 10.30.241.3",Mozilla/5.0
 2026-05-21 19:06:38,open,1267_close_email_walton_pool,1267,close,email,walton_pool,"172.226.190.27, 172.71.151.211, 10.27.237.129",Mozilla/5.0
 2026-05-21 19:06:38,open,1251_close_email_walton_plumbing,1251,close,email,walton_plumbing,"172.226.190.27, 172.71.151.212, 10.30.110.130",Mozilla/5.0
+2026-05-21 19:06:42,open,455_close_email_lee_plumbing,455,close,email,lee_plumbing,"172.226.190.27, 172.71.146.56, 10.27.237.129",Mozilla/5.0
+2026-05-21 19:06:43,open,731_close_email_osceola_general_contractor,731,close,email,osceola_general_contractor,"172.226.190.27, 172.71.146.57, 10.30.110.130",Mozilla/5.0
+2026-05-21 19:06:43,open,1295_close_email_marion_roofing,1295,close,email,marion_roofing,"172.226.190.27, 172.70.255.44, 10.30.110.130",Mozilla/5.0
+2026-05-21 19:06:43,open,1350_close_email_marion_solar,1350,close,email,marion_solar,"172.226.190.27, 172.71.146.56, 10.31.207.168",Mozilla/5.0
+2026-05-21 19:06:44,open,742_close_email_osceola_general_contractor,742,close,email,osceola_general_contractor,"172.226.190.27, 172.70.255.44, 10.25.239.132",Mozilla/5.0
