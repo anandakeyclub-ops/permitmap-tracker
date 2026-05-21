@@ -2059,3 +2059,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 05:14:58,open,699_close_email_osceola_plumbing,699,close,email,osceola_plumbing,"140.248.44.0, 172.71.151.78, 10.27.237.129",Mozilla/5.0
 2026-05-21 06:35:16,open,1258_followup_2_walton_pool,1258,followup,2,walton_pool,"104.28.32.92, 104.22.56.73, 10.26.5.135",Mozilla/5.0
 2026-05-21 06:35:17,open,1258_followup_1_walton_pool,1258,followup,1,walton_pool,"104.28.32.92, 104.22.56.72, 10.30.241.3",Mozilla/5.0
+2026-05-21 07:41:17,open,699_followup_2_osceola_plumbing,699,followup,2,osceola_plumbing,"140.248.44.0, 172.71.151.77, 10.26.5.135",Mozilla/5.0
