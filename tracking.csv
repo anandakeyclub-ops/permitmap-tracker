@@ -2062,3 +2062,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 07:41:17,open,699_followup_2_osceola_plumbing,699,followup,2,osceola_plumbing,"140.248.44.0, 172.71.151.77, 10.26.5.135",Mozilla/5.0
 2026-05-21 08:38:55,open,549_followup_2_pasco_plumbing,549,followup,2,pasco_plumbing,"172.226.36.17, 104.23.160.97, 10.27.251.3",Mozilla/5.0
 2026-05-21 10:04:01,open,231_first_outreach_martin_pool,231,first,outreach,martin_pool,"66.102.8.74, 172.71.22.29, 10.30.241.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-05-21 10:50:23,open,392_followup_2_martin_pool,392,followup,2,martin_pool,"104.28.39.128, 172.70.255.103, 10.30.241.3",Mozilla/5.0
+2026-05-21 10:50:54,open,699_close_email_osceola_plumbing,699,close,email,osceola_plumbing,"140.248.44.1, 172.71.151.211, 10.30.241.3",Mozilla/5.0
