@@ -2056,3 +2056,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 02:55:53,open,706_close_email_osceola_plumbing,706,close,email,osceola_plumbing,"140.248.44.0, 172.71.151.170, 10.30.241.3",Mozilla/5.0
 2026-05-21 03:11:41,open,699_close_email_osceola_plumbing,699,close,email,osceola_plumbing,"172.225.214.117, 104.22.24.32, 10.25.239.132",Mozilla/5.0
 2026-05-21 04:33:14,open,699_followup_1_osceola_plumbing,699,followup,1,osceola_plumbing,"140.248.44.1, 172.71.151.77, 10.30.241.3",Mozilla/5.0
+2026-05-21 05:14:58,open,699_close_email_osceola_plumbing,699,close,email,osceola_plumbing,"140.248.44.0, 172.71.151.78, 10.27.237.129",Mozilla/5.0
