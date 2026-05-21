@@ -2104,3 +2104,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 16:29:36,open,1325_close_email_marion_plumbing,1325,close,email,marion_plumbing,"66.102.8.73, 104.22.1.65, 10.26.5.135",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-21 16:31:31,open,1344_close_email_marion_pool,1344,close,email,marion_pool,"66.102.8.73, 104.22.1.65, 10.30.241.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-21 16:37:33,open,1320_close_email_marion_plumbing,1320,close,email,marion_plumbing,"172.225.246.0, 172.71.151.176, 10.26.5.135",Mozilla/5.0
+2026-05-21 16:38:50,open,1349_close_email_marion_solar,1349,close,email,marion_solar,"67.235.128.221, 172.71.147.2, 10.30.110.130","Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-05-21 16:38:50,open,1349_close_email_marion_solar,1349,close,email,marion_solar,"67.235.128.221, 172.71.151.175, 10.27.237.129","Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
