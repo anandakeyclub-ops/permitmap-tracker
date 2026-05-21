@@ -2124,3 +2124,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 19:06:49,open,1345_close_email_marion_pool,1345,close,email,marion_pool,"172.226.190.27, 172.70.255.44, 10.27.237.129",Mozilla/5.0
 2026-05-21 19:06:50,open,1365_close_email_marion_general_contractor,1365,close,email,marion_general_contractor,"172.226.190.27, 172.70.255.44, 10.25.239.132",Mozilla/5.0
 2026-05-21 20:34:19,open,607_close_email_polk_roofing,607,close,email,polk_roofing,"172.226.188.23, 172.70.255.44, 10.31.207.168",Mozilla/5.0
+2026-05-21 20:54:25,open,256_first_outreach_martin_general_contractor,256,first,outreach,martin_general_contractor,"2a06:98c0:3600::103,172.70.179.132, 172.71.151.211, 10.27.233.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
