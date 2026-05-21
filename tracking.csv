@@ -2126,3 +2126,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 20:34:19,open,607_close_email_polk_roofing,607,close,email,polk_roofing,"172.226.188.23, 172.70.255.44, 10.31.207.168",Mozilla/5.0
 2026-05-21 20:54:25,open,256_first_outreach_martin_general_contractor,256,first,outreach,martin_general_contractor,"2a06:98c0:3600::103,172.70.179.132, 172.71.151.211, 10.27.233.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-05-21 21:13:34,open,1342_close_email_marion_pool,1342,close,email,marion_pool,"174.212.34.132, 172.70.255.44, 10.31.36.131","Mozilla/5.0 (Linux; Android 16; SM-S918U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/148.0.7778.120 Mobile Safari/537.36"
+2026-05-21 21:56:45,open,1332_close_email_marion_pool,1332,close,email,marion_pool,"104.28.39.128, 172.71.146.254, 10.31.45.130",Mozilla/5.0
+2026-05-21 21:56:45,open,1328_close_email_marion_plumbing,1328,close,email,marion_plumbing,"104.28.39.128, 172.71.147.2, 10.27.233.132",Mozilla/5.0
+2026-05-21 21:56:45,open,1334_close_email_marion_pool,1334,close,email,marion_pool,"104.28.39.128, 172.71.147.2, 10.24.74.2",Mozilla/5.0
+2026-05-21 21:56:45,open,1330_close_email_marion_plumbing,1330,close,email,marion_plumbing,"104.28.39.128, 172.71.151.78, 10.24.74.2",Mozilla/5.0
+2026-05-21 21:56:45,open,1319_close_email_marion_plumbing,1319,close,email,marion_plumbing,"104.28.39.128, 172.71.151.78, 10.31.36.131",Mozilla/5.0
