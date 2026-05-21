@@ -2066,3 +2066,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 10:50:54,open,699_close_email_osceola_plumbing,699,close,email,osceola_plumbing,"140.248.44.1, 172.71.151.211, 10.30.241.3",Mozilla/5.0
 2026-05-21 11:11:13,open,236_first_outreach_martin_pool,236,first,outreach,martin_pool,"162.224.56.160, 172.71.151.211, 10.27.237.129","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
 2026-05-21 11:16:57,open,237_first_outreach_martin_pool,237,first,outreach,martin_pool,"104.28.48.168, 172.71.151.212, 10.26.5.135",Mozilla/5.0
+2026-05-21 11:26:07,open,457_close_email_lee_plumbing,457,close,email,lee_plumbing,"72.152.84.204, 172.71.151.212, 10.25.239.132","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-05-21 11:26:13,open,709_close_email_osceola_plumbing,709,close,email,osceola_plumbing,"74.125.217.77, 172.71.146.254, 10.26.5.135","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
