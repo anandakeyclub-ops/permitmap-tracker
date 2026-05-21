@@ -2123,3 +2123,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-21 19:06:49,open,1355_close_email_marion_general_contractor,1355,close,email,marion_general_contractor,"172.226.190.27, 172.70.255.44, 10.26.5.135",Mozilla/5.0
 2026-05-21 19:06:49,open,1345_close_email_marion_pool,1345,close,email,marion_pool,"172.226.190.27, 172.70.255.44, 10.27.237.129",Mozilla/5.0
 2026-05-21 19:06:50,open,1365_close_email_marion_general_contractor,1365,close,email,marion_general_contractor,"172.226.190.27, 172.70.255.44, 10.25.239.132",Mozilla/5.0
+2026-05-21 20:34:19,open,607_close_email_polk_roofing,607,close,email,polk_roofing,"172.226.188.23, 172.70.255.44, 10.31.207.168",Mozilla/5.0
