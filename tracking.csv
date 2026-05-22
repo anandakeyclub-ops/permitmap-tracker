@@ -2137,3 +2137,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-22 01:56:33,open,1277_close_email_walton_general_contractor,1277,close,email,walton_general_contractor,"104.28.48.168, 104.22.1.64, 10.28.215.129",Mozilla/5.0
 2026-05-22 03:15:09,open,1282_close_email_walton_general_contractor,1282,close,email,walton_general_contractor,"74.244.143.11, 172.69.71.147, 10.31.45.130",Mozilla/5.0
 2026-05-22 03:25:23,open,1344_close_email_marion_pool,1344,close,email,marion_pool,"140.248.44.0, 172.71.151.77, 10.31.45.130",Mozilla/5.0
+2026-05-22 04:56:27,open,1318_close_email_marion_plumbing,1318,close,email,marion_plumbing,"104.28.39.128, 172.71.151.175, 10.28.60.131",Mozilla/5.0
+2026-05-22 04:56:27,open,1310_close_email_marion_hvac,1310,close,email,marion_hvac,"104.28.39.128, 172.71.151.175, 10.28.60.131",Mozilla/5.0
+2026-05-22 04:56:27,open,1323_close_email_marion_plumbing,1323,close,email,marion_plumbing,"104.28.39.128, 172.71.151.175, 10.31.45.130",Mozilla/5.0
+2026-05-22 04:56:27,open,1320_close_email_marion_plumbing,1320,close,email,marion_plumbing,"104.28.39.128, 172.71.151.175, 10.28.215.129",Mozilla/5.0
+2026-05-22 04:56:27,open,1312_close_email_marion_hvac,1312,close,email,marion_hvac,"104.28.39.128, 172.71.151.175, 10.28.215.129",Mozilla/5.0
