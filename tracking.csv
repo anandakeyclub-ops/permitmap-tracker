@@ -2142,3 +2142,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-22 04:56:27,open,1323_close_email_marion_plumbing,1323,close,email,marion_plumbing,"104.28.39.128, 172.71.151.175, 10.31.45.130",Mozilla/5.0
 2026-05-22 04:56:27,open,1320_close_email_marion_plumbing,1320,close,email,marion_plumbing,"104.28.39.128, 172.71.151.175, 10.28.215.129",Mozilla/5.0
 2026-05-22 04:56:27,open,1312_close_email_marion_hvac,1312,close,email,marion_hvac,"104.28.39.128, 172.71.151.175, 10.28.215.129",Mozilla/5.0
+2026-05-22 04:56:27,open,1313_close_email_marion_hvac,1313,close,email,marion_hvac,"104.28.39.128, 172.68.12.90, 10.28.60.131",Mozilla/5.0
+2026-05-22 04:56:27,open,1308_close_email_marion_hvac,1308,close,email,marion_hvac,"104.28.39.128, 172.68.12.91, 10.27.233.132",Mozilla/5.0
