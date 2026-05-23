@@ -2151,3 +2151,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-22 12:50:55,open,391_close_email_martin_plumbing,391,close,email,martin_plumbing,"104.28.39.142, 172.71.22.135, 10.28.215.129",Mozilla/5.0
 2026-05-22 19:08:39,open,358_close_email_martin_roofing,358,close,email,martin_roofing,"66.102.8.74, 172.71.147.5, 10.28.215.129",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-23 03:05:56,open,1258_close_email_walton_pool,1258,close,email,walton_pool,"104.28.32.96, 172.69.71.148, 10.27.233.132",Mozilla/5.0
+2026-05-23 09:46:22,open,549_followup_2_pasco_plumbing,549,followup,2,pasco_plumbing,"172.226.188.28, 172.71.151.176, 10.27.233.132",Mozilla/5.0
