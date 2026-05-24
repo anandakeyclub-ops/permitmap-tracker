@@ -2161,3 +2161,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-23 18:40:47,open,90_first_outreach_martin_pool,90,first,outreach,martin_pool,"140.248.44.1, 172.71.151.176, 10.31.45.130",Mozilla/5.0
 2026-05-23 23:43:31,open,1078_followup_1_sumter_roofing,1078,followup,1,sumter_roofing,"146.75.222.0, 172.71.151.175, 10.28.215.129",Mozilla/5.0
 2026-05-24 02:10:36,open,531_followup_1_pasco_hvac,531,followup,1,pasco_hvac,"146.75.248.0, 172.71.146.56, 10.31.45.130",Mozilla/5.0
+2026-05-24 20:36:50,open,1282_followup_2_walton_general_contractor,1282,followup,2,walton_general_contractor,"74.244.143.11, 172.71.151.211, 10.25.154.129",Mozilla/5.0
+2026-05-24 20:36:50,open,1282_close_email_walton_general_contractor,1282,close,email,walton_general_contractor,"74.244.143.11, 172.71.151.212, 10.27.233.132",Mozilla/5.0
