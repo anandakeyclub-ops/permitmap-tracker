@@ -2383,3 +2383,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-27 02:10:03,open,0_followup_1_palm_beach_roofing,0,followup,1,palm_beach_roofing,"140.248.44.0, 172.71.151.78, 10.28.60.131",Mozilla/5.0
 2026-05-27 02:10:03,open,1_followup_1_palm_beach_roofing,1,followup,1,palm_beach_roofing,"140.248.44.0, 172.70.255.209, 10.31.45.130",Mozilla/5.0
 2026-05-27 02:12:32,open,34_followup_1_palm_beach_pool,34,followup,1,palm_beach_pool,"172.226.188.16, 172.71.151.211, 10.27.233.132",Mozilla/5.0
+2026-05-27 04:25:31,click,test123,test123,,,,"73.244.101.32, 104.23.248.113, 10.31.45.130","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
