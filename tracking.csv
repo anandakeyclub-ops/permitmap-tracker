@@ -2438,3 +2438,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-27 18:45:16,open,93_followup_1_martin_pool,93,followup,1,martin_pool,"172.226.188.16, 172.71.151.211, 10.27.237.136",Mozilla/5.0
 2026-05-27 18:49:59,open,90_followup_1_martin_pool,90,followup,1,martin_pool,"172.226.190.61, 172.71.150.112, 10.27.237.136",Mozilla/5.0
 2026-05-27 18:51:39,open,304_first_outreach_palm_beach_pool,304,first,outreach,palm_beach_pool,"69.147.87.185, 172.71.146.56, 10.27.237.136",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-05-27 18:52:46,open,279_first_outreach_palm_beach_hvac,279,first,outreach,palm_beach_hvac,"2a06:98c0:3600::103,172.68.71.100, 172.71.151.175, 10.29.222.129",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
