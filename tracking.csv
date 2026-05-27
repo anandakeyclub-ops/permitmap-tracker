@@ -2431,3 +2431,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-27 16:38:57,open,324_first_outreach_palm_beach_solar,324,first,outreach,palm_beach_solar,"140.248.44.0, 172.71.151.176, 10.28.60.131",Mozilla/5.0
 2026-05-27 16:48:05,open,289_first_outreach_palm_beach_plumbing,289,first,outreach,palm_beach_plumbing,"69.147.86.248, 172.71.151.176, 10.26.13.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-05-27 16:48:11,open,319_first_outreach_palm_beach_solar,319,first,outreach,palm_beach_solar,"172.226.190.32, 172.71.151.102, 10.27.237.136",Mozilla/5.0
+2026-05-27 17:05:31,open,287_first_outreach_palm_beach_plumbing,287,first,outreach,palm_beach_plumbing,"69.147.86.138, 172.71.166.241, 10.26.13.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
