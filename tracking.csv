@@ -2435,3 +2435,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-27 17:41:15,open,300_first_outreach_palm_beach_plumbing,300,first,outreach,palm_beach_plumbing,"66.102.8.70, 172.71.146.254, 10.28.215.129",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-05-27 18:20:31,open,277_first_outreach_palm_beach_hvac,277,first,outreach,palm_beach_hvac,"209.73.183.23, 172.70.80.104, 10.27.237.136",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-05-27 18:40:44,open,509_close_email_lee_general_contractor,509,close,email,lee_general_contractor,"172.226.168.34, 172.71.147.2, 10.28.215.129",Mozilla/5.0
+2026-05-27 18:45:16,open,93_followup_1_martin_pool,93,followup,1,martin_pool,"172.226.188.16, 172.71.151.211, 10.27.237.136",Mozilla/5.0
