@@ -2387,3 +2387,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-27 04:25:34,click,test123,test123,,,,"73.244.101.32, 104.23.248.113, 10.31.45.130","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 2026-05-27 04:25:36,click,test123,test123,,,,"73.244.101.32, 104.23.248.113, 10.31.45.130","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 2026-05-27 04:26:37,click,test123,test123,,,,"73.244.101.32, 172.71.151.78, 10.31.45.130","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+2026-05-27 04:32:48,open,684_close_email_osceola_hvac,684,close,email,osceola_hvac,"140.248.44.1, 172.71.147.2, 10.31.45.130",Mozilla/5.0
+2026-05-27 04:32:48,open,684_followup_1_osceola_hvac,684,followup,1,osceola_hvac,"140.248.44.1, 172.71.151.78, 10.28.60.131",Mozilla/5.0
+2026-05-27 04:32:48,open,684_followup_2_osceola_hvac,684,followup,2,osceola_hvac,"140.248.44.1, 172.68.7.93, 10.27.237.136",Mozilla/5.0
