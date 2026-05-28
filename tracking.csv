@@ -2475,3 +2475,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-05-28 07:44:08,open,402_first_outreach_martin_pool,402,first,outreach,martin_pool,"69.138.104.200, 172.71.146.254, 10.28.215.129","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0 OneOutlook/1.2026.512.400 OneOutlook/1.2026.512.400"
 2026-05-28 10:05:28,open,90_followup_1_martin_pool,90,followup,1,martin_pool,"140.248.44.1, 172.70.83.165, 10.28.215.129",Mozilla/5.0
 2026-05-28 12:03:04,open,371_first_outreach_martin_hvac,371,first,outreach,martin_hvac,"69.147.95.10, 172.71.151.211, 10.31.45.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-05-28 12:17:36,open,371_first_outreach_martin_hvac,371,first,outreach,martin_hvac,"2a06:98c0:3600::103,172.68.12.91, 172.71.146.56, 10.27.237.136",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
