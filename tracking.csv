@@ -2770,3 +2770,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-01 13:53:50,open,664_followup_1_polk_general_contractor,664,followup,1,polk_general_contractor,"66.102.8.72, 172.71.146.56, 10.25.226.131",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-01 13:53:54,open,664_followup_1_polk_general_contractor,664,followup,1,polk_general_contractor,"66.102.8.72, 172.71.146.56, 10.27.84.1",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-01 14:01:30,open,260_followup_1_palm_beach_roofing,260,followup,1,palm_beach_roofing,"140.248.44.0, 172.71.146.254, 10.27.159.3",Mozilla/5.0
+2026-06-01 14:27:31,open,425_followup_1_lee_roofing,425,followup,1,lee_roofing,"66.102.8.73, 172.71.146.56, 10.27.159.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
