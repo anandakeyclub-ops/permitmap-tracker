@@ -2788,3 +2788,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-01 15:28:09,open,323_followup_1_palm_beach_solar,323,followup,1,palm_beach_solar,"140.248.44.0, 172.71.151.175, 10.27.35.133",Mozilla/5.0
 2026-06-01 15:28:09,open,316_followup_1_palm_beach_pool,316,followup,1,palm_beach_pool,"140.248.44.0, 172.71.151.211, 10.27.35.133",Mozilla/5.0
 2026-06-01 15:28:09,open,327_followup_1_palm_beach_solar,327,followup,1,palm_beach_solar,"140.248.44.0, 172.71.151.175, 10.27.159.3",Mozilla/5.0
+2026-06-01 15:28:31,open,471_followup_1_lee_pool,471,followup,1,lee_pool,"140.248.44.0, 172.70.54.245, 10.25.226.131",Mozilla/5.0
+2026-06-01 15:28:31,open,469_followup_1_lee_pool,469,followup,1,lee_pool,"140.248.44.0, 172.71.146.56, 10.27.159.3",Mozilla/5.0
+2026-06-01 15:28:32,open,475_followup_1_lee_pool,475,followup,1,lee_pool,"140.248.44.0, 172.71.151.211, 10.27.84.1",Mozilla/5.0
+2026-06-01 15:28:32,open,479_followup_1_lee_pool,479,followup,1,lee_pool,"140.248.44.0, 172.71.151.212, 10.24.52.129",Mozilla/5.0
+2026-06-01 15:28:32,open,473_followup_1_lee_pool,473,followup,1,lee_pool,"140.248.44.0, 172.71.146.56, 10.27.159.3",Mozilla/5.0
