@@ -2822,3 +2822,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-02 05:25:39,open,408_close_email_martin_general_contractor,408,close,email,martin_general_contractor,"172.226.188.36, 172.68.12.90, 10.31.135.142",Mozilla/5.0
 2026-06-02 06:11:53,open,408_followup_2_martin_general_contractor,408,followup,2,martin_general_contractor,"172.226.190.18, 172.70.83.165, 10.28.119.1",Mozilla/5.0
 2026-06-02 07:41:00,open,7_followup_2_palm_beach_roofing,7,followup,2,palm_beach_roofing,"172.226.188.35, 172.71.146.254, 10.28.39.227",Mozilla/5.0
+2026-06-02 07:49:47,open,141_followup_1_palm_beach_plumbing,141,followup,1,palm_beach_plumbing,"104.28.39.128, 172.71.146.254, 10.28.119.1",Mozilla/5.0
