@@ -2815,3 +2815,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-02 01:57:34,open,684_followup_2_osceola_hvac,684,followup,2,osceola_hvac,"104.28.57.239, 172.71.147.2, 10.27.107.130",Mozilla/5.0
 2026-06-02 02:20:16,open,509_followup_1_lee_general_contractor,509,followup,1,lee_general_contractor,"172.226.188.50, 172.71.146.254, 10.28.119.1",Mozilla/5.0
 2026-06-02 02:32:15,open,632_followup_1_polk_plumbing,632,followup,1,polk_plumbing,"140.248.44.0, 172.68.7.93, 10.27.86.1",Mozilla/5.0
+2026-06-02 02:47:17,open,289_followup_1_palm_beach_plumbing,289,followup,1,palm_beach_plumbing,"104.28.39.128, 172.71.146.254, 10.27.86.1",Mozilla/5.0
