@@ -2817,3 +2817,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-02 02:32:15,open,632_followup_1_polk_plumbing,632,followup,1,polk_plumbing,"140.248.44.0, 172.68.7.93, 10.27.86.1",Mozilla/5.0
 2026-06-02 02:47:17,open,289_followup_1_palm_beach_plumbing,289,followup,1,palm_beach_plumbing,"104.28.39.128, 172.71.146.254, 10.27.86.1",Mozilla/5.0
 2026-06-02 03:11:07,open,593_followup_1_polk_roofing,593,followup,1,polk_roofing,"140.248.44.1, 172.71.146.254, 10.28.119.1",Mozilla/5.0
+2026-06-02 03:35:43,open,430_followup_1_lee_roofing,430,followup,1,lee_roofing,"104.28.39.128, 172.71.147.2, 10.28.39.227",Mozilla/5.0
