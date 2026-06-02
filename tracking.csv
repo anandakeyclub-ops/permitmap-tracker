@@ -2857,3 +2857,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-02 13:11:28,open,50_close_email_palm_beach_general_contractor,50,close,email,palm_beach_general_contractor,"66.102.8.74, 104.23.245.77, 10.30.240.2",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-02 13:13:06,open,7_close_email_palm_beach_roofing,7,close,email,palm_beach_roofing,"104.28.39.128, 172.71.146.254, 10.27.107.130",Mozilla/5.0
 2026-06-02 13:24:47,open,0_close_email_palm_beach_roofing,0,close,email,palm_beach_roofing,"104.28.39.128, 172.71.146.254, 10.28.39.227",Mozilla/5.0
+2026-06-02 13:35:03,open,62_close_email_martin_roofing,62,close,email,martin_roofing,"66.102.8.72, 172.71.147.2, 10.30.240.2",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
