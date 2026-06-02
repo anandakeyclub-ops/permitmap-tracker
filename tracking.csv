@@ -2860,3 +2860,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-02 13:35:03,open,62_close_email_martin_roofing,62,close,email,martin_roofing,"66.102.8.72, 172.71.147.2, 10.30.240.2",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-02 13:56:23,open,80_close_email_martin_plumbing,80,close,email,martin_plumbing,"66.102.8.71, 104.22.24.32, 10.27.107.130",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-02 14:10:29,open,607_followup_1_polk_roofing,607,followup,1,polk_roofing,"104.28.39.128, 172.68.12.91, 10.28.39.227",Mozilla/5.0
+2026-06-02 14:17:27,open,45_close_email_palm_beach_general_contractor,45,close,email,palm_beach_general_contractor,"66.102.8.70, 172.71.147.144, 10.27.107.130",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
