@@ -2920,3 +2920,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-02 20:02:19,open,100_close_email_martin_general_contractor,100,close,email,martin_general_contractor,"140.248.44.0, 172.71.147.143, 10.30.166.1",Mozilla/5.0
 2026-06-02 20:35:51,open,170_close_email_palm_beach_general_contractor,170,close,email,palm_beach_general_contractor,"140.248.44.0, 172.70.83.166, 10.25.47.4",Mozilla/5.0
 2026-06-02 20:37:04,open,46_close_email_palm_beach_general_contractor,46,close,email,palm_beach_general_contractor,"104.28.39.128, 104.22.101.217, 10.26.236.132",Mozilla/5.0
+2026-06-02 21:00:52,open,7_followup_1_palm_beach_roofing,7,followup,1,palm_beach_roofing,"172.226.190.48, 172.70.54.244, 10.25.47.4",Mozilla/5.0
