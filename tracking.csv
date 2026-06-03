@@ -2931,3 +2931,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-02 23:49:35,open,319_first_outreach_palm_beach_solar,319,first,outreach,palm_beach_solar,"172.226.190.44, 104.23.248.113, 10.31.153.1",Mozilla/5.0
 2026-06-03 00:18:48,open,134_close_email_palm_beach_hvac,134,close,email,palm_beach_hvac,"172.226.190.32, 172.68.12.90, 10.30.19.132",Mozilla/5.0
 2026-06-03 00:26:15,open,205_close_email_martin_hvac,205,close,email,martin_hvac,"104.28.39.128, 172.71.147.172, 10.28.232.2",Mozilla/5.0
+2026-06-03 01:29:24,open,202_close_email_martin_hvac,202,close,email,martin_hvac,"104.28.57.247, 172.70.83.166, 10.31.153.1",Mozilla/5.0
