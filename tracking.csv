@@ -2968,3 +2968,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-03 19:45:25,open,49_close_email_palm_beach_general_contractor,49,close,email,palm_beach_general_contractor,"172.226.190.51, 172.71.146.56, 10.30.174.1",Mozilla/5.0
 2026-06-03 19:45:25,open,40_close_email_palm_beach_solar,40,close,email,palm_beach_solar,"172.226.190.51, 172.71.146.57, 10.30.174.1",Mozilla/5.0
 2026-06-03 19:45:25,open,0_close_email_palm_beach_roofing,0,close,email,palm_beach_roofing,"172.226.190.51, 172.71.146.57, 10.30.174.1",Mozilla/5.0
+2026-06-03 22:02:23,open,460_first_outreach_lee_plumbing,460,first,outreach,lee_plumbing,"172.226.188.11, 172.68.12.90, 10.30.174.1",Mozilla/5.0
