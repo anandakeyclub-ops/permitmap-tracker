@@ -2958,3 +2958,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-03 18:49:38,open,518_followup_1_pasco_roofing,518,followup,1,pasco_roofing,"104.28.57.248, 172.71.150.112, 10.30.174.1",Mozilla/5.0
 2026-06-03 19:11:01,open,455_first_outreach_lee_plumbing,455,first,outreach,lee_plumbing,"174.220.8.230, 172.68.7.93, 10.25.193.4","Mozilla/5.0 (Linux; Android 15; SM-G996U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/148.0.7778.178 Mobile Safari/537.36"
 2026-06-03 19:29:37,open,455_first_outreach_lee_plumbing,455,first,outreach,lee_plumbing,"174.220.8.230, 172.71.150.113, 10.30.174.1","Mozilla/5.0 (Linux; Android 15; SM-G996U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/148.0.7778.178 Mobile Safari/537.36"
+2026-06-03 19:45:20,open,60_close_email_martin_roofing,60,close,email,martin_roofing,"172.226.190.51, 172.71.147.5, 10.30.19.132",Mozilla/5.0
+2026-06-03 19:45:20,open,64_close_email_martin_hvac,64,close,email,martin_hvac,"172.226.190.51, 172.71.147.5, 10.28.232.2",Mozilla/5.0
+2026-06-03 19:45:21,open,24_close_email_palm_beach_plumbing,24,close,email,palm_beach_plumbing,"172.226.190.51, 172.71.151.175, 10.28.232.2",Mozilla/5.0
+2026-06-03 19:45:21,open,38_close_email_palm_beach_pool,38,close,email,palm_beach_pool,"172.226.190.51, 172.71.151.175, 10.25.193.4",Mozilla/5.0
+2026-06-03 19:45:21,open,87_close_email_martin_pool,87,close,email,martin_pool,"172.226.190.51, 172.71.147.6, 10.24.139.49",Mozilla/5.0
