@@ -2954,3 +2954,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-03 17:06:24,open,451_first_outreach_lee_plumbing,451,first,outreach,lee_plumbing,"66.102.8.72, 104.22.24.33, 10.30.174.1",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-03 17:15:30,open,460_first_outreach_lee_plumbing,460,first,outreach,lee_plumbing,"172.226.188.59, 172.71.146.125, 10.30.19.132",Mozilla/5.0
 2026-06-03 17:20:06,open,117_close_email_palm_beach_roofing,117,close,email,palm_beach_roofing,"66.102.8.72, 172.71.147.143, 10.30.19.132",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-06-03 18:49:20,open,518_followup_1_pasco_roofing,518,followup,1,pasco_roofing,"104.28.57.248, 172.71.146.125, 10.30.19.132",Mozilla/5.0
+2026-06-03 18:49:38,open,518_followup_1_pasco_roofing,518,followup,1,pasco_roofing,"104.28.57.248, 172.71.150.112, 10.30.174.1",Mozilla/5.0
