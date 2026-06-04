@@ -2974,3 +2974,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-04 01:18:18,open,50_close_email_palm_beach_general_contractor,50,close,email,palm_beach_general_contractor,"104.28.39.128, 172.71.151.77, 10.28.232.2",Mozilla/5.0
 2026-06-04 01:18:18,open,42_close_email_palm_beach_solar,42,close,email,palm_beach_solar,"104.28.39.128, 172.71.151.78, 10.30.19.132",Mozilla/5.0
 2026-06-04 01:18:18,open,69_close_email_martin_hvac,69,close,email,martin_hvac,"104.28.39.128, 172.71.151.78, 10.30.19.132",Mozilla/5.0
+2026-06-04 03:40:51,open,245_close_email_martin_general_contractor,245,close,email,martin_general_contractor,"140.248.44.0, 108.162.212.130, 10.30.174.1",Mozilla/5.0
