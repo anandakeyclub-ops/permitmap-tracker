@@ -2979,3 +2979,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-04 05:40:38,open,213_close_email_martin_plumbing,213,close,email,martin_plumbing,"104.28.39.128, 172.71.146.254, 10.30.19.132",Mozilla/5.0
 2026-06-04 05:47:36,open,213_close_email_martin_plumbing,213,close,email,martin_plumbing,"104.28.57.245, 172.71.147.2, 10.30.174.1",Mozilla/5.0
 2026-06-04 06:29:59,open,213_followup_2_martin_plumbing,213,followup,2,martin_plumbing,"140.248.44.0, 172.71.146.254, 10.25.193.4",Mozilla/5.0
+2026-06-04 11:19:39,open,247_close_email_martin_general_contractor,247,close,email,martin_general_contractor,"140.248.4.0, 172.71.151.211, 10.29.35.1",Mozilla/5.0
