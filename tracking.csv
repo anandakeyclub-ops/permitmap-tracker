@@ -2988,3 +2988,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-04 13:10:22,open,127_close_email_palm_beach_hvac,127,close,email,palm_beach_hvac,"140.248.44.1, 172.71.150.143, 10.28.214.18",Mozilla/5.0
 2026-06-04 13:10:22,open,108_close_email_palm_beach_roofing,108,close,email,palm_beach_roofing,"140.248.44.1, 172.71.150.143, 10.30.174.1",Mozilla/5.0
 2026-06-04 15:03:53,open,658_first_outreach_polk_general_contractor,658,first,outreach,polk_general_contractor,"172.226.190.50, 172.70.255.72, 10.28.214.18",Mozilla/5.0
+2026-06-04 15:27:51,open,658_followup_1_polk_general_contractor,658,followup,1,polk_general_contractor,"172.226.190.0, 172.71.146.254, 10.29.35.1",Mozilla/5.0
