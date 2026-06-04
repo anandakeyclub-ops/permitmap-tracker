@@ -3030,3 +3030,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-04 16:41:49,open,1265_first_outreach_walton_pool,1265,first,outreach,walton_pool,"66.102.8.73, 172.71.151.212, 10.25.193.4",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-04 16:42:58,open,1314_first_outreach_marion_hvac,1314,first,outreach,marion_hvac,"172.226.188.17, 172.71.146.56, 10.30.19.132",Mozilla/5.0
 2026-06-04 17:13:29,open,1282_first_outreach_walton_general_contractor,1282,first,outreach,walton_general_contractor,"74.244.143.123, 172.71.150.113, 10.29.35.1",Mozilla/5.0
+2026-06-04 18:43:49,open,1271_first_outreach_walton_general_contractor,1271,first,outreach,walton_general_contractor,"104.28.39.128, 198.41.227.193, 10.28.214.18",Mozilla/5.0
