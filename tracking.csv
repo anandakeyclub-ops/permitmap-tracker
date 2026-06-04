@@ -3031,3 +3031,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-04 16:42:58,open,1314_first_outreach_marion_hvac,1314,first,outreach,marion_hvac,"172.226.188.17, 172.71.146.56, 10.30.19.132",Mozilla/5.0
 2026-06-04 17:13:29,open,1282_first_outreach_walton_general_contractor,1282,first,outreach,walton_general_contractor,"74.244.143.123, 172.71.150.113, 10.29.35.1",Mozilla/5.0
 2026-06-04 18:43:49,open,1271_first_outreach_walton_general_contractor,1271,first,outreach,walton_general_contractor,"104.28.39.128, 198.41.227.193, 10.28.214.18",Mozilla/5.0
+2026-06-04 19:07:48,open,1328_first_outreach_marion_plumbing,1328,first,outreach,marion_plumbing,"2a06:98c0:3600::103,104.22.56.72, 172.71.150.142, 10.28.232.2",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
