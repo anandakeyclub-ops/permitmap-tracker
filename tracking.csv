@@ -2969,3 +2969,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-03 19:45:25,open,40_close_email_palm_beach_solar,40,close,email,palm_beach_solar,"172.226.190.51, 172.71.146.57, 10.30.174.1",Mozilla/5.0
 2026-06-03 19:45:25,open,0_close_email_palm_beach_roofing,0,close,email,palm_beach_roofing,"172.226.190.51, 172.71.146.57, 10.30.174.1",Mozilla/5.0
 2026-06-03 22:02:23,open,460_first_outreach_lee_plumbing,460,first,outreach,lee_plumbing,"172.226.188.11, 172.68.12.90, 10.30.174.1",Mozilla/5.0
+2026-06-04 01:18:18,open,68_close_email_martin_hvac,68,close,email,martin_hvac,"104.28.39.128, 172.71.151.175, 10.30.174.1",Mozilla/5.0
+2026-06-04 01:18:18,open,92_close_email_martin_pool,92,close,email,martin_pool,"104.28.39.128, 172.71.151.77, 10.30.19.132",Mozilla/5.0
+2026-06-04 01:18:18,open,50_close_email_palm_beach_general_contractor,50,close,email,palm_beach_general_contractor,"104.28.39.128, 172.71.151.77, 10.28.232.2",Mozilla/5.0
+2026-06-04 01:18:18,open,42_close_email_palm_beach_solar,42,close,email,palm_beach_solar,"104.28.39.128, 172.71.151.78, 10.30.19.132",Mozilla/5.0
+2026-06-04 01:18:18,open,69_close_email_martin_hvac,69,close,email,martin_hvac,"104.28.39.128, 172.71.151.78, 10.30.19.132",Mozilla/5.0
