@@ -3038,3 +3038,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-05 10:12:42,open,408_followup_1_martin_general_contractor,408,followup,1,martin_general_contractor,"140.248.44.0, 172.71.146.56, 10.25.193.4",Mozilla/5.0
 2026-06-05 11:18:00,open,27_close_email_palm_beach_plumbing,27,close,email,palm_beach_plumbing,"69.147.93.139, 172.71.146.56, 10.28.232.2",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-06-05 12:10:51,open,290_followup_1_palm_beach_plumbing,290,followup,1,palm_beach_plumbing,"172.226.190.48, 172.70.255.74, 10.26.254.140",Mozilla/5.0
+2026-06-05 15:39:12,open,1279_first_outreach_walton_general_contractor,1279,first,outreach,walton_general_contractor,"74.125.213.40, 172.71.151.175, 10.26.254.140",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
