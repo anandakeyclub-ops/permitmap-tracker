@@ -3034,3 +3034,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-04 19:07:48,open,1328_first_outreach_marion_plumbing,1328,first,outreach,marion_plumbing,"2a06:98c0:3600::103,104.22.56.72, 172.71.150.142, 10.28.232.2",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-06-04 20:00:42,open,1320_first_outreach_marion_plumbing,1320,first,outreach,marion_plumbing,"172.226.188.57, 172.71.146.56, 10.25.193.4",Mozilla/5.0
 2026-06-04 21:38:19,open,1326_first_outreach_marion_plumbing,1326,first,outreach,marion_plumbing,"146.75.232.0, 172.71.146.254, 10.29.35.1",Mozilla/5.0
+2026-06-05 02:36:12,open,46_close_email_palm_beach_general_contractor,46,close,email,palm_beach_general_contractor,"140.248.44.0, 172.71.147.2, 10.25.193.4",Mozilla/5.0
