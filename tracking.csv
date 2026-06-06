@@ -3043,3 +3043,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-06 01:28:56,open,350_followup_1_martin_roofing,350,followup,1,martin_roofing,"104.28.39.128, 172.71.146.254, 10.30.174.1",Mozilla/5.0
 2026-06-06 14:19:54,open,699_close_email_osceola_plumbing,699,close,email,osceola_plumbing,"172.226.188.6, 172.71.147.2, 10.27.39.131",Mozilla/5.0
 2026-06-06 14:25:21,open,699_followup_1_osceola_plumbing,699,followup,1,osceola_plumbing,"172.226.188.6, 172.71.151.78, 10.28.232.2",Mozilla/5.0
+2026-06-06 14:32:36,open,699_followup_2_osceola_plumbing,699,followup,2,osceola_plumbing,"172.226.188.6, 172.71.151.78, 10.30.174.1",Mozilla/5.0
