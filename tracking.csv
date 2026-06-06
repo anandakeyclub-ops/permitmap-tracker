@@ -3044,3 +3044,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-06 14:19:54,open,699_close_email_osceola_plumbing,699,close,email,osceola_plumbing,"172.226.188.6, 172.71.147.2, 10.27.39.131",Mozilla/5.0
 2026-06-06 14:25:21,open,699_followup_1_osceola_plumbing,699,followup,1,osceola_plumbing,"172.226.188.6, 172.71.151.78, 10.28.232.2",Mozilla/5.0
 2026-06-06 14:32:36,open,699_followup_2_osceola_plumbing,699,followup,2,osceola_plumbing,"172.226.188.6, 172.71.151.78, 10.30.174.1",Mozilla/5.0
+2026-06-06 16:01:44,open,393_first_outreach_martin_pool,393,first,outreach,martin_pool,"66.102.8.73, 172.71.151.212, 10.28.232.2",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-06-06 16:01:52,open,393_close_email_martin_pool,393,close,email,martin_pool,"66.102.8.70, 172.71.151.77, 10.28.232.2",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-06-06 16:01:57,open,393_followup_2_martin_pool,393,followup,2,martin_pool,"66.102.8.74, 172.71.151.78, 10.24.116.2",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
