@@ -3219,3 +3219,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-09 00:06:22,open,354_followup_2_martin_roofing,354,followup,2,martin_roofing,"172.226.186.16, 104.23.160.96, 10.30.19.132",Mozilla/5.0
 2026-06-09 00:27:15,open,416_followup_2_martin_general_contractor,416,followup,2,martin_general_contractor,"104.28.39.128, 172.71.151.176, 10.24.184.3",Mozilla/5.0
 2026-06-09 00:32:55,open,331_followup_2_palm_beach_solar,331,followup,2,palm_beach_solar,"172.226.190.27, 172.71.151.175, 10.25.193.4",Mozilla/5.0
+2026-06-09 00:59:01,open,472_followup_2_lee_pool,472,followup,2,lee_pool,"209.73.183.19, 104.23.160.96, 10.27.39.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
