@@ -3372,3 +3372,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-09 18:03:01,open,740_followup_1_osceola_general_contractor,740,followup,1,osceola_general_contractor,"69.147.87.185, 172.71.151.175, 10.27.39.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-06-09 18:17:15,open,569_followup_2_pasco_pool,569,followup,2,pasco_pool,"47.199.48.158, 172.68.7.92, 10.30.19.132",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-06-09 18:24:35,open,350_followup_2_martin_roofing,350,followup,2,martin_roofing,"172.226.188.20, 172.68.7.93, 10.30.174.1",Mozilla/5.0
+2026-06-09 18:37:43,open,668_followup_2_osceola_roofing,668,followup,2,osceola_roofing,"46.21.157.242, 172.68.174.91, 10.27.39.131",Mozilla/5.0
