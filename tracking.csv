@@ -3222,3 +3222,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-09 00:59:01,open,472_followup_2_lee_pool,472,followup,2,lee_pool,"209.73.183.19, 104.23.160.96, 10.27.39.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-06-09 01:05:38,open,375_followup_2_martin_hvac,375,followup,2,martin_hvac,"104.28.39.128, 172.71.151.176, 10.24.184.3",Mozilla/5.0
 2026-06-09 01:37:46,open,431_followup_2_lee_roofing,431,followup,2,lee_roofing,"73.107.59.143, 172.71.151.175, 10.30.19.132","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0 OneOutlook/1.2026.512.400"
+2026-06-09 01:52:42,open,257_followup_2_palm_beach_roofing,257,followup,2,palm_beach_roofing,"172.225.246.11, 172.71.146.56, 10.30.19.132",Mozilla/5.0
