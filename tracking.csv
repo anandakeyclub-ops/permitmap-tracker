@@ -3279,3 +3279,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-09 11:25:53,open,655_followup_2_polk_general_contractor,655,followup,2,polk_general_contractor,"74.125.217.66, 172.71.146.177, 10.25.193.4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-06-09 11:33:07,open,658_followup_2_polk_general_contractor,658,followup,2,polk_general_contractor,"172.226.188.39, 172.71.151.24, 10.28.232.2",Mozilla/5.0
 2026-06-09 11:44:44,open,593_followup_2_polk_roofing,593,followup,2,polk_roofing,"140.248.44.1, 172.71.147.183, 10.30.174.1",Mozilla/5.0
+2026-06-09 12:49:04,open,503_followup_2_lee_general_contractor,503,followup,2,lee_general_contractor,"140.248.44.0, 172.71.151.188, 10.30.19.132",Mozilla/5.0
