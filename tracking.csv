@@ -3396,3 +3396,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-10 04:28:57,open,1265_followup_1_walton_pool,1265,followup,1,walton_pool,"140.248.30.0, 172.69.59.125, 10.24.184.3",Mozilla/5.0
 2026-06-10 04:32:39,open,273_close_email_palm_beach_hvac,273,close,email,palm_beach_hvac,"104.28.39.128, 172.71.151.175, 10.28.232.2",Mozilla/5.0
 2026-06-10 05:19:28,open,607_followup_2_polk_roofing,607,followup,2,polk_roofing,"140.248.44.1, 172.71.151.175, 10.27.39.131",Mozilla/5.0
+2026-06-10 05:43:13,open,372_followup_2_martin_hvac,372,followup,2,martin_hvac,"140.248.44.1, 172.71.146.142, 10.24.23.2",Mozilla/5.0
