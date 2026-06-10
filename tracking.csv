@@ -3399,3 +3399,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-10 05:43:13,open,372_followup_2_martin_hvac,372,followup,2,martin_hvac,"140.248.44.1, 172.71.146.142, 10.24.23.2",Mozilla/5.0
 2026-06-10 11:08:54,open,7_followup_1_palm_beach_roofing,7,followup,1,palm_beach_roofing,"104.28.57.240, 172.71.146.133, 10.25.147.3",Mozilla/5.0
 2026-06-10 11:50:27,open,1357_first_outreach_marion_general_contractor,1357,first,outreach,marion_general_contractor,"69.147.86.248, 162.159.106.74, 10.24.184.3",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-06-10 13:24:05,open,1258_followup_1_walton_pool,1258,followup,1,walton_pool,"172.226.170.32, 172.71.151.12, 10.27.39.131",Mozilla/5.0
