@@ -3403,3 +3403,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-10 13:30:25,open,632_followup_2_polk_plumbing,632,followup,2,polk_plumbing,"146.75.128.0, 172.71.151.193, 10.30.174.1",Mozilla/5.0
 2026-06-10 13:32:33,open,1325_followup_1_marion_plumbing,1325,followup,1,marion_plumbing,"66.102.8.70, 104.22.56.73, 10.24.184.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-10 14:12:50,open,632_followup_2_polk_plumbing,632,followup,2,polk_plumbing,"146.75.128.0, 172.71.147.164, 10.30.19.132",Mozilla/5.0
+2026-06-10 14:50:03,open,1282_followup_1_walton_general_contractor,1282,followup,1,walton_general_contractor,"74.244.143.51, 172.71.146.52, 10.24.184.3",Mozilla/5.0
