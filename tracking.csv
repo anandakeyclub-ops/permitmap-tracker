@@ -3421,3 +3421,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-11 06:25:42,open,540_followup_2_pasco_plumbing,540,followup,2,pasco_plumbing,"140.248.44.1, 172.71.146.143, 10.30.174.1",Mozilla/5.0
 2026-06-11 06:25:42,open,555_followup_2_pasco_pool,555,followup,2,pasco_pool,"140.248.44.1, 172.71.146.142, 10.24.110.3",Mozilla/5.0
 2026-06-11 06:25:42,open,559_followup_2_pasco_pool,559,followup,2,pasco_pool,"140.248.44.1, 172.71.146.142, 10.30.174.1",Mozilla/5.0
+2026-06-11 06:25:47,open,456_followup_1_lee_plumbing,456,followup,1,lee_plumbing,"140.248.44.1, 172.70.255.221, 10.30.19.132",Mozilla/5.0
+2026-06-11 06:25:47,open,433_followup_2_lee_roofing,433,followup,2,lee_roofing,"140.248.44.1, 172.70.255.221, 10.30.174.1",Mozilla/5.0
+2026-06-11 06:25:47,open,460_followup_1_lee_plumbing,460,followup,1,lee_plumbing,"140.248.44.1, 172.70.255.221, 10.27.39.131",Mozilla/5.0
+2026-06-11 06:25:47,open,510_followup_2_pasco_roofing,510,followup,2,pasco_roofing,"140.248.44.1, 172.70.255.221, 10.30.19.132",Mozilla/5.0
+2026-06-11 06:25:48,open,495_followup_2_lee_general_contractor,495,followup,2,lee_general_contractor,"140.248.44.1, 172.70.255.221, 10.25.193.4",Mozilla/5.0
