@@ -3571,3 +3571,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-11 20:59:43,open,1274_first_outreach_walton_general_contractor,1274,first,outreach,walton_general_contractor,"104.28.39.145, 172.71.146.41, 10.26.113.131",Mozilla/5.0
 2026-06-11 20:59:43,open,1274_followup_1_walton_general_contractor,1274,followup,1,walton_general_contractor,"104.28.39.145, 172.71.146.41, 10.31.69.2",Mozilla/5.0
 2026-06-11 21:16:42,open,372_close_email_martin_hvac,372,close,email,martin_hvac,"140.248.44.0, 172.71.146.41, 10.27.148.130",Mozilla/5.0
+2026-06-11 21:27:06,open,549_close_email_pasco_plumbing,549,close,email,pasco_plumbing,"172.226.190.23, 172.71.150.231, 10.28.95.130",Mozilla/5.0
