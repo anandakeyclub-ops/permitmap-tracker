@@ -3539,3 +3539,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-11 12:46:34,open,562_close_email_pasco_pool,562,close,email,pasco_pool,"172.226.190.11, 172.71.147.2, 10.30.174.1",Mozilla/5.0
 2026-06-11 12:46:34,open,549_close_email_pasco_plumbing,549,close,email,pasco_plumbing,"172.226.190.11, 172.71.151.176, 10.27.39.131",Mozilla/5.0
 2026-06-11 12:46:34,open,555_close_email_pasco_pool,555,close,email,pasco_pool,"172.226.190.11, 172.71.151.175, 10.30.174.1",Mozilla/5.0
+2026-06-11 12:46:49,open,340_close_email_palm_beach_general_contractor,340,close,email,palm_beach_general_contractor,"172.226.190.11, 172.71.151.175, 10.30.174.1",Mozilla/5.0
+2026-06-11 12:46:49,open,342_close_email_palm_beach_general_contractor,342,close,email,palm_beach_general_contractor,"172.226.190.11, 172.71.146.254, 10.24.110.3",Mozilla/5.0
+2026-06-11 12:46:49,open,337_close_email_palm_beach_general_contractor,337,close,email,palm_beach_general_contractor,"172.226.190.11, 172.71.151.175, 10.30.174.1",Mozilla/5.0
+2026-06-11 12:46:50,open,331_close_email_palm_beach_solar,331,close,email,palm_beach_solar,"172.226.190.11, 172.71.147.2, 10.25.193.4",Mozilla/5.0
+2026-06-11 12:46:50,open,334_close_email_palm_beach_general_contractor,334,close,email,palm_beach_general_contractor,"172.226.190.11, 172.71.147.2, 10.27.39.131",Mozilla/5.0
