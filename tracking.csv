@@ -3570,3 +3570,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-11 19:59:03,open,314_close_email_palm_beach_pool,314,close,email,palm_beach_pool,"74.125.213.38, 172.71.146.124, 10.29.27.129",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-11 20:59:43,open,1274_first_outreach_walton_general_contractor,1274,first,outreach,walton_general_contractor,"104.28.39.145, 172.71.146.41, 10.26.113.131",Mozilla/5.0
 2026-06-11 20:59:43,open,1274_followup_1_walton_general_contractor,1274,followup,1,walton_general_contractor,"104.28.39.145, 172.71.146.41, 10.31.69.2",Mozilla/5.0
+2026-06-11 21:16:42,open,372_close_email_martin_hvac,372,close,email,martin_hvac,"140.248.44.0, 172.71.146.41, 10.27.148.130",Mozilla/5.0
