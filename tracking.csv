@@ -3533,3 +3533,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-11 12:14:48,open,311_close_email_palm_beach_pool,311,close,email,palm_beach_pool,"140.248.44.0, 172.71.146.42, 10.27.39.131",Mozilla/5.0
 2026-06-11 12:19:30,open,430_close_email_lee_roofing,430,close,email,lee_roofing,"172.226.188.14, 172.71.147.5, 10.27.39.131",Mozilla/5.0
 2026-06-11 12:22:47,open,392_close_email_martin_pool,392,close,email,martin_pool,"140.248.44.1, 172.71.146.43, 10.24.110.3",Mozilla/5.0
+2026-06-11 12:44:35,open,319_close_email_palm_beach_solar,319,close,email,palm_beach_solar,"140.248.44.0, 172.69.132.149, 10.24.110.3",Mozilla/5.0
