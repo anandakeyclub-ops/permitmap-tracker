@@ -3560,3 +3560,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-11 15:53:50,open,304_close_email_palm_beach_pool,304,close,email,palm_beach_pool,"172.226.188.16, 172.71.147.2, 10.27.39.131",Mozilla/5.0
 2026-06-11 15:53:50,open,301_close_email_palm_beach_plumbing,301,close,email,palm_beach_plumbing,"172.226.188.16, 172.71.147.2, 10.27.39.131",Mozilla/5.0
 2026-06-11 16:08:40,open,342_close_email_palm_beach_general_contractor,342,close,email,palm_beach_general_contractor,"140.248.44.0, 172.71.146.242, 10.27.39.131",Mozilla/5.0
+2026-06-11 17:31:36,open,519_close_email_pasco_roofing,519,close,email,pasco_roofing,"2a06:98c0:3600::103,172.70.54.244, 172.71.151.175, 10.30.174.1",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
