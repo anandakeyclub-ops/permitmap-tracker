@@ -3629,3 +3629,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-12 15:02:21,open,451_followup_2_lee_plumbing,451,followup,2,lee_plumbing,"66.102.8.65, 172.71.150.26, 10.30.208.4",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-12 15:55:10,open,90_close_email_martin_pool,90,close,email,martin_pool,"140.248.44.1, 172.71.147.5, 10.31.238.129",Mozilla/5.0
 2026-06-12 16:03:33,open,668_close_email_osceola_roofing,668,close,email,osceola_roofing,"46.21.157.242, 104.23.160.97, 10.30.208.4",Mozilla/5.0
+2026-06-12 16:21:05,open,641_close_email_polk_pool,641,close,email,polk_pool,"66.249.84.225, 162.159.120.199, 10.26.113.131",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
