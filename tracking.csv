@@ -3654,3 +3654,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-14 12:21:09,open,651_followup_2_polk_pool,651,followup,2,polk_pool,"172.226.174.144, 172.69.65.65, 10.28.95.130",Mozilla/5.0
 2026-06-14 13:58:40,open,574_close_email_pasco_solar,574,close,email,pasco_solar,"140.248.44.1, 172.71.146.126, 10.31.238.129",Mozilla/5.0
 2026-06-14 20:26:21,open,354_close_email_martin_roofing,354,close,email,martin_roofing,"172.226.192.59, 162.158.137.19, 10.26.113.131",Mozilla/5.0
+2026-06-15 01:30:11,open,684_followup_1_osceola_hvac,684,followup,1,osceola_hvac,"140.248.44.0, 172.70.83.165, 10.30.208.4",Mozilla/5.0
