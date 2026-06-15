@@ -3715,3 +3715,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-15 11:42:14,open,1282_followup_2_walton_general_contractor,1282,followup,2,walton_general_contractor,"146.75.146.0, 162.158.186.177, 10.31.252.133",Mozilla/5.0
 2026-06-15 11:48:40,open,455_close_email_lee_plumbing,455,close,email,lee_plumbing,"174.220.3.18, 172.68.12.90, 10.30.208.4","Mozilla/5.0 (Linux; Android 15; SM-G996U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/148.0.7778.217 Mobile Safari/537.36"
 2026-06-15 11:53:06,open,90_followup_1_martin_pool,90,followup,1,martin_pool,"172.226.188.30, 172.71.150.26, 10.24.253.2",Mozilla/5.0
+2026-06-15 11:56:01,open,706_followup_2_osceola_plumbing,706,followup,2,osceola_plumbing,"66.102.8.72, 172.71.146.141, 10.31.238.129",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
