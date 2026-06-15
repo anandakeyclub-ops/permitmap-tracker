@@ -3719,3 +3719,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-15 12:01:30,open,699_followup_2_osceola_plumbing,699,followup,2,osceola_plumbing,"172.226.188.40, 172.70.55.165, 10.31.252.133",Mozilla/5.0
 2026-06-15 12:08:29,open,1248_followup_1_walton_plumbing,1248,followup,1,walton_plumbing,"66.102.8.72, 172.71.147.233, 10.27.46.130",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-15 12:08:29,open,1248_followup_2_walton_plumbing,1248,followup,2,walton_plumbing,"66.102.8.65, 172.71.147.233, 10.24.253.2",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-06-15 12:43:20,open,684_followup_1_osceola_hvac,684,followup,1,osceola_hvac,"140.248.44.0, 172.71.151.175, 10.26.113.131",Mozilla/5.0
+2026-06-15 12:43:20,open,684_followup_2_osceola_hvac,684,followup,2,osceola_hvac,"140.248.44.0, 172.68.12.91, 10.28.95.130",Mozilla/5.0
