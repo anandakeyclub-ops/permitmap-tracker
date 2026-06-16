@@ -3739,3 +3739,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-15 22:27:06,open,1335_followup_2_marion_pool,1335,followup,2,marion_pool,"140.248.44.1, 172.70.255.72, 10.29.163.134",Mozilla/5.0
 2026-06-15 23:43:19,open,1347_followup_1_marion_solar,1347,followup,1,marion_solar,"172.225.246.16, 172.71.146.56, 10.26.178.5",Mozilla/5.0
 2026-06-16 01:05:22,open,266_close_email_palm_beach_roofing,266,close,email,palm_beach_roofing,"172.226.190.59, 172.71.146.56, 10.28.200.134",Mozilla/5.0
+2026-06-16 04:28:31,open,1352_followup_1_marion_solar,1352,followup,1,marion_solar,"172.226.190.22, 172.71.146.254, 10.28.200.134",Mozilla/5.0
+2026-06-16 04:28:31,open,1350_followup_1_marion_solar,1350,followup,1,marion_solar,"172.226.190.22, 172.71.146.254, 10.28.200.134",Mozilla/5.0
+2026-06-16 04:28:31,open,1351_followup_1_marion_solar,1351,followup,1,marion_solar,"172.226.190.22, 172.71.146.254, 10.28.200.134",Mozilla/5.0
+2026-06-16 04:28:31,open,1348_followup_1_marion_solar,1348,followup,1,marion_solar,"172.226.190.22, 172.71.147.2, 10.29.163.134",Mozilla/5.0
+2026-06-16 04:28:31,open,1323_followup_2_marion_plumbing,1323,followup,2,marion_plumbing,"172.226.190.22, 172.71.151.176, 10.29.163.134",Mozilla/5.0
