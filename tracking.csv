@@ -3755,3 +3755,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-17 07:38:48,open,213_close_email_martin_plumbing,213,close,email,martin_plumbing,"104.28.39.128, 172.68.12.91, 10.25.201.4",Mozilla/5.0
 2026-06-17 08:06:23,open,213_followup_2_martin_plumbing,213,followup,2,martin_plumbing,"140.248.44.0, 172.68.12.90, 10.28.200.134",Mozilla/5.0
 2026-06-17 08:47:29,open,213_followup_1_martin_plumbing,213,followup,1,martin_plumbing,"140.248.44.0, 172.71.146.56, 10.29.163.134",Mozilla/5.0
+2026-06-17 14:04:04,open,686_followup_1_osceola_hvac,686,followup,1,osceola_hvac,"74.125.213.34, 104.23.245.77, 10.27.234.131",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-06-17 14:04:05,open,686_followup_2_osceola_hvac,686,followup,2,osceola_hvac,"66.102.8.70, 172.71.147.2, 10.26.178.5",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
