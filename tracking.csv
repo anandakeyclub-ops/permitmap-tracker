@@ -3753,3 +3753,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-16 21:26:00,open,350_close_email_martin_roofing,350,close,email,martin_roofing,"140.248.44.0, 172.71.146.254, 10.28.200.134",Mozilla/5.0
 2026-06-16 21:58:25,open,245_close_email_martin_general_contractor,245,close,email,martin_general_contractor,"140.248.44.1, 172.71.147.2, 10.27.234.131",Mozilla/5.0
 2026-06-17 07:38:48,open,213_close_email_martin_plumbing,213,close,email,martin_plumbing,"104.28.39.128, 172.68.12.91, 10.25.201.4",Mozilla/5.0
+2026-06-17 08:06:23,open,213_followup_2_martin_plumbing,213,followup,2,martin_plumbing,"140.248.44.0, 172.68.12.90, 10.28.200.134",Mozilla/5.0
