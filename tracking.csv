@@ -3752,3 +3752,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-16 17:57:12,open,699_followup_1_osceola_plumbing,699,followup,1,osceola_plumbing,"140.248.44.0, 172.71.146.56, 10.29.163.134",Mozilla/5.0
 2026-06-16 21:26:00,open,350_close_email_martin_roofing,350,close,email,martin_roofing,"140.248.44.0, 172.71.146.254, 10.28.200.134",Mozilla/5.0
 2026-06-16 21:58:25,open,245_close_email_martin_general_contractor,245,close,email,martin_general_contractor,"140.248.44.1, 172.71.147.2, 10.27.234.131",Mozilla/5.0
+2026-06-17 07:38:48,open,213_close_email_martin_plumbing,213,close,email,martin_plumbing,"104.28.39.128, 172.68.12.91, 10.25.201.4",Mozilla/5.0
