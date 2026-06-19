@@ -3762,3 +3762,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-18 11:47:18,open,1272_followup_2_walton_general_contractor,1272,followup,2,walton_general_contractor,"104.28.39.128, 172.71.147.143, 10.29.163.134",Mozilla/5.0
 2026-06-18 11:47:18,open,1272_followup_2_walton_general_contractor,1272,followup,2,walton_general_contractor,"104.28.39.128, 172.71.147.143, 10.27.234.131",Mozilla/5.0
 2026-06-18 17:31:39,open,519_close_email_pasco_roofing,519,close,email,pasco_roofing,"74.125.217.66, 172.71.147.2, 10.29.85.3","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-06-19 03:23:40,open,259_followup_1_palm_beach_roofing,259,followup,1,palm_beach_roofing,"172.226.190.33, 172.71.146.254, 10.29.85.3",Mozilla/5.0
