@@ -3905,3 +3905,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-19 17:21:40,open,210_first_outreach_martin_hvac__v1,210,first,outreach,martin_hvac__v1,"74.244.153.187, 104.22.86.190, 10.25.72.7","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-06-19 18:03:45,open,140_first_outreach_palm_beach_plumbing__v0,140,first,outreach,palm_beach_plumbing__v0,"74.125.210.135, 172.71.146.57, 10.27.234.131",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-19 18:06:16,open,114_first_outreach_palm_beach_roofing__v0,114,first,outreach,palm_beach_roofing__v0,"146.75.234.48, 172.68.71.84, 10.26.178.5",Mozilla/5.0
+2026-06-19 18:51:33,open,692_close_email_osceola_hvac__v0,692,close,email,osceola_hvac__v0,"172.226.190.7, 172.71.146.57, 10.25.201.4",Mozilla/5.0
