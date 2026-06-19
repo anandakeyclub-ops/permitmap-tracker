@@ -3809,3 +3809,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-06-19 11:41:59,open,1265_close_email_walton_pool__v1,1265,close,email,walton_pool__v1,"66.102.6.133, 172.71.146.56, 10.29.85.3",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-06-19 11:43:18,open,1445_first_outreach_alachua_general_contractor__v0,1445,first,outreach,alachua_general_contractor__v0,"74.125.217.65, 172.71.146.56, 10.29.163.134","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-06-19 12:03:20,open,1438_first_outreach_alachua_general_contractor__v0,1438,first,outreach,alachua_general_contractor__v0,"146.75.232.1, 172.71.146.56, 10.29.85.3",Mozilla/5.0
+2026-06-19 13:42:56,open,1256_close_email_walton_pool__v1,1256,close,email,walton_pool__v1,"172.226.190.4, 104.22.86.191, 10.28.200.134",Mozilla/5.0
+2026-06-19 13:42:56,open,1252_close_email_walton_plumbing__v1,1252,close,email,walton_plumbing__v1,"172.226.190.4, 104.22.86.190, 10.28.200.134",Mozilla/5.0
+2026-06-19 13:42:56,open,1259_close_email_walton_pool__v1,1259,close,email,walton_pool__v1,"172.226.190.4, 104.22.86.190, 10.28.200.134",Mozilla/5.0
+2026-06-19 13:42:56,open,1253_close_email_walton_plumbing__v1,1253,close,email,walton_plumbing__v1,"172.226.190.4, 104.22.86.190, 10.28.200.134",Mozilla/5.0
+2026-06-19 13:42:56,open,1271_close_email_walton_general_contractor__v2,1271,close,email,walton_general_contractor__v2,"172.226.190.4, 104.22.86.191, 10.26.178.5",Mozilla/5.0
