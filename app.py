@@ -263,7 +263,10 @@ def click(tracking_id: str):
     _log_event(tracking_id, "click")
     # Force flush so click is persisted immediately
     _flush_buffer()
-    return redirect(STRIPE_URL)
+    # Pass the tracking_id through as Stripe client_reference_id so checkout
+    # attribution is preserved (was dropped in an earlier refactor).
+    sep = "&" if "?" in STRIPE_URL else "?"
+    return redirect(f"{STRIPE_URL}{sep}client_reference_id={tracking_id}")
 
 
 @app.route("/stats_json")
