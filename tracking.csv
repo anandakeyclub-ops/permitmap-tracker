@@ -3945,3 +3945,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-01 11:57:52,open,185_followup_2_martin_roofing__v0,185,followup,2,martin_roofing__v0,"73.179.195.27, 172.71.151.136, 10.30.177.134","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0 OneOutlook/1.2026.617.600"
 2026-07-01 12:27:43,open,156_followup_2_palm_beach_pool__v0,156,followup,2,palm_beach_pool__v0,"104.28.39.128, 104.22.86.190, 10.30.242.198",Mozilla/5.0
 2026-07-01 12:45:44,open,128_followup_2_palm_beach_hvac__v0,128,followup,2,palm_beach_hvac__v0,"74.125.210.135, 104.22.1.65, 10.30.152.48",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-07-01 14:09:32,open,1441_followup_2_alachua_general_contractor__v0,1441,followup,2,alachua_general_contractor__v0,"172.226.190.10, 172.71.151.88, 10.30.152.48",Mozilla/5.0
+2026-07-01 14:09:32,open,1437_followup_2_alachua_general_contractor__v0,1437,followup,2,alachua_general_contractor__v0,"172.226.190.10, 172.71.146.116, 10.29.170.1",Mozilla/5.0
+2026-07-01 14:09:32,open,1451_followup_2_alachua_general_contractor__v0,1451,followup,2,alachua_general_contractor__v0,"172.226.190.10, 172.71.146.116, 10.30.242.198",Mozilla/5.0
+2026-07-01 14:09:32,open,202_followup_2_martin_hvac__v0,202,followup,2,martin_hvac__v0,"172.226.190.10, 172.71.151.88, 10.29.170.1",Mozilla/5.0
+2026-07-01 14:09:32,open,1434_followup_2_alachua_solar__v0,1434,followup,2,alachua_solar__v0,"172.226.190.10, 172.71.151.88, 10.30.177.134",Mozilla/5.0
