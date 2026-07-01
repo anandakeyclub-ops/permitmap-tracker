@@ -3923,3 +3923,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-01 04:02:51,open,684_followup_1_osceola_hvac,684,followup,1,osceola_hvac,"140.248.44.1, 172.71.147.6, 10.29.170.1",Mozilla/5.0
 2026-07-01 04:27:38,open,684_followup_2_osceola_hvac,684,followup,2,osceola_hvac,"140.248.44.1, 172.70.82.77, 10.30.242.198",Mozilla/5.0
 2026-07-01 05:34:31,open,684_close_email_osceola_hvac__v1,684,close,email,osceola_hvac__v1,"140.248.44.0, 172.70.82.77, 10.31.225.7",Mozilla/5.0
+2026-07-01 09:01:18,open,38_followup_2_palm_beach_pool__v0,38,followup,2,palm_beach_pool__v0,"73.1.141.5, 172.71.146.112, 10.31.225.7","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-07-01 09:01:18,open,38_followup_2_palm_beach_pool__v0,38,followup,2,palm_beach_pool__v0,"73.1.141.5, 172.70.82.80, 10.30.242.198","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
