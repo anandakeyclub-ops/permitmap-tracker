@@ -3914,3 +3914,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-01 01:34:00,open,123_followup_2_palm_beach_hvac__v0,123,followup,2,palm_beach_hvac__v0,"172.226.188.37, 104.22.86.191, 10.30.242.198",Mozilla/5.0
 2026-07-01 01:52:43,open,73_followup_2_martin_hvac__v0,73,followup,2,martin_hvac__v0,"140.248.44.0, 172.68.12.91, 10.30.242.198",Mozilla/5.0
 2026-07-01 02:25:35,open,69_followup_2_martin_hvac__v0,69,followup,2,martin_hvac__v0,"140.248.44.0, 172.70.82.80, 10.29.200.4",Mozilla/5.0
+2026-07-01 02:38:55,open,78_followup_2_martin_plumbing__v0,78,followup,2,martin_plumbing__v0,"172.226.190.56, 172.71.151.87, 10.30.242.198",Mozilla/5.0
+2026-07-01 02:38:55,open,62_followup_2_martin_roofing__v0,62,followup,2,martin_roofing__v0,"172.226.190.56, 172.71.151.88, 10.29.200.4",Mozilla/5.0
+2026-07-01 02:38:55,open,69_followup_2_martin_hvac__v0,69,followup,2,martin_hvac__v0,"172.226.190.56, 172.71.147.5, 10.30.177.134",Mozilla/5.0
+2026-07-01 02:38:55,open,40_followup_2_palm_beach_solar__v0,40,followup,2,palm_beach_solar__v0,"172.226.190.56, 172.71.147.6, 10.30.242.198",Mozilla/5.0
+2026-07-01 02:38:55,open,70_followup_2_martin_hvac__v0,70,followup,2,martin_hvac__v0,"172.226.190.56, 172.71.151.87, 10.29.200.4",Mozilla/5.0
