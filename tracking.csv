@@ -4106,3 +4106,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-03 16:59:09,open,686_first_outreach_osceola_hvac__v0,686,first,outreach,osceola_hvac__v0,"74.125.210.130, 104.22.72.2, 10.24.104.255",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-07-03 19:10:27,open,658_first_outreach_polk_general_contractor__v0,658,first,outreach,polk_general_contractor__v0,"34.209.68.149, 172.68.175.21, 10.24.104.255","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
 2026-07-03 19:10:27,open,658_first_outreach_polk_general_contractor__v0,658,first,outreach,polk_general_contractor__v0,"73.27.144.5, 172.71.147.23, 10.30.177.134","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-07-04 00:39:17,open,322_followup_1_palm_beach_solar__v0,322,followup,1,palm_beach_solar__v0,"172.226.190.27, 172.71.147.5, 10.24.104.255",Mozilla/5.0
+2026-07-04 00:39:17,open,323_followup_1_palm_beach_solar__v0,323,followup,1,palm_beach_solar__v0,"172.226.190.27, 172.71.147.5, 10.30.242.198",Mozilla/5.0
+2026-07-04 00:39:17,open,325_followup_1_palm_beach_solar__v0,325,followup,1,palm_beach_solar__v0,"172.226.190.27, 172.71.147.6, 10.29.170.1",Mozilla/5.0
+2026-07-04 00:39:17,open,329_followup_1_palm_beach_solar__v0,329,followup,1,palm_beach_solar__v0,"172.226.190.27, 172.71.147.6, 10.24.104.255",Mozilla/5.0
+2026-07-04 00:39:17,open,319_followup_1_palm_beach_solar__v0,319,followup,1,palm_beach_solar__v0,"172.226.190.27, 172.71.147.5, 10.29.200.4",Mozilla/5.0
+2026-07-04 00:39:17,open,411_followup_1_martin_general_contractor__v0,411,followup,1,martin_general_contractor__v0,"172.226.190.27, 172.71.147.5, 10.30.177.134",Mozilla/5.0
