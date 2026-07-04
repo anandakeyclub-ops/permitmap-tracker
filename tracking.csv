@@ -4149,3 +4149,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-04 17:11:47,open,133_close_email_palm_beach_hvac__v0,133,close,email,palm_beach_hvac__v0,"104.28.39.128, 104.22.72.48, 10.30.242.198",Mozilla/5.0
 2026-07-04 17:17:40,open,133_close_email_palm_beach_hvac__v0,133,close,email,palm_beach_hvac__v0,"172.226.190.2, 172.71.146.105, 10.29.200.4",Mozilla/5.0
 2026-07-04 18:23:36,open,20_close_email_palm_beach_plumbing__v1,20,close,email,palm_beach_plumbing__v1,"140.248.44.0, 172.71.146.108, 10.30.177.134",Mozilla/5.0
+2026-07-04 19:26:50,open,131_close_email_palm_beach_hvac__v1,131,close,email,palm_beach_hvac__v1,"104.28.39.128, 172.71.147.23, 10.30.242.198",Mozilla/5.0
+2026-07-04 19:26:50,open,154_close_email_palm_beach_pool__v1,154,close,email,palm_beach_pool__v1,"104.28.39.128, 172.71.146.113, 10.29.170.1",Mozilla/5.0
+2026-07-04 19:26:50,open,143_close_email_palm_beach_plumbing__v1,143,close,email,palm_beach_plumbing__v1,"104.28.39.128, 172.71.146.112, 10.25.56.3",Mozilla/5.0
+2026-07-04 19:26:50,open,133_close_email_palm_beach_hvac__v0,133,close,email,palm_beach_hvac__v0,"104.28.39.128, 172.71.146.112, 10.25.56.3",Mozilla/5.0
+2026-07-04 19:26:50,open,152_close_email_palm_beach_pool__v1,152,close,email,palm_beach_pool__v1,"104.28.39.128, 172.71.146.113, 10.30.177.134",Mozilla/5.0
