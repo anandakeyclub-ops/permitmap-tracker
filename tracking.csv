@@ -4159,3 +4159,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-05 04:55:41,open,684_close_email_osceola_hvac__v1,684,close,email,osceola_hvac__v1,"140.248.44.1, 172.71.146.116, 10.29.170.1",Mozilla/5.0
 2026-07-05 04:55:41,open,684_followup_1_osceola_hvac,684,followup,1,osceola_hvac,"140.248.44.1, 172.71.146.116, 10.30.177.134",Mozilla/5.0
 2026-07-05 04:55:41,open,684_followup_2_osceola_hvac,684,followup,2,osceola_hvac,"140.248.44.1, 172.68.12.91, 10.30.177.134",Mozilla/5.0
+2026-07-05 05:13:57,open,114_close_email_palm_beach_roofing__v1,114,close,email,palm_beach_roofing__v1,"172.225.24.51, 172.71.151.110, 10.29.170.1",Mozilla/5.0
