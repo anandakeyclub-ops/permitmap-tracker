@@ -4250,3 +4250,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-06 17:42:14,open,1455_first_outreach_palm_beach_roofing__v2,1455,first,outreach,palm_beach_roofing__v2,"104.28.48.175, 172.71.150.16, 10.29.146.47",Mozilla/5.0
 2026-07-06 18:33:15,open,73_close_email_martin_hvac__v1,73,close,email,martin_hvac__v1,"172.226.188.46, 172.71.150.17, 10.29.146.47",Mozilla/5.0
 2026-07-06 19:13:34,open,169_close_email_palm_beach_general_contractor__v1,169,close,email,palm_beach_general_contractor__v1,"140.248.44.0, 172.71.150.17, 10.29.146.47",Mozilla/5.0
+2026-07-06 19:57:21,open,1466_first_outreach_palm_beach_roofing__v2,1466,first,outreach,palm_beach_roofing__v2,"99.10.181.58, 172.71.147.2, 10.30.242.198","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0 OneOutlook/1.2026.623.400"
