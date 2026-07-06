@@ -4163,3 +4163,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-05 08:14:48,open,154_close_email_palm_beach_pool__v1,154,close,email,palm_beach_pool__v1,"140.248.44.0, 104.22.86.190, 10.30.242.198",Mozilla/5.0
 2026-07-05 16:43:52,open,658_followup_2_polk_general_contractor,658,followup,2,polk_general_contractor,"140.248.44.0, 172.71.150.229, 10.30.242.198",Mozilla/5.0
 2026-07-06 01:20:12,open,127_close_email_palm_beach_hvac__v1,127,close,email,palm_beach_hvac__v1,"104.28.39.128, 104.22.86.190, 10.30.177.134",Mozilla/5.0
+2026-07-06 02:19:47,open,1386_followup_2_alachua_hvac__v2,1386,followup,2,alachua_hvac__v2,"104.28.39.128, 172.71.146.126, 10.29.146.47",Mozilla/5.0
