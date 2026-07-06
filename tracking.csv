@@ -4245,3 +4245,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-06 16:34:21,open,66_close_email_martin_hvac__v1,66,close,email,martin_hvac__v1,"66.249.90.230, 162.159.106.187, 10.29.170.1","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-06 16:34:24,open,68_close_email_martin_hvac__v1,68,close,email,martin_hvac__v1,"66.249.90.230, 162.159.106.156, 10.30.177.134","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-06 17:15:31,open,133_close_email_palm_beach_hvac__v0,133,close,email,palm_beach_hvac__v0,"172.226.190.4, 172.71.151.228, 10.29.146.47",Mozilla/5.0
+2026-07-06 17:22:00,open,167_close_email_palm_beach_general_contractor__v1,167,close,email,palm_beach_general_contractor__v1,"172.226.190.0, 172.71.150.16, 10.29.146.47",Mozilla/5.0
