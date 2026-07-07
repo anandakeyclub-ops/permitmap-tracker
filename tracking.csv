@@ -4332,3 +4332,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-07 11:33:57,open,1826_first_outreach_hillsborough_roofing__v0,1826,first,outreach,hillsborough_roofing__v0,"66.249.90.229, 172.71.150.146, 10.29.146.47","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-07 11:54:06,open,1796_first_outreach_manatee_hvac__v0,1796,first,outreach,manatee_hvac__v0,"47.200.222.41, 172.71.151.221, 10.30.177.134",Mozilla/5.0
 2026-07-07 11:54:30,open,286_followup_2_palm_beach_hvac__v0,286,followup,2,palm_beach_hvac__v0,"69.147.87.55, 162.159.104.25, 10.30.242.198",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-07-07 14:32:39,open,289_followup_2_palm_beach_plumbing__v2,289,followup,2,palm_beach_plumbing__v2,"172.226.190.24, 172.71.146.117, 10.24.119.68",Mozilla/5.0
+2026-07-07 14:32:39,open,274_followup_2_palm_beach_hvac__v0,274,followup,2,palm_beach_hvac__v0,"172.226.190.24, 172.71.146.117, 10.24.119.68",Mozilla/5.0
+2026-07-07 14:32:39,open,280_followup_2_palm_beach_hvac__v1,280,followup,2,palm_beach_hvac__v1,"172.226.190.24, 172.71.150.54, 10.29.146.47",Mozilla/5.0
+2026-07-07 14:32:39,open,276_followup_2_palm_beach_hvac__v0,276,followup,2,palm_beach_hvac__v0,"172.226.190.24, 172.71.146.117, 10.29.146.47",Mozilla/5.0
+2026-07-07 14:32:39,open,287_followup_2_palm_beach_plumbing__v0,287,followup,2,palm_beach_plumbing__v0,"172.226.190.24, 172.71.150.54, 10.29.170.1",Mozilla/5.0
