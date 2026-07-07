@@ -4379,3 +4379,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-07 17:42:06,open,217_close_email_martin_plumbing__v1,217,close,email,martin_plumbing__v1,"172.226.188.10, 172.71.150.16, 10.29.92.131",Mozilla/5.0
 2026-07-07 17:42:06,open,214_close_email_martin_plumbing__v1,214,close,email,martin_plumbing__v1,"172.226.188.10, 172.71.150.16, 10.28.119.130",Mozilla/5.0
 2026-07-07 18:11:29,open,185_close_email_martin_roofing__v1,185,close,email,martin_roofing__v1,"73.179.195.27, 172.71.146.242, 10.25.38.4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0 OneOutlook/1.2026.623.400"
+2026-07-07 19:37:04,open,315_followup_2_palm_beach_pool__v1,315,followup,2,palm_beach_pool__v1,"24.90.103.139, 104.23.187.32, 10.25.38.4",Microsoft Office Outlook 2014
+2026-07-07 19:37:05,open,315_followup_2_palm_beach_pool__v1,315,followup,2,palm_beach_pool__v1,"24.90.103.139, 104.23.187.32, 10.25.38.4",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
