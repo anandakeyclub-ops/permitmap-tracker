@@ -4373,3 +4373,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-07 16:33:36,open,222_close_email_martin_plumbing__v2,222,close,email,martin_plumbing__v2,"72.153.153.1, 104.23.160.96, 10.28.73.2","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-07 16:33:37,open,252_followup_2_martin_general_contractor__v2,252,followup,2,martin_general_contractor__v2,"66.249.90.230, 172.71.151.109, 10.30.130.2","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-07 17:24:23,open,185_close_email_martin_roofing__v1,185,close,email,martin_roofing__v1,"73.179.195.27, 172.70.82.77, 10.28.119.130","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0 OneOutlook/1.2026.623.400"
+2026-07-07 17:42:05,open,220_close_email_martin_plumbing__v1,220,close,email,martin_plumbing__v1,"172.226.188.10, 172.71.150.16, 10.27.179.242",Mozilla/5.0
+2026-07-07 17:42:05,open,252_followup_2_martin_general_contractor__v2,252,followup,2,martin_general_contractor__v2,"172.226.188.10, 172.71.150.16, 10.27.179.242",Mozilla/5.0
+2026-07-07 17:42:05,open,213_close_email_martin_plumbing__v1,213,close,email,martin_plumbing__v1,"172.226.188.10, 172.71.150.17, 10.27.179.242",Mozilla/5.0
+2026-07-07 17:42:06,open,217_close_email_martin_plumbing__v1,217,close,email,martin_plumbing__v1,"172.226.188.10, 172.71.150.16, 10.29.92.131",Mozilla/5.0
+2026-07-07 17:42:06,open,214_close_email_martin_plumbing__v1,214,close,email,martin_plumbing__v1,"172.226.188.10, 172.71.150.16, 10.28.119.130",Mozilla/5.0
