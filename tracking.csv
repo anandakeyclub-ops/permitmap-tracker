@@ -4304,3 +4304,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-06 23:36:44,open,89_close_email_martin_pool__v1,89,close,email,martin_pool__v1,"140.248.44.1, 172.71.146.112, 10.29.170.1",Mozilla/5.0
 2026-07-06 23:36:44,open,102_followup_2_martin_general_contractor__v2,102,followup,2,martin_general_contractor__v2,"140.248.44.1, 172.71.151.210, 10.30.177.134",Mozilla/5.0
 2026-07-07 02:35:09,open,90_close_email_martin_pool__v1,90,close,email,martin_pool__v1,"172.226.190.22, 172.68.12.77, 10.29.200.4",Mozilla/5.0
+2026-07-07 07:55:26,open,1633_first_outreach_pasco_hvac__v0,1633,first,outreach,pasco_hvac__v0,"209.73.183.18, 172.70.80.181, 10.29.170.1",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
