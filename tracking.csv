@@ -4529,3 +4529,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 12:16:50,open,1377_close_email_alachua_roofing__v0,1377,close,email,alachua_roofing__v0,"140.248.44.1, 172.71.146.122, 10.28.73.2",Mozilla/5.0
 2026-07-08 12:34:59,open,1843_first_outreach_hillsborough_hvac__v2,1843,first,outreach,hillsborough_hvac__v2,"172.226.190.58, 172.71.146.113, 10.25.38.4",Mozilla/5.0
 2026-07-08 12:39:59,open,1438_close_email_alachua_general_contractor__v1,1438,close,email,alachua_general_contractor__v1,"172.226.87.3, 172.71.146.117, 10.28.68.1",Mozilla/5.0
+2026-07-08 12:42:22,open,657_followup_1_polk_general_contractor__v0,657,followup,1,polk_general_contractor__v0,"172.226.190.0, 172.71.146.108, 10.28.119.130",Mozilla/5.0
+2026-07-08 12:42:22,open,659_followup_1_polk_general_contractor__v1,659,followup,1,polk_general_contractor__v1,"172.226.190.0, 172.71.146.108, 10.31.104.183",Mozilla/5.0
+2026-07-08 12:42:22,open,666_followup_1_polk_general_contractor__v0,666,followup,1,polk_general_contractor__v0,"172.226.190.0, 172.71.146.109, 10.28.73.2",Mozilla/5.0
+2026-07-08 12:42:22,open,412_followup_1_martin_general_contractor__v0,412,followup,1,martin_general_contractor__v0,"172.226.190.0, 172.71.146.108, 10.31.104.183",Mozilla/5.0
+2026-07-08 12:42:22,open,397_followup_2_martin_pool__v0,397,followup,2,martin_pool__v0,"172.226.190.0, 172.71.146.108, 10.29.92.131",Mozilla/5.0
