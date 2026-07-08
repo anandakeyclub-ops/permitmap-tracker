@@ -4591,3 +4591,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 19:27:10,open,1573_first_outreach_lee_plumbing__v2,1573,first,outreach,lee_plumbing__v2,"2a06:98c0:3600::103,172.71.31.226, 172.71.150.98, 10.25.38.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-08 19:40:47,open,385_followup_2_martin_plumbing__v1,385,followup,2,martin_plumbing__v1,"87.248.114.212, 172.71.151.209, 10.29.92.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-08 19:41:51,open,433_followup_1_lee_roofing__v0,433,followup,1,lee_roofing__v0,"140.248.44.1, 172.71.146.116, 10.29.92.131",Mozilla/5.0
+2026-07-08 20:20:42,open,1502_first_outreach_palm_beach_pool__v2,1502,first,outreach,palm_beach_pool__v2,"200.152.162.144, 172.71.146.117, 10.26.106.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
