@@ -4585,3 +4585,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 18:03:08,open,1971_first_outreach_pinellas_roofing__v0,1971,first,outreach,pinellas_roofing__v0,"140.248.44.0, 172.71.146.109, 10.26.106.4",Mozilla/5.0
 2026-07-08 18:06:41,open,1962_first_outreach_alachua_general_contractor__v2,1962,first,outreach,alachua_general_contractor__v2,"198.251.71.185, 172.71.151.209, 10.31.104.183",OX App Suite HTTP client
 2026-07-08 18:06:41,open,1962_first_outreach_alachua_general_contractor__v2,1962,first,outreach,alachua_general_contractor__v2,"198.251.71.185, 172.68.150.46, 10.28.73.2",OX App Suite HTTP client
+2026-07-08 18:10:28,open,503_followup_1_lee_general_contractor__v1,503,followup,1,lee_general_contractor__v1,"140.248.44.0, 104.22.86.191, 10.28.119.130",Mozilla/5.0
