@@ -4538,3 +4538,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 14:11:03,open,1955_first_outreach_alachua_general_contractor__v2,1955,first,outreach,alachua_general_contractor__v2,"104.28.48.94, 172.71.150.16, 10.29.92.131",Mozilla/5.0
 2026-07-08 14:17:06,open,2055_first_outreach_sarasota_hvac__v2,2055,first,outreach,sarasota_hvac__v2,"47.201.52.144, 172.71.146.109, 10.28.119.130",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-07-08 14:55:49,open,1448_close_email_alachua_general_contractor__v1,1448,close,email,alachua_general_contractor__v1,"216.255.254.21, 172.71.151.209, 10.29.92.131",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-07-08 15:11:35,open,2045_first_outreach_sarasota_roofing__v2,2045,first,outreach,sarasota_roofing__v2,"47.205.71.192, 172.71.146.108, 10.31.104.183",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
