@@ -4415,3 +4415,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 00:33:02,open,259_followup_2_palm_beach_roofing__v1,259,followup,2,palm_beach_roofing__v1,"172.226.188.12, 172.71.151.209, 10.28.32.136",Mozilla/5.0
 2026-07-08 00:53:46,open,416_followup_1_martin_general_contractor__v0,416,followup,1,martin_general_contractor__v0,"140.248.44.1, 172.68.12.77, 10.29.92.131",Mozilla/5.0
 2026-07-08 01:19:36,open,221_close_email_martin_plumbing__v2,221,close,email,martin_plumbing__v2,"104.28.57.247, 172.71.146.248, 10.29.212.2",Mozilla/5.0
+2026-07-08 01:24:54,open,392_followup_2_martin_pool__v1,392,followup,2,martin_pool__v1,"140.248.44.0, 172.68.12.77, 10.29.92.131",Mozilla/5.0
