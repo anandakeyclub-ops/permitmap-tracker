@@ -4526,3 +4526,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 11:54:51,open,2181_first_outreach_miami_dade_roofing__v0,2181,first,outreach,miami_dade_roofing__v0,"66.249.90.229, 172.71.146.176, 10.25.38.4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-08 11:58:48,open,2013_first_outreach_pinellas_pool__v1,2013,first,outreach,pinellas_pool__v1,"172.226.188.20, 172.68.12.138, 10.25.38.4",Mozilla/5.0
 2026-07-08 12:05:15,open,1438_close_email_alachua_general_contractor__v1,1438,close,email,alachua_general_contractor__v1,"104.28.32.209, 172.71.146.86, 10.26.106.4",Mozilla/5.0
+2026-07-08 12:16:50,open,1377_close_email_alachua_roofing__v0,1377,close,email,alachua_roofing__v0,"140.248.44.1, 172.71.146.122, 10.28.73.2",Mozilla/5.0
