@@ -4592,3 +4592,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 19:40:47,open,385_followup_2_martin_plumbing__v1,385,followup,2,martin_plumbing__v1,"87.248.114.212, 172.71.151.209, 10.29.92.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-08 19:41:51,open,433_followup_1_lee_roofing__v0,433,followup,1,lee_roofing__v0,"140.248.44.1, 172.71.146.116, 10.29.92.131",Mozilla/5.0
 2026-07-08 20:20:42,open,1502_first_outreach_palm_beach_pool__v2,1502,first,outreach,palm_beach_pool__v2,"200.152.162.144, 172.71.146.117, 10.26.106.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-07-08 20:31:40,open,1545_first_outreach_lee_roofing__v2,1545,first,outreach,lee_roofing__v2,"73.156.180.254, 108.162.210.124, 10.26.106.4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
