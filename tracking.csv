@@ -4582,3 +4582,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 16:34:33,open,1577_first_outreach_lee_plumbing__v2,1577,first,outreach,lee_plumbing__v2,"74.179.68.9, 104.22.72.32, 10.29.92.131","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-08 16:37:54,open,1545_first_outreach_lee_roofing__v2,1545,first,outreach,lee_roofing__v2,"172.226.190.24, 172.71.151.87, 10.28.68.1",Mozilla/5.0
 2026-07-08 16:49:59,open,508_followup_1_lee_general_contractor__v2,508,followup,1,lee_general_contractor__v2,"69.147.86.139, 172.71.151.88, 10.25.38.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-07-08 18:03:08,open,1971_first_outreach_pinellas_roofing__v0,1971,first,outreach,pinellas_roofing__v0,"140.248.44.0, 172.71.146.109, 10.26.106.4",Mozilla/5.0
