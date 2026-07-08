@@ -4528,3 +4528,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 12:05:15,open,1438_close_email_alachua_general_contractor__v1,1438,close,email,alachua_general_contractor__v1,"104.28.32.209, 172.71.146.86, 10.26.106.4",Mozilla/5.0
 2026-07-08 12:16:50,open,1377_close_email_alachua_roofing__v0,1377,close,email,alachua_roofing__v0,"140.248.44.1, 172.71.146.122, 10.28.73.2",Mozilla/5.0
 2026-07-08 12:34:59,open,1843_first_outreach_hillsborough_hvac__v2,1843,first,outreach,hillsborough_hvac__v2,"172.226.190.58, 172.71.146.113, 10.25.38.4",Mozilla/5.0
+2026-07-08 12:39:59,open,1438_close_email_alachua_general_contractor__v1,1438,close,email,alachua_general_contractor__v1,"172.226.87.3, 172.71.146.117, 10.28.68.1",Mozilla/5.0
