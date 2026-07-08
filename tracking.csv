@@ -4535,3 +4535,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-08 12:42:22,open,412_followup_1_martin_general_contractor__v0,412,followup,1,martin_general_contractor__v0,"172.226.190.0, 172.71.146.108, 10.31.104.183",Mozilla/5.0
 2026-07-08 12:42:22,open,397_followup_2_martin_pool__v0,397,followup,2,martin_pool__v0,"172.226.190.0, 172.71.146.108, 10.29.92.131",Mozilla/5.0
 2026-07-08 13:15:53,open,319_followup_2_palm_beach_solar__v2,319,followup,2,palm_beach_solar__v2,"140.248.44.1, 172.71.147.6, 10.26.106.4",Mozilla/5.0
+2026-07-08 14:11:03,open,1955_first_outreach_alachua_general_contractor__v2,1955,first,outreach,alachua_general_contractor__v2,"104.28.48.94, 172.71.150.16, 10.29.92.131",Mozilla/5.0
