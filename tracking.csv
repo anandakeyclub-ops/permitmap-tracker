@@ -4672,3 +4672,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-09 17:14:40,open,580_followup_1_pasco_general_contractor__v0,580,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.146.46, 10.25.38.4",Mozilla/5.0
 2026-07-09 17:18:26,open,580_followup_1_pasco_general_contractor__v0,580,followup,1,pasco_general_contractor__v0,"172.226.188.1, 172.71.147.5, 10.26.106.4",Mozilla/5.0
 2026-07-09 17:23:04,open,1670_first_outreach_pasco_general_contractor__v2,1670,first,outreach,pasco_general_contractor__v2,"140.248.44.0, 104.23.248.20, 10.25.38.4",Mozilla/5.0
+2026-07-09 17:37:22,open,469_followup_1_lee_pool__v0,469,followup,1,lee_pool__v0,"140.248.44.1, 172.71.151.109, 10.25.38.4",Mozilla/5.0
+2026-07-09 17:37:22,open,471_followup_1_lee_pool__v1,471,followup,1,lee_pool__v1,"140.248.44.1, 172.70.82.77, 10.24.32.4",Mozilla/5.0
+2026-07-09 17:37:22,open,470_followup_1_lee_pool__v0,470,followup,1,lee_pool__v0,"140.248.44.1, 172.70.82.77, 10.28.73.2",Mozilla/5.0
