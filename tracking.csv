@@ -4679,3 +4679,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-09 18:25:36,open,1668_first_outreach_pasco_general_contractor__v2,1668,first,outreach,pasco_general_contractor__v2,"2a06:98c0:3600::103,172.68.22.217, 172.68.22.216, 10.26.106.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-09 18:26:21,open,1668_first_outreach_pasco_general_contractor__v2,1668,first,outreach,pasco_general_contractor__v2,"2a06:98c0:3600::103,172.68.22.216, 172.68.22.216, 10.26.106.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-09 18:33:20,open,1955_first_outreach_alachua_general_contractor__v2,1955,first,outreach,alachua_general_contractor__v2,"140.248.44.0, 172.71.147.2, 10.25.71.137",Mozilla/5.0
+2026-07-09 18:43:44,open,549_followup_1_pasco_plumbing__v1,549,followup,1,pasco_plumbing__v1,"140.248.44.1, 172.71.146.242, 10.25.38.4",Mozilla/5.0
