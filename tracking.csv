@@ -4645,3 +4645,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-09 12:36:21,open,455_followup_1_lee_plumbing__v0,455,followup,1,lee_plumbing__v0,"174.225.100.100, 172.71.146.124, 10.29.92.131","Mozilla/5.0 (Linux; Android 15; SM-G996U Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.159 Mobile Safari/537.36"
 2026-07-09 13:35:24,open,407_followup_2_martin_general_contractor__v1,407,followup,2,martin_general_contractor__v1,"69.147.92.147, 104.22.105.82, 10.25.71.137",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-09 13:40:30,open,2055_first_outreach_sarasota_hvac__v2,2055,first,outreach,sarasota_hvac__v2,"47.201.52.144, 172.71.147.2, 10.28.73.2",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-07-09 14:05:57,open,424_followup_1_lee_roofing__v0,424,followup,1,lee_roofing__v0,"140.248.44.0, 172.71.147.23, 10.29.92.131",Mozilla/5.0
+2026-07-09 14:05:57,open,475_followup_1_lee_pool__v0,475,followup,1,lee_pool__v0,"140.248.44.0, 172.71.146.243, 10.28.119.130",Mozilla/5.0
+2026-07-09 14:05:57,open,434_followup_1_lee_roofing__v0,434,followup,1,lee_roofing__v0,"140.248.44.0, 172.71.146.116, 10.26.106.4",Mozilla/5.0
+2026-07-09 14:05:57,open,422_followup_1_lee_roofing__v0,422,followup,1,lee_roofing__v0,"140.248.44.0, 172.71.146.117, 10.28.73.2",Mozilla/5.0
+2026-07-09 14:05:57,open,382_followup_2_martin_plumbing__v0,382,followup,2,martin_plumbing__v0,"140.248.44.0, 172.71.147.56, 10.28.73.2",Mozilla/5.0
