@@ -4631,3 +4631,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-09 08:41:06,open,684_close_email_osceola_hvac__v1,684,close,email,osceola_hvac__v1,"140.248.44.0, 104.23.248.101, 10.25.38.4",Mozilla/5.0
 2026-07-09 08:41:06,open,684_followup_2_osceola_hvac,684,followup,2,osceola_hvac,"140.248.44.0, 104.23.248.100, 10.28.119.130",Mozilla/5.0
 2026-07-09 09:01:25,open,1546_first_outreach_lee_roofing__v2,1546,first,outreach,lee_roofing__v2,"140.248.44.0, 104.23.248.101, 10.28.119.130",Mozilla/5.0
+2026-07-09 10:26:37,open,1282_followup_2_walton_general_contractor,1282,followup,2,walton_general_contractor,"74.244.143.30, 104.22.1.175, 10.28.119.130",Mozilla/5.0
