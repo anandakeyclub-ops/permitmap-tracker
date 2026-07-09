@@ -4628,3 +4628,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-09 00:40:22,open,1755_first_outreach_lake_general_contractor__v2,1755,first,outreach,lake_general_contractor__v2,"2a06:98c0:3600::103,104.22.1.64, 104.22.1.64, 10.28.119.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-09 02:13:29,open,319_followup_2_palm_beach_solar__v2,319,followup,2,palm_beach_solar__v2,"104.28.48.164, 172.71.146.112, 10.25.38.4",Mozilla/5.0
 2026-07-09 02:57:58,open,1377_close_email_alachua_roofing__v0,1377,close,email,alachua_roofing__v0,"172.226.188.19, 172.71.151.136, 10.29.92.131",Mozilla/5.0
+2026-07-09 08:41:06,open,684_close_email_osceola_hvac__v1,684,close,email,osceola_hvac__v1,"140.248.44.0, 104.23.248.101, 10.25.38.4",Mozilla/5.0
+2026-07-09 08:41:06,open,684_followup_2_osceola_hvac,684,followup,2,osceola_hvac,"140.248.44.0, 104.23.248.100, 10.28.119.130",Mozilla/5.0
