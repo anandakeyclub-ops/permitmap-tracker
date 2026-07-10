@@ -4704,3 +4704,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-10 01:56:56,open,651_followup_1_polk_pool__v0,651,followup,1,polk_pool__v0,"172.226.174.187, 172.71.151.87, 10.28.73.2",Mozilla/5.0
 2026-07-10 04:57:19,open,575_followup_1_pasco_solar__v0,575,followup,1,pasco_solar__v0,"140.248.44.0, 104.22.86.190, 10.29.92.131",Mozilla/5.0
 2026-07-10 05:26:28,open,580_followup_1_pasco_general_contractor__v0,580,followup,1,pasco_general_contractor__v0,"140.248.44.0, 172.71.146.65, 10.28.73.2",Mozilla/5.0
+2026-07-10 09:37:45,open,1662_first_outreach_pasco_plumbing__v2,1662,first,outreach,pasco_plumbing__v2,"69.147.93.95, 172.71.151.214, 10.28.119.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
