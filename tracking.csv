@@ -4693,3 +4693,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-09 22:13:00,open,1763_first_outreach_lake_general_contractor__v2,1763,first,outreach,lake_general_contractor__v2,"140.248.44.1, 172.71.151.170, 10.25.71.137",Mozilla/5.0
 2026-07-09 22:50:49,open,572_followup_1_pasco_solar__v0,572,followup,1,pasco_solar__v0,"172.226.137.3, 172.68.3.100, 10.26.106.4",Mozilla/5.0
 2026-07-09 23:08:44,open,375_followup_2_martin_hvac__v2,375,followup,2,martin_hvac__v2,"140.248.44.1, 172.71.150.99, 10.26.106.4",Mozilla/5.0
+2026-07-10 00:47:27,open,559_followup_1_pasco_pool__v0,559,followup,1,pasco_pool__v0,"140.248.44.1, 172.71.147.2, 10.26.106.4",Mozilla/5.0
+2026-07-10 00:47:27,open,541_followup_1_pasco_plumbing__v0,541,followup,1,pasco_plumbing__v0,"140.248.44.1, 172.71.147.6, 10.26.106.4",Mozilla/5.0
+2026-07-10 00:47:27,open,547_followup_1_pasco_plumbing__v0,547,followup,1,pasco_plumbing__v0,"140.248.44.1, 172.71.146.50, 10.29.87.129",Mozilla/5.0
+2026-07-10 00:47:27,open,557_followup_1_pasco_pool__v0,557,followup,1,pasco_pool__v0,"140.248.44.1, 172.71.146.254, 10.25.38.4",Mozilla/5.0
+2026-07-10 00:47:27,open,458_followup_1_lee_plumbing__v0,458,followup,1,lee_plumbing__v0,"140.248.44.1, 172.71.150.143, 10.25.71.137",Mozilla/5.0
