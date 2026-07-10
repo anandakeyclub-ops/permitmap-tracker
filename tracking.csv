@@ -4754,3 +4754,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-10 16:48:49,open,674_followup_1_osceola_roofing__v1,674,followup,1,osceola_roofing__v1,"140.248.44.1, 172.70.82.80, 10.25.71.137",Mozilla/5.0
 2026-07-10 17:22:40,open,621_followup_1_polk_hvac__v0,621,followup,1,polk_hvac__v0,"69.147.87.121, 162.159.106.156, 10.28.119.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-10 17:27:06,open,594_followup_1_polk_roofing__v0,594,followup,1,polk_roofing__v0,"140.248.44.1, 172.71.147.144, 10.28.73.2",Mozilla/5.0
+2026-07-10 17:57:03,open,740_followup_1_osceola_general_contractor__v0,740,followup,1,osceola_general_contractor__v0,"2a06:98c0:3600::103,172.68.12.91, 172.71.146.213, 10.25.71.137",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
