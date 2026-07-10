@@ -4698,3 +4698,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-10 00:47:27,open,547_followup_1_pasco_plumbing__v0,547,followup,1,pasco_plumbing__v0,"140.248.44.1, 172.71.146.50, 10.29.87.129",Mozilla/5.0
 2026-07-10 00:47:27,open,557_followup_1_pasco_pool__v0,557,followup,1,pasco_pool__v0,"140.248.44.1, 172.71.146.254, 10.25.38.4",Mozilla/5.0
 2026-07-10 00:47:27,open,458_followup_1_lee_plumbing__v0,458,followup,1,lee_plumbing__v0,"140.248.44.1, 172.71.150.143, 10.25.71.137",Mozilla/5.0
+2026-07-10 01:03:49,open,326_followup_2_palm_beach_solar__v0,326,followup,2,palm_beach_solar__v0,"172.226.2.112, 104.23.160.155, 10.25.38.4",Mozilla/5.0
+2026-07-10 01:04:33,open,1605_first_outreach_lee_general_contractor__v2,1605,first,outreach,lee_general_contractor__v2,"2a06:98c0:3600::103,104.23.248.113, 172.71.146.57, 10.29.92.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
