@@ -4726,3 +4726,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-10 12:26:39,open,104_close_email_martin_general_contractor__v2,104,close,email,martin_general_contractor__v2,"172.226.188.27, 172.71.147.5, 10.29.92.131",Mozilla/5.0
 2026-07-10 13:26:06,open,1591_first_outreach_lee_pool__v2,1591,first,outreach,lee_pool__v2,"172.226.188.59, 172.71.150.127, 10.29.92.131",Mozilla/5.0
 2026-07-10 13:34:28,open,128_followup_2_palm_beach_hvac__v0,128,followup,2,palm_beach_hvac__v0,"74.125.213.33, 104.22.56.73, 10.25.38.4",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-07-10 13:46:22,open,574_followup_1_pasco_solar__v0,574,followup,1,pasco_solar__v0,"140.248.44.1, 172.71.146.242, 10.25.71.137",Mozilla/5.0
