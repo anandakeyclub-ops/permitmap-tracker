@@ -4778,3 +4778,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-11 08:50:50,open,684_followup_2_osceola_hvac,684,followup,2,osceola_hvac,"140.248.44.0, 172.71.150.108, 10.28.73.2",Mozilla/5.0
 2026-07-11 08:50:50,open,684_close_email_osceola_hvac__v1,684,close,email,osceola_hvac__v1,"140.248.44.0, 172.71.151.74, 10.29.92.131",Mozilla/5.0
 2026-07-11 10:20:48,open,640_followup_1_polk_pool__v0,640,followup,1,polk_pool__v0,"209.73.183.39, 172.71.151.229, 10.28.119.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-07-11 10:53:14,open,196_close_email_martin_roofing,196,close,email,martin_roofing,"74.125.213.35, 172.71.146.138, 10.26.106.4",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
