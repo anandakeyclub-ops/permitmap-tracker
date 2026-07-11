@@ -4807,3 +4807,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-11 16:45:28,open,522_followup_2_pasco_roofing__v2,522,followup,2,pasco_roofing__v2,"66.249.90.229, 198.41.227.193, 10.25.38.4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-11 16:53:05,open,256_close_email_martin_general_contractor__v1,256,close,email,martin_general_contractor__v1,"2a06:98c0:3600::103,104.22.62.82, 172.71.146.249, 10.29.92.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-11 16:55:40,open,1335_followup_2_marion_pool,1335,followup,2,marion_pool,"140.248.44.0, 104.22.86.37, 10.29.92.131",Mozilla/5.0
+2026-07-11 17:04:13,open,271_close_email_palm_beach_roofing__v1,271,close,email,palm_beach_roofing__v1,"69.147.93.139, 172.71.150.229, 10.26.106.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
