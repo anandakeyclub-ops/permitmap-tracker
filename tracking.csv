@@ -4808,3 +4808,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-11 16:53:05,open,256_close_email_martin_general_contractor__v1,256,close,email,martin_general_contractor__v1,"2a06:98c0:3600::103,104.22.62.82, 172.71.146.249, 10.29.92.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-11 16:55:40,open,1335_followup_2_marion_pool,1335,followup,2,marion_pool,"140.248.44.0, 104.22.86.37, 10.29.92.131",Mozilla/5.0
 2026-07-11 17:04:13,open,271_close_email_palm_beach_roofing__v1,271,close,email,palm_beach_roofing__v1,"69.147.93.139, 172.71.150.229, 10.26.106.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-07-11 17:07:28,open,729_followup_1_osceola_general_contractor__v0,729,followup,1,osceola_general_contractor__v0,"140.248.44.0, 172.71.146.57, 10.29.92.131",Mozilla/5.0
+2026-07-11 17:07:28,open,733_followup_1_osceola_general_contractor__v0,733,followup,1,osceola_general_contractor__v0,"140.248.44.0, 172.71.146.57, 10.25.38.4",Mozilla/5.0
+2026-07-11 17:07:28,open,687_followup_1_osceola_hvac__v0,687,followup,1,osceola_hvac__v0,"140.248.44.0, 172.71.147.5, 10.25.38.4",Mozilla/5.0
+2026-07-11 17:07:28,open,671_followup_1_osceola_roofing__v0,671,followup,1,osceola_roofing__v0,"140.248.44.0, 172.71.151.11, 10.29.80.4",Mozilla/5.0
+2026-07-11 17:07:28,open,694_followup_1_osceola_hvac__v2,694,followup,1,osceola_hvac__v2,"140.248.44.0, 172.71.146.249, 10.28.119.130",Mozilla/5.0
