@@ -4824,3 +4824,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-11 20:10:54,open,314_first_outreach_palm_beach_pool__v1,314,first,outreach,palm_beach_pool__v1,"172.226.190.34, 172.71.147.23, 10.29.80.4",Mozilla/5.0
 2026-07-11 20:26:49,open,286_close_email_palm_beach_hvac__v1,286,close,email,palm_beach_hvac__v1,"2a06:98c0:3600::103,104.22.1.64, 172.71.151.210, 10.28.73.2",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-11 20:31:49,open,267_close_email_palm_beach_roofing__v1,267,close,email,palm_beach_roofing__v1,"172.226.188.28, 104.22.86.37, 10.28.73.2",Mozilla/5.0
+2026-07-11 21:07:01,open,1774_first_outreach_st_johns_general_contractor__v0,1774,first,outreach,st_johns_general_contractor__v0,"76.109.2.157, 172.71.147.5, 10.26.106.4",Mozilla/5.0
