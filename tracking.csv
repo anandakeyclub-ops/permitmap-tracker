@@ -4819,3 +4819,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-11 19:39:47,open,529_followup_2_pasco_hvac__v2,529,followup,2,pasco_hvac__v2,"140.248.44.1, 172.71.147.6, 10.26.106.4",Mozilla/5.0
 2026-07-11 19:39:47,open,514_followup_2_pasco_roofing__v2,514,followup,2,pasco_roofing__v2,"140.248.44.1, 172.71.147.5, 10.26.106.4",Mozilla/5.0
 2026-07-11 19:39:47,open,255_close_email_martin_general_contractor__v1,255,close,email,martin_general_contractor__v1,"140.248.44.1, 172.71.146.249, 10.25.38.4",Mozilla/5.0
+2026-07-11 19:44:41,open,526_followup_2_pasco_hvac__v0,526,followup,2,pasco_hvac__v0,"140.248.44.1, 172.71.151.87, 10.28.119.130",Mozilla/5.0
