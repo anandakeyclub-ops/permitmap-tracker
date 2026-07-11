@@ -4782,3 +4782,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-11 12:17:49,open,1725_first_outreach_osceola_general_contractor__v2,1725,first,outreach,osceola_general_contractor__v2,"69.147.87.185, 162.159.104.192, 10.28.119.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-11 12:35:35,open,1725_first_outreach_osceola_general_contractor__v2,1725,first,outreach,osceola_general_contractor__v2,"2a06:98c0:3600::103,104.23.248.113, 172.71.150.74, 10.28.73.2",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-11 12:35:35,open,1652_first_outreach_pasco_plumbing__v2,1652,first,outreach,pasco_plumbing__v2,"172.226.190.37, 172.71.146.56, 10.26.106.4",Mozilla/5.0
+2026-07-11 13:45:28,open,679_followup_1_osceola_roofing__v0,679,followup,1,osceola_roofing__v0,"140.248.44.0, 172.68.12.91, 10.26.106.4",Mozilla/5.0
