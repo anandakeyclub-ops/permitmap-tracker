@@ -4826,3 +4826,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-11 20:31:49,open,267_close_email_palm_beach_roofing__v1,267,close,email,palm_beach_roofing__v1,"172.226.188.28, 104.22.86.37, 10.28.73.2",Mozilla/5.0
 2026-07-11 21:07:01,open,1774_first_outreach_st_johns_general_contractor__v0,1774,first,outreach,st_johns_general_contractor__v0,"76.109.2.157, 172.71.147.5, 10.26.106.4",Mozilla/5.0
 2026-07-11 21:52:08,open,658_first_outreach_polk_general_contractor__v0,658,first,outreach,polk_general_contractor__v0,"140.248.44.1, 172.70.82.77, 10.29.92.131",Mozilla/5.0
+2026-07-11 23:16:52,open,259_close_email_palm_beach_roofing__v2,259,close,email,palm_beach_roofing__v2,"172.225.246.44, 172.71.151.210, 10.29.80.4",Mozilla/5.0
