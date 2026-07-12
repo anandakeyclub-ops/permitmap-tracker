@@ -4829,3 +4829,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-11 23:16:52,open,259_close_email_palm_beach_roofing__v2,259,close,email,palm_beach_roofing__v2,"172.225.246.44, 172.71.151.210, 10.29.80.4",Mozilla/5.0
 2026-07-11 23:30:31,open,658_followup_1_polk_general_contractor__v0,658,followup,1,polk_general_contractor__v0,"140.248.44.1, 104.22.86.36, 10.26.106.4",Mozilla/5.0
 2026-07-12 02:58:38,open,257_close_email_palm_beach_roofing__v2,257,close,email,palm_beach_roofing__v2,"172.226.190.59, 104.22.86.37, 10.29.80.4",Mozilla/5.0
+2026-07-12 18:19:12,open,1472_first_outreach_palm_beach_hvac__v2,1472,first,outreach,palm_beach_hvac__v2,"69.147.86.73, 198.41.227.192, 10.26.106.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
