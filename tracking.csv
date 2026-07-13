@@ -140,3 +140,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 17:00:11,open,1542_followup_1_martin_general_contractor__v0,1542,followup,1,martin_general_contractor__v0,"16.56.19.79, 104.22.24.33, 10.28.119.130",Mozilla/5.0
 2026-07-13 17:07:57,open,1277_first_outreach_walton_general_contractor__v2,1277,first,outreach,walton_general_contractor__v2,"146.75.248.0, 104.22.24.32, 10.28.119.130",Mozilla/5.0
 2026-07-13 17:08:22,open,392_close_email_martin_pool__v1,392,close,email,martin_pool__v1,"172.226.188.51, 104.22.86.102, 10.29.92.131",Mozilla/5.0
+2026-07-13 17:52:02,open,1470_followup_1_palm_beach_hvac__v0,1470,followup,1,palm_beach_hvac__v0,"172.226.188.58, 172.68.12.91, 10.28.73.2",Mozilla/5.0
