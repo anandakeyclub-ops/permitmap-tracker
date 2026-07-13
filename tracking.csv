@@ -1,3 +1,7 @@
 timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-12 20:32:55,open,1591_first_outreach_lee_pool__v2,1591,first,outreach,lee_pool__v2,"140.248.44.0, 104.22.86.37, 10.30.209.136",Mozilla/5.0
 2026-07-13 04:52:35,open,213_close_email_martin_plumbing__v1,213,close,email,martin_plumbing__v1,"104.28.48.168, 104.22.86.36, 10.29.92.131",Mozilla/5.0
+2026-07-13 11:31:33,open,309_close_email_palm_beach_pool__v1,309,close,email,palm_beach_pool__v1,"66.249.90.230, 172.71.174.252, 10.29.92.131","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-13 11:31:34,open,308_close_email_palm_beach_pool__v2,308,close,email,palm_beach_pool__v2,"66.249.90.230, 172.71.174.252, 10.29.92.131","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-13 11:31:36,open,310_close_email_palm_beach_pool__v2,310,close,email,palm_beach_pool__v2,"66.249.90.230, 172.71.174.252, 10.29.92.131","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-13 11:31:45,open,314_close_email_palm_beach_pool__v2,314,close,email,palm_beach_pool__v2,"66.249.90.230, 172.71.174.252, 10.29.92.131","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
