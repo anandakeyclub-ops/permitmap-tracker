@@ -145,3 +145,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 18:12:02,open,1560_followup_1_lee_hvac__v0,1560,followup,1,lee_hvac__v0,"69.147.86.72, 172.71.146.248, 10.29.92.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-13 18:31:24,open,1482_followup_1_palm_beach_hvac__v0,1482,followup,1,palm_beach_hvac__v0,"69.147.95.11, 172.71.146.50, 10.28.119.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-13 18:49:27,open,1564_followup_1_lee_hvac__v2,1564,followup,1,lee_hvac__v2,"140.248.44.1, 104.23.248.20, 10.26.106.4",Mozilla/5.0
+2026-07-13 19:07:37,open,398_close_email_martin_pool__v1,398,close,email,martin_pool__v1,"2a06:98c0:3600::103,104.23.245.128, 104.23.245.129, 10.25.38.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
