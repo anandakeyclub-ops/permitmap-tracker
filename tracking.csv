@@ -151,3 +151,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 19:19:53,open,1470_followup_1_palm_beach_hvac__v0,1470,followup,1,palm_beach_hvac__v0,"69.147.93.139, 172.71.146.43, 10.29.92.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-13 19:28:47,open,392_close_email_martin_pool__v1,392,close,email,martin_pool__v1,"140.248.44.1, 172.68.12.91, 10.29.92.131",Mozilla/5.0
 2026-07-13 19:34:01,open,1744_first_outreach_lake_hvac__v2,1744,first,outreach,lake_hvac__v2,"172.226.188.5, 172.70.83.119, 10.30.209.136",Mozilla/5.0
+2026-07-13 20:19:57,open,1958_first_outreach_alachua_general_contractor__v2,1958,first,outreach,alachua_general_contractor__v2,"104.28.39.128, 172.71.150.246, 10.25.38.4",Mozilla/5.0
