@@ -17,3 +17,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 13:37:29,open,1453_followup_1_palm_beach_roofing__v0,1453,followup,1,palm_beach_roofing__v0,"140.248.44.1, 172.71.150.174, 10.25.38.4",Mozilla/5.0
 2026-07-13 13:37:29,open,330_close_email_palm_beach_solar__v2,330,close,email,palm_beach_solar__v2,"140.248.44.1, 172.71.151.89, 10.25.38.4",Mozilla/5.0
 2026-07-13 13:37:29,open,1454_followup_1_palm_beach_roofing__v0,1454,followup,1,palm_beach_roofing__v0,"140.248.44.1, 172.71.150.49, 10.28.73.2",Mozilla/5.0
+2026-07-13 13:37:32,open,315_close_email_palm_beach_pool__v1,315,close,email,palm_beach_pool__v1,"140.248.44.1, 172.68.12.90, 10.31.47.130",Mozilla/5.0
+2026-07-13 13:37:32,open,331_close_email_palm_beach_solar__v1,331,close,email,palm_beach_solar__v1,"140.248.44.1, 172.68.12.76, 10.29.92.131",Mozilla/5.0
+2026-07-13 13:37:32,open,302_close_email_palm_beach_pool__v1,302,close,email,palm_beach_pool__v1,"140.248.44.1, 172.68.12.77, 10.29.92.131",Mozilla/5.0
+2026-07-13 13:37:32,open,313_close_email_palm_beach_pool__v1,313,close,email,palm_beach_pool__v1,"140.248.44.1, 172.68.12.76, 10.28.119.130",Mozilla/5.0
+2026-07-13 13:37:32,open,317_close_email_palm_beach_solar__v1,317,close,email,palm_beach_solar__v1,"140.248.44.1, 172.68.12.77, 10.28.73.2",Mozilla/5.0
