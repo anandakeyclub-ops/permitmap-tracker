@@ -136,3 +136,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 16:43:24,open,1535_followup_1_martin_general_contractor__v0,1535,followup,1,martin_general_contractor__v0,"166.198.144.163, 172.71.146.57, 10.31.47.130","Mozilla/5.0 (Linux; Android 16; SM-S918U Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.159 Mobile Safari/537.36"
 2026-07-13 16:44:55,open,1911_first_outreach_walton_general_contractor__v2,1911,first,outreach,walton_general_contractor__v2,"172.225.246.20, 104.23.245.129, 10.31.47.130",Mozilla/5.0
 2026-07-13 16:52:13,open,1525_followup_1_palm_beach_general_contractor__v0,1525,followup,1,palm_beach_general_contractor__v0,"69.147.94.143, 172.71.151.169, 10.30.209.136",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-07-13 16:59:09,open,1741_first_outreach_lake_hvac__v2,1741,first,outreach,lake_hvac__v2,"104.28.32.92, 172.70.82.77, 10.26.106.4",Mozilla/5.0
+2026-07-13 17:00:11,open,1542_followup_1_martin_general_contractor__v0,1542,followup,1,martin_general_contractor__v0,"16.56.19.79, 104.22.24.33, 10.28.119.130",Mozilla/5.0
