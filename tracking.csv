@@ -148,3 +148,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 19:07:37,open,398_close_email_martin_pool__v1,398,close,email,martin_pool__v1,"2a06:98c0:3600::103,104.23.245.128, 104.23.245.129, 10.25.38.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-13 19:10:58,open,1466_followup_1_palm_beach_roofing__v0,1466,followup,1,palm_beach_roofing__v0,"140.248.44.0, 104.23.248.113, 10.28.73.2",Mozilla/5.0
 2026-07-13 19:12:31,open,1915_first_outreach_walton_general_contractor__v2,1915,first,outreach,walton_general_contractor__v2,"146.75.232.1, 104.23.245.129, 10.28.73.2",Mozilla/5.0
+2026-07-13 19:19:53,open,1470_followup_1_palm_beach_hvac__v0,1470,followup,1,palm_beach_hvac__v0,"69.147.93.139, 172.71.146.43, 10.29.92.131",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
