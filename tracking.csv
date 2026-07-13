@@ -42,3 +42,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 13:42:37,open,1570_followup_1_lee_hvac__v0,1570,followup,1,lee_hvac__v0,"140.248.44.1, 172.70.82.80, 10.29.92.131",Mozilla/5.0
 2026-07-13 13:42:37,open,1562_followup_1_lee_hvac__v0,1562,followup,1,lee_hvac__v0,"140.248.44.1, 172.70.82.80, 10.25.38.4",Mozilla/5.0
 2026-07-13 14:03:19,open,1564_followup_1_lee_hvac__v2,1564,followup,1,lee_hvac__v2,"140.248.44.1, 172.70.82.80, 10.25.38.4",Mozilla/5.0
+2026-07-13 14:23:47,open,1454_followup_1_palm_beach_roofing__v0,1454,followup,1,palm_beach_roofing__v0,"140.248.44.1, 172.68.12.77, 10.30.209.136",Mozilla/5.0
