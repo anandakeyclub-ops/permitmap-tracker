@@ -28,3 +28,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 13:37:30,open,1560_followup_1_lee_hvac__v0,1560,followup,1,lee_hvac__v0,"140.248.44.1, 172.68.12.77, 10.31.47.130",Mozilla/5.0
 2026-07-13 13:37:30,open,1568_followup_1_lee_hvac__v0,1568,followup,1,lee_hvac__v0,"140.248.44.1, 172.68.12.77, 10.29.92.131",Mozilla/5.0
 2026-07-13 13:37:30,open,1455_followup_1_palm_beach_roofing__v0,1455,followup,1,palm_beach_roofing__v0,"140.248.44.1, 172.68.12.77, 10.25.38.4",Mozilla/5.0
+2026-07-13 13:42:34,open,1569_followup_1_lee_hvac__v0,1569,followup,1,lee_hvac__v0,"140.248.44.1, 172.71.147.2, 10.30.209.136",Mozilla/5.0
+2026-07-13 13:42:34,open,1567_followup_1_lee_hvac__v0,1567,followup,1,lee_hvac__v0,"140.248.44.1, 172.71.146.56, 10.26.106.4",Mozilla/5.0
+2026-07-13 13:42:34,open,1561_followup_1_lee_hvac__v0,1561,followup,1,lee_hvac__v0,"140.248.44.1, 172.71.147.6, 10.28.73.2",Mozilla/5.0
