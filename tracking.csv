@@ -199,3 +199,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-13 21:06:00,open,1508_followup_1_palm_beach_pool__v0,1508,followup,1,palm_beach_pool__v0,"2a06:98c0:3600::103,104.23.245.129, 104.23.245.129, 10.30.209.136",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-13 21:06:32,open,371_close_email_martin_hvac__v2,371,close,email,martin_hvac__v2,"172.226.190.48, 104.23.248.113, 10.30.166.5",Mozilla/5.0
 2026-07-13 21:27:42,open,1470_followup_1_palm_beach_hvac__v0,1470,followup,1,palm_beach_hvac__v0,"140.248.44.0, 172.68.12.77, 10.28.73.2",Mozilla/5.0
+2026-07-13 21:40:03,open,1673_first_outreach_pasco_general_contractor__v2,1673,first,outreach,pasco_general_contractor__v2,"104.28.39.128, 172.71.147.5, 10.30.209.136",Mozilla/5.0
