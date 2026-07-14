@@ -286,3 +286,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-14 17:29:55,open,558_followup_2_pasco_pool__v2,558,followup,2,pasco_pool__v2,"2a06:98c0:3600::103,104.23.248.35, 104.23.248.197, 10.28.119.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-14 17:47:14,open,658_followup_2_polk_general_contractor__v2,658,followup,2,polk_general_contractor__v2,"140.248.44.1, 104.23.248.34, 10.26.106.4",Mozilla/5.0
 2026-07-14 18:56:58,open,1958_followup_1_alachua_general_contractor__v0,1958,followup,1,alachua_general_contractor__v0,"104.28.39.128, 172.71.150.89, 10.29.92.131",Mozilla/5.0
+2026-07-14 19:04:19,open,90_close_email_martin_pool__v1,90,close,email,martin_pool__v1,"146.75.236.0, 172.71.147.24, 10.25.38.4",Mozilla/5.0
