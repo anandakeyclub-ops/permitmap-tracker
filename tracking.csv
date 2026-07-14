@@ -334,3 +334,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-14 20:50:49,open,1288_followup_1_marion_roofing__v0,1288,followup,1,marion_roofing__v0,"66.249.90.230, 162.159.106.157, 10.28.73.2","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-14 20:56:13,open,1554_followup_1_lee_roofing__v0,1554,followup,1,lee_roofing__v0,"140.248.44.1, 104.23.248.33, 10.26.106.4",Mozilla/5.0
 2026-07-14 21:07:49,open,539_followup_2_pasco_hvac__v2,539,followup,2,pasco_hvac__v2,"104.28.39.128, 172.71.151.136, 10.31.47.130",Mozilla/5.0
+2026-07-14 22:55:20,open,1455_followup_1_palm_beach_roofing__v0,1455,followup,1,palm_beach_roofing__v0,"146.75.136.1, 104.22.72.63, 10.28.119.130",Mozilla/5.0
