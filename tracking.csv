@@ -213,3 +213,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-14 02:49:18,open,316_close_email_palm_beach_pool__v1,316,close,email,palm_beach_pool__v1,"104.28.39.128, 172.71.147.5, 10.31.47.130",Mozilla/5.0
 2026-07-14 03:09:29,open,392_close_email_martin_pool__v1,392,close,email,martin_pool__v1,"140.248.44.0, 104.23.248.21, 10.30.209.136",Mozilla/5.0
 2026-07-14 04:09:08,open,416_followup_2_martin_general_contractor__v2,416,followup,2,martin_general_contractor__v2,"140.248.44.1, 172.71.146.50, 10.26.106.4",Mozilla/5.0
+2026-07-14 12:08:51,open,1498_followup_1_palm_beach_pool__v0,1498,followup,1,palm_beach_pool__v0,"69.147.93.14, 172.71.146.112, 10.28.119.130",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
