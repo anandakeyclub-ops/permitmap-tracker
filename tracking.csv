@@ -209,3 +209,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-14 01:14:58,open,1468_followup_1_palm_beach_hvac__v2,1468,followup,1,palm_beach_hvac__v2,"172.226.190.0, 172.68.12.91, 10.26.106.4",Mozilla/5.0
 2026-07-14 01:33:25,open,658_followup_2_polk_general_contractor__v2,658,followup,2,polk_general_contractor__v2,"140.248.44.1, 172.68.12.91, 10.29.92.131",Mozilla/5.0
 2026-07-14 02:01:02,open,315_close_email_palm_beach_pool__v1,315,close,email,palm_beach_pool__v1,"104.28.48.213, 172.71.147.5, 10.29.92.131",Mozilla/5.0
+2026-07-14 02:16:20,open,1493_followup_1_palm_beach_plumbing__v0,1493,followup,1,palm_beach_plumbing__v0,"172.226.188.26, 104.22.86.36, 10.31.47.130",Mozilla/5.0
