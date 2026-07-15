@@ -338,3 +338,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-15 00:05:42,open,1412_followup_2_alachua_plumbing__v0,1412,followup,2,alachua_plumbing__v0,"140.248.44.1, 172.71.146.43, 10.24.36.2",Mozilla/5.0
 2026-07-15 00:32:52,open,1412_first_outreach_alachua_plumbing__v0,1412,first,outreach,alachua_plumbing__v0,"140.248.44.1, 172.71.150.55, 10.29.77.3",Mozilla/5.0
 2026-07-15 00:33:23,open,1412_followup_1_alachua_plumbing__v0,1412,followup,1,alachua_plumbing__v0,"140.248.44.1, 172.71.151.109, 10.24.44.129",Mozilla/5.0
+2026-07-15 00:36:25,open,1813_first_outreach_manatee_general_contractor__v0,1813,first,outreach,manatee_general_contractor__v0,"172.226.188.12, 172.71.150.223, 10.26.79.10",Mozilla/5.0
+2026-07-15 00:37:22,open,698_followup_2_osceola_plumbing__v2,698,followup,2,osceola_plumbing__v2,"172.226.190.42, 172.71.150.223, 10.26.79.10",Mozilla/5.0
+2026-07-15 00:37:22,open,655_followup_2_polk_general_contractor__v2,655,followup,2,polk_general_contractor__v2,"172.226.190.42, 172.71.150.223, 10.26.79.10",Mozilla/5.0
+2026-07-15 00:37:22,open,700_followup_2_osceola_plumbing__v1,700,followup,2,osceola_plumbing__v1,"172.226.190.42, 172.71.146.43, 10.24.139.4",Mozilla/5.0
+2026-07-15 00:37:22,open,1626_followup_1_pasco_roofing__v0,1626,followup,1,pasco_roofing__v0,"172.226.190.42, 172.71.146.50, 10.24.74.7",Mozilla/5.0
+2026-07-15 00:37:22,open,1643_followup_1_pasco_hvac__v0,1643,followup,1,pasco_hvac__v0,"172.226.190.42, 172.71.146.47, 10.26.2.130",Mozilla/5.0
