@@ -344,3 +344,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-15 00:37:22,open,700_followup_2_osceola_plumbing__v1,700,followup,2,osceola_plumbing__v1,"172.226.190.42, 172.71.146.43, 10.24.139.4",Mozilla/5.0
 2026-07-15 00:37:22,open,1626_followup_1_pasco_roofing__v0,1626,followup,1,pasco_roofing__v0,"172.226.190.42, 172.71.146.50, 10.24.74.7",Mozilla/5.0
 2026-07-15 00:37:22,open,1643_followup_1_pasco_hvac__v0,1643,followup,1,pasco_hvac__v0,"172.226.190.42, 172.71.146.47, 10.26.2.130",Mozilla/5.0
+2026-07-15 00:37:26,open,379_close_email_martin_plumbing__v1,379,close,email,martin_plumbing__v1,"172.226.190.42, 104.23.248.112, 10.30.231.1",Mozilla/5.0
+2026-07-15 00:37:26,open,377_close_email_martin_plumbing__v1,377,close,email,martin_plumbing__v1,"172.226.190.42, 172.71.151.43, 10.26.2.130",Mozilla/5.0
+2026-07-15 00:37:26,open,705_followup_2_osceola_plumbing__v2,705,followup,2,osceola_plumbing__v2,"172.226.190.42, 104.23.248.113, 10.24.74.7",Mozilla/5.0
+2026-07-15 00:37:26,open,1647_followup_1_pasco_hvac__v0,1647,followup,1,pasco_hvac__v0,"172.226.190.42, 104.23.248.112, 10.26.79.10",Mozilla/5.0
+2026-07-15 00:37:26,open,375_close_email_martin_hvac__v2,375,close,email,martin_hvac__v2,"172.226.190.42, 172.71.146.43, 10.24.44.129",Mozilla/5.0
