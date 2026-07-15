@@ -479,3 +479,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-15 13:24:42,open,2157_followup_1_volusia_plumbing__v0,2157,followup,1,volusia_plumbing__v0,"2a06:98c0:3600::103,104.22.1.65, 172.71.150.16, 10.30.231.1",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-15 13:28:12,open,2097_followup_1_sarasota_pool__v0,2097,followup,1,sarasota_pool__v0,"147.93.149.98, 172.71.147.6, 10.24.69.58","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 2026-07-15 13:32:02,open,2045_followup_1_sarasota_roofing__v0,2045,followup,1,sarasota_roofing__v0,"140.248.44.0, 172.68.12.76, 10.24.74.7",Mozilla/5.0
+2026-07-15 18:17:26,open,668_followup_2_osceola_roofing__v2,668,followup,2,osceola_roofing__v2,"216.24.219.200, 172.70.82.77",Mozilla/5.0
