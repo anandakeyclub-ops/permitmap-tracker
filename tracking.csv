@@ -336,3 +336,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-14 21:07:49,open,539_followup_2_pasco_hvac__v2,539,followup,2,pasco_hvac__v2,"104.28.39.128, 172.71.151.136, 10.31.47.130",Mozilla/5.0
 2026-07-14 22:55:20,open,1455_followup_1_palm_beach_roofing__v0,1455,followup,1,palm_beach_roofing__v0,"146.75.136.1, 104.22.72.63, 10.28.119.130",Mozilla/5.0
 2026-07-15 00:05:42,open,1412_followup_2_alachua_plumbing__v0,1412,followup,2,alachua_plumbing__v0,"140.248.44.1, 172.71.146.43, 10.24.36.2",Mozilla/5.0
+2026-07-15 00:32:52,open,1412_first_outreach_alachua_plumbing__v0,1412,first,outreach,alachua_plumbing__v0,"140.248.44.1, 172.71.150.55, 10.29.77.3",Mozilla/5.0
+2026-07-15 00:33:23,open,1412_followup_1_alachua_plumbing__v0,1412,followup,1,alachua_plumbing__v0,"140.248.44.1, 172.71.151.109, 10.24.44.129",Mozilla/5.0
