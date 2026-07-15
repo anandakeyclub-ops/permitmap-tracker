@@ -349,3 +349,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-15 00:37:26,open,705_followup_2_osceola_plumbing__v2,705,followup,2,osceola_plumbing__v2,"172.226.190.42, 104.23.248.113, 10.24.74.7",Mozilla/5.0
 2026-07-15 00:37:26,open,1647_followup_1_pasco_hvac__v0,1647,followup,1,pasco_hvac__v0,"172.226.190.42, 104.23.248.112, 10.26.79.10",Mozilla/5.0
 2026-07-15 00:37:26,open,375_close_email_martin_hvac__v2,375,close,email,martin_hvac__v2,"172.226.190.42, 172.71.146.43, 10.24.44.129",Mozilla/5.0
+2026-07-15 00:37:32,open,1829_followup_1_hillsborough_hvac__v0,1829,followup,1,hillsborough_hvac__v0,"172.226.190.42, 172.71.147.5, 10.26.2.130",Mozilla/5.0
+2026-07-15 00:37:32,open,1826_followup_1_hillsborough_roofing__v0,1826,followup,1,hillsborough_roofing__v0,"172.226.190.42, 172.71.147.2, 10.24.139.4",Mozilla/5.0
+2026-07-15 00:37:32,open,1819_followup_1_hillsborough_roofing__v0,1819,followup,1,hillsborough_roofing__v0,"172.226.190.42, 172.71.151.169, 10.30.231.1",Mozilla/5.0
+2026-07-15 00:37:32,open,1818_followup_1_hillsborough_roofing__v0,1818,followup,1,hillsborough_roofing__v0,"172.226.190.42, 172.71.151.44, 10.29.80.3",Mozilla/5.0
+2026-07-15 00:37:32,open,476_followup_2_lee_pool__v1,476,followup,2,lee_pool__v1,"172.226.190.42, 172.71.151.88, 10.24.74.7",Mozilla/5.0
+2026-07-15 00:37:32,open,1816_followup_1_hillsborough_roofing__v0,1816,followup,1,hillsborough_roofing__v0,"172.226.190.42, 172.71.151.88, 10.24.139.4",Mozilla/5.0
