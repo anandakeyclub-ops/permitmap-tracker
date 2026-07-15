@@ -475,3 +475,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-15 12:35:28,open,2013_followup_1_pinellas_pool__v0,2013,followup,1,pinellas_pool__v0,"104.28.48.213, 172.71.151.61, 10.29.77.3",Mozilla/5.0
 2026-07-15 12:45:15,open,2045_followup_1_sarasota_roofing__v0,2045,followup,1,sarasota_roofing__v0,"47.205.71.192, 172.71.150.89, 10.24.74.7",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-07-15 12:55:30,open,2055_followup_1_sarasota_hvac__v1,2055,followup,1,sarasota_hvac__v1,"47.201.55.3, 172.71.146.51, 10.24.69.58",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-07-15 13:06:37,open,1560_followup_1_lee_hvac__v0,1560,followup,1,lee_hvac__v0,"140.248.44.1, 172.71.150.54, 10.24.69.58",Mozilla/5.0
