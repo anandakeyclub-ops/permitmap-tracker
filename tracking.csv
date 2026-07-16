@@ -520,3 +520,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-16 03:12:31,open,1790_followup_1_manatee_hvac__v1,1790,followup,1,manatee_hvac__v1,"172.226.188.34, 172.68.12.90",Mozilla/5.0
 2026-07-16 03:18:39,open,1258_followup_1_walton_pool__v2,1258,followup,1,walton_pool__v2,"146.75.234.49, 172.71.151.110",Mozilla/5.0
 2026-07-16 03:44:58,open,1554_followup_1_lee_roofing__v0,1554,followup,1,lee_roofing__v0,"140.248.44.0, 104.23.248.113",Mozilla/5.0
+2026-07-16 04:01:47,open,1581_followup_1_lee_plumbing__v0,1581,followup,1,lee_plumbing__v0,"172.226.190.30, 172.71.151.12",Mozilla/5.0
