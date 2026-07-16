@@ -560,3 +560,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-16 16:35:31,open,1883_first_outreach_hillsborough_general_contractor__v2,1883,first,outreach,hillsborough_general_contractor__v2,"66.249.90.230, 162.159.106.157","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-16 17:12:05,open,1879_first_outreach_hillsborough_general_contractor__v2,1879,first,outreach,hillsborough_general_contractor__v2,"140.248.44.0, 104.23.248.113",Mozilla/5.0
 2026-07-16 18:02:54,open,1885_first_outreach_hillsborough_general_contractor__v1,1885,first,outreach,hillsborough_general_contractor__v1,"140.248.44.0, 172.68.12.76",Mozilla/5.0
+2026-07-16 19:39:33,open,1807_followup_1_manatee_general_contractor__v2,1807,followup,1,manatee_general_contractor__v2,"140.248.44.1, 172.70.82.77",Mozilla/5.0
