@@ -514,3 +514,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-16 01:25:17,open,1787_followup_1_manatee_hvac__v0,1787,followup,1,manatee_hvac__v0,"140.248.44.1, 172.68.12.90",Mozilla/5.0
 2026-07-16 01:29:11,open,1670_followup_1_pasco_general_contractor__v0,1670,followup,1,pasco_general_contractor__v0,"172.226.188.38, 172.70.82.77",Mozilla/5.0
 2026-07-16 01:34:08,open,2073_followup_1_sarasota_plumbing__v0,2073,followup,1,sarasota_plumbing__v0,"172.226.190.24, 172.71.150.228",Mozilla/5.0
+2026-07-16 02:03:19,open,1890_followup_1_clay_general_contractor__v0,1890,followup,1,clay_general_contractor__v0,"172.225.30.70, 162.158.78.5",Mozilla/5.0
