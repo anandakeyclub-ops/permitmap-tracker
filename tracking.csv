@@ -509,3 +509,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-15 22:59:03,open,2134_followup_1_volusia_hvac__v0,2134,followup,1,volusia_hvac__v0,"140.248.44.0, 172.70.255.45",Mozilla/5.0
 2026-07-15 23:56:22,open,169_close_email_palm_beach_general_contractor__v1,169,close,email,palm_beach_general_contractor__v1,"140.248.44.1, 172.68.12.76",Mozilla/5.0
 2026-07-16 00:18:15,open,357_close_email_martin_roofing__v2,357,close,email,martin_roofing__v2,"140.248.44.0, 172.70.82.80",Mozilla/5.0
+2026-07-16 00:36:31,open,169_followup_1_palm_beach_general_contractor__v0,169,followup,1,palm_beach_general_contractor__v0,"104.28.39.128, 172.71.151.11",Mozilla/5.0
