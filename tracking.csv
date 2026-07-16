@@ -542,3 +542,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-16 11:40:38,open,1678_followup_1_polk_roofing__v0,1678,followup,1,polk_roofing__v0,"72.185.188.62, 172.71.151.209","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-07-16 11:40:38,open,1678_followup_1_polk_roofing__v0,1678,followup,1,polk_roofing__v0,"72.185.188.62, 172.71.146.47","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-07-16 12:57:24,open,1679_followup_1_polk_roofing__v0,1679,followup,1,polk_roofing__v0,"146.75.222.1, 172.71.151.110",Mozilla/5.0
+2026-07-16 13:00:43,open,1723_followup_1_osceola_general_contractor__v0,1723,followup,1,osceola_general_contractor__v0,"2a06:98c0:3600::103,104.23.245.77, 104.23.245.77",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
