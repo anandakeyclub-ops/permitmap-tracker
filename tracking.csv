@@ -581,3 +581,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-16 20:58:36,open,1364_first_outreach_marion_general_contractor__v0,1364,first,outreach,marion_general_contractor__v0,"74.179.68.15, 104.22.72.63","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-16 20:59:29,open,1386_close_email_alachua_hvac__v2,1386,close,email,alachua_hvac__v2,"74.125.213.39, 172.71.150.228",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-07-16 20:59:29,open,1386_close_email_alachua_hvac__v2,1386,close,email,alachua_hvac__v2,"74.125.213.33, 172.71.146.249",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-07-17 02:59:13,open,1707_followup_1_polk_hvac__v0,1707,followup,1,polk_hvac__v0,"140.248.44.1, 172.70.255.72",Mozilla/5.0
