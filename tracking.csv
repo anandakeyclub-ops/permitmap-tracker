@@ -606,3 +606,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-17 11:29:58,open,497_close_email_lee_general_contractor__v1,497,close,email,lee_general_contractor__v1,"66.249.90.229, 172.71.167.204","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-17 11:30:00,open,499_close_email_lee_general_contractor__v1,499,close,email,lee_general_contractor__v1,"66.249.90.230, 172.71.150.54","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-17 13:01:29,open,574_followup_2_pasco_solar__v1,574,followup,2,pasco_solar__v1,"140.248.44.1, 172.71.150.55",Mozilla/5.0
+2026-07-17 14:11:09,open,1550_followup_1_lee_roofing__v0,1550,followup,1,lee_roofing__v0,"172.226.188.17, 172.71.150.10",Mozilla/5.0
+2026-07-17 14:11:09,open,426_followup_2_lee_roofing__v0,426,followup,2,lee_roofing__v0,"172.226.188.17, 172.71.151.43",Mozilla/5.0
+2026-07-17 14:11:09,open,1594_followup_1_lee_pool__v0,1594,followup,1,lee_pool__v0,"172.226.188.17, 172.71.150.228",Mozilla/5.0
+2026-07-17 14:11:09,open,1595_followup_1_lee_pool__v0,1595,followup,1,lee_pool__v0,"172.226.188.17, 172.71.151.210",Mozilla/5.0
+2026-07-17 14:11:09,open,1541_followup_1_martin_general_contractor__v0,1541,followup,1,martin_general_contractor__v0,"172.226.188.17, 172.71.151.210",Mozilla/5.0
