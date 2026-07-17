@@ -584,3 +584,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-17 02:59:13,open,1707_followup_1_polk_hvac__v0,1707,followup,1,polk_hvac__v0,"140.248.44.1, 172.70.255.72",Mozilla/5.0
 2026-07-17 03:43:06,open,1696_followup_1_polk_hvac__v0,1696,followup,1,polk_hvac__v0,"172.226.190.59, 172.68.12.90",Mozilla/5.0
 2026-07-17 04:34:02,open,1550_followup_1_lee_roofing__v0,1550,followup,1,lee_roofing__v0,"172.226.170.36, 172.71.150.98",Mozilla/5.0
+2026-07-17 09:46:12,open,1392_close_email_alachua_hvac__v2,1392,close,email,alachua_hvac__v2,"172.226.188.46, 172.71.150.143",Mozilla/5.0
