@@ -616,3 +616,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-17 14:11:19,open,1472_followup_1_palm_beach_hvac__v0,1472,followup,1,palm_beach_hvac__v0,"172.226.188.17, 172.70.255.45",Mozilla/5.0
 2026-07-17 14:11:19,open,2157_followup_1_volusia_plumbing__v0,2157,followup,1,volusia_plumbing__v0,"172.226.188.17, 172.70.255.45",Mozilla/5.0
 2026-07-17 14:11:19,open,2141_followup_1_volusia_hvac__v0,2141,followup,1,volusia_hvac__v0,"172.226.188.17, 172.70.255.45",Mozilla/5.0
+2026-07-17 14:11:19,open,2140_followup_1_volusia_hvac__v0,2140,followup,1,volusia_hvac__v0,"172.226.188.17, 172.71.150.54",Mozilla/5.0
+2026-07-17 14:11:19,open,1465_followup_1_palm_beach_roofing__v0,1465,followup,1,palm_beach_roofing__v0,"172.226.188.17, 172.71.151.154",Mozilla/5.0
+2026-07-17 14:11:19,open,2159_followup_1_volusia_general_contractor__v0,2159,followup,1,volusia_general_contractor__v0,"172.226.188.17, 172.71.150.246",Mozilla/5.0
