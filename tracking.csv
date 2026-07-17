@@ -586,3 +586,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-17 04:34:02,open,1550_followup_1_lee_roofing__v0,1550,followup,1,lee_roofing__v0,"172.226.170.36, 172.71.150.98",Mozilla/5.0
 2026-07-17 09:46:12,open,1392_close_email_alachua_hvac__v2,1392,close,email,alachua_hvac__v2,"172.226.188.46, 172.71.150.143",Mozilla/5.0
 2026-07-17 10:04:20,open,1845_first_outreach_hillsborough_plumbing__v0,1845,first,outreach,hillsborough_plumbing__v0,"47.197.149.241, 172.68.12.91",Mozilla/5.0
+2026-07-17 11:00:00,open,1689_followup_1_polk_roofing__v0,1689,followup,1,polk_roofing__v0,"173.168.178.83, 104.23.248.112","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
