@@ -720,3 +720,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-18 17:36:00,open,1526_followup_2_palm_beach_general_contractor__v2,1526,followup,2,palm_beach_general_contractor__v2,"172.226.190.62, 172.71.151.110",Mozilla/5.0
 2026-07-18 17:42:15,open,1466_followup_2_palm_beach_roofing__v1,1466,followup,2,palm_beach_roofing__v1,"104.28.39.128, 104.23.248.113",Mozilla/5.0
 2026-07-18 18:03:04,open,488_followup_2_lee_solar__v2,488,followup,2,lee_solar__v2,"146.75.248.1, 172.71.151.169",Mozilla/5.0
+2026-07-18 19:06:37,open,677_followup_2_osceola_roofing__v2,677,followup,2,osceola_roofing__v2,"140.248.44.1, 172.71.146.211",Mozilla/5.0
+2026-07-18 19:06:37,open,1666_followup_1_pasco_general_contractor__v0,1666,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.146.125",Mozilla/5.0
+2026-07-18 19:06:37,open,1677_followup_1_pasco_general_contractor__v0,1677,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.146.125",Mozilla/5.0
+2026-07-18 19:06:37,open,1667_followup_1_pasco_general_contractor__v0,1667,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.150.54",Mozilla/5.0
+2026-07-18 19:06:37,open,1675_followup_1_pasco_general_contractor__v0,1675,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.147.27",Mozilla/5.0
