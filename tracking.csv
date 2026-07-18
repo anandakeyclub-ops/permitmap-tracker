@@ -664,3 +664,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-17 22:34:59,open,511_close_email_pasco_roofing__v2,511,close,email,pasco_roofing__v2,"172.226.190.24, 172.71.156.190",Mozilla/5.0
 2026-07-17 22:34:59,open,1615_followup_1_lee_general_contractor__v0,1615,followup,1,lee_general_contractor__v0,"172.226.190.24, 172.71.156.190",Mozilla/5.0
 2026-07-18 03:32:50,open,658_close_email_polk_general_contractor__v1,658,close,email,polk_general_contractor__v1,"174.239.81.25, 172.71.151.44",Mozilla/5.0
+2026-07-18 06:13:13,open,1804_followup_1_manatee_general_contractor__v0,1804,followup,1,manatee_general_contractor__v0,"140.248.44.0, 172.71.150.229",Mozilla/5.0
+2026-07-18 06:13:13,open,1794_followup_1_manatee_hvac__v0,1794,followup,1,manatee_hvac__v0,"140.248.44.0, 172.71.151.88",Mozilla/5.0
+2026-07-18 06:13:13,open,1778_followup_1_st_johns_general_contractor__v0,1778,followup,1,st_johns_general_contractor__v0,"140.248.44.0, 172.71.151.209",Mozilla/5.0
+2026-07-18 06:13:13,open,1796_followup_1_manatee_hvac__v0,1796,followup,1,manatee_hvac__v0,"140.248.44.0, 172.71.151.109",Mozilla/5.0
+2026-07-18 06:13:13,open,1802_followup_1_manatee_general_contractor__v0,1802,followup,1,manatee_general_contractor__v0,"140.248.44.0, 172.71.151.110",Mozilla/5.0
