@@ -663,3 +663,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-17 22:34:59,open,1617_followup_1_lee_general_contractor__v0,1617,followup,1,lee_general_contractor__v0,"172.226.190.24, 172.71.156.190",Mozilla/5.0
 2026-07-17 22:34:59,open,511_close_email_pasco_roofing__v2,511,close,email,pasco_roofing__v2,"172.226.190.24, 172.71.156.190",Mozilla/5.0
 2026-07-17 22:34:59,open,1615_followup_1_lee_general_contractor__v0,1615,followup,1,lee_general_contractor__v0,"172.226.190.24, 172.71.156.190",Mozilla/5.0
+2026-07-18 03:32:50,open,658_close_email_polk_general_contractor__v1,658,close,email,polk_general_contractor__v1,"174.239.81.25, 172.71.151.44",Mozilla/5.0
