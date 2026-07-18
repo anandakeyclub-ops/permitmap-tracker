@@ -669,3 +669,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-18 06:13:13,open,1778_followup_1_st_johns_general_contractor__v0,1778,followup,1,st_johns_general_contractor__v0,"140.248.44.0, 172.71.151.209",Mozilla/5.0
 2026-07-18 06:13:13,open,1796_followup_1_manatee_hvac__v0,1796,followup,1,manatee_hvac__v0,"140.248.44.0, 172.71.151.109",Mozilla/5.0
 2026-07-18 06:13:13,open,1802_followup_1_manatee_general_contractor__v0,1802,followup,1,manatee_general_contractor__v0,"140.248.44.0, 172.71.151.110",Mozilla/5.0
+2026-07-18 06:13:14,open,741_followup_2_osceola_general_contractor__v1,741,followup,2,osceola_general_contractor__v1,"140.248.44.0, 172.68.12.91",Mozilla/5.0
+2026-07-18 06:13:14,open,1790_followup_1_manatee_hvac__v1,1790,followup,1,manatee_hvac__v1,"140.248.44.0, 172.68.12.91",Mozilla/5.0
+2026-07-18 06:13:14,open,1786_followup_1_manatee_hvac__v0,1786,followup,1,manatee_hvac__v0,"140.248.44.0, 172.68.12.91",Mozilla/5.0
