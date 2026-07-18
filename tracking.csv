@@ -727,3 +727,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-18 19:06:37,open,1675_followup_1_pasco_general_contractor__v0,1675,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.147.27",Mozilla/5.0
 2026-07-18 19:06:40,open,1681_followup_1_polk_roofing__v0,1681,followup,1,polk_roofing__v0,"140.248.44.1, 104.22.86.36",Mozilla/5.0
 2026-07-18 20:22:43,open,1484_followup_2_palm_beach_plumbing__v2,1484,followup,2,palm_beach_plumbing__v2,"140.248.44.1, 172.71.151.154",Mozilla/5.0
+2026-07-18 20:28:35,open,1393_close_email_alachua_hvac__v2,1393,close,email,alachua_hvac__v2,"140.248.44.1, 172.71.146.124",Mozilla/5.0
+2026-07-18 20:28:35,open,1395_close_email_alachua_hvac__v2,1395,close,email,alachua_hvac__v2,"140.248.44.1, 172.71.146.29",Mozilla/5.0
+2026-07-18 20:28:35,open,1397_close_email_alachua_hvac__v1,1397,close,email,alachua_hvac__v1,"140.248.44.1, 172.71.151.135",Mozilla/5.0
+2026-07-18 20:28:35,open,1807_followup_1_manatee_general_contractor__v2,1807,followup,1,manatee_general_contractor__v2,"140.248.44.1, 172.71.146.186",Mozilla/5.0
+2026-07-18 20:28:35,open,1394_close_email_alachua_hvac__v2,1394,close,email,alachua_hvac__v2,"140.248.44.1, 172.71.150.229",Mozilla/5.0
