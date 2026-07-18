@@ -714,3 +714,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-18 16:47:43,open,1539_followup_2_martin_general_contractor__v2,1539,followup,2,martin_general_contractor__v2,"74.179.67.135, 104.22.72.63","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-18 16:51:30,open,1517_followup_2_palm_beach_general_contractor__v1,1517,followup,2,palm_beach_general_contractor__v1,"68.77.139.138, 172.71.147.54","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-07-18 17:04:32,open,1526_followup_2_palm_beach_general_contractor__v2,1526,followup,2,palm_beach_general_contractor__v2,"172.226.190.41, 104.23.248.112",Mozilla/5.0
+2026-07-18 17:13:58,open,485_followup_2_lee_solar__v2,485,followup,2,lee_solar__v2,"140.248.44.1, 172.71.146.29",Mozilla/5.0
