@@ -677,3 +677,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-18 16:34:03,open,730_followup_2_osceola_general_contractor__v2,730,followup,2,osceola_general_contractor__v2,"140.248.44.0, 172.71.151.136",Mozilla/5.0
 2026-07-18 16:34:03,open,1669_followup_1_pasco_general_contractor__v0,1669,followup,1,pasco_general_contractor__v0,"140.248.44.0, 172.71.151.169",Mozilla/5.0
 2026-07-18 16:34:03,open,694_followup_2_osceola_hvac__v1,694,followup,2,osceola_hvac__v1,"140.248.44.0, 172.71.151.210",Mozilla/5.0
+2026-07-18 16:34:05,open,685_followup_2_osceola_hvac__v1,685,followup,2,osceola_hvac__v1,"140.248.44.0, 172.70.82.77",Mozilla/5.0
+2026-07-18 16:34:05,open,1677_followup_1_pasco_general_contractor__v0,1677,followup,1,pasco_general_contractor__v0,"140.248.44.0, 172.70.82.80",Mozilla/5.0
+2026-07-18 16:34:05,open,622_followup_2_polk_hvac__v2,622,followup,2,polk_hvac__v2,"140.248.44.0, 172.70.82.80",Mozilla/5.0
+2026-07-18 16:34:05,open,682_followup_2_osceola_roofing__v1,682,followup,2,osceola_roofing__v1,"140.248.44.0, 172.70.82.80",Mozilla/5.0
+2026-07-18 16:34:05,open,686_followup_2_osceola_hvac__v2,686,followup,2,osceola_hvac__v2,"140.248.44.0, 172.70.82.80",Mozilla/5.0
