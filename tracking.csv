@@ -726,3 +726,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-18 19:06:37,open,1667_followup_1_pasco_general_contractor__v0,1667,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.150.54",Mozilla/5.0
 2026-07-18 19:06:37,open,1675_followup_1_pasco_general_contractor__v0,1675,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.147.27",Mozilla/5.0
 2026-07-18 19:06:40,open,1681_followup_1_polk_roofing__v0,1681,followup,1,polk_roofing__v0,"140.248.44.1, 104.22.86.36",Mozilla/5.0
+2026-07-18 20:22:43,open,1484_followup_2_palm_beach_plumbing__v2,1484,followup,2,palm_beach_plumbing__v2,"140.248.44.1, 172.71.151.154",Mozilla/5.0
