@@ -734,3 +734,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-18 20:28:35,open,1394_close_email_alachua_hvac__v2,1394,close,email,alachua_hvac__v2,"140.248.44.1, 172.71.150.229",Mozilla/5.0
 2026-07-18 20:30:33,open,2139_followup_1_volusia_hvac__v0,2139,followup,1,volusia_hvac__v0,"69.147.86.248, 162.159.116.151",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-18 22:40:27,open,1514_followup_2_palm_beach_general_contractor__v1,1514,followup,2,palm_beach_general_contractor__v1,"140.248.44.0, 172.71.146.157",Mozilla/5.0
+2026-07-19 00:25:29,open,1542_followup_2_martin_general_contractor__v2,1542,followup,2,martin_general_contractor__v2,"32.196.165.50, 162.158.78.4",Mozilla/5.0
