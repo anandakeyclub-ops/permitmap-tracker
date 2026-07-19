@@ -738,3 +738,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-19 01:07:35,open,487_followup_2_lee_solar__v2,487,followup,2,lee_solar__v2,"140.248.44.1, 104.22.86.36",Mozilla/5.0
 2026-07-19 02:05:13,open,485_followup_2_lee_solar__v2,485,followup,2,lee_solar__v2,"140.248.44.0, 104.23.248.113",Mozilla/5.0
 2026-07-19 03:21:48,open,684_followup_1_osceola_hvac__v0,684,followup,1,osceola_hvac__v0,"140.248.44.1, 172.70.82.80",Mozilla/5.0
+2026-07-19 05:09:42,open,1475_followup_2_palm_beach_hvac__v1,1475,followup,2,palm_beach_hvac__v1,"172.226.188.20, 172.71.150.228",Mozilla/5.0
