@@ -740,3 +740,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-19 03:21:48,open,684_followup_1_osceola_hvac__v0,684,followup,1,osceola_hvac__v0,"140.248.44.1, 172.70.82.80",Mozilla/5.0
 2026-07-19 05:09:42,open,1475_followup_2_palm_beach_hvac__v1,1475,followup,2,palm_beach_hvac__v1,"172.226.188.20, 172.71.150.228",Mozilla/5.0
 2026-07-19 06:46:06,open,1455_followup_2_palm_beach_roofing__v2,1455,followup,2,palm_beach_roofing__v2,"140.248.20.0, 172.71.150.228",Mozilla/5.0
+2026-07-19 13:13:32,open,698_close_email_osceola_plumbing__v1,698,close,email,osceola_plumbing__v1,"140.248.44.1, 172.71.151.88",Mozilla/5.0
+2026-07-19 13:13:32,open,708_close_email_osceola_plumbing__v1,708,close,email,osceola_plumbing__v1,"140.248.44.1, 172.71.151.88",Mozilla/5.0
+2026-07-19 13:13:32,open,502_close_email_lee_general_contractor__v2,502,close,email,lee_general_contractor__v2,"140.248.44.1, 172.71.151.170",Mozilla/5.0
+2026-07-19 13:13:32,open,705_close_email_osceola_plumbing__v2,705,close,email,osceola_plumbing__v2,"140.248.44.1, 172.71.150.99",Mozilla/5.0
+2026-07-19 13:13:32,open,1733_followup_1_osceola_general_contractor__v2,1733,followup,1,osceola_general_contractor__v2,"140.248.44.1, 172.71.151.88",Mozilla/5.0
