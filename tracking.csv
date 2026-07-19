@@ -749,3 +749,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-19 13:13:32,open,655_close_email_polk_general_contractor__v2,655,close,email,polk_general_contractor__v2,"140.248.44.1, 172.70.82.80",Mozilla/5.0
 2026-07-19 13:13:32,open,700_close_email_osceola_plumbing__v1,700,close,email,osceola_plumbing__v1,"140.248.44.1, 172.70.82.77",Mozilla/5.0
 2026-07-19 13:13:32,open,709_close_email_osceola_plumbing__v1,709,close,email,osceola_plumbing__v1,"140.248.44.1, 172.70.82.80",Mozilla/5.0
+2026-07-19 16:50:14,open,1523_followup_2_palm_beach_general_contractor__v2,1523,followup,2,palm_beach_general_contractor__v2,"140.248.44.0, 172.71.146.59",Mozilla/5.0
+2026-07-19 16:50:14,open,1519_followup_2_palm_beach_general_contractor__v2,1519,followup,2,palm_beach_general_contractor__v2,"140.248.44.0, 172.71.146.252",Mozilla/5.0
+2026-07-19 16:50:14,open,1493_followup_2_palm_beach_plumbing__v1,1493,followup,2,palm_beach_plumbing__v1,"140.248.44.0, 172.71.146.59",Mozilla/5.0
+2026-07-19 16:50:14,open,1492_followup_2_palm_beach_plumbing__v2,1492,followup,2,palm_beach_plumbing__v2,"140.248.44.0, 172.71.147.156",Mozilla/5.0
+2026-07-19 16:50:14,open,1473_followup_2_palm_beach_hvac__v1,1473,followup,2,palm_beach_hvac__v1,"140.248.44.0, 172.71.147.6",Mozilla/5.0
+2026-07-19 16:50:14,open,1463_followup_2_palm_beach_roofing__v1,1463,followup,2,palm_beach_roofing__v1,"140.248.44.0, 172.71.146.85",Mozilla/5.0
