@@ -745,3 +745,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-19 13:13:32,open,502_close_email_lee_general_contractor__v2,502,close,email,lee_general_contractor__v2,"140.248.44.1, 172.71.151.170",Mozilla/5.0
 2026-07-19 13:13:32,open,705_close_email_osceola_plumbing__v2,705,close,email,osceola_plumbing__v2,"140.248.44.1, 172.71.150.99",Mozilla/5.0
 2026-07-19 13:13:32,open,1733_followup_1_osceola_general_contractor__v2,1733,followup,1,osceola_general_contractor__v2,"140.248.44.1, 172.71.151.88",Mozilla/5.0
+2026-07-19 13:13:32,open,500_close_email_lee_general_contractor__v2,500,close,email,lee_general_contractor__v2,"140.248.44.1, 172.70.82.80",Mozilla/5.0
+2026-07-19 13:13:32,open,655_close_email_polk_general_contractor__v2,655,close,email,polk_general_contractor__v2,"140.248.44.1, 172.70.82.80",Mozilla/5.0
+2026-07-19 13:13:32,open,700_close_email_osceola_plumbing__v1,700,close,email,osceola_plumbing__v1,"140.248.44.1, 172.70.82.77",Mozilla/5.0
+2026-07-19 13:13:32,open,709_close_email_osceola_plumbing__v1,709,close,email,osceola_plumbing__v1,"140.248.44.1, 172.70.82.80",Mozilla/5.0
