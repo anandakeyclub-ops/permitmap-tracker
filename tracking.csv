@@ -764,3 +764,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-19 17:58:08,open,1468_followup_2_palm_beach_hvac__v1,1468,followup,2,palm_beach_hvac__v1,"104.28.39.128, 172.71.146.50",Mozilla/5.0
 2026-07-19 18:01:33,open,658_close_email_polk_general_contractor__v1,658,close,email,polk_general_contractor__v1,"172.226.188.36, 172.71.147.71",Mozilla/5.0
 2026-07-20 10:34:47,open,730_followup_2_osceola_general_contractor__v2,730,followup,2,osceola_general_contractor__v2,"146.75.234.49, 172.71.151.136",Mozilla/5.0
+2026-07-20 11:29:10,open,1499_followup_2_palm_beach_pool__v1,1499,followup,2,palm_beach_pool__v1,"66.249.90.230, 172.71.167.203","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
