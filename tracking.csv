@@ -862,3 +862,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-20 16:39:00,open,1569_followup_2_lee_hvac__v2,1569,followup,2,lee_hvac__v2,"66.249.90.230, 162.159.106.156","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-20 16:39:03,open,1572_followup_2_lee_hvac__v2,1572,followup,2,lee_hvac__v2,"66.249.90.230, 162.159.106.156","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-20 16:43:53,open,1564_followup_2_lee_hvac__v1,1564,followup,2,lee_hvac__v1,"172.226.188.24, 172.70.82.77",Mozilla/5.0
+2026-07-20 16:45:08,open,192_first_outreach_martin_roofing__v2,192,first,outreach,martin_roofing__v2,"140.248.44.1, 172.68.12.76",Mozilla/5.0
