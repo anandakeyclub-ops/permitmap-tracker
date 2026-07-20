@@ -866,3 +866,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-20 17:04:58,open,1564_followup_2_lee_hvac__v1,1564,followup,2,lee_hvac__v1,"172.226.188.25, 172.70.255.45",Mozilla/5.0
 2026-07-20 17:12:04,open,1696_followup_1_polk_hvac__v0,1696,followup,1,polk_hvac__v0,"172.226.188.42, 172.70.255.45",Mozilla/5.0
 2026-07-20 17:36:09,open,185_first_outreach_martin_roofing__v2,185,first,outreach,martin_roofing__v2,"73.179.195.27, 108.162.212.7","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 OneOutlook/1.2026.707.300"
+2026-07-20 17:43:20,open,1570_followup_2_lee_hvac__v1,1570,followup,2,lee_hvac__v1,"140.248.44.1, 172.70.255.45",Mozilla/5.0
+2026-07-20 17:43:20,open,1565_followup_2_lee_hvac__v2,1565,followup,2,lee_hvac__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
+2026-07-20 17:43:20,open,1569_followup_2_lee_hvac__v2,1569,followup,2,lee_hvac__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
+2026-07-20 17:43:20,open,494_followup_2_lee_solar__v2,494,followup,2,lee_solar__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
+2026-07-20 17:43:20,open,1566_followup_2_lee_hvac__v2,1566,followup,2,lee_hvac__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
