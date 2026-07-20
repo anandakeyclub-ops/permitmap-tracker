@@ -822,3 +822,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-20 14:48:53,open,633_followup_2_polk_plumbing__v1,633,followup,2,polk_plumbing__v1,"104.136.103.42, 172.70.255.45","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 2026-07-20 15:01:07,open,2025_followup_2_pinellas_general_contractor__v2,2025,followup,2,pinellas_general_contractor__v2,"104.28.39.128, 172.70.82.80",Mozilla/5.0
 2026-07-20 15:01:07,open,2008_followup_2_pinellas_plumbing__v1,2008,followup,2,pinellas_plumbing__v1,"104.28.39.128, 172.70.82.80",Mozilla/5.0
+2026-07-20 15:38:59,open,1558_followup_2_lee_hvac__v2,1558,followup,2,lee_hvac__v2,"104.28.39.128, 172.71.146.196",Mozilla/5.0
+2026-07-20 15:38:59,open,461_close_email_lee_plumbing__v2,461,close,email,lee_plumbing__v2,"104.28.39.128, 172.71.146.128",Mozilla/5.0
+2026-07-20 15:38:59,open,1502_followup_2_palm_beach_pool__v1,1502,followup,2,palm_beach_pool__v1,"104.28.39.128, 172.71.146.28",Mozilla/5.0
+2026-07-20 15:38:59,open,1498_followup_2_palm_beach_pool__v2,1498,followup,2,palm_beach_pool__v2,"104.28.39.128, 172.71.147.80",Mozilla/5.0
+2026-07-20 15:38:59,open,1505_followup_2_palm_beach_pool__v1,1505,followup,2,palm_beach_pool__v1,"104.28.39.128, 172.71.146.28",Mozilla/5.0
