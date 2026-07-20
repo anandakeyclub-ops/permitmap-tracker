@@ -873,3 +873,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-20 17:43:20,open,1566_followup_2_lee_hvac__v2,1566,followup,2,lee_hvac__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
 2026-07-20 17:43:21,open,1572_followup_2_lee_hvac__v2,1572,followup,2,lee_hvac__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
 2026-07-20 19:13:49,open,1564_followup_2_lee_hvac__v1,1564,followup,2,lee_hvac__v1,"140.248.44.1, 172.68.12.77",Mozilla/5.0
+2026-07-20 20:44:05,open,1631_followup_1_pasco_roofing__v0,1631,followup,1,pasco_roofing__v0,"104.28.39.128, 172.68.12.91",Mozilla/5.0
+2026-07-20 20:44:52,open,24_first_outreach_palm_beach_plumbing__v2,24,first,outreach,palm_beach_plumbing__v2,"66.249.90.231, 162.159.106.156","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-20 20:44:53,open,25_first_outreach_palm_beach_plumbing__v2,25,first,outreach,palm_beach_plumbing__v2,"66.249.90.231, 162.159.106.156","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-20 20:44:55,open,23_first_outreach_palm_beach_plumbing__v2,23,first,outreach,palm_beach_plumbing__v2,"72.153.231.12, 104.22.20.55","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-07-20 20:45:02,open,34_first_outreach_palm_beach_pool__v2,34,first,outreach,palm_beach_pool__v2,"66.249.90.230, 198.41.227.193","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
