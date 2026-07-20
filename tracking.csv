@@ -871,3 +871,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-20 17:43:20,open,1569_followup_2_lee_hvac__v2,1569,followup,2,lee_hvac__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
 2026-07-20 17:43:20,open,494_followup_2_lee_solar__v2,494,followup,2,lee_solar__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
 2026-07-20 17:43:20,open,1566_followup_2_lee_hvac__v2,1566,followup,2,lee_hvac__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
+2026-07-20 17:43:21,open,1572_followup_2_lee_hvac__v2,1572,followup,2,lee_hvac__v2,"140.248.44.1, 172.70.255.45",Mozilla/5.0
