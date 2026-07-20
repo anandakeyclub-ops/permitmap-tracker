@@ -815,3 +815,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-20 14:16:17,open,2049_followup_2_sarasota_roofing__v2,2049,followup,2,sarasota_roofing__v2,"140.248.44.1, 172.71.150.55",Mozilla/5.0
 2026-07-20 14:16:17,open,2031_followup_2_pinellas_general_contractor__v0,2031,followup,2,pinellas_general_contractor__v0,"140.248.44.1, 172.70.82.77",Mozilla/5.0
 2026-07-20 14:16:17,open,2047_followup_2_sarasota_roofing__v1,2047,followup,2,sarasota_roofing__v1,"140.248.44.1, 172.70.82.80",Mozilla/5.0
+2026-07-20 14:16:17,open,2029_followup_2_pinellas_general_contractor__v2,2029,followup,2,pinellas_general_contractor__v2,"140.248.44.1, 172.70.82.77",Mozilla/5.0
+2026-07-20 14:16:17,open,2043_followup_2_sarasota_roofing__v2,2043,followup,2,sarasota_roofing__v2,"140.248.44.1, 172.70.82.80",Mozilla/5.0
+2026-07-20 14:16:17,open,2045_followup_2_sarasota_roofing__v1,2045,followup,2,sarasota_roofing__v1,"140.248.44.1, 172.70.82.80",Mozilla/5.0
