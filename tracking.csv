@@ -810,3 +810,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-20 13:30:35,open,1962_followup_1_alachua_general_contractor__v2,1962,followup,1,alachua_general_contractor__v2,"198.251.71.185, 172.68.150.46",OX App Suite HTTP client
 2026-07-20 13:46:00,open,658_close_email_polk_general_contractor__v1,658,close,email,polk_general_contractor__v1,"73.27.144.5, 104.22.24.32","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 2026-07-20 13:55:13,open,658_followup_2_polk_general_contractor__v2,658,followup,2,polk_general_contractor__v2,"73.27.144.5, 172.71.147.5","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+2026-07-20 14:16:17,open,2051_followup_2_sarasota_roofing__v2,2051,followup,2,sarasota_roofing__v2,"140.248.44.1, 172.71.146.136",Mozilla/5.0
+2026-07-20 14:16:17,open,2027_followup_2_pinellas_general_contractor__v2,2027,followup,2,pinellas_general_contractor__v2,"140.248.44.1, 172.71.151.44",Mozilla/5.0
+2026-07-20 14:16:17,open,2049_followup_2_sarasota_roofing__v2,2049,followup,2,sarasota_roofing__v2,"140.248.44.1, 172.71.150.55",Mozilla/5.0
+2026-07-20 14:16:17,open,2031_followup_2_pinellas_general_contractor__v0,2031,followup,2,pinellas_general_contractor__v0,"140.248.44.1, 172.70.82.77",Mozilla/5.0
+2026-07-20 14:16:17,open,2047_followup_2_sarasota_roofing__v1,2047,followup,2,sarasota_roofing__v1,"140.248.44.1, 172.70.82.80",Mozilla/5.0
