@@ -803,3 +803,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-20 12:59:10,open,2044_followup_2_sarasota_roofing__v2,2044,followup,2,sarasota_roofing__v2,"140.248.44.0, 172.70.255.45",Mozilla/5.0
 2026-07-20 12:59:10,open,2159_followup_2_volusia_general_contractor__v2,2159,followup,2,volusia_general_contractor__v2,"140.248.44.0, 172.70.255.45",Mozilla/5.0
 2026-07-20 12:59:10,open,2052_followup_2_sarasota_roofing__v2,2052,followup,2,sarasota_roofing__v2,"140.248.44.0, 172.70.255.45",Mozilla/5.0
+2026-07-20 13:24:02,open,2045_followup_2_sarasota_roofing__v1,2045,followup,2,sarasota_roofing__v1,"172.226.188.61, 104.22.86.37",Mozilla/5.0
