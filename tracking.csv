@@ -1061,3 +1061,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 20:01:06,open,237_first_outreach_martin_pool__v2,237,first,outreach,martin_pool__v2,"172.226.7.20, 172.69.34.115",Mozilla/5.0
 2026-07-21 20:21:28,open,2013_followup_2_pinellas_pool__v1,2013,followup,2,pinellas_pool__v1,"140.248.44.0, 104.23.248.21",Mozilla/5.0
 2026-07-21 20:24:13,open,1347_followup_1_marion_solar__v2,1347,followup,1,marion_solar__v2,"140.248.44.1, 172.71.151.181",Mozilla/5.0
+2026-07-21 20:47:59,open,1590_followup_2_lee_pool__v2,1590,followup,2,lee_pool__v2,"66.249.90.231, 172.71.147.51","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-21 20:48:06,open,1593_followup_2_lee_pool__v2,1593,followup,2,lee_pool__v2,"66.249.90.232, 172.68.27.106","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-21 20:48:08,open,1594_followup_2_lee_pool__v1,1594,followup,2,lee_pool__v1,"66.249.90.232, 172.68.27.106","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-21 20:48:15,open,1597_followup_2_lee_pool__v1,1597,followup,2,lee_pool__v1,"66.249.90.231, 172.71.146.239","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-21 20:48:20,open,1599_followup_2_lee_pool__v2,1599,followup,2,lee_pool__v2,"66.249.90.230, 172.69.67.75","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
