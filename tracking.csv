@@ -1053,3 +1053,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 18:35:34,open,1950_followup_2_alachua_general_contractor__v2,1950,followup,2,alachua_general_contractor__v2,"104.28.132.113, 172.71.150.53",Mozilla/5.0
 2026-07-21 18:35:34,open,1952_followup_2_alachua_general_contractor__v2,1952,followup,2,alachua_general_contractor__v2,"104.28.132.113, 172.71.150.126",Mozilla/5.0
 2026-07-21 18:35:34,open,1949_followup_2_alachua_general_contractor__v2,1949,followup,2,alachua_general_contractor__v2,"104.28.132.113, 172.71.151.181",Mozilla/5.0
+2026-07-21 18:35:35,open,1951_followup_2_alachua_general_contractor__v1,1951,followup,2,alachua_general_contractor__v1,"104.28.132.113, 172.70.248.24",Mozilla/5.0
+2026-07-21 18:35:35,open,1829_followup_2_hillsborough_hvac__v1,1829,followup,2,hillsborough_hvac__v1,"104.28.132.113, 172.70.248.25",Mozilla/5.0
+2026-07-21 18:35:35,open,1831_followup_2_hillsborough_hvac__v2,1831,followup,2,hillsborough_hvac__v2,"104.28.132.113, 172.70.248.25",Mozilla/5.0
