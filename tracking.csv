@@ -1175,3 +1175,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 21:02:59,open,1756_followup_2_lake_general_contractor__v2,1756,followup,2,lake_general_contractor__v2,"140.248.44.0, 172.68.12.91",Mozilla/5.0
 2026-07-21 21:07:30,open,1756_followup_2_lake_general_contractor__v2,1756,followup,2,lake_general_contractor__v2,"140.248.44.0, 172.71.151.186",Mozilla/5.0
 2026-07-21 21:34:06,open,1756_followup_2_lake_general_contractor__v2,1756,followup,2,lake_general_contractor__v2,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-07-21 22:28:43,open,1816_followup_2_hillsborough_roofing__v2,1816,followup,2,hillsborough_roofing__v2,"146.75.186.14, 172.71.151.30",Mozilla/5.0
+2026-07-21 22:28:43,open,1751_followup_1_lake_hvac__v0,1751,followup,1,lake_hvac__v0,"146.75.186.14, 172.71.146.140",Mozilla/5.0
+2026-07-21 22:28:43,open,1739_followup_1_lake_hvac__v2,1739,followup,1,lake_hvac__v2,"146.75.186.14, 172.71.151.185",Mozilla/5.0
+2026-07-21 22:28:43,open,1824_followup_2_hillsborough_roofing__v1,1824,followup,2,hillsborough_roofing__v1,"146.75.186.14, 172.71.150.156",Mozilla/5.0
+2026-07-21 22:28:43,open,1815_followup_2_hillsborough_roofing__v2,1815,followup,2,hillsborough_roofing__v2,"146.75.186.14, 172.71.146.164",Mozilla/5.0
