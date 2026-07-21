@@ -1059,3 +1059,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 18:53:14,open,2013_followup_2_pinellas_pool__v1,2013,followup,2,pinellas_pool__v1,"140.248.44.0, 104.23.248.20",Mozilla/5.0
 2026-07-21 19:50:14,open,1819_followup_2_hillsborough_roofing__v2,1819,followup,2,hillsborough_roofing__v2,"172.226.190.29, 104.23.248.21",Mozilla/5.0
 2026-07-21 20:01:06,open,237_first_outreach_martin_pool__v2,237,first,outreach,martin_pool__v2,"172.226.7.20, 172.69.34.115",Mozilla/5.0
+2026-07-21 20:21:28,open,2013_followup_2_pinellas_pool__v1,2013,followup,2,pinellas_pool__v1,"140.248.44.0, 104.23.248.21",Mozilla/5.0
