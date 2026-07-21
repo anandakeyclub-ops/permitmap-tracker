@@ -1047,3 +1047,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 17:02:19,open,1448_first_outreach_alachua_general_contractor__v2,1448,first,outreach,alachua_general_contractor__v2,"216.255.254.21, 172.71.146.111",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-07-21 17:05:20,open,1554_followup_2_lee_roofing__v0,1554,followup,2,lee_roofing__v0,"140.248.44.0, 172.71.146.101",Mozilla/5.0
 2026-07-21 17:07:09,open,549_close_email_pasco_plumbing__v2,549,close,email,pasco_plumbing__v2,"104.28.132.113, 172.68.12.90",Mozilla/5.0
+2026-07-21 17:26:30,open,1652_followup_2_pasco_plumbing__v2,1652,followup,2,pasco_plumbing__v2,"104.28.132.113, 172.68.12.76",Mozilla/5.0
