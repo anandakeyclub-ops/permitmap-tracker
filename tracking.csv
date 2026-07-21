@@ -1180,3 +1180,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 22:28:43,open,1739_followup_1_lake_hvac__v2,1739,followup,1,lake_hvac__v2,"146.75.186.14, 172.71.151.185",Mozilla/5.0
 2026-07-21 22:28:43,open,1824_followup_2_hillsborough_roofing__v1,1824,followup,2,hillsborough_roofing__v1,"146.75.186.14, 172.71.150.156",Mozilla/5.0
 2026-07-21 22:28:43,open,1815_followup_2_hillsborough_roofing__v2,1815,followup,2,hillsborough_roofing__v2,"146.75.186.14, 172.71.146.164",Mozilla/5.0
+2026-07-21 22:28:46,open,1918_followup_1_walton_general_contractor__v0,1918,followup,1,walton_general_contractor__v0,"146.75.186.14, 172.69.68.99",Mozilla/5.0
+2026-07-21 22:28:46,open,1907_followup_1_walton_general_contractor__v0,1907,followup,1,walton_general_contractor__v0,"146.75.186.14, 172.69.68.99",Mozilla/5.0
