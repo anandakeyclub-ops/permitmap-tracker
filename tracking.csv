@@ -1044,3 +1044,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 16:39:35,open,2013_followup_2_pinellas_pool__v1,2013,followup,2,pinellas_pool__v1,"140.248.44.0, 104.23.248.113",Mozilla/5.0
 2026-07-21 16:41:35,open,1819_followup_2_hillsborough_roofing__v2,1819,followup,2,hillsborough_roofing__v2,"172.226.190.35, 172.70.255.45",Mozilla/5.0
 2026-07-21 16:52:54,open,1448_first_outreach_alachua_general_contractor__v2,1448,first,outreach,alachua_general_contractor__v2,"216.255.254.21, 172.68.12.76",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-07-21 17:02:19,open,1448_first_outreach_alachua_general_contractor__v2,1448,first,outreach,alachua_general_contractor__v2,"216.255.254.21, 172.71.146.111",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
