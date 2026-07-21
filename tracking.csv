@@ -932,3 +932,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 00:35:51,open,1484_followup_2_palm_beach_plumbing__v2,1484,followup,2,palm_beach_plumbing__v2,"104.28.39.128, 172.70.82.77",Mozilla/5.0
 2026-07-21 00:57:57,open,1845_first_outreach_hillsborough_plumbing__v0,1845,first,outreach,hillsborough_plumbing__v0,"47.197.149.241, 172.70.255.45",Mozilla/5.0
 2026-07-21 02:35:37,open,2045_followup_2_sarasota_roofing__v1,2045,followup,2,sarasota_roofing__v1,"172.226.190.59, 104.22.86.102",Mozilla/5.0
+2026-07-21 05:54:52,open,213_close_email_martin_plumbing__v1,213,close,email,martin_plumbing__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
