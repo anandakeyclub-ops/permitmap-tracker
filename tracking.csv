@@ -1187,3 +1187,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 00:08:07,open,730_close_email_osceola_general_contractor__v2,730,close,email,osceola_general_contractor__v2,"104.28.132.113, 104.22.24.32",Mozilla/5.0
 2026-07-22 00:56:06,open,1819_followup_2_hillsborough_roofing__v2,1819,followup,2,hillsborough_roofing__v2,"104.28.132.113, 172.71.146.36",Mozilla/5.0
 2026-07-22 01:39:08,open,1756_followup_2_lake_general_contractor__v2,1756,followup,2,lake_general_contractor__v2,"140.248.44.0, 172.68.12.90",Mozilla/5.0
+2026-07-22 02:07:56,open,651_close_email_polk_pool__v2,651,close,email,polk_pool__v2,"172.226.174.187, 198.41.227.193",Mozilla/5.0
