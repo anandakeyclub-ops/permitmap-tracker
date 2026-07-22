@@ -1184,3 +1184,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-21 22:28:46,open,1907_followup_1_walton_general_contractor__v0,1907,followup,1,walton_general_contractor__v0,"146.75.186.14, 172.69.68.99",Mozilla/5.0
 2026-07-21 23:35:11,open,1347_followup_1_marion_solar__v2,1347,followup,1,marion_solar__v2,"172.225.251.80, 104.22.24.33",Mozilla/5.0
 2026-07-21 23:47:03,open,450_followup_1_lee_plumbing__v0,450,followup,1,lee_plumbing__v0,"146.75.234.48, 172.71.146.36",Mozilla/5.0
+2026-07-22 00:08:07,open,730_close_email_osceola_general_contractor__v2,730,close,email,osceola_general_contractor__v2,"104.28.132.113, 104.22.24.32",Mozilla/5.0
