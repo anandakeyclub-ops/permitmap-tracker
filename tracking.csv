@@ -1193,3 +1193,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 02:42:17,open,1756_followup_2_lake_general_contractor__v2,1756,followup,2,lake_general_contractor__v2,"140.248.44.0, 172.68.12.77",Mozilla/5.0
 2026-07-22 03:02:12,open,1819_followup_2_hillsborough_roofing__v2,1819,followup,2,hillsborough_roofing__v2,"140.248.44.1, 172.71.151.29",Mozilla/5.0
 2026-07-22 03:05:52,open,1736_followup_1_osceola_general_contractor__v0,1736,followup,1,osceola_general_contractor__v0,"172.226.188.28, 104.23.248.112",Mozilla/5.0
+2026-07-22 03:08:04,open,684_close_email_osceola_hvac__v1,684,close,email,osceola_hvac__v1,"140.248.44.0, 172.71.151.30",Mozilla/5.0
