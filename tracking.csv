@@ -1295,3 +1295,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 21:55:44,open,1618_followup_2_pasco_roofing__v1,1618,followup,2,pasco_roofing__v1,"146.75.186.14, 172.71.151.185",Mozilla/5.0
 2026-07-22 21:55:44,open,1542_close_email_martin_general_contractor__v2,1542,close,email,martin_general_contractor__v2,"146.75.186.14, 172.71.151.21",Mozilla/5.0
 2026-07-22 21:55:44,open,1620_followup_2_pasco_roofing__v1,1620,followup,2,pasco_roofing__v1,"146.75.186.14, 172.71.151.21",Mozilla/5.0
+2026-07-22 21:55:45,open,1621_followup_2_pasco_roofing__v1,1621,followup,2,pasco_roofing__v1,"146.75.186.14, 172.71.115.32",Mozilla/5.0
+2026-07-22 21:55:45,open,1619_followup_2_pasco_roofing__v1,1619,followup,2,pasco_roofing__v1,"146.75.186.14, 172.71.115.32",Mozilla/5.0
+2026-07-22 21:55:45,open,531_close_email_pasco_hvac__v2,531,close,email,pasco_hvac__v2,"146.75.186.14, 172.71.115.32",Mozilla/5.0
+2026-07-22 21:55:45,open,588_close_email_pasco_general_contractor__v2,588,close,email,pasco_general_contractor__v2,"146.75.186.14, 172.71.115.31",Mozilla/5.0
