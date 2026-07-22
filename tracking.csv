@@ -1191,3 +1191,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 02:29:52,open,1526_followup_2_palm_beach_general_contractor__v2,1526,followup,2,palm_beach_general_contractor__v2,"172.226.190.7, 172.71.147.28",Mozilla/5.0
 2026-07-22 02:36:48,open,1843_followup_2_hillsborough_hvac__v1,1843,followup,2,hillsborough_hvac__v1,"104.28.132.113, 104.23.248.112",Mozilla/5.0
 2026-07-22 02:42:17,open,1756_followup_2_lake_general_contractor__v2,1756,followup,2,lake_general_contractor__v2,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-07-22 03:02:12,open,1819_followup_2_hillsborough_roofing__v2,1819,followup,2,hillsborough_roofing__v2,"140.248.44.1, 172.71.151.29",Mozilla/5.0
