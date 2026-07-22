@@ -1189,3 +1189,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 01:39:08,open,1756_followup_2_lake_general_contractor__v2,1756,followup,2,lake_general_contractor__v2,"140.248.44.0, 172.68.12.90",Mozilla/5.0
 2026-07-22 02:07:56,open,651_close_email_polk_pool__v2,651,close,email,polk_pool__v2,"172.226.174.187, 198.41.227.193",Mozilla/5.0
 2026-07-22 02:29:52,open,1526_followup_2_palm_beach_general_contractor__v2,1526,followup,2,palm_beach_general_contractor__v2,"172.226.190.7, 172.71.147.28",Mozilla/5.0
+2026-07-22 02:36:48,open,1843_followup_2_hillsborough_hvac__v1,1843,followup,2,hillsborough_hvac__v1,"104.28.132.113, 104.23.248.112",Mozilla/5.0
