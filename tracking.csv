@@ -1267,3 +1267,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 16:37:27,open,1658_followup_2_pasco_plumbing__v2,1658,followup,2,pasco_plumbing__v2,"140.248.44.0, 172.70.255.45",Mozilla/5.0
 2026-07-22 17:28:40,open,485_close_email_lee_solar__v2,485,close,email,lee_solar__v2,"140.248.44.1, 172.68.12.76",Mozilla/5.0
 2026-07-22 17:57:17,open,485_close_email_lee_solar__v2,485,close,email,lee_solar__v2,"140.248.44.0, 104.22.86.102",Mozilla/5.0
+2026-07-22 19:25:38,open,1532_close_email_martin_general_contractor__v0,1532,close,email,martin_general_contractor__v0,"146.75.186.14, 172.71.151.47",Mozilla/5.0
+2026-07-22 19:25:38,open,480_close_email_lee_solar__v2,480,close,email,lee_solar__v2,"146.75.186.14, 172.71.151.196",Mozilla/5.0
+2026-07-22 19:25:38,open,486_close_email_lee_solar__v2,486,close,email,lee_solar__v2,"146.75.186.14, 172.71.151.192",Mozilla/5.0
+2026-07-22 19:25:38,open,1531_close_email_martin_general_contractor__v2,1531,close,email,martin_general_contractor__v2,"146.75.186.14, 172.71.151.192",Mozilla/5.0
+2026-07-22 19:25:38,open,1526_close_email_palm_beach_general_contractor__v2,1526,close,email,palm_beach_general_contractor__v2,"146.75.186.14, 172.71.151.192",Mozilla/5.0
