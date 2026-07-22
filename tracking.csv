@@ -1230,3 +1230,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 11:32:51,open,1488_close_email_palm_beach_plumbing__v1,1488,close,email,palm_beach_plumbing__v1,"66.249.90.230, 162.159.104.193","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-22 11:36:30,open,1466_close_email_palm_beach_roofing__v1,1466,close,email,palm_beach_roofing__v1,"99.10.181.58, 172.70.255.45",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-07-22 11:36:32,open,1466_close_email_palm_beach_roofing__v1,1466,close,email,palm_beach_roofing__v1,"99.10.181.58, 172.70.255.45",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-07-22 12:32:52,open,1917_followup_1_walton_general_contractor__v0,1917,followup,1,walton_general_contractor__v0,"104.28.116.190, 104.22.56.73",Mozilla/5.0
