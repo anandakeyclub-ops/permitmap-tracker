@@ -1299,3 +1299,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 21:55:45,open,1619_followup_2_pasco_roofing__v1,1619,followup,2,pasco_roofing__v1,"146.75.186.14, 172.71.115.32",Mozilla/5.0
 2026-07-22 21:55:45,open,531_close_email_pasco_hvac__v2,531,close,email,pasco_hvac__v2,"146.75.186.14, 172.71.115.32",Mozilla/5.0
 2026-07-22 21:55:45,open,588_close_email_pasco_general_contractor__v2,588,close,email,pasco_general_contractor__v2,"146.75.186.14, 172.71.115.31",Mozilla/5.0
+2026-07-23 00:02:18,open,1977_followup_1_pinellas_roofing__v0,1977,followup,1,pinellas_roofing__v0,"140.248.44.0, 172.70.82.94",Mozilla/5.0
