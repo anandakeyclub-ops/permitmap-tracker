@@ -1301,3 +1301,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-22 21:55:45,open,588_close_email_pasco_general_contractor__v2,588,close,email,pasco_general_contractor__v2,"146.75.186.14, 172.71.115.31",Mozilla/5.0
 2026-07-23 00:02:18,open,1977_followup_1_pinellas_roofing__v0,1977,followup,1,pinellas_roofing__v0,"140.248.44.0, 172.70.82.94",Mozilla/5.0
 2026-07-23 00:37:02,open,1455_close_email_palm_beach_roofing__v2,1455,close,email,palm_beach_roofing__v2,"104.28.132.113, 172.68.34.115",Mozilla/5.0
+2026-07-23 01:22:48,open,1620_followup_2_pasco_roofing__v1,1620,followup,2,pasco_roofing__v1,"35.139.140.39, 104.23.248.113","Mozilla/5.0 (Linux; Android 16; SM-S918U1 Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.124 Mobile Safari/537.36"
