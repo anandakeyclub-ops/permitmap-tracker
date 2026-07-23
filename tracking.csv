@@ -1308,3 +1308,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-23 03:10:22,open,169_first_outreach_palm_beach_general_contractor__v2,169,first,outreach,palm_beach_general_contractor__v2,"104.28.132.113, 104.23.248.113",Mozilla/5.0
 2026-07-23 03:47:11,open,684_followup_2_osceola_hvac__v2,684,followup,2,osceola_hvac__v2,"140.248.44.0, 108.162.212.7",Mozilla/5.0
 2026-07-23 04:04:52,open,684_followup_1_osceola_hvac__v0,684,followup,1,osceola_hvac__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-07-23 05:18:11,open,1475_close_email_palm_beach_hvac__v1,1475,close,email,palm_beach_hvac__v1,"185.132.132.203, 172.71.151.191",Mozilla/5.0
