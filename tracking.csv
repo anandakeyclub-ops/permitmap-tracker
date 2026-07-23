@@ -1345,3 +1345,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-23 17:25:17,open,1676_followup_2_pasco_general_contractor__v0,1676,followup,2,pasco_general_contractor__v0,"146.75.186.14, 172.71.151.16",Mozilla/5.0
 2026-07-23 17:25:17,open,601_close_email_polk_roofing__v2,601,close,email,polk_roofing__v2,"146.75.186.14, 172.71.151.195",Mozilla/5.0
 2026-07-23 17:25:17,open,606_close_email_polk_roofing__v2,606,close,email,polk_roofing__v2,"146.75.186.14, 172.71.150.17",Mozilla/5.0
+2026-07-23 17:25:17,open,594_close_email_polk_roofing__v2,594,close,email,polk_roofing__v2,"146.75.186.14, 172.70.216.107",Mozilla/5.0
+2026-07-23 17:25:17,open,595_close_email_polk_roofing__v2,595,close,email,polk_roofing__v2,"146.75.186.14, 172.70.216.107",Mozilla/5.0
