@@ -1349,3 +1349,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-23 17:25:17,open,595_close_email_polk_roofing__v2,595,close,email,polk_roofing__v2,"146.75.186.14, 172.70.216.107",Mozilla/5.0
 2026-07-23 18:58:34,open,1958_followup_2_alachua_general_contractor__v1,1958,followup,2,alachua_general_contractor__v1,"172.226.168.22, 104.23.245.76",Mozilla/5.0
 2026-07-23 20:00:36,open,1670_followup_2_pasco_general_contractor__v1,1670,followup,2,pasco_general_contractor__v1,"140.248.44.1, 104.22.86.36",Mozilla/5.0
+2026-07-23 20:52:02,open,1685_followup_2_polk_roofing__v1,1685,followup,2,polk_roofing__v1,"72.14.199.163, 172.71.151.22","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-23 20:52:08,open,1687_followup_2_polk_roofing__v1,1687,followup,2,polk_roofing__v1,"72.14.199.164, 172.68.22.217","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
