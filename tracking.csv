@@ -1306,3 +1306,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-23 01:51:54,open,485_close_email_lee_solar__v2,485,close,email,lee_solar__v2,"172.226.190.3, 172.71.147.235",Mozilla/5.0
 2026-07-23 02:14:25,open,1843_followup_2_hillsborough_hvac__v1,1843,followup,2,hillsborough_hvac__v1,"140.248.44.1, 172.70.255.45",Mozilla/5.0
 2026-07-23 03:10:22,open,169_first_outreach_palm_beach_general_contractor__v2,169,first,outreach,palm_beach_general_contractor__v2,"104.28.132.113, 104.23.248.113",Mozilla/5.0
+2026-07-23 03:47:11,open,684_followup_2_osceola_hvac__v2,684,followup,2,osceola_hvac__v2,"140.248.44.0, 108.162.212.7",Mozilla/5.0
