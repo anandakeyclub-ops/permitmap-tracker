@@ -1411,3 +1411,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-24 16:38:14,open,2048_close_email_sarasota_roofing__v1,2048,close,email,sarasota_roofing__v1,"72.14.199.164, 172.71.151.191","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-24 16:38:25,open,2051_close_email_sarasota_roofing__v2,2051,close,email,sarasota_roofing__v2,"72.14.199.164, 162.158.42.41","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Gmail-content-sampling"
 2026-07-24 16:38:28,open,2052_close_email_sarasota_roofing__v2,2052,close,email,sarasota_roofing__v2,"72.14.199.164, 172.71.151.195","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-24 16:50:00,open,1567_close_email_lee_hvac__v0,1567,close,email,lee_hvac__v0,"172.226.14.29, 172.71.151.196",Mozilla/5.0
+2026-07-24 16:50:00,open,1558_close_email_lee_hvac__v2,1558,close,email,lee_hvac__v2,"172.226.14.29, 172.71.151.195",Mozilla/5.0
+2026-07-24 16:50:00,open,1562_close_email_lee_hvac__v1,1562,close,email,lee_hvac__v1,"172.226.14.29, 172.71.151.195",Mozilla/5.0
+2026-07-24 16:50:00,open,2159_close_email_volusia_general_contractor__v2,2159,close,email,volusia_general_contractor__v2,"172.226.14.29, 172.71.151.196",Mozilla/5.0
+2026-07-24 16:50:00,open,1568_close_email_lee_hvac__v2,1568,close,email,lee_hvac__v2,"172.226.14.29, 172.71.151.195",Mozilla/5.0
