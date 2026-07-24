@@ -1361,3 +1361,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-23 22:38:56,open,734_followup_2_osceola_general_contractor__v1,734,followup,2,osceola_general_contractor__v1,"140.248.44.0, 172.71.151.8",Mozilla/5.0
 2026-07-24 02:30:17,open,1707_followup_2_polk_hvac__v0,1707,followup,2,polk_hvac__v0,"140.248.44.0, 172.71.146.37",Mozilla/5.0
 2026-07-24 04:18:50,open,1696_followup_2_polk_hvac__v1,1696,followup,2,polk_hvac__v1,"140.248.44.0, 108.162.212.8",Mozilla/5.0
+2026-07-24 10:52:40,open,1697_followup_2_polk_hvac__v2,1697,followup,2,polk_hvac__v2,"146.75.186.15, 172.71.146.239",Mozilla/5.0
+2026-07-24 10:52:40,open,1735_followup_2_osceola_general_contractor__v2,1735,followup,2,osceola_general_contractor__v2,"146.75.186.15, 172.71.146.101",Mozilla/5.0
+2026-07-24 10:52:40,open,1703_followup_2_polk_hvac__v1,1703,followup,2,polk_hvac__v1,"146.75.186.15, 172.71.151.192",Mozilla/5.0
+2026-07-24 10:52:40,open,1733_followup_2_osceola_general_contractor__v1,1733,followup,2,osceola_general_contractor__v1,"146.75.186.15, 172.71.146.239",Mozilla/5.0
+2026-07-24 10:52:40,open,1691_followup_2_polk_roofing__v1,1691,followup,2,polk_roofing__v1,"146.75.186.15, 172.71.146.238",Mozilla/5.0
