@@ -1392,3 +1392,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-24 11:55:38,open,1564_close_email_lee_hvac__v2,1564,close,email,lee_hvac__v2,"172.226.188.37, 172.70.82.94",Mozilla/5.0
 2026-07-24 12:00:55,open,1564_close_email_lee_hvac__v2,1564,close,email,lee_hvac__v2,"140.248.44.0, 172.68.12.90",Mozilla/5.0
 2026-07-24 16:28:16,open,1696_followup_2_polk_hvac__v1,1696,followup,2,polk_hvac__v1,"172.226.190.38, 104.23.248.113",Mozilla/5.0
+2026-07-24 16:35:38,open,1781_followup_1_st_johns_general_contractor__v2,1781,followup,1,st_johns_general_contractor__v2,"72.14.199.164, 172.71.151.22","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-24 16:35:47,open,1784_followup_2_manatee_hvac__v1,1784,followup,2,manatee_hvac__v1,"72.14.199.165, 172.68.22.216","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
