@@ -1390,3 +1390,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-24 11:31:59,open,1119_close_email_sumter_solar__v2,1119,close,email,sumter_solar__v2,"72.14.199.164, 172.68.22.217","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-24 11:32:21,open,2159_close_email_volusia_general_contractor__v2,2159,close,email,volusia_general_contractor__v2,"135.232.19.12, 104.22.100.158","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-24 11:55:38,open,1564_close_email_lee_hvac__v2,1564,close,email,lee_hvac__v2,"172.226.188.37, 172.70.82.94",Mozilla/5.0
+2026-07-24 12:00:55,open,1564_close_email_lee_hvac__v2,1564,close,email,lee_hvac__v2,"140.248.44.0, 172.68.12.90",Mozilla/5.0
