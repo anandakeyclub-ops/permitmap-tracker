@@ -1418,3 +1418,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-24 16:50:00,open,1568_close_email_lee_hvac__v2,1568,close,email,lee_hvac__v2,"172.226.14.29, 172.71.151.195",Mozilla/5.0
 2026-07-24 17:04:38,open,1845_followup_1_hillsborough_plumbing__v2,1845,followup,1,hillsborough_plumbing__v2,"104.28.57.243, 108.162.212.7",Mozilla/5.0
 2026-07-24 17:09:31,open,90_first_outreach_martin_pool__v2,90,first,outreach,martin_pool__v2,"146.75.244.0, 172.70.111.21",Mozilla/5.0
+2026-07-24 17:58:29,open,2045_close_email_sarasota_roofing__v2,2045,close,email,sarasota_roofing__v2,"47.205.71.192, 172.68.12.76",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
