@@ -1416,3 +1416,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-24 16:50:00,open,1562_close_email_lee_hvac__v1,1562,close,email,lee_hvac__v1,"172.226.14.29, 172.71.151.195",Mozilla/5.0
 2026-07-24 16:50:00,open,2159_close_email_volusia_general_contractor__v2,2159,close,email,volusia_general_contractor__v2,"172.226.14.29, 172.71.151.196",Mozilla/5.0
 2026-07-24 16:50:00,open,1568_close_email_lee_hvac__v2,1568,close,email,lee_hvac__v2,"172.226.14.29, 172.71.151.195",Mozilla/5.0
+2026-07-24 17:04:38,open,1845_followup_1_hillsborough_plumbing__v2,1845,followup,1,hillsborough_plumbing__v2,"104.28.57.243, 108.162.212.7",Mozilla/5.0
