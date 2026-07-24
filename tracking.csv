@@ -1360,3 +1360,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-23 21:39:12,open,1731_followup_2_osceola_general_contractor__v2,1731,followup,2,osceola_general_contractor__v2,"140.248.44.0, 104.22.86.36",Mozilla/5.0
 2026-07-23 22:38:56,open,734_followup_2_osceola_general_contractor__v1,734,followup,2,osceola_general_contractor__v1,"140.248.44.0, 172.71.151.8",Mozilla/5.0
 2026-07-24 02:30:17,open,1707_followup_2_polk_hvac__v0,1707,followup,2,polk_hvac__v0,"140.248.44.0, 172.71.146.37",Mozilla/5.0
+2026-07-24 04:18:50,open,1696_followup_2_polk_hvac__v1,1696,followup,2,polk_hvac__v1,"140.248.44.0, 108.162.212.8",Mozilla/5.0
