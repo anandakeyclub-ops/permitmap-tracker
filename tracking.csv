@@ -1359,3 +1359,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-23 20:53:30,open,1775_followup_2_st_johns_general_contractor__v1,1775,followup,2,st_johns_general_contractor__v1,"72.14.199.163, 172.71.151.145","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-23 21:39:12,open,1731_followup_2_osceola_general_contractor__v2,1731,followup,2,osceola_general_contractor__v2,"140.248.44.0, 104.22.86.36",Mozilla/5.0
 2026-07-23 22:38:56,open,734_followup_2_osceola_general_contractor__v1,734,followup,2,osceola_general_contractor__v1,"140.248.44.0, 172.71.151.8",Mozilla/5.0
+2026-07-24 02:30:17,open,1707_followup_2_polk_hvac__v0,1707,followup,2,polk_hvac__v0,"140.248.44.0, 172.71.146.37",Mozilla/5.0
