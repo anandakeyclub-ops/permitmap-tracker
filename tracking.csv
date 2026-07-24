@@ -1420,3 +1420,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-24 17:09:31,open,90_first_outreach_martin_pool__v2,90,first,outreach,martin_pool__v2,"146.75.244.0, 172.70.111.21",Mozilla/5.0
 2026-07-24 17:58:29,open,2045_close_email_sarasota_roofing__v2,2045,close,email,sarasota_roofing__v2,"47.205.71.192, 172.68.12.76",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-07-24 19:11:37,open,1813_followup_2_manatee_general_contractor__v1,1813,followup,2,manatee_general_contractor__v1,"172.226.2.114, 172.64.217.23",Mozilla/5.0
+2026-07-24 19:28:25,open,164_close_email_palm_beach_pool,164,close,email,palm_beach_pool,"74.125.210.131, 172.71.146.100",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
