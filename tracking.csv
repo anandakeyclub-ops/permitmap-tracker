@@ -1424,3 +1424,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-24 19:35:35,open,2049_close_email_sarasota_roofing__v2,2049,close,email,sarasota_roofing__v2,"2a06:98c0:3600::103,172.68.12.90, 172.68.12.77",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-24 20:25:31,open,1702_followup_2_polk_hvac__v2,1702,followup,2,polk_hvac__v2,"140.248.44.0, 172.71.146.238",Mozilla/5.0
 2026-07-24 20:38:44,open,2045_close_email_sarasota_roofing__v2,2045,close,email,sarasota_roofing__v2,"172.226.190.43, 172.70.82.34",Mozilla/5.0
+2026-07-25 00:58:03,open,1790_followup_2_manatee_hvac__v1,1790,followup,2,manatee_hvac__v1,"140.248.44.1, 172.71.147.58",Mozilla/5.0
