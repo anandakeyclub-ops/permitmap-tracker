@@ -1425,3 +1425,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-24 20:25:31,open,1702_followup_2_polk_hvac__v2,1702,followup,2,polk_hvac__v2,"140.248.44.0, 172.71.146.238",Mozilla/5.0
 2026-07-24 20:38:44,open,2045_close_email_sarasota_roofing__v2,2045,close,email,sarasota_roofing__v2,"172.226.190.43, 172.70.82.34",Mozilla/5.0
 2026-07-25 00:58:03,open,1790_followup_2_manatee_hvac__v1,1790,followup,2,manatee_hvac__v1,"140.248.44.1, 172.71.147.58",Mozilla/5.0
+2026-07-25 01:49:30,open,1772_followup_1_st_johns_general_contractor__v0,1772,followup,1,st_johns_general_contractor__v0,"140.248.44.0, 104.22.86.37",Mozilla/5.0
