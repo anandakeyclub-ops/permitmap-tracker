@@ -1464,3 +1464,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-26 11:34:58,open,1954_close_email_alachua_general_contractor__v2,1954,close,email,alachua_general_contractor__v2,"140.248.44.0, 104.22.86.36",Mozilla/5.0
 2026-07-26 12:29:40,open,1652_close_email_pasco_plumbing__v2,1652,close,email,pasco_plumbing__v2,"104.28.132.113, 104.23.248.112",Mozilla/5.0
 2026-07-26 12:46:13,open,485_close_email_lee_solar__v2,485,close,email,lee_solar__v2,"140.248.44.0, 104.22.86.37",Mozilla/5.0
+2026-07-26 12:50:10,open,1790_followup_2_manatee_hvac__v1,1790,followup,2,manatee_hvac__v1,"172.226.188.23, 104.23.248.112",Mozilla/5.0
+2026-07-26 12:51:37,open,485_followup_2_lee_solar__v2,485,followup,2,lee_solar__v2,"140.248.44.1, 104.22.86.36",Mozilla/5.0
