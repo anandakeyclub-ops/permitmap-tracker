@@ -1798,3 +1798,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 23:39:48,open,38_followup_1_palm_beach_pool__v0,38,followup,1,palm_beach_pool__v0,"140.248.36.210, 172.71.146.100",Mozilla/5.0
 2026-07-27 23:39:48,open,1426_followup_1_alachua_pool__v0,1426,followup,1,alachua_pool__v0,"140.248.36.210, 172.71.148.70",Mozilla/5.0
 2026-07-27 23:39:48,open,1420_followup_1_alachua_pool__v0,1420,followup,1,alachua_pool__v0,"140.248.36.210, 172.71.148.71",Mozilla/5.0
+2026-07-27 23:43:17,open,1843_close_email_hillsborough_hvac__v2,1843,close,email,hillsborough_hvac__v2,"140.248.44.0, 172.71.151.196",Mozilla/5.0
