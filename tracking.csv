@@ -1597,3 +1597,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 16:42:35,open,1348_followup_2_marion_solar__v1,1348,followup,2,marion_solar__v1,"72.14.199.162, 172.71.150.16","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-27 16:42:58,open,133_followup_1_palm_beach_hvac__v0,133,followup,1,palm_beach_hvac__v0,"140.248.44.0, 104.22.86.37",Mozilla/5.0
 2026-07-27 16:43:14,open,133_followup_1_palm_beach_hvac__v0,133,followup,1,palm_beach_hvac__v0,"172.226.188.34, 172.71.151.196",Mozilla/5.0
+2026-07-27 16:49:27,open,392_first_outreach_martin_pool__v2,392,first,outreach,martin_pool__v2,"140.248.44.1, 172.68.12.77",Mozilla/5.0
