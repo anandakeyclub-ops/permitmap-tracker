@@ -1603,3 +1603,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 17:00:06,open,316_first_outreach_palm_beach_pool__v2,316,first,outreach,palm_beach_pool__v2,"72.14.199.162, 108.162.245.27","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-27 17:18:10,open,1554_close_email_lee_roofing__v2,1554,close,email,lee_roofing__v2,"172.226.188.3, 172.68.12.76",Mozilla/5.0
 2026-07-27 17:21:18,open,1554_close_email_lee_roofing__v2,1554,close,email,lee_roofing__v2,"140.248.44.0, 172.70.82.94",Mozilla/5.0
+2026-07-27 17:47:21,open,398_first_outreach_martin_pool__v2,398,first,outreach,martin_pool__v2,"2a06:98c0:3600::103,108.162.238.149, 172.71.151.48",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
