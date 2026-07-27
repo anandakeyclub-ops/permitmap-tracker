@@ -1469,3 +1469,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-26 16:55:02,open,1951_close_email_alachua_general_contractor__v2,1951,close,email,alachua_general_contractor__v2,"146.75.232.0, 172.71.22.183",Mozilla/5.0
 2026-07-27 02:59:59,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"172.226.188.49, 172.71.151.196",Mozilla/5.0
 2026-07-27 06:36:32,open,1807_followup_2_manatee_general_contractor__v1,1807,followup,2,manatee_general_contractor__v1,"104.28.132.113, 172.68.12.91",Mozilla/5.0
+2026-07-27 08:33:12,open,2016_close_email_pinellas_pool__v2,2016,close,email,pinellas_pool__v2,"104.28.96.42, 172.71.151.191",Mozilla/5.0
+2026-07-27 08:33:12,open,1953_close_email_alachua_general_contractor__v2,1953,close,email,alachua_general_contractor__v2,"104.28.96.42, 172.71.151.192",Mozilla/5.0
+2026-07-27 08:33:12,open,1956_close_email_alachua_general_contractor__v0,1956,close,email,alachua_general_contractor__v0,"104.28.96.42, 172.71.151.192",Mozilla/5.0
+2026-07-27 08:33:12,open,1959_close_email_alachua_general_contractor__v2,1959,close,email,alachua_general_contractor__v2,"104.28.96.42, 172.71.146.138",Mozilla/5.0
+2026-07-27 08:33:12,open,1955_close_email_alachua_general_contractor__v2,1955,close,email,alachua_general_contractor__v2,"104.28.96.42, 172.71.146.139",Mozilla/5.0
