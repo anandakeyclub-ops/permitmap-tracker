@@ -1606,3 +1606,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 17:47:21,open,398_first_outreach_martin_pool__v2,398,first,outreach,martin_pool__v2,"2a06:98c0:3600::103,108.162.238.149, 172.71.151.48",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-27 17:53:51,open,393_first_outreach_martin_pool__v2,393,first,outreach,martin_pool__v2,"74.125.210.141, 172.71.22.183",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-07-27 18:08:52,open,2013_followup_2_pinellas_pool__v1,2013,followup,2,pinellas_pool__v1,"104.28.132.113, 172.68.12.77",Mozilla/5.0
+2026-07-27 18:28:06,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"172.226.188.32, 172.68.12.77",Mozilla/5.0
