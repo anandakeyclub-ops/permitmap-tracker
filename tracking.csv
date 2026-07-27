@@ -1788,3 +1788,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 21:05:13,open,1819_close_email_hillsborough_roofing__v2,1819,close,email,hillsborough_roofing__v2,"172.226.190.19, 172.70.82.93",Mozilla/5.0
 2026-07-27 21:10:24,open,1908_followup_2_walton_general_contractor__v2,1908,followup,2,walton_general_contractor__v2,"146.75.234.49, 172.71.151.196",Mozilla/5.0
 2026-07-27 21:11:07,open,169_followup_1_palm_beach_general_contractor__v0,169,followup,1,palm_beach_general_contractor__v0,"140.248.0.1, 104.22.100.158",Mozilla/5.0
+2026-07-27 21:30:35,open,1598_close_email_lee_pool__v2,1598,close,email,lee_pool__v2,"140.248.44.0, 172.68.12.76",Mozilla/5.0
+2026-07-27 21:32:14,open,60_followup_1_martin_roofing__v0,60,followup,1,martin_roofing__v0,"69.147.86.248, 172.69.67.75",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
