@@ -1791,3 +1791,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 21:30:35,open,1598_close_email_lee_pool__v2,1598,close,email,lee_pool__v2,"140.248.44.0, 172.68.12.76",Mozilla/5.0
 2026-07-27 21:32:14,open,60_followup_1_martin_roofing__v0,60,followup,1,martin_roofing__v0,"69.147.86.248, 172.69.67.75",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-07-27 22:13:39,open,73_followup_1_martin_hvac__v2,73,followup,1,martin_hvac__v2,"172.226.188.32, 172.70.82.93",Mozilla/5.0
+2026-07-27 23:39:48,open,1419_followup_1_alachua_pool__v0,1419,followup,1,alachua_pool__v0,"140.248.36.210, 172.71.146.100",Mozilla/5.0
+2026-07-27 23:39:48,open,1422_followup_1_alachua_pool__v0,1422,followup,1,alachua_pool__v0,"140.248.36.210, 172.71.146.100",Mozilla/5.0
+2026-07-27 23:39:48,open,1416_followup_1_alachua_pool__v1,1416,followup,1,alachua_pool__v1,"140.248.36.210, 172.71.146.100",Mozilla/5.0
+2026-07-27 23:39:48,open,42_followup_1_palm_beach_solar__v2,42,followup,1,palm_beach_solar__v2,"140.248.36.210, 172.71.146.100",Mozilla/5.0
+2026-07-27 23:39:48,open,38_followup_1_palm_beach_pool__v0,38,followup,1,palm_beach_pool__v0,"140.248.36.210, 172.71.146.100",Mozilla/5.0
