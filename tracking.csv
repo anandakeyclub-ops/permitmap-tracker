@@ -1502,3 +1502,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 12:35:53,open,1790_followup_2_manatee_hvac__v1,1790,followup,2,manatee_hvac__v1,"140.248.44.0, 172.70.82.93",Mozilla/5.0
 2026-07-27 14:24:48,open,1962_close_email_alachua_general_contractor__v2,1962,close,email,alachua_general_contractor__v2,"198.251.71.185, 172.71.146.100",OX App Suite HTTP client
 2026-07-27 14:24:48,open,1962_close_email_alachua_general_contractor__v2,1962,close,email,alachua_general_contractor__v2,"198.251.71.185, 172.71.146.100",OX App Suite HTTP client
+2026-07-27 15:47:36,open,2013_followup_2_pinellas_pool__v1,2013,followup,2,pinellas_pool__v1,"104.28.50.162, 172.68.12.91",Mozilla/5.0
