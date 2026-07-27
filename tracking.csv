@@ -1608,3 +1608,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 18:08:52,open,2013_followup_2_pinellas_pool__v1,2013,followup,2,pinellas_pool__v1,"104.28.132.113, 172.68.12.77",Mozilla/5.0
 2026-07-27 18:28:06,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"172.226.188.32, 172.68.12.77",Mozilla/5.0
 2026-07-27 18:39:38,open,279_first_outreach_palm_beach_hvac__v2,279,first,outreach,palm_beach_hvac__v2,"69.147.95.11, 104.22.101.101",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-07-27 19:06:26,open,259_first_outreach_palm_beach_roofing__v2,259,first,outreach,palm_beach_roofing__v2,"140.248.44.1, 172.68.12.90",Mozilla/5.0
