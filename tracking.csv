@@ -1498,3 +1498,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 11:36:49,open,1430_followup_1_alachua_solar__v0,1430,followup,1,alachua_solar__v0,"72.14.199.165, 172.68.22.217","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-27 11:36:56,open,1431_followup_1_alachua_solar__v0,1431,followup,1,alachua_solar__v0,"72.153.153.26, 172.69.134.83","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-27 11:37:49,open,36_followup_1_palm_beach_pool__v0,36,followup,1,palm_beach_pool__v0,"140.248.44.0, 172.68.12.90",Mozilla/5.0
+2026-07-27 11:53:18,open,20_followup_1_palm_beach_plumbing__v2,20,followup,1,palm_beach_plumbing__v2,"140.248.44.0, 172.71.151.191",Mozilla/5.0
