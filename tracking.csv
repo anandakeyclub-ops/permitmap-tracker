@@ -1787,3 +1787,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-27 21:01:21,open,1819_close_email_hillsborough_roofing__v2,1819,close,email,hillsborough_roofing__v2,"172.226.190.5, 172.68.12.77",Mozilla/5.0
 2026-07-27 21:05:13,open,1819_close_email_hillsborough_roofing__v2,1819,close,email,hillsborough_roofing__v2,"172.226.190.19, 172.70.82.93",Mozilla/5.0
 2026-07-27 21:10:24,open,1908_followup_2_walton_general_contractor__v2,1908,followup,2,walton_general_contractor__v2,"146.75.234.49, 172.71.151.196",Mozilla/5.0
+2026-07-27 21:11:07,open,169_followup_1_palm_beach_general_contractor__v0,169,followup,1,palm_beach_general_contractor__v0,"140.248.0.1, 104.22.100.158",Mozilla/5.0
