@@ -1912,3 +1912,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 20:45:49,open,1765_close_email_lake_general_contractor__v2,1765,close,email,lake_general_contractor__v2,"72.14.199.165, 172.68.22.217","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-28 20:58:21,open,1756_close_email_lake_general_contractor__v2,1756,close,email,lake_general_contractor__v2,"172.226.188.40, 104.23.248.112",Mozilla/5.0
 2026-07-28 21:08:14,open,1756_close_email_lake_general_contractor__v2,1756,close,email,lake_general_contractor__v2,"146.75.232.0, 104.22.1.64",Mozilla/5.0
+2026-07-28 23:26:46,open,1696_close_email_polk_hvac__v2,1696,close,email,polk_hvac__v2,"172.226.190.48, 172.71.151.192",Mozilla/5.0
