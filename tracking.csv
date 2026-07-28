@@ -1891,3 +1891,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 17:01:06,open,1678_close_email_polk_roofing__v2,1678,close,email,polk_roofing__v2,"172.56.100.207, 172.68.12.77","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-07-28 17:44:48,open,1786_close_email_manatee_hvac__v2,1786,close,email,manatee_hvac__v2,"104.28.132.113, 172.68.12.77",Mozilla/5.0
 2026-07-28 18:14:32,open,1670_close_email_pasco_general_contractor__v2,1670,close,email,pasco_general_contractor__v2,"172.226.188.0, 172.71.156.249",Mozilla/5.0
+2026-07-28 18:31:00,open,1455_close_email_palm_beach_roofing__v2,1455,close,email,palm_beach_roofing__v2,"172.225.80.241, 104.22.72.63",Mozilla/5.0
