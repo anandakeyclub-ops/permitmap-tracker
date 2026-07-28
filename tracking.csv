@@ -1841,3 +1841,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 03:31:16,open,1347_followup_2_marion_solar__v1,1347,followup,2,marion_solar__v1,"140.248.44.0, 172.71.146.112",Mozilla/5.0
 2026-07-28 03:41:19,open,1819_close_email_hillsborough_roofing__v2,1819,close,email,hillsborough_roofing__v2,"140.248.44.0, 172.68.12.90",Mozilla/5.0
 2026-07-28 03:57:27,open,1819_close_email_hillsborough_roofing__v2,1819,close,email,hillsborough_roofing__v2,"140.248.44.0, 172.71.156.249",Mozilla/5.0
+2026-07-28 04:29:42,open,1377_followup_1_alachua_roofing__v0,1377,followup,1,alachua_roofing__v0,"140.248.44.1, 172.71.146.100",Mozilla/5.0
