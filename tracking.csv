@@ -1844,3 +1844,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 04:29:42,open,1377_followup_1_alachua_roofing__v0,1377,followup,1,alachua_roofing__v0,"140.248.44.1, 172.71.146.100",Mozilla/5.0
 2026-07-28 04:37:02,open,213_followup_1_martin_plumbing__v0,213,followup,1,martin_plumbing__v0,"104.28.85.125, 104.22.86.37",Mozilla/5.0
 2026-07-28 05:21:36,open,30_followup_1_palm_beach_pool__v0,30,followup,1,palm_beach_pool__v0,"172.226.190.13, 172.71.146.164",Mozilla/5.0
+2026-07-28 05:35:46,open,684_followup_1_osceola_hvac__v0,684,followup,1,osceola_hvac__v0,"140.248.44.0, 172.68.12.91",Mozilla/5.0
