@@ -1873,3 +1873,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 15:05:28,open,1786_followup_2_manatee_hvac__v1,1786,followup,2,manatee_hvac__v1,"104.28.132.113, 172.71.146.164",Mozilla/5.0
 2026-07-28 15:33:26,open,90_followup_1_martin_pool__v0,90,followup,1,martin_pool__v0,"146.75.236.0, 172.71.146.122",Mozilla/5.0
 2026-07-28 15:53:14,open,156_followup_1_palm_beach_pool__v0,156,followup,1,palm_beach_pool__v0,"104.28.57.248, 172.70.82.94",Mozilla/5.0
+2026-07-28 16:35:21,open,1672_close_email_pasco_general_contractor__v2,1672,close,email,pasco_general_contractor__v2,"72.14.199.165, 104.22.72.63","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-07-28 16:35:23,open,1674_close_email_pasco_general_contractor__v2,1674,close,email,pasco_general_contractor__v2,"72.14.199.161, 162.158.42.145","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
