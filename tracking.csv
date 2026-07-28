@@ -1819,3 +1819,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 00:21:28,open,161_followup_1_palm_beach_pool__v0,161,followup,1,palm_beach_pool__v0,"140.248.36.211, 172.71.146.101",Mozilla/5.0
 2026-07-28 00:21:31,open,1744_followup_2_lake_hvac__v1,1744,followup,2,lake_hvac__v1,"140.248.36.211, 172.71.146.101",Mozilla/5.0
 2026-07-28 00:21:35,open,1606_close_email_lee_general_contractor__v2,1606,close,email,lee_general_contractor__v2,"140.248.36.211, 172.71.146.100",Mozilla/5.0
+2026-07-28 00:51:40,open,1599_close_email_lee_pool__v2,1599,close,email,lee_pool__v2,"140.248.36.211, 172.71.146.164",Mozilla/5.0
+2026-07-28 00:51:40,open,193_followup_1_martin_roofing__v0,193,followup,1,martin_roofing__v0,"140.248.36.211, 172.71.146.165",Mozilla/5.0
+2026-07-28 00:51:40,open,199_followup_1_martin_hvac__v0,199,followup,1,martin_hvac__v0,"140.248.36.211, 172.71.146.101",Mozilla/5.0
+2026-07-28 00:51:40,open,206_followup_1_martin_hvac__v0,206,followup,1,martin_hvac__v0,"140.248.36.211, 172.71.146.164",Mozilla/5.0
+2026-07-28 00:51:40,open,219_followup_1_martin_plumbing__v0,219,followup,1,martin_plumbing__v0,"140.248.36.211, 172.71.146.164",Mozilla/5.0
+2026-07-28 00:51:40,open,195_followup_1_martin_roofing__v0,195,followup,1,martin_roofing__v0,"140.248.36.211, 172.71.146.165",Mozilla/5.0
