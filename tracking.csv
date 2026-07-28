@@ -1839,3 +1839,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 02:13:29,open,375_first_outreach_martin_hvac__v2,375,first,outreach,martin_hvac__v2,"140.248.44.1, 104.22.86.36",Mozilla/5.0
 2026-07-28 03:04:36,open,221_followup_1_martin_plumbing__v0,221,followup,1,martin_plumbing__v0,"172.226.190.47, 104.22.86.37",Mozilla/5.0
 2026-07-28 03:31:16,open,1347_followup_2_marion_solar__v1,1347,followup,2,marion_solar__v1,"140.248.44.0, 172.71.146.112",Mozilla/5.0
+2026-07-28 03:41:19,open,1819_close_email_hillsborough_roofing__v2,1819,close,email,hillsborough_roofing__v2,"140.248.44.0, 172.68.12.90",Mozilla/5.0
