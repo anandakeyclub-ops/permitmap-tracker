@@ -1889,3 +1889,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 16:55:51,open,1790_close_email_manatee_hvac__v2,1790,close,email,manatee_hvac__v2,"140.248.44.0, 104.23.248.112",Mozilla/5.0
 2026-07-28 17:01:06,open,1678_close_email_polk_roofing__v2,1678,close,email,polk_roofing__v2,"172.56.100.207, 104.22.86.37","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-07-28 17:01:06,open,1678_close_email_polk_roofing__v2,1678,close,email,polk_roofing__v2,"172.56.100.207, 172.68.12.77","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-07-28 17:44:48,open,1786_close_email_manatee_hvac__v2,1786,close,email,manatee_hvac__v2,"104.28.132.113, 172.68.12.77",Mozilla/5.0
