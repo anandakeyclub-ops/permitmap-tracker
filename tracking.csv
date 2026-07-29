@@ -1917,3 +1917,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-29 00:08:31,open,1756_close_email_lake_general_contractor__v2,1756,close,email,lake_general_contractor__v2,"172.225.214.48, 104.22.1.65",Mozilla/5.0
 2026-07-29 01:24:47,open,1707_close_email_polk_hvac__v2,1707,close,email,polk_hvac__v2,"140.248.44.0, 172.68.174.110",Mozilla/5.0
 2026-07-29 02:18:54,open,1736_followup_2_osceola_general_contractor__v1,1736,followup,2,osceola_general_contractor__v1,"104.28.132.113, 172.71.156.249",Mozilla/5.0
+2026-07-29 07:05:15,open,1790_close_email_manatee_hvac__v2,1790,close,email,manatee_hvac__v2,"104.28.132.113, 172.71.151.195",Mozilla/5.0
