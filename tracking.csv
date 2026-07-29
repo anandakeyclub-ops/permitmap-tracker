@@ -1924,3 +1924,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-29 07:22:45,open,1644_close_email_pasco_hvac__v2,1644,close,email,pasco_hvac__v2,"104.28.132.113, 172.71.151.30",Mozilla/5.0
 2026-07-29 07:22:45,open,1634_close_email_pasco_hvac__v2,1634,close,email,pasco_hvac__v2,"104.28.132.113, 172.71.151.30",Mozilla/5.0
 2026-07-29 07:22:45,open,1639_close_email_pasco_hvac__v2,1639,close,email,pasco_hvac__v2,"104.28.132.113, 172.71.146.101",Mozilla/5.0
+2026-07-29 07:22:46,open,1632_close_email_pasco_roofing__v2,1632,close,email,pasco_roofing__v2,"104.28.132.113, 104.23.199.43",Mozilla/5.0
