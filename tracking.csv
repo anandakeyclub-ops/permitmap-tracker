@@ -1915,3 +1915,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-28 23:26:46,open,1696_close_email_polk_hvac__v2,1696,close,email,polk_hvac__v2,"172.226.190.48, 172.71.151.192",Mozilla/5.0
 2026-07-28 23:39:03,open,90_followup_1_martin_pool__v0,90,followup,1,martin_pool__v0,"104.28.132.113, 172.68.12.90",Mozilla/5.0
 2026-07-29 00:08:31,open,1756_close_email_lake_general_contractor__v2,1756,close,email,lake_general_contractor__v2,"172.225.214.48, 104.22.1.65",Mozilla/5.0
+2026-07-29 01:24:47,open,1707_close_email_polk_hvac__v2,1707,close,email,polk_hvac__v2,"140.248.44.0, 172.68.174.110",Mozilla/5.0
