@@ -1949,3 +1949,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-29 14:13:10,open,1791_close_email_manatee_hvac__v2,1791,close,email,manatee_hvac__v2,"104.28.132.113, 172.71.146.165",Mozilla/5.0
 2026-07-29 14:13:10,open,1788_close_email_manatee_hvac__v2,1788,close,email,manatee_hvac__v2,"104.28.132.113, 172.71.146.164",Mozilla/5.0
 2026-07-29 14:13:10,open,1672_close_email_pasco_general_contractor__v2,1672,close,email,pasco_general_contractor__v2,"104.28.132.113, 172.71.146.165",Mozilla/5.0
+2026-07-29 15:05:32,open,1763_close_email_lake_general_contractor__v2,1763,close,email,lake_general_contractor__v2,"104.28.132.113, 172.71.151.192",Mozilla/5.0
+2026-07-29 15:05:32,open,1734_followup_2_osceola_general_contractor__v1,1734,followup,2,osceola_general_contractor__v1,"104.28.132.113, 172.71.147.143",Mozilla/5.0
+2026-07-29 15:05:32,open,1759_close_email_lake_general_contractor__v2,1759,close,email,lake_general_contractor__v2,"104.28.132.113, 172.71.151.192",Mozilla/5.0
+2026-07-29 15:05:32,open,1729_close_email_osceola_general_contractor__v2,1729,close,email,osceola_general_contractor__v2,"104.28.132.113, 172.71.147.144",Mozilla/5.0
+2026-07-29 15:05:32,open,1762_close_email_lake_general_contractor__v2,1762,close,email,lake_general_contractor__v2,"104.28.132.113, 172.71.147.144",Mozilla/5.0
