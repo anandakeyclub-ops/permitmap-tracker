@@ -2014,3 +2014,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-29 20:48:02,open,549_first_outreach_pasco_plumbing__v2,549,first,outreach,pasco_plumbing__v2,"140.248.44.1, 172.68.12.77",Mozilla/5.0
 2026-07-29 20:49:49,open,674_first_outreach_osceola_roofing__v2,674,first,outreach,osceola_roofing__v2,"140.248.44.0, 172.68.12.77",Mozilla/5.0
 2026-07-29 21:02:44,open,549_first_outreach_pasco_plumbing__v2,549,first,outreach,pasco_plumbing__v2,"172.226.190.2, 172.68.12.76",Mozilla/5.0
+2026-07-29 21:16:21,open,1790_close_email_manatee_hvac__v2,1790,close,email,manatee_hvac__v2,"172.226.188.50, 172.71.151.30",Mozilla/5.0
