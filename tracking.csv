@@ -1983,3 +1983,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-29 16:33:50,open,502_first_outreach_lee_general_contractor__v2,502,first,outreach,lee_general_contractor__v2,"135.232.20.45, 172.71.150.16","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-29 16:34:33,open,424_first_outreach_lee_roofing__v2,424,first,outreach,lee_roofing__v2,"72.153.231.12, 172.68.174.57","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-29 17:05:01,open,2017_followup_1_pinellas_pool__v0,2017,followup,1,pinellas_pool__v0,"140.248.44.0, 172.68.12.90",Mozilla/5.0
+2026-07-29 18:27:08,open,2112_first_outreach_sarasota_general_contractor__v0,2112,first,outreach,sarasota_general_contractor__v0,"140.248.44.0, 172.71.151.186",Mozilla/5.0
+2026-07-29 18:27:17,open,2112_followup_1_sarasota_general_contractor__v0,2112,followup,1,sarasota_general_contractor__v0,"140.248.44.0, 104.23.248.113",Mozilla/5.0
