@@ -1985,3 +1985,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-29 17:05:01,open,2017_followup_1_pinellas_pool__v0,2017,followup,1,pinellas_pool__v0,"140.248.44.0, 172.68.12.90",Mozilla/5.0
 2026-07-29 18:27:08,open,2112_first_outreach_sarasota_general_contractor__v0,2112,first,outreach,sarasota_general_contractor__v0,"140.248.44.0, 172.71.151.186",Mozilla/5.0
 2026-07-29 18:27:17,open,2112_followup_1_sarasota_general_contractor__v0,2112,followup,1,sarasota_general_contractor__v0,"140.248.44.0, 104.23.248.113",Mozilla/5.0
+2026-07-29 19:42:50,open,1633_close_email_pasco_hvac__v2,1633,close,email,pasco_hvac__v2,"69.147.93.14, 104.22.105.81",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
