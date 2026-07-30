@@ -2080,3 +2080,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-30 17:16:13,open,2013_followup_1_pinellas_pool__v0,2013,followup,1,pinellas_pool__v0,"140.248.44.0, 172.71.146.165",Mozilla/5.0
 2026-07-30 17:22:37,open,1679_close_email_polk_roofing__v2,1679,close,email,polk_roofing__v2,"104.28.103.14, 172.71.151.196",Mozilla/5.0
 2026-07-30 17:34:48,open,90_first_outreach_martin_pool__v2,90,first,outreach,martin_pool__v2,"104.28.132.113, 172.71.147.82",Mozilla/5.0
+2026-07-30 18:01:58,open,1252_followup_1_walton_plumbing__v0,1252,followup,1,walton_plumbing__v0,"140.248.36.55, 172.71.146.165",Mozilla/5.0
+2026-07-30 18:01:58,open,1248_followup_1_walton_plumbing__v1,1248,followup,1,walton_plumbing__v1,"140.248.36.55, 172.71.146.165",Mozilla/5.0
+2026-07-30 18:01:58,open,1900_followup_2_clay_general_contractor__v1,1900,followup,2,clay_general_contractor__v1,"140.248.36.55, 172.71.146.164",Mozilla/5.0
+2026-07-30 18:01:58,open,1254_followup_1_walton_plumbing__v1,1254,followup,1,walton_plumbing__v1,"140.248.36.55, 172.71.146.164",Mozilla/5.0
+2026-07-30 18:01:58,open,1251_followup_1_walton_plumbing__v0,1251,followup,1,walton_plumbing__v0,"140.248.36.55, 172.71.146.164",Mozilla/5.0
