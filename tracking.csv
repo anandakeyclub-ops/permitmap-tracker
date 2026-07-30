@@ -2024,3 +2024,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-30 03:46:50,open,1677_close_email_pasco_general_contractor__v2,1677,close,email,pasco_general_contractor__v2,"104.28.132.113, 104.22.86.37",Mozilla/5.0
 2026-07-30 03:46:50,open,1677_followup_1_pasco_general_contractor__v0,1677,followup,1,pasco_general_contractor__v0,"104.28.132.113, 104.22.86.36",Mozilla/5.0
 2026-07-30 03:46:50,open,1677_followup_2_pasco_general_contractor__v1,1677,followup,2,pasco_general_contractor__v1,"104.28.132.113, 104.22.86.37",Mozilla/5.0
+2026-07-30 07:02:44,open,1883_followup_1_hillsborough_general_contractor__v0,1883,followup,1,hillsborough_general_contractor__v0,"104.28.64.19, 172.71.146.165",Mozilla/5.0
+2026-07-30 07:02:45,open,1888_followup_1_hillsborough_general_contractor__v2,1888,followup,1,hillsborough_general_contractor__v2,"104.28.64.19, 104.23.199.43",Mozilla/5.0
