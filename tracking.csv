@@ -2018,3 +2018,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-29 21:48:29,open,157_followup_1_palm_beach_pool__v0,157,followup,1,palm_beach_pool__v0,"74.125.150.3, 172.68.22.217","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-07-29 22:44:48,open,1756_close_email_lake_general_contractor__v2,1756,close,email,lake_general_contractor__v2,"104.28.57.242, 172.71.151.191",Mozilla/5.0
 2026-07-29 22:45:58,open,1879_followup_1_hillsborough_general_contractor__v0,1879,followup,1,hillsborough_general_contractor__v0,"172.226.190.37, 172.71.156.249",Mozilla/5.0
+2026-07-30 00:30:19,open,671_first_outreach_osceola_roofing__v2,671,first,outreach,osceola_roofing__v2,"2a06:98c0:3600::103,172.70.82.94, 172.70.82.94",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
