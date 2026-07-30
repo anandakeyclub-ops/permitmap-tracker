@@ -2027,3 +2027,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-30 07:02:44,open,1883_followup_1_hillsborough_general_contractor__v0,1883,followup,1,hillsborough_general_contractor__v0,"104.28.64.19, 172.71.146.165",Mozilla/5.0
 2026-07-30 07:02:45,open,1888_followup_1_hillsborough_general_contractor__v2,1888,followup,1,hillsborough_general_contractor__v2,"104.28.64.19, 104.23.199.43",Mozilla/5.0
 2026-07-30 07:04:55,open,1377_followup_1_alachua_roofing__v0,1377,followup,1,alachua_roofing__v0,"140.248.44.0, 104.22.86.36",Mozilla/5.0
+2026-07-30 07:19:07,open,1893_followup_2_clay_general_contractor__v1,1893,followup,2,clay_general_contractor__v1,"104.28.129.22, 172.71.146.165",Mozilla/5.0
+2026-07-30 07:19:07,open,1896_followup_2_clay_general_contractor__v1,1896,followup,2,clay_general_contractor__v1,"104.28.129.22, 172.71.146.164",Mozilla/5.0
+2026-07-30 07:19:07,open,1884_followup_1_hillsborough_general_contractor__v0,1884,followup,1,hillsborough_general_contractor__v0,"104.28.129.22, 172.71.146.164",Mozilla/5.0
+2026-07-30 07:19:07,open,1895_followup_2_clay_general_contractor__v2,1895,followup,2,clay_general_contractor__v2,"104.28.129.22, 172.71.146.164",Mozilla/5.0
+2026-07-30 07:19:07,open,1846_followup_2_hillsborough_plumbing__v1,1846,followup,2,hillsborough_plumbing__v1,"104.28.129.22, 172.71.151.195",Mozilla/5.0
+2026-07-30 07:19:07,open,1882_followup_1_hillsborough_general_contractor__v0,1882,followup,1,hillsborough_general_contractor__v0,"104.28.129.22, 172.71.151.196",Mozilla/5.0
