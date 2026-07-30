@@ -2089,3 +2089,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-30 18:02:00,open,1902_followup_2_clay_general_contractor__v1,1902,followup,2,clay_general_contractor__v1,"140.248.36.55, 172.71.146.164",Mozilla/5.0
 2026-07-30 18:02:00,open,1255_followup_1_walton_plumbing__v0,1255,followup,1,walton_plumbing__v0,"140.248.36.55, 172.71.146.164",Mozilla/5.0
 2026-07-30 18:43:17,open,90_followup_1_martin_pool__v0,90,followup,1,martin_pool__v0,"104.28.132.113, 172.71.151.30",Mozilla/5.0
+2026-07-30 19:21:21,open,1386_first_outreach_alachua_hvac__v2,1386,first,outreach,alachua_hvac__v2,"74.125.210.135, 104.22.56.72",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
