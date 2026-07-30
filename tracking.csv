@@ -2034,3 +2034,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-30 07:19:07,open,1846_followup_2_hillsborough_plumbing__v1,1846,followup,2,hillsborough_plumbing__v1,"104.28.129.22, 172.71.151.195",Mozilla/5.0
 2026-07-30 07:19:07,open,1882_followup_1_hillsborough_general_contractor__v0,1882,followup,1,hillsborough_general_contractor__v0,"104.28.129.22, 172.71.151.196",Mozilla/5.0
 2026-07-30 07:19:10,open,1855_followup_1_hillsborough_plumbing__v2,1855,followup,1,hillsborough_plumbing__v2,"104.28.129.22, 172.71.151.195",Mozilla/5.0
+2026-07-30 09:37:40,open,1807_close_email_manatee_general_contractor__v2,1807,close,email,manatee_general_contractor__v2,"140.248.44.0, 172.70.82.93",Mozilla/5.0
