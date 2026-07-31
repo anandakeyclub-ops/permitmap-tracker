@@ -2116,3 +2116,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-31 14:27:09,open,1274_close_email_walton_general_contractor__v2,1274,close,email,walton_general_contractor__v2,"108.223.188.36, 172.71.151.191",Mozilla/5.0
 2026-07-31 14:40:39,open,1774_first_outreach_st_johns_general_contractor__v0,1774,first,outreach,st_johns_general_contractor__v0,"146.75.248.1, 104.22.24.33",Mozilla/5.0
 2026-07-31 14:44:30,open,1409_first_outreach_alachua_plumbing__v2,1409,first,outreach,alachua_plumbing__v2,"69.147.92.147, 104.22.100.183",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-07-31 16:18:59,open,1744_close_email_lake_hvac__v2,1744,close,email,lake_hvac__v2,"172.226.108.18, 172.71.151.185",Mozilla/5.0
+2026-07-31 16:18:59,open,1746_close_email_lake_hvac__v1,1746,close,email,lake_hvac__v1,"172.226.108.18, 172.71.151.186",Mozilla/5.0
+2026-07-31 16:18:59,open,1747_close_email_lake_hvac__v2,1747,close,email,lake_hvac__v2,"172.226.108.18, 172.71.151.186",Mozilla/5.0
+2026-07-31 16:18:59,open,1751_close_email_lake_hvac__v2,1751,close,email,lake_hvac__v2,"172.226.108.18, 172.71.151.185",Mozilla/5.0
+2026-07-31 16:18:59,open,1742_close_email_lake_hvac__v2,1742,close,email,lake_hvac__v2,"172.226.108.18, 172.71.151.185",Mozilla/5.0
