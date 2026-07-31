@@ -2121,3 +2121,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-31 16:18:59,open,1747_close_email_lake_hvac__v2,1747,close,email,lake_hvac__v2,"172.226.108.18, 172.71.151.186",Mozilla/5.0
 2026-07-31 16:18:59,open,1751_close_email_lake_hvac__v2,1751,close,email,lake_hvac__v2,"172.226.108.18, 172.71.151.185",Mozilla/5.0
 2026-07-31 16:18:59,open,1742_close_email_lake_hvac__v2,1742,close,email,lake_hvac__v2,"172.226.108.18, 172.71.151.185",Mozilla/5.0
+2026-07-31 16:18:59,open,1752_close_email_lake_hvac__v2,1752,close,email,lake_hvac__v2,"172.226.108.18, 172.70.248.24",Mozilla/5.0
+2026-07-31 16:18:59,open,1904_close_email_walton_general_contractor__v2,1904,close,email,walton_general_contractor__v2,"172.226.108.18, 172.70.248.25",Mozilla/5.0
+2026-07-31 16:18:59,open,1748_close_email_lake_hvac__v0,1748,close,email,lake_hvac__v0,"172.226.108.18, 172.70.248.25",Mozilla/5.0
+2026-07-31 16:19:00,open,1745_close_email_lake_hvac__v2,1745,close,email,lake_hvac__v2,"172.226.108.18, 172.70.248.24",Mozilla/5.0
+2026-07-31 16:19:05,open,1274_close_email_walton_general_contractor__v2,1274,close,email,walton_general_contractor__v2,"108.223.188.36, 104.22.1.64",Mozilla/5.0
