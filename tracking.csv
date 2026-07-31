@@ -2149,3 +2149,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-31 20:49:00,open,1281_close_email_walton_general_contractor__v2,1281,close,email,walton_general_contractor__v2,"104.28.132.113, 172.71.146.164",Mozilla/5.0
 2026-07-31 20:59:23,open,1347_close_email_marion_solar__v2,1347,close,email,marion_solar__v2,"140.248.44.0, 172.71.146.165",Mozilla/5.0
 2026-07-31 21:16:34,open,1696_close_email_polk_hvac__v2,1696,close,email,polk_hvac__v2,"172.226.190.28, 172.70.82.94",Mozilla/5.0
+2026-07-31 22:08:06,open,1277_close_email_walton_general_contractor__v2,1277,close,email,walton_general_contractor__v2,"172.226.2.111, 104.23.251.175",Mozilla/5.0
