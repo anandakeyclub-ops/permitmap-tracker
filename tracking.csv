@@ -2146,3 +2146,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-07-31 16:33:14,open,598_first_outreach_polk_roofing__v2,598,first,outreach,polk_roofing__v2,"72.153.231.16, 172.71.158.199","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-07-31 16:49:59,open,598_first_outreach_polk_roofing__v2,598,first,outreach,polk_roofing__v2,"140.248.44.0, 172.71.151.195",Mozilla/5.0
 2026-07-31 19:49:02,open,1347_close_email_marion_solar__v2,1347,close,email,marion_solar__v2,"172.226.190.17, 104.23.248.112",Mozilla/5.0
+2026-07-31 20:49:00,open,1281_close_email_walton_general_contractor__v2,1281,close,email,walton_general_contractor__v2,"104.28.132.113, 172.71.146.164",Mozilla/5.0
