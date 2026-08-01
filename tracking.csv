@@ -2171,3 +2171,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-01 16:53:11,open,9_followup_2_palm_beach_roofing__v1,9,followup,2,palm_beach_roofing__v1,"50.77.123.34, 172.71.151.191",Mozilla/5.0
 2026-08-01 16:59:37,open,114_followup_2_palm_beach_roofing__v1,114,followup,2,palm_beach_roofing__v1,"146.75.234.48, 104.22.56.73",Mozilla/5.0
 2026-08-01 17:03:04,open,6_followup_2_palm_beach_roofing__v1,6,followup,2,palm_beach_roofing__v1,"140.248.44.1, 172.71.146.165",Mozilla/5.0
+2026-08-01 17:08:04,open,692_first_outreach_osceola_hvac__v2,692,first,outreach,osceola_hvac__v2,"140.248.44.0, 172.71.151.186",Mozilla/5.0
