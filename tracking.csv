@@ -2315,3 +2315,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-03 20:54:51,open,59_followup_2_martin_roofing__v2,59,followup,2,martin_roofing__v2,"69.147.86.72, 162.159.106.157",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-08-03 20:58:03,open,316_followup_1_palm_beach_pool__v1,316,followup,1,palm_beach_pool__v1,"74.125.150.1, 172.71.151.192","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-03 21:05:10,open,180_followup_2_palm_beach_general_contractor__v1,180,followup,2,palm_beach_general_contractor__v1,"140.248.44.1, 104.22.86.103",Mozilla/5.0
+2026-08-03 21:18:19,open,336_followup_1_palm_beach_general_contractor__v0,336,followup,1,palm_beach_general_contractor__v0,"140.248.44.0, 172.71.151.195",Mozilla/5.0
