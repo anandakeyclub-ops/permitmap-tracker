@@ -2320,3 +2320,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-03 22:17:05,open,141_followup_2_palm_beach_plumbing__v1,141,followup,2,palm_beach_plumbing__v1,"104.28.132.113, 172.71.151.196",Mozilla/5.0
 2026-08-03 22:20:19,open,534_followup_1_pasco_hvac__v0,534,followup,1,pasco_hvac__v0,"172.226.190.49, 172.71.156.249",Mozilla/5.0
 2026-08-03 22:20:19,open,534_close_email_pasco_hvac__v2,534,close,email,pasco_hvac__v2,"172.226.190.49, 172.71.156.249",Mozilla/5.0
+2026-08-03 22:40:59,open,534_followup_2_pasco_hvac__v1,534,followup,2,pasco_hvac__v1,"172.226.190.43, 172.71.151.191",Mozilla/5.0
