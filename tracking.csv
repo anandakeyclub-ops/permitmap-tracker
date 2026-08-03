@@ -2197,3 +2197,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-02 00:31:48,open,684_first_outreach_osceola_hvac__v0,684,first,outreach,osceola_hvac__v0,"140.248.44.1, 104.22.86.37",Mozilla/5.0
 2026-08-02 01:55:58,open,6_followup_2_palm_beach_roofing__v1,6,followup,2,palm_beach_roofing__v1,"140.248.44.1, 172.71.146.101",Mozilla/5.0
 2026-08-02 14:31:48,open,1752_close_email_lake_hvac__v2,1752,close,email,lake_hvac__v2,"140.248.44.1, 172.71.156.249",Mozilla/5.0
+2026-08-03 00:23:06,open,574_first_outreach_pasco_solar__v2,574,first,outreach,pasco_solar__v2,"140.248.44.1, 172.71.151.191",Mozilla/5.0
