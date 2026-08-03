@@ -2323,3 +2323,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-03 22:40:59,open,534_followup_2_pasco_hvac__v1,534,followup,2,pasco_hvac__v1,"172.226.190.43, 172.71.151.191",Mozilla/5.0
 2026-08-03 23:34:08,open,160_followup_2_palm_beach_pool__v1,160,followup,2,palm_beach_pool__v1,"24.238.3.54, 172.69.71.179","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 2026-08-03 23:34:09,open,160_followup_2_palm_beach_pool__v1,160,followup,2,palm_beach_pool__v1,"24.238.3.54, 172.69.71.179","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+2026-08-03 23:45:55,open,172_followup_2_palm_beach_general_contractor__v1,172,followup,2,palm_beach_general_contractor__v1,"140.248.36.55, 172.71.247.198",Mozilla/5.0
+2026-08-03 23:45:55,open,166_followup_2_palm_beach_pool__v1,166,followup,2,palm_beach_pool__v1,"140.248.36.55, 172.71.247.198",Mozilla/5.0
+2026-08-03 23:45:55,open,270_followup_1_palm_beach_roofing__v1,270,followup,1,palm_beach_roofing__v1,"140.248.36.55, 172.71.247.198",Mozilla/5.0
+2026-08-03 23:45:55,open,292_followup_1_palm_beach_plumbing__v0,292,followup,1,palm_beach_plumbing__v0,"140.248.36.55, 172.71.247.198",Mozilla/5.0
+2026-08-03 23:45:55,open,290_followup_1_palm_beach_plumbing__v0,290,followup,1,palm_beach_plumbing__v0,"140.248.36.55, 172.71.247.198",Mozilla/5.0
