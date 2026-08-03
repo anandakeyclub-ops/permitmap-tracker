@@ -2200,3 +2200,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-03 00:23:06,open,574_first_outreach_pasco_solar__v2,574,first,outreach,pasco_solar__v2,"140.248.44.1, 172.71.151.191",Mozilla/5.0
 2026-08-03 01:00:21,open,531_first_outreach_pasco_hvac__v2,531,first,outreach,pasco_hvac__v2,"104.28.132.113, 172.71.151.186",Mozilla/5.0
 2026-08-03 01:01:07,open,531_followup_2_pasco_hvac__v2,531,followup,2,pasco_hvac__v2,"104.28.132.113, 104.22.86.37",Mozilla/5.0
+2026-08-03 05:10:47,open,684_followup_1_osceola_hvac__v0,684,followup,1,osceola_hvac__v0,"104.28.132.113, 172.71.151.192",Mozilla/5.0
+2026-08-03 05:10:47,open,684_followup_2_osceola_hvac__v2,684,followup,2,osceola_hvac__v2,"104.28.132.113, 172.71.156.249",Mozilla/5.0
+2026-08-03 05:10:47,open,684_close_email_osceola_hvac__v1,684,close,email,osceola_hvac__v1,"104.28.132.113, 172.71.156.249",Mozilla/5.0
