@@ -2398,3 +2398,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-04 16:59:42,open,201_followup_2_martin_hvac__v2,201,followup,2,martin_hvac__v2,"104.28.64.19, 172.71.151.185",Mozilla/5.0
 2026-08-04 16:59:42,open,195_followup_2_martin_roofing__v1,195,followup,2,martin_roofing__v1,"104.28.64.19, 172.71.151.186",Mozilla/5.0
 2026-08-04 16:59:42,open,319_followup_1_palm_beach_solar__v0,319,followup,1,palm_beach_solar__v0,"104.28.64.19, 172.71.151.185",Mozilla/5.0
+2026-08-04 16:59:44,open,326_followup_1_palm_beach_solar__v0,326,followup,1,palm_beach_solar__v0,"104.28.64.19, 172.71.148.70",Mozilla/5.0
+2026-08-04 16:59:44,open,215_followup_2_martin_plumbing__v1,215,followup,2,martin_plumbing__v1,"104.28.64.19, 172.71.148.71",Mozilla/5.0
+2026-08-04 16:59:44,open,220_followup_2_martin_plumbing__v1,220,followup,2,martin_plumbing__v1,"104.28.64.19, 172.71.148.71",Mozilla/5.0
