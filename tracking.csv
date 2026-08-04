@@ -2349,3 +2349,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-04 01:44:19,open,315_followup_1_palm_beach_pool__v0,315,followup,1,palm_beach_pool__v0,"104.28.50.162, 172.70.111.226",Mozilla/5.0
 2026-08-04 01:50:45,open,100_followup_2_martin_general_contractor__v1,100,followup,2,martin_general_contractor__v1,"140.248.44.1, 172.71.156.249",Mozilla/5.0
 2026-08-04 01:56:25,open,316_followup_1_palm_beach_pool__v1,316,followup,1,palm_beach_pool__v1,"104.28.132.113, 172.71.151.29",Mozilla/5.0
+2026-08-04 02:08:59,open,127_followup_2_palm_beach_hvac__v1,127,followup,2,palm_beach_hvac__v1,"140.248.44.1, 104.22.86.36",Mozilla/5.0
