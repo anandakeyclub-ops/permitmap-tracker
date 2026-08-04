@@ -2335,3 +2335,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-04 00:08:03,open,83_followup_2_martin_plumbing__v1,83,followup,2,martin_plumbing__v1,"140.248.36.55, 172.71.144.119",Mozilla/5.0
 2026-08-04 00:08:03,open,102_followup_2_martin_general_contractor__v1,102,followup,2,martin_general_contractor__v1,"140.248.36.55, 172.71.144.119",Mozilla/5.0
 2026-08-04 00:08:03,open,126_followup_2_palm_beach_hvac__v2,126,followup,2,palm_beach_hvac__v2,"140.248.36.55, 172.71.144.119",Mozilla/5.0
+2026-08-04 00:08:05,open,334_followup_1_palm_beach_general_contractor__v0,334,followup,1,palm_beach_general_contractor__v0,"140.248.36.55, 172.71.144.119",Mozilla/5.0
