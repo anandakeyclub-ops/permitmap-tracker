@@ -2401,3 +2401,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-04 16:59:44,open,326_followup_1_palm_beach_solar__v0,326,followup,1,palm_beach_solar__v0,"104.28.64.19, 172.71.148.70",Mozilla/5.0
 2026-08-04 16:59:44,open,215_followup_2_martin_plumbing__v1,215,followup,2,martin_plumbing__v1,"104.28.64.19, 172.71.148.71",Mozilla/5.0
 2026-08-04 16:59:44,open,220_followup_2_martin_plumbing__v1,220,followup,2,martin_plumbing__v1,"104.28.64.19, 172.71.148.71",Mozilla/5.0
+2026-08-04 18:11:40,open,328_followup_1_palm_beach_solar__v0,328,followup,1,palm_beach_solar__v0,"172.226.190.31, 172.68.12.77",Mozilla/5.0
