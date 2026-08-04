@@ -2454,3 +2454,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-04 21:19:53,open,434_followup_1_lee_roofing__v0,434,followup,1,lee_roofing__v0,"104.28.62.44, 162.158.86.124",Mozilla/5.0
 2026-08-04 21:19:53,open,366_followup_1_martin_hvac__v2,366,followup,1,martin_hvac__v2,"104.28.62.44, 162.158.86.125",Mozilla/5.0
 2026-08-04 21:19:53,open,364_followup_1_martin_hvac__v0,364,followup,1,martin_hvac__v0,"104.28.62.44, 162.158.86.125",Mozilla/5.0
+2026-08-04 23:55:14,open,457_first_outreach_lee_plumbing__v0,457,first,outreach,lee_plumbing__v0,"172.226.188.14, 172.70.82.93",Mozilla/5.0
