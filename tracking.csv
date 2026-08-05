@@ -2465,3 +2465,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-05 12:35:07,open,112_close_email_palm_beach_roofing__v2,112,close,email,palm_beach_roofing__v2,"140.248.44.0, 172.71.146.164",Mozilla/5.0
 2026-08-05 13:36:52,open,0_close_email_palm_beach_roofing__v2,0,close,email,palm_beach_roofing__v2,"104.28.132.113, 172.68.12.91",Mozilla/5.0
 2026-08-05 15:15:52,open,9_close_email_palm_beach_roofing__v2,9,close,email,palm_beach_roofing__v2,"50.77.123.34, 172.71.151.182",Mozilla/5.0
+2026-08-05 15:30:27,open,92_close_email_martin_pool__v2,92,close,email,martin_pool__v2,"104.28.64.19, 172.71.151.191",Mozilla/5.0
+2026-08-05 15:30:27,open,121_close_email_palm_beach_roofing__v2,121,close,email,palm_beach_roofing__v2,"104.28.64.19, 172.71.151.192",Mozilla/5.0
+2026-08-05 15:30:27,open,87_close_email_martin_pool__v2,87,close,email,martin_pool__v2,"104.28.64.19, 172.71.151.192",Mozilla/5.0
+2026-08-05 15:30:27,open,84_close_email_martin_pool__v2,84,close,email,martin_pool__v2,"104.28.64.19, 172.71.151.191",Mozilla/5.0
+2026-08-05 15:30:27,open,6_close_email_palm_beach_roofing__v1,6,close,email,palm_beach_roofing__v1,"104.28.64.19, 172.71.151.191",Mozilla/5.0
