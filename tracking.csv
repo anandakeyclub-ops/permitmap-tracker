@@ -2470,3 +2470,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-05 15:30:27,open,87_close_email_martin_pool__v2,87,close,email,martin_pool__v2,"104.28.64.19, 172.71.151.192",Mozilla/5.0
 2026-08-05 15:30:27,open,84_close_email_martin_pool__v2,84,close,email,martin_pool__v2,"104.28.64.19, 172.71.151.191",Mozilla/5.0
 2026-08-05 15:30:27,open,6_close_email_palm_beach_roofing__v1,6,close,email,palm_beach_roofing__v1,"104.28.64.19, 172.71.151.191",Mozilla/5.0
+2026-08-05 15:30:27,open,90_close_email_martin_pool__v2,90,close,email,martin_pool__v2,"104.28.64.19, 104.23.239.64",Mozilla/5.0
+2026-08-05 15:30:27,open,120_close_email_palm_beach_roofing__v2,120,close,email,palm_beach_roofing__v2,"104.28.64.19, 104.23.239.64",Mozilla/5.0
+2026-08-05 15:30:27,open,88_close_email_martin_pool__v2,88,close,email,martin_pool__v2,"104.28.64.19, 104.23.239.65",Mozilla/5.0
+2026-08-05 15:30:27,open,118_close_email_palm_beach_roofing__v1,118,close,email,palm_beach_roofing__v1,"104.28.64.19, 104.23.239.65",Mozilla/5.0
