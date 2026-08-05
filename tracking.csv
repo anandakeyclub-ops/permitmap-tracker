@@ -2522,3 +2522,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-05 19:14:08,open,336_followup_1_palm_beach_general_contractor__v0,336,followup,1,palm_beach_general_contractor__v0,"140.248.44.0, 172.71.151.195",Mozilla/5.0
 2026-08-05 19:22:25,open,6_followup_2_palm_beach_roofing__v1,6,followup,2,palm_beach_roofing__v1,"140.248.44.0, 172.71.151.181",Mozilla/5.0
 2026-08-05 19:38:31,open,100_followup_2_martin_general_contractor__v1,100,followup,2,martin_general_contractor__v1,"172.226.190.45, 104.22.86.103",Mozilla/5.0
+2026-08-05 20:21:38,open,30_followup_2_palm_beach_pool__v1,30,followup,2,palm_beach_pool__v1,"104.28.47.100, 172.71.235.100",Mozilla/5.0
