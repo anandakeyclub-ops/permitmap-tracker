@@ -2582,3 +2582,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-06 20:09:28,open,533_followup_1_pasco_hvac__v1,533,followup,1,pasco_hvac__v1,"104.28.80.63, 172.71.146.165",Mozilla/5.0
 2026-08-06 20:09:28,open,534_followup_1_pasco_hvac__v2,534,followup,1,pasco_hvac__v2,"104.28.80.63, 172.71.146.164",Mozilla/5.0
 2026-08-06 20:09:28,open,535_followup_1_pasco_hvac__v1,535,followup,1,pasco_hvac__v1,"104.28.80.63, 172.71.146.165",Mozilla/5.0
+2026-08-06 20:09:28,open,525_followup_1_pasco_hvac__v0,525,followup,1,pasco_hvac__v0,"104.28.80.63, 172.69.151.57",Mozilla/5.0
+2026-08-06 20:09:28,open,519_followup_1_pasco_roofing__v2,519,followup,1,pasco_roofing__v2,"104.28.80.63, 172.69.151.57",Mozilla/5.0
+2026-08-06 20:09:28,open,536_followup_1_pasco_hvac__v2,536,followup,1,pasco_hvac__v2,"104.28.80.63, 172.69.151.57",Mozilla/5.0
