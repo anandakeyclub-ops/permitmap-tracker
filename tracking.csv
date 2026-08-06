@@ -2546,3 +2546,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-06 00:24:14,open,392_followup_1_martin_pool__v0,392,followup,1,martin_pool__v0,"172.226.190.34, 104.23.248.113",Mozilla/5.0
 2026-08-06 08:50:52,open,90_close_email_martin_pool__v2,90,close,email,martin_pool__v2,"104.28.50.162, 172.69.58.66",Mozilla/5.0
 2026-08-06 10:52:34,open,392_followup_1_martin_pool__v0,392,followup,1,martin_pool__v0,"140.248.44.0, 104.22.87.6",Mozilla/5.0
+2026-08-06 11:04:45,open,392_followup_2_martin_pool__v1,392,followup,2,martin_pool__v1,"104.28.132.113, 172.71.146.100",Mozilla/5.0
