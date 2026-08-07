@@ -2634,3 +2634,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-07 16:41:00,open,2037_first_outreach_pinellas_general_contractor__v2,2037,first,outreach,pinellas_general_contractor__v2,"172.58.167.165, 172.71.151.195","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-08-07 16:41:00,open,2037_first_outreach_pinellas_general_contractor__v2,2037,first,outreach,pinellas_general_contractor__v2,"172.58.167.165, 172.71.151.195","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-08-07 16:48:10,open,2013_first_outreach_pinellas_pool__v1,2013,first,outreach,pinellas_pool__v1,"172.226.174.185, 172.71.166.151",Mozilla/5.0
+2026-08-07 17:16:13,open,24_close_email_palm_beach_plumbing__v2,24,close,email,palm_beach_plumbing__v2,"104.28.80.63, 172.71.146.113",Mozilla/5.0
+2026-08-07 17:16:13,open,51_close_email_palm_beach_general_contractor__v2,51,close,email,palm_beach_general_contractor__v2,"104.28.80.63, 172.71.146.112",Mozilla/5.0
+2026-08-07 17:16:13,open,49_close_email_palm_beach_general_contractor__v2,49,close,email,palm_beach_general_contractor__v2,"104.28.80.63, 172.71.146.112",Mozilla/5.0
+2026-08-07 17:16:13,open,45_close_email_palm_beach_general_contractor__v2,45,close,email,palm_beach_general_contractor__v2,"104.28.80.63, 172.71.146.112",Mozilla/5.0
+2026-08-07 17:16:13,open,42_close_email_palm_beach_solar__v2,42,close,email,palm_beach_solar__v2,"104.28.80.63, 172.71.146.113",Mozilla/5.0
