@@ -2641,3 +2641,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-07 17:16:13,open,42_close_email_palm_beach_solar__v2,42,close,email,palm_beach_solar__v2,"104.28.80.63, 172.71.146.113",Mozilla/5.0
 2026-08-07 17:36:01,open,90_first_outreach_martin_pool__v2,90,first,outreach,martin_pool__v2,"172.226.87.86, 162.158.42.42",Mozilla/5.0
 2026-08-07 17:48:43,open,2017_first_outreach_pinellas_pool__v2,2017,first,outreach,pinellas_pool__v2,"140.248.44.0, 104.23.248.113",Mozilla/5.0
+2026-08-07 17:56:59,open,141_close_email_palm_beach_plumbing__v2,141,close,email,palm_beach_plumbing__v2,"140.248.44.0, 172.68.12.76",Mozilla/5.0
