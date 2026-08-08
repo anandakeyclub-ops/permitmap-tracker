@@ -2651,3 +2651,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-07 22:46:08,open,2031_first_outreach_pinellas_general_contractor__v2,2031,first,outreach,pinellas_general_contractor__v2,"35.140.102.24, 104.23.248.113","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-08-08 00:48:15,open,648_followup_1_polk_pool__v0,648,followup,1,polk_pool__v0,"172.226.190.60, 104.23.248.113",Mozilla/5.0
 2026-08-08 01:33:53,open,678_first_outreach_osceola_roofing__v2,678,first,outreach,osceola_roofing__v2,"2a06:98c0:3600::103,104.22.86.37, 172.71.151.191",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-08-08 04:02:06,open,1545_close_email_lee_roofing__v2,1545,close,email,lee_roofing__v2,"172.226.190.34, 172.71.151.192",Mozilla/5.0
