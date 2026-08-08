@@ -2658,3 +2658,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-08 16:46:39,open,65_close_email_martin_hvac__v2,65,close,email,martin_hvac__v2,"74.125.150.4, 172.71.151.195","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-08 16:46:41,open,66_close_email_martin_hvac__v2,66,close,email,martin_hvac__v2,"74.125.150.4, 172.71.151.192","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-08 16:46:44,open,68_close_email_martin_hvac__v2,68,close,email,martin_hvac__v2,"74.125.150.4, 172.71.151.30","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-08 17:40:44,open,57_close_email_martin_roofing__v2,57,close,email,martin_roofing__v2,"172.225.144.157, 104.22.31.100",Mozilla/5.0
+2026-08-08 17:40:44,open,180_close_email_palm_beach_general_contractor__v2,180,close,email,palm_beach_general_contractor__v2,"172.225.144.157, 104.22.31.100",Mozilla/5.0
+2026-08-08 17:40:44,open,317_followup_2_palm_beach_solar__v1,317,followup,2,palm_beach_solar__v1,"172.225.144.157, 172.71.151.191",Mozilla/5.0
+2026-08-08 17:40:44,open,177_close_email_palm_beach_general_contractor__v1,177,close,email,palm_beach_general_contractor__v1,"172.225.144.157, 172.71.151.191",Mozilla/5.0
+2026-08-08 17:40:44,open,175_close_email_palm_beach_general_contractor__v0,175,close,email,palm_beach_general_contractor__v0,"172.225.144.157, 172.69.68.98",Mozilla/5.0
