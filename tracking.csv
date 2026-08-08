@@ -2655,3 +2655,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-08 05:00:07,open,2025_first_outreach_pinellas_general_contractor__v1,2025,first,outreach,pinellas_general_contractor__v1,"172.226.188.63, 104.22.86.37",Mozilla/5.0
 2026-08-08 05:08:56,open,127_close_email_palm_beach_hvac__v2,127,close,email,palm_beach_hvac__v2,"140.248.44.1, 172.71.151.192",Mozilla/5.0
 2026-08-08 14:22:29,open,572_followup_1_pasco_solar__v1,572,followup,1,pasco_solar__v1,"146.75.175.0, 172.68.3.15",Mozilla/5.0
+2026-08-08 16:46:39,open,65_close_email_martin_hvac__v2,65,close,email,martin_hvac__v2,"74.125.150.4, 172.71.151.195","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-08 16:46:41,open,66_close_email_martin_hvac__v2,66,close,email,martin_hvac__v2,"74.125.150.4, 172.71.151.192","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-08 16:46:44,open,68_close_email_martin_hvac__v2,68,close,email,martin_hvac__v2,"74.125.150.4, 172.71.151.30","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
