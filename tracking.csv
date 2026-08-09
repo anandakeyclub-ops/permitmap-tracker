@@ -2679,3 +2679,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-08 23:00:26,open,170_close_email_palm_beach_general_contractor__v2,170,close,email,palm_beach_general_contractor__v2,"104.28.80.63, 172.71.172.101",Mozilla/5.0
 2026-08-08 23:00:26,open,164_close_email_palm_beach_pool__v2,164,close,email,palm_beach_pool__v2,"104.28.80.63, 172.71.172.100",Mozilla/5.0
 2026-08-08 23:00:26,open,181_close_email_palm_beach_general_contractor__v2,181,close,email,palm_beach_general_contractor__v2,"104.28.80.63, 172.71.172.101",Mozilla/5.0
+2026-08-09 04:03:50,open,169_close_email_palm_beach_general_contractor__v2,169,close,email,palm_beach_general_contractor__v2,"172.225.30.52, 104.22.100.135",Mozilla/5.0
