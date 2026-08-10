@@ -2718,3 +2718,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-10 21:11:57,open,76_close_email_martin_plumbing__v2,76,close,email,martin_plumbing__v2,"104.28.132.113, 172.68.12.77",Mozilla/5.0
 2026-08-10 21:19:27,open,368_followup_2_martin_hvac__v1,368,followup,2,martin_hvac__v1,"104.28.132.113, 104.22.86.37",Mozilla/5.0
 2026-08-10 21:24:39,open,368_followup_2_martin_hvac__v1,368,followup,2,martin_hvac__v1,"172.226.188.25, 172.71.151.196",Mozilla/5.0
+2026-08-10 22:31:22,open,76_close_email_martin_plumbing__v2,76,close,email,martin_plumbing__v2,"75.20.188.200, 172.71.151.195","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-08-10 22:31:22,open,76_close_email_martin_plumbing__v2,76,close,email,martin_plumbing__v2,"75.20.188.200, 172.71.151.196","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
