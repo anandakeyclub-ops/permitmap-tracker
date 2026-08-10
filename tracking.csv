@@ -2698,3 +2698,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-10 15:47:23,open,290_followup_2_palm_beach_plumbing__v1,290,followup,2,palm_beach_plumbing__v1,"140.248.44.0, 172.71.151.196",Mozilla/5.0
 2026-08-10 16:38:37,open,300_followup_2_palm_beach_plumbing__v2,300,followup,2,palm_beach_plumbing__v2,"74.125.150.3, 172.71.151.196","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-10 16:38:41,open,301_followup_2_palm_beach_plumbing__v1,301,followup,2,palm_beach_plumbing__v1,"74.125.150.2, 172.71.151.196","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-10 17:02:19,open,90_close_email_martin_pool__v2,90,close,email,martin_pool__v2,"104.28.132.113, 104.22.93.11",Mozilla/5.0
