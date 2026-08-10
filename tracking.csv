@@ -2689,3 +2689,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-10 07:05:52,open,1347_followup_2_marion_solar__v1,1347,followup,2,marion_solar__v1,"140.248.44.0, 172.68.12.91",Mozilla/5.0
 2026-08-10 07:28:53,open,1347_followup_1_marion_solar__v2,1347,followup,1,marion_solar__v2,"140.248.44.0, 172.71.151.11",Mozilla/5.0
 2026-08-10 11:30:45,open,169_close_email_palm_beach_general_contractor__v2,169,close,email,palm_beach_general_contractor__v2,"104.28.132.113, 104.22.100.158",Mozilla/5.0
+2026-08-10 11:32:28,open,2045_close_email_sarasota_roofing__v2,2045,close,email,sarasota_roofing__v2,"172.226.190.62, 172.71.151.226",Mozilla/5.0
