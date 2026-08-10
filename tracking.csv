@@ -2687,3 +2687,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-09 20:21:43,open,1535_first_outreach_martin_general_contractor__v2,1535,first,outreach,martin_general_contractor__v2,"164.68.201.22, 172.71.151.29","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 2026-08-09 22:09:38,open,651_followup_1_polk_pool__v0,651,followup,1,polk_pool__v0,"146.75.175.0, 172.71.151.195",Mozilla/5.0
 2026-08-10 07:05:52,open,1347_followup_2_marion_solar__v1,1347,followup,2,marion_solar__v1,"140.248.44.0, 172.68.12.91",Mozilla/5.0
+2026-08-10 07:28:53,open,1347_followup_1_marion_solar__v2,1347,followup,1,marion_solar__v2,"140.248.44.0, 172.71.151.11",Mozilla/5.0
