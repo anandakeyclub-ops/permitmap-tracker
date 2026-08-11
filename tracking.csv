@@ -2725,3 +2725,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-10 23:42:20,open,315_followup_2_palm_beach_pool__v1,315,followup,2,palm_beach_pool__v1,"104.28.50.162, 172.71.151.195",Mozilla/5.0
 2026-08-11 00:54:55,open,487_close_email_lee_solar__v2,487,close,email,lee_solar__v2,"140.248.44.1, 172.71.151.195",Mozilla/5.0
 2026-08-11 01:12:01,open,487_followup_2_lee_solar__v2,487,followup,2,lee_solar__v2,"140.248.44.1, 104.22.86.36",Mozilla/5.0
+2026-08-11 01:59:45,open,274_followup_2_palm_beach_hvac__v1,274,followup,2,palm_beach_hvac__v1,"140.248.44.1, 172.71.146.123",Mozilla/5.0
