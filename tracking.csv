@@ -2730,3 +2730,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-11 02:31:53,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"104.28.132.113, 162.158.78.4",Mozilla/5.0
 2026-08-11 02:33:13,open,316_followup_2_palm_beach_pool__v1,316,followup,2,palm_beach_pool__v1,"104.28.132.113, 172.71.151.195",Mozilla/5.0
 2026-08-11 04:25:56,open,213_close_email_martin_plumbing__v2,213,close,email,martin_plumbing__v2,"172.226.188.51, 172.71.151.196",Mozilla/5.0
+2026-08-11 05:17:47,open,334_followup_2_palm_beach_general_contractor__v0,334,followup,2,palm_beach_general_contractor__v0,"104.28.80.63, 172.71.151.195",Mozilla/5.0
+2026-08-11 05:17:47,open,343_followup_2_palm_beach_general_contractor__v1,343,followup,2,palm_beach_general_contractor__v1,"104.28.80.63, 172.71.151.195",Mozilla/5.0
+2026-08-11 05:17:47,open,329_followup_2_palm_beach_solar__v1,329,followup,2,palm_beach_solar__v1,"104.28.80.63, 172.71.151.195",Mozilla/5.0
+2026-08-11 05:17:47,open,315_followup_2_palm_beach_pool__v1,315,followup,2,palm_beach_pool__v1,"104.28.80.63, 172.71.146.122",Mozilla/5.0
+2026-08-11 05:17:47,open,325_followup_2_palm_beach_solar__v1,325,followup,2,palm_beach_solar__v1,"104.28.80.63, 172.71.146.123",Mozilla/5.0
