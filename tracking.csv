@@ -2764,3 +2764,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-11 16:12:47,open,79_close_email_martin_plumbing__v2,79,close,email,martin_plumbing__v2,"104.28.80.63, 172.70.242.96",Mozilla/5.0
 2026-08-11 16:12:47,open,104_close_email_martin_general_contractor__v2,104,close,email,martin_general_contractor__v2,"104.28.80.63, 172.70.242.96",Mozilla/5.0
 2026-08-11 16:12:47,open,105_close_email_martin_general_contractor__v2,105,close,email,martin_general_contractor__v2,"104.28.80.63, 172.70.242.97",Mozilla/5.0
+2026-08-11 17:04:10,open,658_followup_1_polk_general_contractor__v0,658,followup,1,polk_general_contractor__v0,"54.190.196.147, 104.23.160.213","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
