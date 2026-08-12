@@ -2782,3 +2782,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-11 23:27:24,open,474_followup_2_lee_pool__v1,474,followup,2,lee_pool__v1,"76.148.250.248, 172.70.82.94","Mozilla/5.0 (Linux; Android 16; SM-S938U Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36"
 2026-08-12 01:31:39,open,478_followup_2_lee_pool__v2,478,followup,2,lee_pool__v2,"104.28.132.113, 104.23.248.112",Mozilla/5.0
 2026-08-12 01:46:55,open,322_followup_2_palm_beach_solar__v2,322,followup,2,palm_beach_solar__v2,"172.226.190.28, 172.71.146.100",Mozilla/5.0
+2026-08-12 06:22:05,open,1468_followup_1_palm_beach_hvac__v2,1468,followup,1,palm_beach_hvac__v2,"104.28.80.63, 172.71.151.196",Mozilla/5.0
+2026-08-12 06:22:05,open,1483_followup_1_palm_beach_plumbing__v0,1483,followup,1,palm_beach_plumbing__v0,"104.28.80.63, 172.71.146.165",Mozilla/5.0
+2026-08-12 06:22:05,open,1477_followup_1_palm_beach_hvac__v2,1477,followup,1,palm_beach_hvac__v2,"104.28.80.63, 172.71.151.196",Mozilla/5.0
+2026-08-12 06:22:05,open,1481_followup_1_palm_beach_hvac__v0,1481,followup,1,palm_beach_hvac__v0,"104.28.80.63, 172.71.146.165",Mozilla/5.0
+2026-08-12 06:22:05,open,1470_followup_1_palm_beach_hvac__v2,1470,followup,1,palm_beach_hvac__v2,"104.28.80.63, 172.71.146.165",Mozilla/5.0
