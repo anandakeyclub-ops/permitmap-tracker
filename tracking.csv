@@ -2856,3 +2856,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-12 21:16:00,open,648_followup_2_polk_pool__v1,648,followup,2,polk_pool__v1,"140.248.44.0, 104.22.86.102",Mozilla/5.0
 2026-08-12 21:17:06,open,1649_first_outreach_pasco_plumbing__v2,1649,first,outreach,pasco_plumbing__v2,"146.75.248.0, 172.68.71.84",Mozilla/5.0
 2026-08-12 21:35:59,open,648_followup_2_polk_pool__v1,648,followup,2,polk_pool__v1,"140.248.44.0, 104.22.86.37",Mozilla/5.0
+2026-08-12 21:49:46,open,674_followup_1_osceola_roofing__v0,674,followup,1,osceola_roofing__v0,"172.226.188.38, 172.71.146.113",Mozilla/5.0
