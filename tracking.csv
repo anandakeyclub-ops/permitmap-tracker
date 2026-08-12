@@ -2823,3 +2823,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-12 19:52:22,open,1529_followup_1_martin_general_contractor__v1,1529,followup,1,martin_general_contractor__v1,"104.28.80.63, 172.71.146.113",Mozilla/5.0
 2026-08-12 19:52:22,open,317_close_email_palm_beach_solar__v2,317,close,email,palm_beach_solar__v2,"104.28.80.63, 172.71.146.113",Mozilla/5.0
 2026-08-12 19:52:22,open,467_followup_2_lee_pool__v1,467,followup,2,lee_pool__v1,"104.28.80.63, 172.71.151.196",Mozilla/5.0
+2026-08-12 19:52:22,open,1541_followup_1_martin_general_contractor__v1,1541,followup,1,martin_general_contractor__v1,"104.28.80.63, 172.69.109.148",Mozilla/5.0
+2026-08-12 19:52:23,open,498_followup_2_lee_general_contractor__v1,498,followup,2,lee_general_contractor__v1,"104.28.80.63, 172.69.109.148",Mozilla/5.0
+2026-08-12 19:52:23,open,507_followup_2_lee_general_contractor__v1,507,followup,2,lee_general_contractor__v1,"104.28.80.63, 172.69.109.148",Mozilla/5.0
+2026-08-12 19:52:23,open,1535_followup_1_martin_general_contractor__v2,1535,followup,1,martin_general_contractor__v2,"104.28.80.63, 172.69.109.148",Mozilla/5.0
