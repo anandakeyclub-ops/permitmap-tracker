@@ -2818,3 +2818,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-12 17:10:40,open,1598_first_outreach_lee_pool__v2,1598,first,outreach,lee_pool__v2,"172.226.190.63, 104.22.86.103",Mozilla/5.0
 2026-08-12 17:11:31,open,1455_followup_1_palm_beach_roofing__v2,1455,followup,1,palm_beach_roofing__v2,"146.75.136.1, 104.22.72.32",Mozilla/5.0
 2026-08-12 19:09:45,open,90_first_outreach_martin_pool__v2,90,first,outreach,martin_pool__v2,"104.28.132.113, 172.71.146.123",Mozilla/5.0
+2026-08-12 19:52:22,open,1528_followup_1_martin_general_contractor__v1,1528,followup,1,martin_general_contractor__v1,"104.28.80.63, 172.71.146.113",Mozilla/5.0
+2026-08-12 19:52:22,open,1539_followup_1_martin_general_contractor__v0,1539,followup,1,martin_general_contractor__v0,"104.28.80.63, 172.71.146.112",Mozilla/5.0
+2026-08-12 19:52:22,open,1529_followup_1_martin_general_contractor__v1,1529,followup,1,martin_general_contractor__v1,"104.28.80.63, 172.71.146.113",Mozilla/5.0
+2026-08-12 19:52:22,open,317_close_email_palm_beach_solar__v2,317,close,email,palm_beach_solar__v2,"104.28.80.63, 172.71.146.113",Mozilla/5.0
+2026-08-12 19:52:22,open,467_followup_2_lee_pool__v1,467,followup,2,lee_pool__v1,"104.28.80.63, 172.71.151.196",Mozilla/5.0
