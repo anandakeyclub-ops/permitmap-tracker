@@ -2865,3 +2865,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-13 01:54:48,open,531_followup_2_pasco_hvac__v1,531,followup,2,pasco_hvac__v1,"140.248.44.1, 104.23.248.113",Mozilla/5.0
 2026-08-13 03:41:59,open,549_followup_2_pasco_plumbing__v1,549,followup,2,pasco_plumbing__v1,"172.226.190.27, 172.71.146.123",Mozilla/5.0
 2026-08-13 04:51:52,open,684_close_email_osceola_hvac__v1,684,close,email,osceola_hvac__v1,"140.248.44.1, 104.22.86.36",Mozilla/5.0
+2026-08-13 05:42:00,open,90_close_email_martin_pool__v2,90,close,email,martin_pool__v2,"146.75.248.1, 104.23.245.77",Mozilla/5.0
