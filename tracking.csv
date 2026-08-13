@@ -2871,3 +2871,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-13 11:57:38,open,562_followup_2_pasco_pool__v2,562,followup,2,pasco_pool__v2,"35.142.96.17, 104.22.86.37",Mozilla/5.0
 2026-08-13 12:19:03,open,1640_followup_1_pasco_hvac__v2,1640,followup,1,pasco_hvac__v2,"174.225.226.154, 172.71.22.183","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-08-13 12:19:03,open,1640_followup_1_pasco_hvac__v2,1640,followup,1,pasco_hvac__v2,"174.225.226.154, 172.68.71.83","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-08-13 14:23:39,open,607_followup_1_polk_roofing__v0,607,followup,1,polk_roofing__v0,"104.28.80.63, 172.71.151.196",Mozilla/5.0
+2026-08-13 14:23:39,open,603_followup_1_polk_roofing__v0,603,followup,1,polk_roofing__v0,"104.28.80.63, 172.71.151.195",Mozilla/5.0
+2026-08-13 14:23:39,open,1627_followup_1_pasco_roofing__v0,1627,followup,1,pasco_roofing__v0,"104.28.80.63, 172.71.151.195",Mozilla/5.0
+2026-08-13 14:23:39,open,1633_followup_1_pasco_hvac__v0,1633,followup,1,pasco_hvac__v0,"104.28.80.63, 172.71.151.195",Mozilla/5.0
+2026-08-13 14:23:39,open,1631_followup_1_pasco_roofing__v0,1631,followup,1,pasco_roofing__v0,"104.28.80.63, 172.71.151.196",Mozilla/5.0
