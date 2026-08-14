@@ -2926,3 +2926,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-14 19:17:56,open,597_followup_2_polk_roofing__v1,597,followup,2,polk_roofing__v1,"104.28.80.63, 172.71.151.192",Mozilla/5.0
 2026-08-14 19:17:57,open,352_close_email_martin_roofing__v2,352,close,email,martin_roofing__v2,"104.28.80.63, 172.69.222.110",Mozilla/5.0
 2026-08-14 20:44:48,open,319_close_email_palm_beach_solar__v2,319,close,email,palm_beach_solar__v2,"172.226.190.19, 172.70.255.45",Mozilla/5.0
+2026-08-14 21:10:15,open,328_close_email_palm_beach_solar__v2,328,close,email,palm_beach_solar__v2,"172.226.188.42, 104.22.86.37",Mozilla/5.0
