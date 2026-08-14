@@ -2883,3 +2883,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-13 22:25:00,open,90_close_email_martin_pool__v2,90,close,email,martin_pool__v2,"146.75.248.1, 172.71.146.165",Mozilla/5.0
 2026-08-14 02:51:54,open,651_followup_2_polk_pool__v2,651,followup,2,polk_pool__v2,"172.226.174.153, 172.71.146.122",Mozilla/5.0
 2026-08-14 03:19:22,open,534_followup_2_pasco_hvac__v2,534,followup,2,pasco_hvac__v2,"140.248.44.1, 172.71.146.122",Mozilla/5.0
+2026-08-14 03:29:21,open,1673_first_outreach_pasco_general_contractor__v0,1673,first,outreach,pasco_general_contractor__v0,"104.28.132.113, 172.71.146.100",Mozilla/5.0
