@@ -2909,3 +2909,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-14 16:35:52,open,356_close_email_martin_roofing__v2,356,close,email,martin_roofing__v2,"135.232.20.81, 172.71.146.140","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-14 17:12:12,open,319_close_email_palm_beach_solar__v2,319,close,email,palm_beach_solar__v2,"140.248.44.1, 104.23.248.113",Mozilla/5.0
 2026-08-14 18:39:44,open,2045_followup_1_sarasota_roofing__v0,2045,followup,1,sarasota_roofing__v0,"172.226.190.39, 172.71.146.141",Mozilla/5.0
+2026-08-14 18:41:34,open,1790_close_email_manatee_hvac__v2,1790,close,email,manatee_hvac__v2,"172.226.190.58, 172.71.146.101",Mozilla/5.0
