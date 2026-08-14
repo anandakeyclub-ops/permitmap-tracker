@@ -2899,3 +2899,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-14 14:27:22,open,290_close_email_palm_beach_plumbing__v2,290,close,email,palm_beach_plumbing__v2,"104.28.132.113, 172.71.151.191",Mozilla/5.0
 2026-08-14 14:46:42,open,290_followup_2_palm_beach_plumbing__v1,290,followup,2,palm_beach_plumbing__v1,"140.248.44.1, 172.68.12.91",Mozilla/5.0
 2026-08-14 16:14:56,open,290_close_email_palm_beach_plumbing__v2,290,close,email,palm_beach_plumbing__v2,"104.28.132.113, 104.22.86.36",Mozilla/5.0
+2026-08-14 16:31:38,open,356_close_email_martin_roofing__v2,356,close,email,martin_roofing__v2,"135.232.20.13, 104.22.100.42","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-08-14 16:31:52,open,366_close_email_martin_hvac__v1,366,close,email,martin_hvac__v1,"74.125.210.136, 104.22.24.32",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-14 16:32:50,open,598_followup_2_polk_roofing__v1,598,followup,2,polk_roofing__v1,"74.179.70.60, 162.159.120.170","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
