@@ -2886,3 +2886,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-14 03:29:21,open,1673_first_outreach_pasco_general_contractor__v0,1673,first,outreach,pasco_general_contractor__v0,"104.28.132.113, 172.71.146.100",Mozilla/5.0
 2026-08-14 03:41:45,open,1640_followup_1_pasco_hvac__v2,1640,followup,1,pasco_hvac__v2,"172.225.246.50, 104.23.245.77",Mozilla/5.0
 2026-08-14 05:37:29,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"146.75.248.1, 104.22.56.72",Mozilla/5.0
+2026-08-14 11:38:07,open,265_close_email_palm_beach_roofing__v2,265,close,email,palm_beach_roofing__v2,"74.125.150.1, 172.68.22.34","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-14 11:38:11,open,263_close_email_palm_beach_roofing__v2,263,close,email,palm_beach_roofing__v2,"135.232.20.103, 104.23.209.76","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-08-14 11:38:13,open,266_close_email_palm_beach_roofing__v2,266,close,email,palm_beach_roofing__v2,"74.125.210.136, 172.68.71.84",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-14 11:38:16,open,269_close_email_palm_beach_roofing__v0,269,close,email,palm_beach_roofing__v0,"72.153.153.17, 162.158.167.106","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-08-14 11:38:24,open,278_close_email_palm_beach_hvac__v2,278,close,email,palm_beach_hvac__v2,"74.125.150.1, 172.68.22.34","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
