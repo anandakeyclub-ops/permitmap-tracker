@@ -2919,3 +2919,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-14 18:55:04,open,2025_followup_1_pinellas_general_contractor__v2,2025,followup,1,pinellas_general_contractor__v2,"104.28.80.63, 172.71.118.244",Mozilla/5.0
 2026-08-14 18:55:04,open,280_close_email_palm_beach_hvac__v2,280,close,email,palm_beach_hvac__v2,"104.28.80.63, 172.71.118.245",Mozilla/5.0
 2026-08-14 19:14:17,open,368_close_email_martin_hvac__v2,368,close,email,martin_hvac__v2,"172.226.188.49, 172.71.146.100",Mozilla/5.0
+2026-08-14 19:17:56,open,2037_followup_1_pinellas_general_contractor__v0,2037,followup,1,pinellas_general_contractor__v0,"104.28.80.63, 172.71.146.140",Mozilla/5.0
+2026-08-14 19:17:56,open,368_close_email_martin_hvac__v2,368,close,email,martin_hvac__v2,"104.28.80.63, 172.71.151.192",Mozilla/5.0
+2026-08-14 19:17:56,open,2035_followup_1_pinellas_general_contractor__v0,2035,followup,1,pinellas_general_contractor__v0,"104.28.80.63, 172.71.146.140",Mozilla/5.0
+2026-08-14 19:17:56,open,2049_followup_1_sarasota_roofing__v0,2049,followup,1,sarasota_roofing__v0,"104.28.80.63, 172.71.146.140",Mozilla/5.0
+2026-08-14 19:17:56,open,597_followup_2_polk_roofing__v1,597,followup,2,polk_roofing__v1,"104.28.80.63, 172.71.151.192",Mozilla/5.0
