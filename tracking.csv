@@ -2915,3 +2915,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-14 18:55:04,open,283_close_email_palm_beach_hvac__v2,283,close,email,palm_beach_hvac__v2,"104.28.80.63, 172.71.151.196",Mozilla/5.0
 2026-08-14 18:55:04,open,272_close_email_palm_beach_hvac__v2,272,close,email,palm_beach_hvac__v2,"104.28.80.63, 172.71.151.196",Mozilla/5.0
 2026-08-14 18:55:04,open,291_close_email_palm_beach_plumbing__v2,291,close,email,palm_beach_plumbing__v2,"104.28.80.63, 172.71.151.195",Mozilla/5.0
+2026-08-14 18:55:04,open,2048_followup_1_sarasota_roofing__v0,2048,followup,1,sarasota_roofing__v0,"104.28.80.63, 172.71.118.244",Mozilla/5.0
+2026-08-14 18:55:04,open,2025_followup_1_pinellas_general_contractor__v2,2025,followup,1,pinellas_general_contractor__v2,"104.28.80.63, 172.71.118.244",Mozilla/5.0
+2026-08-14 18:55:04,open,280_close_email_palm_beach_hvac__v2,280,close,email,palm_beach_hvac__v2,"104.28.80.63, 172.71.118.245",Mozilla/5.0
