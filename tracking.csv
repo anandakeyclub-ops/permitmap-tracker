@@ -2928,3 +2928,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-14 20:44:48,open,319_close_email_palm_beach_solar__v2,319,close,email,palm_beach_solar__v2,"172.226.190.19, 172.70.255.45",Mozilla/5.0
 2026-08-14 21:10:15,open,328_close_email_palm_beach_solar__v2,328,close,email,palm_beach_solar__v2,"172.226.188.42, 104.22.86.37",Mozilla/5.0
 2026-08-14 23:53:22,open,648_followup_2_polk_pool__v1,648,followup,2,polk_pool__v1,"140.248.44.1, 172.71.146.207",Mozilla/5.0
+2026-08-15 02:14:20,open,322_close_email_palm_beach_solar__v1,322,close,email,palm_beach_solar__v1,"140.248.44.0, 172.71.146.207",Mozilla/5.0
