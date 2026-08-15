@@ -2934,3 +2934,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-15 02:44:32,open,257_close_email_palm_beach_roofing__v2,257,close,email,palm_beach_roofing__v2,"140.248.44.1, 104.22.86.36",Mozilla/5.0
 2026-08-15 06:43:10,open,2053_followup_1_sarasota_roofing__v1,2053,followup,1,sarasota_roofing__v1,"140.248.44.0, 172.70.82.93",Mozilla/5.0
 2026-08-15 12:44:12,open,574_followup_2_pasco_solar__v2,574,followup,2,pasco_solar__v2,"140.248.44.0, 104.22.86.37",Mozilla/5.0
+2026-08-15 13:01:49,open,566_followup_2_pasco_pool__v2,566,followup,2,pasco_pool__v2,"172.226.190.31, 172.71.146.207",Mozilla/5.0
