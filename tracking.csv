@@ -2931,3 +2931,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-15 02:14:20,open,322_close_email_palm_beach_solar__v1,322,close,email,palm_beach_solar__v1,"140.248.44.0, 172.71.146.207",Mozilla/5.0
 2026-08-15 02:23:11,open,2030_followup_1_pinellas_general_contractor__v1,2030,followup,1,pinellas_general_contractor__v1,"172.226.188.46, 172.70.82.94",Mozilla/5.0
 2026-08-15 02:38:13,open,274_close_email_palm_beach_hvac__v2,274,close,email,palm_beach_hvac__v2,"140.248.44.1, 104.22.86.37",Mozilla/5.0
+2026-08-15 02:44:32,open,257_close_email_palm_beach_roofing__v2,257,close,email,palm_beach_roofing__v2,"140.248.44.1, 104.22.86.36",Mozilla/5.0
