@@ -2938,3 +2938,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-15 17:24:12,open,316_close_email_palm_beach_pool__v2,316,close,email,palm_beach_pool__v2,"104.28.103.14, 162.159.104.124",Mozilla/5.0
 2026-08-15 22:20:56,open,315_close_email_palm_beach_pool__v2,315,close,email,palm_beach_pool__v2,"104.28.50.162, 172.71.146.140",Mozilla/5.0
 2026-08-15 22:31:49,open,100_followup_1_martin_general_contractor__v0,100,followup,1,martin_general_contractor__v0,"140.248.44.0, 172.71.146.140",Mozilla/5.0
+2026-08-16 07:56:33,open,309_close_email_palm_beach_pool__v2,309,close,email,palm_beach_pool__v2,"104.28.80.63, 172.71.146.207",Mozilla/5.0
+2026-08-16 07:56:33,open,306_close_email_palm_beach_pool__v2,306,close,email,palm_beach_pool__v2,"104.28.80.63, 172.71.146.207",Mozilla/5.0
+2026-08-16 07:56:33,open,334_close_email_palm_beach_general_contractor__v2,334,close,email,palm_beach_general_contractor__v2,"104.28.80.63, 172.71.146.207",Mozilla/5.0
+2026-08-16 07:56:33,open,314_close_email_palm_beach_pool__v2,314,close,email,palm_beach_pool__v2,"104.28.80.63, 172.71.146.206",Mozilla/5.0
+2026-08-16 07:56:33,open,339_close_email_palm_beach_general_contractor__v2,339,close,email,palm_beach_general_contractor__v2,"104.28.80.63, 172.71.146.207",Mozilla/5.0
