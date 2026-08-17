@@ -2961,3 +2961,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-17 11:47:58,open,1902_followup_1_clay_general_contractor__v0,1902,followup,1,clay_general_contractor__v0,"69.147.93.12, 162.158.79.27",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-08-17 11:49:57,open,1455_followup_2_palm_beach_roofing__v1,1455,followup,2,palm_beach_roofing__v1,"172.225.80.219, 162.159.120.170",Mozilla/5.0
 2026-08-17 12:20:31,open,274_close_email_palm_beach_hvac__v2,274,close,email,palm_beach_hvac__v2,"172.226.188.48, 172.71.146.141",Mozilla/5.0
+2026-08-17 12:31:08,open,2882_first_outreach_miami_dade_hvac__v2,2882,first,outreach,miami_dade_hvac__v2,"140.248.44.1, 172.71.146.206",Mozilla/5.0
