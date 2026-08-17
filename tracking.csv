@@ -2944,3 +2944,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-16 07:56:33,open,314_close_email_palm_beach_pool__v2,314,close,email,palm_beach_pool__v2,"104.28.80.63, 172.71.146.206",Mozilla/5.0
 2026-08-16 07:56:33,open,339_close_email_palm_beach_general_contractor__v2,339,close,email,palm_beach_general_contractor__v2,"104.28.80.63, 172.71.146.207",Mozilla/5.0
 2026-08-17 01:38:17,open,336_close_email_palm_beach_general_contractor__v2,336,close,email,palm_beach_general_contractor__v2,"140.248.44.0, 172.70.255.45",Mozilla/5.0
+2026-08-17 11:34:11,open,1476_followup_2_palm_beach_hvac__v1,1476,followup,2,palm_beach_hvac__v1,"2a06:98c0:3600::103,104.23.248.112, 104.23.248.112",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-08-17 11:34:12,open,2159_followup_1_volusia_general_contractor__v0,2159,followup,1,volusia_general_contractor__v0,"72.153.231.40, 162.158.167.105","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-08-17 11:34:46,open,1476_followup_2_palm_beach_hvac__v1,1476,followup,2,palm_beach_hvac__v1,"2a06:98c0:3600::103,104.22.86.36, 104.22.86.36",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-08-17 11:35:23,open,2871_first_outreach_miami_dade_roofing__v2,2871,first,outreach,miami_dade_roofing__v2,"72.153.230.151, 104.22.20.55","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-08-17 11:35:31,open,2875_first_outreach_miami_dade_hvac__v2,2875,first,outreach,miami_dade_hvac__v2,"135.232.20.45, 104.23.209.77","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
