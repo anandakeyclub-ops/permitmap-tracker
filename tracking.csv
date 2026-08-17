@@ -2962,3 +2962,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-17 11:49:57,open,1455_followup_2_palm_beach_roofing__v1,1455,followup,2,palm_beach_roofing__v1,"172.225.80.219, 162.159.120.170",Mozilla/5.0
 2026-08-17 12:20:31,open,274_close_email_palm_beach_hvac__v2,274,close,email,palm_beach_hvac__v2,"172.226.188.48, 172.71.146.141",Mozilla/5.0
 2026-08-17 12:31:08,open,2882_first_outreach_miami_dade_hvac__v2,2882,first,outreach,miami_dade_hvac__v2,"140.248.44.1, 172.71.146.206",Mozilla/5.0
+2026-08-17 12:47:28,open,583_followup_2_pasco_general_contractor__v2,583,followup,2,pasco_general_contractor__v2,"172.226.188.49, 172.71.156.249",Mozilla/5.0
