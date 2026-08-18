@@ -3113,3 +3113,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-18 16:44:10,open,1535_followup_2_martin_general_contractor__v0,1535,followup,2,martin_general_contractor__v0,"69.215.127.114, 172.71.146.121","Mozilla/5.0 (Linux; Android 16; SM-S918U Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/150.0.7871.181 Mobile Safari/537.36"
 2026-08-18 16:57:03,open,2393_first_outreach_martin_general_contractor__v2,2393,first,outreach,martin_general_contractor__v2,"174.48.181.113, 104.23.248.112",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-08-18 19:08:57,open,2391_first_outreach_martin_general_contractor__v2,2391,first,outreach,martin_general_contractor__v2,"140.248.44.1, 108.162.210.220",Mozilla/5.0
+2026-08-18 19:27:46,open,424_close_email_lee_roofing__v2,424,close,email,lee_roofing__v2,"104.28.30.18, 172.71.146.184",Mozilla/5.0
+2026-08-18 19:27:46,open,477_close_email_lee_pool__v2,477,close,email,lee_pool__v2,"104.28.30.18, 172.71.146.184",Mozilla/5.0
+2026-08-18 19:27:46,open,422_close_email_lee_roofing__v2,422,close,email,lee_roofing__v2,"104.28.30.18, 172.71.146.185",Mozilla/5.0
+2026-08-18 19:27:46,open,479_close_email_lee_pool__v2,479,close,email,lee_pool__v2,"104.28.30.18, 172.71.146.185",Mozilla/5.0
+2026-08-18 19:27:46,open,421_close_email_lee_roofing__v2,421,close,email,lee_roofing__v2,"104.28.30.18, 172.71.146.185",Mozilla/5.0
