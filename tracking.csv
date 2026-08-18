@@ -3067,3 +3067,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-18 01:11:04,open,2324_first_outreach_palm_beach_roofing__v2,2324,first,outreach,palm_beach_roofing__v2,"68.205.166.199, 172.70.82.93","Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-08-18 01:11:04,open,2324_first_outreach_palm_beach_roofing__v2,2324,first,outreach,palm_beach_roofing__v2,"68.205.166.199, 172.71.156.249","Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-08-18 01:54:44,open,2324_first_outreach_palm_beach_roofing__v2,2324,first,outreach,palm_beach_roofing__v2,"140.248.44.1, 172.71.147.237",Mozilla/5.0
+2026-08-18 05:06:20,open,1475_followup_2_palm_beach_hvac__v2,1475,followup,2,palm_beach_hvac__v2,"172.226.188.58, 172.71.146.116",Mozilla/5.0
