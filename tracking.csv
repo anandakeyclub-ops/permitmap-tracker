@@ -3083,3 +3083,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-18 12:28:09,open,2324_first_outreach_palm_beach_roofing__v2,2324,first,outreach,palm_beach_roofing__v2,"140.248.44.0, 172.71.156.249",Mozilla/5.0
 2026-08-18 12:30:36,open,371_close_email_martin_hvac__v2,371,close,email,martin_hvac__v2,"2a06:98c0:3600::103,172.71.156.249, 172.71.146.121",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-08-18 12:33:03,open,410_close_email_martin_general_contractor__v2,410,close,email,martin_general_contractor__v2,"146.75.234.48, 172.68.71.84",Mozilla/5.0
+2026-08-18 13:02:40,open,1771_first_outreach_st_johns_general_contractor__v0,1771,first,outreach,st_johns_general_contractor__v0,"69.180.77.178, 172.69.208.178","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0 OneOutlook/1.2026.728.100"
