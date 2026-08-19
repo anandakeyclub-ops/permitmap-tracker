@@ -3190,3 +3190,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 03:25:43,open,549_close_email_pasco_plumbing__v2,549,close,email,pasco_plumbing__v2,"140.248.44.1, 172.68.12.91",Mozilla/5.0
 2026-08-19 03:43:08,open,684_followup_2_osceola_hvac__v1,684,followup,2,osceola_hvac__v1,"140.248.44.0, 108.162.210.220",Mozilla/5.0
 2026-08-19 10:18:24,open,2440_first_outreach_lee_plumbing__v2,2440,first,outreach,lee_plumbing__v2,"104.28.132.113, 172.71.146.207",Mozilla/5.0
+2026-08-19 11:42:31,open,1588_followup_1_lee_pool__v0,1588,followup,1,lee_pool__v0,"74.125.150.67, 172.68.22.35","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-19 11:42:35,open,1590_followup_1_lee_pool__v0,1590,followup,1,lee_pool__v0,"74.125.150.68, 172.71.151.195","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-19 11:42:41,open,1593_followup_1_lee_pool__v0,1593,followup,1,lee_pool__v0,"74.125.150.67, 172.68.22.35","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-19 11:42:42,open,1594_followup_1_lee_pool__v0,1594,followup,1,lee_pool__v0,"74.125.150.67, 172.68.22.35","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-19 11:42:45,open,1596_followup_1_lee_pool__v0,1596,followup,1,lee_pool__v0,"74.125.150.67, 172.68.22.35","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
