@@ -3249,3 +3249,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 21:19:36,open,2045_followup_2_sarasota_roofing__v2,2045,followup,2,sarasota_roofing__v2,"140.248.44.1, 172.68.12.76",Mozilla/5.0
 2026-08-19 21:36:31,open,160_first_outreach_palm_beach_pool__v2,160,first,outreach,palm_beach_pool__v2,"24.238.3.54, 172.71.146.140","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 2026-08-19 21:36:32,open,160_first_outreach_palm_beach_pool__v2,160,first,outreach,palm_beach_pool__v2,"24.238.3.54, 172.71.151.195","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+2026-08-19 22:01:19,open,160_first_outreach_palm_beach_pool__v2,160,first,outreach,palm_beach_pool__v2,"24.238.3.54, 172.71.146.207","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+2026-08-19 22:02:52,open,539_close_email_pasco_hvac__v2,539,close,email,pasco_hvac__v2,"140.248.44.1, 172.70.82.93",Mozilla/5.0
