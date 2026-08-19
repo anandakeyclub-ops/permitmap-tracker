@@ -3215,3 +3215,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 15:38:31,open,505_close_email_lee_general_contractor__v1,505,close,email,lee_general_contractor__v1,"104.28.132.113, 172.71.146.206",Mozilla/5.0
 2026-08-19 15:38:31,open,573_close_email_pasco_solar__v2,573,close,email,pasco_solar__v2,"104.28.132.113, 172.71.146.207",Mozilla/5.0
 2026-08-19 15:38:31,open,458_followup_2_lee_plumbing__v2,458,followup,2,lee_plumbing__v2,"104.28.132.113, 172.71.146.207",Mozilla/5.0
+2026-08-19 15:38:33,open,465_close_email_lee_pool__v2,465,close,email,lee_pool__v2,"104.28.132.113, 172.68.12.76",Mozilla/5.0
+2026-08-19 15:38:33,open,456_followup_2_lee_plumbing__v1,456,followup,2,lee_plumbing__v1,"104.28.132.113, 172.68.12.76",Mozilla/5.0
+2026-08-19 15:38:33,open,502_close_email_lee_general_contractor__v2,502,close,email,lee_general_contractor__v2,"104.28.132.113, 172.68.12.76",Mozilla/5.0
