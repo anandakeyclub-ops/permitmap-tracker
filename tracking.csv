@@ -3184,3 +3184,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 01:12:36,open,2451_first_outreach_lee_pool__v2,2451,first,outreach,lee_pool__v2,"73.55.84.209, 172.71.146.163","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
 2026-08-19 01:12:41,open,2451_first_outreach_lee_pool__v2,2451,first,outreach,lee_pool__v2,"73.55.84.209, 172.70.82.93","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
 2026-08-19 01:13:40,open,1554_followup_1_lee_roofing__v1,1554,followup,1,lee_roofing__v1,"172.226.81.21, 162.159.106.186",Mozilla/5.0
+2026-08-19 01:19:42,open,549_close_email_pasco_plumbing__v2,549,close,email,pasco_plumbing__v2,"172.226.190.14, 172.70.82.94",Mozilla/5.0
