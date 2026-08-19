@@ -3246,3 +3246,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 21:02:18,open,534_close_email_pasco_hvac__v2,534,close,email,pasco_hvac__v2,"74.125.150.67, 162.159.120.171","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-19 21:02:43,open,538_close_email_pasco_hvac__v2,538,close,email,pasco_hvac__v2,"74.125.150.67, 162.159.120.171","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-19 21:11:49,open,526_close_email_pasco_hvac__v2,526,close,email,pasco_hvac__v2,"172.226.190.17, 104.23.248.113",Mozilla/5.0
+2026-08-19 21:19:36,open,2045_followup_2_sarasota_roofing__v2,2045,followup,2,sarasota_roofing__v2,"140.248.44.1, 172.68.12.76",Mozilla/5.0
