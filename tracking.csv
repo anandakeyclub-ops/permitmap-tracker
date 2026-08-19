@@ -3209,3 +3209,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 12:06:14,open,1658_followup_1_pasco_plumbing__v0,1658,followup,1,pasco_plumbing__v0,"47.195.208.41, 104.22.86.36",Mozilla/5.0
 2026-08-19 14:16:32,open,2462_first_outreach_lee_general_contractor__v2,2462,first,outreach,lee_general_contractor__v2,"140.248.44.1, 172.71.146.140",Mozilla/5.0
 2026-08-19 14:30:51,open,90_close_email_martin_pool__v2,90,close,email,martin_pool__v2,"140.248.0.0, 104.23.211.104",Mozilla/5.0
+2026-08-19 15:19:43,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"140.248.0.1, 172.71.146.206",Mozilla/5.0
