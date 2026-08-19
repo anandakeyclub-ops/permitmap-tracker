@@ -3218,3 +3218,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 15:38:33,open,465_close_email_lee_pool__v2,465,close,email,lee_pool__v2,"104.28.132.113, 172.68.12.76",Mozilla/5.0
 2026-08-19 15:38:33,open,456_followup_2_lee_plumbing__v1,456,followup,2,lee_plumbing__v1,"104.28.132.113, 172.68.12.76",Mozilla/5.0
 2026-08-19 15:38:33,open,502_close_email_lee_general_contractor__v2,502,close,email,lee_general_contractor__v2,"104.28.132.113, 172.68.12.76",Mozilla/5.0
+2026-08-19 16:33:44,open,81_first_outreach_martin_plumbing__v2,81,first,outreach,martin_plumbing__v2,"135.232.20.104, 104.22.100.42","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
