@@ -3277,3 +3277,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-20 13:05:55,open,535_close_email_pasco_hvac__v2,535,close,email,pasco_hvac__v2,"172.226.190.54, 172.70.82.94",Mozilla/5.0
 2026-08-20 15:56:27,open,25_first_outreach_palm_beach_plumbing__v0,25,first,outreach,palm_beach_plumbing__v0,"74.125.210.134, 172.71.22.182",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-08-20 15:56:48,open,25_first_outreach_palm_beach_plumbing__v0,25,first,outreach,palm_beach_plumbing__v0,"74.125.210.128, 104.23.245.77",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-20 15:57:14,open,25_first_outreach_palm_beach_plumbing__v0,25,first,outreach,palm_beach_plumbing__v0,"74.125.210.142, 172.71.31.226",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-20 15:57:16,open,25_first_outreach_palm_beach_plumbing__v0,25,first,outreach,palm_beach_plumbing__v0,"74.125.210.134, 172.71.151.196",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-20 15:57:25,open,25_first_outreach_palm_beach_plumbing__v0,25,first,outreach,palm_beach_plumbing__v0,"74.125.210.142, 172.71.31.226",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
