@@ -3261,3 +3261,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-20 01:09:16,open,576_close_email_pasco_solar__v2,576,close,email,pasco_solar__v2,"104.28.132.113, 172.71.146.127",Mozilla/5.0
 2026-08-20 01:09:16,open,679_followup_2_osceola_roofing__v2,679,followup,2,osceola_roofing__v2,"104.28.132.113, 172.71.146.127",Mozilla/5.0
 2026-08-20 01:09:16,open,675_followup_2_osceola_roofing__v1,675,followup,2,osceola_roofing__v1,"104.28.132.113, 172.71.146.126",Mozilla/5.0
+2026-08-20 01:09:20,open,1598_followup_1_lee_pool__v0,1598,followup,1,lee_pool__v0,"104.28.132.113, 104.22.86.36",Mozilla/5.0
+2026-08-20 01:09:20,open,1589_followup_1_lee_pool__v0,1589,followup,1,lee_pool__v0,"104.28.132.113, 104.22.86.36",Mozilla/5.0
+2026-08-20 01:09:20,open,1590_followup_1_lee_pool__v0,1590,followup,1,lee_pool__v0,"104.28.132.113, 104.22.86.36",Mozilla/5.0
