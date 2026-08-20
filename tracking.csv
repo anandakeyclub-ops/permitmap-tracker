@@ -3256,3 +3256,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 22:37:47,open,462_followup_2_lee_plumbing__v2,462,followup,2,lee_plumbing__v2,"104.28.57.248, 172.70.82.93",Mozilla/5.0
 2026-08-20 00:57:26,open,2405_first_outreach_lee_roofing__v2,2405,first,outreach,lee_roofing__v2,"51.75.159.28, 172.71.151.196","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
 2026-08-20 01:04:08,open,487_followup_2_lee_solar__v1,487,followup,2,lee_solar__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-08-20 01:09:16,open,685_followup_2_osceola_hvac__v2,685,followup,2,osceola_hvac__v2,"104.28.132.113, 172.71.146.126",Mozilla/5.0
+2026-08-20 01:09:16,open,673_followup_2_osceola_roofing__v1,673,followup,2,osceola_roofing__v1,"104.28.132.113, 172.71.146.126",Mozilla/5.0
+2026-08-20 01:09:16,open,576_close_email_pasco_solar__v2,576,close,email,pasco_solar__v2,"104.28.132.113, 172.71.146.127",Mozilla/5.0
+2026-08-20 01:09:16,open,679_followup_2_osceola_roofing__v2,679,followup,2,osceola_roofing__v2,"104.28.132.113, 172.71.146.127",Mozilla/5.0
+2026-08-20 01:09:16,open,675_followup_2_osceola_roofing__v1,675,followup,2,osceola_roofing__v1,"104.28.132.113, 172.71.146.126",Mozilla/5.0
