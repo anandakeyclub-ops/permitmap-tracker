@@ -3254,3 +3254,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-19 22:36:20,open,464_followup_2_lee_plumbing__v2,464,followup,2,lee_plumbing__v2,"140.248.44.0, 172.70.255.45",Mozilla/5.0
 2026-08-19 22:36:48,open,531_close_email_pasco_hvac__v2,531,close,email,pasco_hvac__v2,"172.226.188.28, 108.162.210.220",Mozilla/5.0
 2026-08-19 22:37:47,open,462_followup_2_lee_plumbing__v2,462,followup,2,lee_plumbing__v2,"104.28.57.248, 172.70.82.93",Mozilla/5.0
+2026-08-20 00:57:26,open,2405_first_outreach_lee_roofing__v2,2405,first,outreach,lee_roofing__v2,"51.75.159.28, 172.71.151.196","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
