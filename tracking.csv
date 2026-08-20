@@ -3295,3 +3295,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-20 17:33:29,open,567_close_email_pasco_pool__v2,567,close,email,pasco_pool__v2,"172.226.188.32, 172.71.146.210",Mozilla/5.0
 2026-08-20 17:33:29,open,1618_followup_2_pasco_roofing__v2,1618,followup,2,pasco_roofing__v2,"172.226.188.32, 104.23.248.112",Mozilla/5.0
 2026-08-20 17:33:29,open,565_close_email_pasco_pool__v0,565,close,email,pasco_pool__v0,"172.226.188.32, 104.23.248.112",Mozilla/5.0
+2026-08-20 18:21:41,open,1736_followup_2_osceola_general_contractor__v1,1736,followup,2,osceola_general_contractor__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
