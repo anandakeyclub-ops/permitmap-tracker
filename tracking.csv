@@ -3293,3 +3293,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-20 17:33:29,open,1632_followup_2_pasco_roofing__v1,1632,followup,2,pasco_roofing__v1,"172.226.188.32, 172.71.146.211",Mozilla/5.0
 2026-08-20 17:33:29,open,511_close_email_pasco_roofing__v2,511,close,email,pasco_roofing__v2,"172.226.188.32, 172.71.146.210",Mozilla/5.0
 2026-08-20 17:33:29,open,567_close_email_pasco_pool__v2,567,close,email,pasco_pool__v2,"172.226.188.32, 172.71.146.210",Mozilla/5.0
+2026-08-20 17:33:29,open,1618_followup_2_pasco_roofing__v2,1618,followup,2,pasco_roofing__v2,"172.226.188.32, 104.23.248.112",Mozilla/5.0
+2026-08-20 17:33:29,open,565_close_email_pasco_pool__v0,565,close,email,pasco_pool__v0,"172.226.188.32, 104.23.248.112",Mozilla/5.0
