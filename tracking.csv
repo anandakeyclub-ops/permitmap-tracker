@@ -3297,3 +3297,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-20 17:33:29,open,565_close_email_pasco_pool__v0,565,close,email,pasco_pool__v0,"172.226.188.32, 104.23.248.112",Mozilla/5.0
 2026-08-20 18:21:41,open,1736_followup_2_osceola_general_contractor__v1,1736,followup,2,osceola_general_contractor__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
 2026-08-20 18:29:49,open,2324_first_outreach_palm_beach_roofing__v2,2324,first,outreach,palm_beach_roofing__v2,"173.162.92.86, 172.71.146.178","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0 OneOutlook/1.2026.730.100"
+2026-08-20 20:53:00,open,1637_followup_2_pasco_hvac__v2,1637,followup,2,pasco_hvac__v2,"72.152.84.208, 104.23.201.89","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
