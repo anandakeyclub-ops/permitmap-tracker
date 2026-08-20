@@ -3318,3 +3318,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-20 21:01:22,open,2631_first_outreach_hillsborough_hvac__v0,2631,first,outreach,hillsborough_hvac__v0,"72.152.84.208, 172.71.146.210","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-20 21:02:29,open,1819_first_outreach_hillsborough_roofing__v2,1819,first,outreach,hillsborough_roofing__v2,"172.226.190.32, 172.70.82.93",Mozilla/5.0
 2026-08-20 21:11:08,open,658_followup_2_polk_general_contractor__v2,658,followup,2,polk_general_contractor__v2,"146.75.232.1, 172.69.71.179",Mozilla/5.0
+2026-08-20 21:19:56,open,2620_first_outreach_hillsborough_hvac__v2,2620,first,outreach,hillsborough_hvac__v2,"172.226.188.23, 172.71.146.127",Mozilla/5.0
