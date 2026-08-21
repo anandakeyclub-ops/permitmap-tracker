@@ -3362,3 +3362,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-21 19:42:21,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 104.23.248.21",curl/8.19.0
 2026-08-21 19:43:09,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 172.71.151.196",curl/8.19.0
 2026-08-21 19:43:22,click,testlive_deploycheck,testlive,deploycheck,,,"73.244.101.32, 104.22.86.103",curl/8.19.0
+2026-08-21 19:44:03,open,658_followup_2_polk_general_contractor__v2,658,followup,2,polk_general_contractor__v2,"73.27.144.5, 172.70.82.93","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
