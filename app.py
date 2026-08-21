@@ -32,6 +32,8 @@ from collections import defaultdict
 from datetime import date, datetime
 from pathlib import Path
 
+from urllib.parse import urlparse
+
 import requests
 from flask import Flask, Response, jsonify, redirect, request
 
@@ -39,6 +41,42 @@ app = Flask(__name__)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 STRIPE_URL    = os.environ.get("STRIPE_URL", "https://buy.stripe.com/14AeVddOnbPx1g23VIdUY04")
+
+# ── Destination allowlist (open-redirect protection) ───────────────────────────
+# /click may carry a validated ?to=<url> so a tracked link lands the contractor at
+# the SAME place the email intended (site visit vs. signup vs. checkout) instead of a
+# single hardcoded Stripe URL. Only these exact hosts are permitted; anything else
+# (arbitrary domains, javascript:/data:, protocol-relative //evil, userinfo/host
+# tricks, malformed URLs) falls back to SAFE_DEFAULT. Exact host match — never suffix.
+ALLOWED_HOSTS = {
+    "permitmap.org", "www.permitmap.org", "app.permitmap.org",
+    "buy.stripe.com", "checkout.stripe.com",
+}
+STRIPE_HOSTS = {"buy.stripe.com", "checkout.stripe.com"}
+SAFE_DEFAULT = "https://permitmap.org"
+
+
+def _validate_destination(raw: str) -> str | None:
+    """Return the destination unchanged iff it is an https URL on ALLOWED_HOSTS.
+
+    Rejects (returns None): non-https schemes (javascript:, data:, http, the empty
+    scheme of protocol-relative //host), hosts not exactly on the allowlist, and any
+    value carrying whitespace/control chars (header-injection / parser tricks).
+    """
+    if not raw:
+        return None
+    if any(c in raw for c in "\r\n\t \x00"):
+        return None
+    try:
+        p = urlparse(raw)
+    except (ValueError, TypeError):
+        return None
+    if p.scheme != "https":                 # blocks http, javascript:, data:, //protocol-relative
+        return None
+    host = (p.hostname or "").lower()        # .hostname strips userinfo@ and :port → real host only
+    if host not in ALLOWED_HOSTS:            # exact match: "permitmap.org.evil.com" / "@evil.com" rejected
+        return None
+    return raw
 GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO   = os.environ.get("GITHUB_REPO", "anandakeyclub-ops/permitmap-tracker")
 GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH", "main")
@@ -263,8 +301,25 @@ def click(tracking_id: str):
     _log_event(tracking_id, "click")
     # Force flush so click is persisted immediately
     _flush_buffer()
-    # Pass the tracking_id through as Stripe client_reference_id so checkout
-    # attribution is preserved (was dropped in an earlier refactor).
+
+    # Destination-aware redirect: if the email supplied ?to=<url>, land the contractor
+    # at that (allowlisted) destination so tracked links preserve the intended endpoint.
+    to = request.args.get("to", "")
+    if to:
+        dest = _validate_destination(to)
+        if dest is None:
+            # Invalid/blocked destination — never an open redirect; controlled safe fallback.
+            return redirect(SAFE_DEFAULT)
+        host = (urlparse(dest).hostname or "").lower()
+        if host in STRIPE_HOSTS:
+            # Preserve Stripe attribution exactly as the no-`to` path does.
+            sep = "&" if "?" in dest else "?"
+            return redirect(f"{dest}{sep}client_reference_id={tracking_id}")
+        # permitmap.org / app.permitmap.org: redirect as-is — existing query params
+        # (county/source/plan/UTM) preserved verbatim; app-side stamps its own attribution.
+        return redirect(dest)
+
+    # No `to` (legacy tracked link): preserve prior behavior — Stripe default + attribution.
     sep = "&" if "?" in STRIPE_URL else "?"
     return redirect(f"{STRIPE_URL}{sep}client_reference_id={tracking_id}")
 
