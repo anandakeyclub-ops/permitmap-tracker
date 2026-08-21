@@ -3343,3 +3343,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-21 18:35:07,open,368_followup_2_martin_hvac__v1,368,followup,2,martin_hvac__v1,"172.226.190.18, 172.71.146.127",Mozilla/5.0
 2026-08-21 19:31:13,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 104.23.248.113",curl/8.19.0
 2026-08-21 19:31:47,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 172.71.146.201",curl/8.19.0
+2026-08-21 19:32:20,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 104.22.86.36",curl/8.19.0
