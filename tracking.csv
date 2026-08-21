@@ -3338,3 +3338,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-21 11:44:48,open,2911_followup_1_miami_dade_pool__v2,2911,followup,1,miami_dade_pool__v2,"66.249.90.226, 172.71.151.29","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-21 11:44:49,open,2871_followup_1_miami_dade_roofing__v2,2871,followup,1,miami_dade_roofing__v2,"74.179.68.93, 162.159.120.170","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-21 12:10:26,open,1455_close_email_palm_beach_roofing__v2,1455,close,email,palm_beach_roofing__v2,"140.248.20.1, 162.158.41.130",Mozilla/5.0
+2026-08-21 13:14:30,open,1790_close_email_manatee_hvac__v2,1790,close,email,manatee_hvac__v2,"104.28.132.113, 172.68.12.90",Mozilla/5.0
