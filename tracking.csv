@@ -3341,3 +3341,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-21 13:14:30,open,1790_close_email_manatee_hvac__v2,1790,close,email,manatee_hvac__v2,"104.28.132.113, 172.68.12.90",Mozilla/5.0
 2026-08-21 16:34:26,click,test_first_outreach_test_test,test,first,outreach,test_test,"73.244.101.32, 172.68.12.77",curl/8.19.0
 2026-08-21 18:35:07,open,368_followup_2_martin_hvac__v1,368,followup,2,martin_hvac__v1,"172.226.190.18, 172.71.146.127",Mozilla/5.0
+2026-08-21 19:31:13,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 104.23.248.113",curl/8.19.0
