@@ -3358,3 +3358,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-21 19:38:57,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 172.71.146.126",curl/8.19.0
 2026-08-21 19:39:33,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 172.71.146.126",curl/8.19.0
 2026-08-21 19:40:06,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 172.71.151.195",curl/8.19.0
+2026-08-21 19:41:33,click,testto_first_outreach_palm_beach_roofing,testto,first,outreach,palm_beach_roofing,"73.244.101.32, 104.22.86.102",curl/8.19.0
