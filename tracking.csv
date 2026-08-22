@@ -3368,3 +3368,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-21 20:55:15,click,testlive_deploycheck,testlive,deploycheck,,,"73.244.101.32, 104.23.248.21",curl/8.19.0
 2026-08-21 20:55:20,click,testlive_evilcheck,testlive,evilcheck,,,"73.244.101.32, 172.70.82.33",curl/8.19.0
 2026-08-21 21:26:06,click,testlive_postmerge_first_outreach,testlive,postmerge,first,outreach,"73.244.101.32, 172.71.146.126",curl/8.19.0
+2026-08-22 03:42:35,open,368_followup_1_martin_hvac__v2,368,followup,1,martin_hvac__v2,"172.226.188.9, 172.71.146.127",Mozilla/5.0
