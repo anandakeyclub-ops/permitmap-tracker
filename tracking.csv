@@ -3395,3 +3395,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-22 20:12:30,open,1496_close_email_palm_beach_plumbing__v2,1496,close,email,palm_beach_plumbing__v2,"172.226.190.42, 172.71.146.126",Mozilla/5.0
 2026-08-22 20:12:30,open,1494_close_email_palm_beach_plumbing__v2,1494,close,email,palm_beach_plumbing__v2,"172.226.190.42, 172.71.146.127",Mozilla/5.0
 2026-08-22 20:12:30,open,1493_close_email_palm_beach_plumbing__v2,1493,close,email,palm_beach_plumbing__v2,"172.226.190.42, 172.71.146.127",Mozilla/5.0
+2026-08-22 20:12:30,open,1510_close_email_palm_beach_pool__v2,1510,close,email,palm_beach_pool__v2,"172.226.190.42, 108.162.210.220",Mozilla/5.0
+2026-08-22 20:12:30,open,1501_close_email_palm_beach_pool__v2,1501,close,email,palm_beach_pool__v2,"172.226.190.42, 108.162.210.220",Mozilla/5.0
+2026-08-22 20:12:30,open,1518_close_email_palm_beach_general_contractor__v2,1518,close,email,palm_beach_general_contractor__v2,"172.226.190.42, 108.162.210.220",Mozilla/5.0
+2026-08-22 20:12:30,open,1516_close_email_palm_beach_general_contractor__v2,1516,close,email,palm_beach_general_contractor__v2,"172.226.190.42, 108.162.210.220",Mozilla/5.0
