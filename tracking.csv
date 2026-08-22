@@ -3374,3 +3374,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-22 14:29:35,open,625_close_email_polk_plumbing__v2,625,close,email,polk_plumbing__v2,"172.226.188.7, 172.71.146.211",Mozilla/5.0
 2026-08-22 14:29:35,open,624_close_email_polk_plumbing__v2,624,close,email,polk_plumbing__v2,"172.226.188.7, 172.71.146.210",Mozilla/5.0
 2026-08-22 14:29:35,open,656_followup_2_polk_general_contractor__v2,656,followup,2,polk_general_contractor__v2,"172.226.188.7, 172.71.146.210",Mozilla/5.0
+2026-08-22 14:29:36,open,660_followup_2_polk_general_contractor__v1,660,followup,2,polk_general_contractor__v1,"172.226.188.7, 108.162.210.220",Mozilla/5.0
+2026-08-22 14:29:36,open,1635_followup_2_pasco_hvac__v2,1635,followup,2,pasco_hvac__v2,"172.226.188.7, 108.162.210.220",Mozilla/5.0
+2026-08-22 14:29:36,open,1462_close_email_palm_beach_roofing__v2,1462,close,email,palm_beach_roofing__v2,"172.226.188.7, 108.162.210.220",Mozilla/5.0
