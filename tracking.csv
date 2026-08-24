@@ -3433,3 +3433,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-24 14:13:26,open,2903_followup_1_miami_dade_pool__v0,2903,followup,1,miami_dade_pool__v0,"172.226.150.27, 172.71.151.191",Mozilla/5.0
 2026-08-24 14:16:19,open,1520_close_email_palm_beach_general_contractor__v1,1520,close,email,palm_beach_general_contractor__v1,"76.110.114.72, 172.68.12.77",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-08-24 14:36:42,open,574_close_email_pasco_solar__v2,574,close,email,pasco_solar__v2,"140.248.44.0, 172.71.146.127",Mozilla/5.0
+2026-08-24 16:48:28,open,2349_followup_1_palm_beach_plumbing__v2,2349,followup,1,palm_beach_plumbing__v2,"72.152.84.184, 104.23.201.89","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-08-24 16:49:38,open,2356_followup_1_palm_beach_plumbing__v0,2356,followup,1,palm_beach_plumbing__v0,"74.179.68.27, 162.158.41.130","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
