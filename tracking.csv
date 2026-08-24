@@ -3420,3 +3420,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-24 11:55:58,open,2919_followup_1_miami_dade_general_contractor__v0,2919,followup,1,miami_dade_general_contractor__v0,"135.232.20.66, 172.71.191.36","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-24 11:56:20,open,2919_followup_1_miami_dade_general_contractor__v0,2919,followup,1,miami_dade_general_contractor__v0,"72.152.84.1, 104.23.201.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-24 12:02:33,open,2896_followup_1_miami_dade_plumbing__v0,2896,followup,1,miami_dade_plumbing__v0,"76.159.34.6, 104.22.18.5",Mozilla/5.0
+2026-08-24 12:27:59,open,2918_followup_1_miami_dade_general_contractor__v0,2918,followup,1,miami_dade_general_contractor__v0,"140.248.44.1, 172.71.146.127",Mozilla/5.0
