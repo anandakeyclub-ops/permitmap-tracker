@@ -3449,3 +3449,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-24 18:30:45,open,1537_close_email_martin_general_contractor__v2,1537,close,email,martin_general_contractor__v2,"172.226.188.32, 172.71.146.126",Mozilla/5.0
 2026-08-24 18:30:45,open,1558_close_email_lee_hvac__v2,1558,close,email,lee_hvac__v2,"172.226.188.32, 172.71.146.178",Mozilla/5.0
 2026-08-24 18:30:45,open,1534_close_email_martin_general_contractor__v2,1534,close,email,martin_general_contractor__v2,"172.226.188.32, 172.71.151.192",Mozilla/5.0
+2026-08-24 18:30:46,open,1531_close_email_martin_general_contractor__v2,1531,close,email,martin_general_contractor__v2,"172.226.188.32, 104.23.248.113",Mozilla/5.0
