@@ -3474,3 +3474,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-24 21:43:48,open,2440_followup_1_lee_plumbing__v0,2440,followup,1,lee_plumbing__v0,"104.28.39.140, 172.71.146.127",Mozilla/5.0
 2026-08-24 21:44:17,open,1598_followup_2_lee_pool__v1,1598,followup,2,lee_pool__v1,"140.248.44.0, 172.71.151.192",Mozilla/5.0
 2026-08-24 21:57:18,open,1554_followup_2_lee_roofing__v1,1554,followup,2,lee_roofing__v1,"172.226.175.4, 172.71.166.150",Mozilla/5.0
+2026-08-24 22:06:30,open,674_close_email_osceola_roofing__v2,674,close,email,osceola_roofing__v2,"146.75.232.0, 172.71.22.183",Mozilla/5.0
