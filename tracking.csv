@@ -3408,3 +3408,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-23 23:20:55,open,531_close_email_pasco_hvac__v2,531,close,email,pasco_hvac__v2,"104.28.57.243, 108.162.210.220",Mozilla/5.0
 2026-08-24 00:21:01,open,1475_close_email_palm_beach_hvac__v2,1475,close,email,palm_beach_hvac__v2,"104.28.132.113, 172.71.146.127",Mozilla/5.0
 2026-08-24 05:40:01,open,2324_first_outreach_palm_beach_roofing__v2,2324,first,outreach,palm_beach_roofing__v2,"140.248.44.0, 172.71.151.30",Mozilla/5.0
+2026-08-24 11:46:33,open,2315_followup_1_palm_beach_roofing__v2,2315,followup,1,palm_beach_roofing__v2,"74.179.68.35, 162.158.41.131","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
