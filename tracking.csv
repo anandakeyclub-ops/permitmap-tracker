@@ -3440,3 +3440,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-24 16:54:55,open,2022_followup_2_pinellas_pool__v2,2022,followup,2,pinellas_pool__v2,"140.248.44.1, 172.68.12.77",Mozilla/5.0
 2026-08-24 17:14:09,open,25_first_outreach_palm_beach_plumbing__v0,25,first,outreach,palm_beach_plumbing__v0,"74.125.210.142, 172.71.146.126",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-08-24 17:14:24,open,25_first_outreach_palm_beach_plumbing__v0,25,first,outreach,palm_beach_plumbing__v0,"74.125.210.136, 172.71.146.126",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-24 17:17:40,open,2053_close_email_sarasota_roofing__v1,2053,close,email,sarasota_roofing__v1,"140.248.44.1, 104.23.248.20",Mozilla/5.0
