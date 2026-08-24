@@ -3444,3 +3444,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-24 17:27:26,open,2013_followup_2_pinellas_pool__v2,2013,followup,2,pinellas_pool__v2,"172.225.251.26, 172.71.22.183",Mozilla/5.0
 2026-08-24 17:55:24,open,2896_followup_1_miami_dade_plumbing__v0,2896,followup,1,miami_dade_plumbing__v0,"45.134.142.129, 104.22.86.103","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0 OneOutlook/1.2026.811.200"
 2026-08-24 17:55:24,open,2896_followup_1_miami_dade_plumbing__v0,2896,followup,1,miami_dade_plumbing__v0,"45.134.142.129, 172.71.151.191","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
+2026-08-24 18:30:45,open,1529_close_email_martin_general_contractor__v2,1529,close,email,martin_general_contractor__v2,"172.226.188.32, 172.71.146.127",Mozilla/5.0
+2026-08-24 18:30:45,open,1539_close_email_martin_general_contractor__v2,1539,close,email,martin_general_contractor__v2,"172.226.188.32, 172.71.151.192",Mozilla/5.0
+2026-08-24 18:30:45,open,1537_close_email_martin_general_contractor__v2,1537,close,email,martin_general_contractor__v2,"172.226.188.32, 172.71.146.126",Mozilla/5.0
+2026-08-24 18:30:45,open,1558_close_email_lee_hvac__v2,1558,close,email,lee_hvac__v2,"172.226.188.32, 172.71.146.178",Mozilla/5.0
+2026-08-24 18:30:45,open,1534_close_email_martin_general_contractor__v2,1534,close,email,martin_general_contractor__v2,"172.226.188.32, 172.71.151.192",Mozilla/5.0
