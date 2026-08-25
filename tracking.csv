@@ -3549,3 +3549,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-25 21:05:57,open,160_followup_1_palm_beach_pool__v0,160,followup,1,palm_beach_pool__v0,"24.238.3.54, 104.23.248.21","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
 2026-08-25 21:34:56,open,180_followup_1_palm_beach_general_contractor__v1,180,followup,1,palm_beach_general_contractor__v1,"146.75.234.48, 104.23.245.76",Mozilla/5.0
 2026-08-25 21:36:52,open,2462_followup_1_lee_general_contractor__v0,2462,followup,1,lee_general_contractor__v0,"140.248.44.1, 172.71.146.127",Mozilla/5.0
+2026-08-25 22:16:16,open,47_followup_1_palm_beach_general_contractor__v0,47,followup,1,palm_beach_general_contractor__v0,"104.28.57.247, 172.70.82.94",Mozilla/5.0
