@@ -3482,3 +3482,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-24 23:33:36,open,2408_followup_1_lee_roofing__v0,2408,followup,1,lee_roofing__v0,"140.248.44.0, 172.70.82.93",Mozilla/5.0
 2026-08-25 00:00:15,open,2889_followup_1_miami_dade_plumbing__v0,2889,followup,1,miami_dade_plumbing__v0,"69.147.86.248, 172.71.166.151",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-08-25 00:12:44,open,2422_followup_1_lee_hvac__v2,2422,followup,1,lee_hvac__v2,"140.248.44.0, 172.71.146.126",Mozilla/5.0
+2026-08-25 00:20:53,open,1564_close_email_lee_hvac__v2,1564,close,email,lee_hvac__v2,"104.28.57.243, 108.162.210.220",Mozilla/5.0
