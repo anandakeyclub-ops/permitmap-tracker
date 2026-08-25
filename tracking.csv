@@ -3510,3 +3510,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-25 11:53:10,open,692_close_email_osceola_hvac__v2,692,close,email,osceola_hvac__v2,"146.75.175.1, 172.71.146.126",Mozilla/5.0
 2026-08-25 12:27:29,open,36_followup_1_palm_beach_pool__v1,36,followup,1,palm_beach_pool__v1,"140.248.44.1, 172.70.82.94",Mozilla/5.0
 2026-08-25 12:27:36,open,36_followup_1_palm_beach_pool__v1,36,followup,1,palm_beach_pool__v1,"104.28.132.113, 172.71.146.127",Mozilla/5.0
+2026-08-25 14:20:19,open,1790_followup_2_manatee_hvac__v1,1790,followup,2,manatee_hvac__v1,"140.248.44.1, 172.71.146.200",Mozilla/5.0
