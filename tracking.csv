@@ -3492,3 +3492,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-25 02:18:23,open,2436_followup_1_lee_plumbing__v0,2436,followup,1,lee_plumbing__v0,"71.3.192.55, 172.68.12.90","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-08-25 02:46:26,open,2430_followup_1_lee_hvac__v0,2430,followup,1,lee_hvac__v0,"172.226.188.26, 172.71.151.192",Mozilla/5.0
 2026-08-25 04:12:27,open,2045_close_email_sarasota_roofing__v2,2045,close,email,sarasota_roofing__v2,"172.226.188.17, 172.71.146.126",Mozilla/5.0
+2026-08-25 05:27:44,open,2332_followup_1_palm_beach_hvac__v1,2332,followup,1,palm_beach_hvac__v1,"140.248.44.0, 172.71.146.126",Mozilla/5.0
