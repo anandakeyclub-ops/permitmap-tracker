@@ -3649,3 +3649,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 21:22:22,open,1628_close_email_pasco_roofing__v2,1628,close,email,pasco_roofing__v2,"140.248.44.1, 172.71.146.126",Mozilla/5.0
 2026-08-26 21:28:05,open,274_first_outreach_palm_beach_hvac__v2,274,first,outreach,palm_beach_hvac__v2,"140.248.44.0, 104.23.248.113",Mozilla/5.0
 2026-08-26 21:34:06,open,393_first_outreach_martin_pool__v2,393,first,outreach,martin_pool__v2,"74.125.210.142, 104.22.1.64",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-26 21:43:20,open,9_followup_1_palm_beach_roofing__v0,9,followup,1,palm_beach_roofing__v0,"50.77.123.34, 108.162.210.220",Mozilla/5.0
