@@ -3568,3 +3568,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 03:18:36,open,341_followup_2_palm_beach_general_contractor__v1,341,followup,2,palm_beach_general_contractor__v1,"172.226.196.25, 172.71.146.127",Mozilla/5.0
 2026-08-26 03:18:36,open,341_followup_1_palm_beach_general_contractor__v0,341,followup,1,palm_beach_general_contractor__v0,"172.226.196.25, 104.23.190.33",Mozilla/5.0
 2026-08-26 06:37:55,open,2405_followup_1_lee_roofing__v1,2405,followup,1,lee_roofing__v1,"54.39.250.85, 172.70.50.108","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
+2026-08-26 10:29:17,open,25_followup_1_palm_beach_plumbing__v0,25,followup,1,palm_beach_plumbing__v0,"74.125.210.128, 172.71.146.127",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-26 10:29:45,open,25_followup_1_palm_beach_plumbing__v0,25,followup,1,palm_beach_plumbing__v0,"74.125.210.141, 172.71.31.225",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-26 10:29:50,open,25_followup_1_palm_beach_plumbing__v0,25,followup,1,palm_beach_plumbing__v0,"74.125.210.135, 172.71.146.127",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-08-26 10:29:58,open,25_followup_1_palm_beach_plumbing__v0,25,followup,1,palm_beach_plumbing__v0,"74.125.210.134, 172.71.146.127",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
