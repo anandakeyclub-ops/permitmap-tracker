@@ -3642,3 +3642,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 21:07:24,click,1637_close_email_pasco_hvac__v2,1637,close,email,pasco_hvac__v2,"135.232.19.12, 104.22.104.91","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36"
 2026-08-26 21:07:51,open,1646_close_email_pasco_hvac__v1,1646,close,email,pasco_hvac__v1,"72.152.84.200, 104.23.201.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-26 21:08:10,click,1646_close_email_pasco_hvac__v1,1646,close,email,pasco_hvac__v1,"72.152.84.200, 104.23.201.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
+2026-08-26 21:22:22,open,2473_followup_1_lee_general_contractor__v0,2473,followup,1,lee_general_contractor__v0,"140.248.44.1, 172.71.146.127",Mozilla/5.0
+2026-08-26 21:22:22,open,2464_followup_1_lee_general_contractor__v0,2464,followup,1,lee_general_contractor__v0,"140.248.44.1, 172.71.146.127",Mozilla/5.0
+2026-08-26 21:22:22,open,2468_followup_1_lee_general_contractor__v0,2468,followup,1,lee_general_contractor__v0,"140.248.44.1, 172.71.146.126",Mozilla/5.0
+2026-08-26 21:22:22,open,1626_close_email_pasco_roofing__v2,1626,close,email,pasco_roofing__v2,"140.248.44.1, 172.71.146.126",Mozilla/5.0
+2026-08-26 21:22:22,open,1628_close_email_pasco_roofing__v2,1628,close,email,pasco_roofing__v2,"140.248.44.1, 172.71.146.126",Mozilla/5.0
