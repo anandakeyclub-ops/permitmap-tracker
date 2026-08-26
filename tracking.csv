@@ -3618,3 +3618,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 20:46:14,open,191_followup_1_martin_roofing__v0,191,followup,1,martin_roofing__v0,"140.248.44.1, 104.22.86.102",Mozilla/5.0
 2026-08-26 20:46:14,open,192_followup_1_martin_roofing__v2,192,followup,1,martin_roofing__v2,"140.248.44.1, 104.22.86.102",Mozilla/5.0
 2026-08-26 20:46:14,open,79_followup_1_martin_plumbing__v0,79,followup,1,martin_plumbing__v0,"140.248.44.1, 104.22.86.103",Mozilla/5.0
+2026-08-26 21:02:52,open,276_first_outreach_palm_beach_hvac__v2,276,first,outreach,palm_beach_hvac__v2,"66.249.90.225, 172.71.146.127","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-08-26 21:02:56,open,278_first_outreach_palm_beach_hvac__v2,278,first,outreach,palm_beach_hvac__v2,"66.249.90.225, 172.68.27.105","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
