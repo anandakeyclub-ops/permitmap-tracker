@@ -3560,3 +3560,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 01:05:59,open,2861_followup_1_miami_dade_roofing__v0,2861,followup,1,miami_dade_roofing__v0,"172.226.190.24, 172.71.146.194",Mozilla/5.0
 2026-08-26 01:05:59,open,2857_followup_1_volusia_general_contractor__v0,2857,followup,1,volusia_general_contractor__v0,"172.226.190.24, 172.71.146.127",Mozilla/5.0
 2026-08-26 01:06:01,open,2846_followup_1_volusia_general_contractor__v0,2846,followup,1,volusia_general_contractor__v0,"172.226.190.24, 104.22.86.37",Mozilla/5.0
+2026-08-26 02:46:25,open,1619_close_email_pasco_roofing__v2,1619,close,email,pasco_roofing__v2,"172.226.188.35, 172.71.156.192",Mozilla/5.0
