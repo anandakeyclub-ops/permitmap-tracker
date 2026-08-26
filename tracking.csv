@@ -3564,3 +3564,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 02:49:59,open,1564_close_email_lee_hvac__v2,1564,close,email,lee_hvac__v2,"104.28.132.113, 172.71.147.79",Mozilla/5.0
 2026-08-26 02:59:50,open,127_followup_1_palm_beach_hvac__v0,127,followup,1,palm_beach_hvac__v0,"140.248.44.0, 172.70.82.93",Mozilla/5.0
 2026-08-26 03:16:29,open,2013_followup_2_pinellas_pool__v2,2013,followup,2,pinellas_pool__v2,"172.226.190.0, 172.71.146.126",Mozilla/5.0
+2026-08-26 03:18:36,open,341_close_email_palm_beach_general_contractor__v2,341,close,email,palm_beach_general_contractor__v2,"172.226.196.25, 172.71.146.126",Mozilla/5.0
+2026-08-26 03:18:36,open,341_followup_2_palm_beach_general_contractor__v1,341,followup,2,palm_beach_general_contractor__v1,"172.226.196.25, 172.71.146.127",Mozilla/5.0
+2026-08-26 03:18:36,open,341_followup_1_palm_beach_general_contractor__v0,341,followup,1,palm_beach_general_contractor__v0,"172.226.196.25, 104.23.190.33",Mozilla/5.0
