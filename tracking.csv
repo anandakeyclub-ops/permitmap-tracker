@@ -3575,3 +3575,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 12:17:04,open,203_followup_1_martin_hvac__v0,203,followup,1,martin_hvac__v0,"74.125.210.141, 172.71.146.178",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-08-26 12:18:24,open,222_followup_1_martin_plumbing__v0,222,followup,1,martin_plumbing__v0,"135.232.20.12, 172.71.146.126","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-26 13:53:32,open,90_followup_1_martin_pool__v0,90,followup,1,martin_pool__v0,"104.28.57.242, 108.162.210.220",Mozilla/5.0
+2026-08-26 14:13:42,open,2048_close_email_sarasota_roofing__v2,2048,close,email,sarasota_roofing__v2,"104.28.57.249, 172.71.146.195",Mozilla/5.0
+2026-08-26 14:13:42,open,2018_followup_2_pinellas_pool__v1,2018,followup,2,pinellas_pool__v1,"104.28.57.249, 172.71.146.195",Mozilla/5.0
+2026-08-26 14:13:42,open,2016_followup_2_pinellas_pool__v2,2016,followup,2,pinellas_pool__v2,"104.28.57.249, 172.71.146.195",Mozilla/5.0
+2026-08-26 14:13:42,open,2043_close_email_sarasota_roofing__v2,2043,close,email,sarasota_roofing__v2,"104.28.57.249, 172.71.146.195",Mozilla/5.0
+2026-08-26 14:13:42,open,2014_followup_2_pinellas_pool__v2,2014,followup,2,pinellas_pool__v2,"104.28.57.249, 172.71.146.194",Mozilla/5.0
