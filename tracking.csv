@@ -3585,3 +3585,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 14:36:39,open,683_close_email_osceola_hvac__v2,683,close,email,osceola_hvac__v2,"140.248.44.0, 172.71.151.196",Mozilla/5.0
 2026-08-26 14:36:39,open,681_close_email_osceola_roofing__v2,681,close,email,osceola_roofing__v2,"140.248.44.0, 172.71.146.194",Mozilla/5.0
 2026-08-26 14:36:39,open,1652_followup_2_pasco_plumbing__v2,1652,followup,2,pasco_plumbing__v2,"140.248.44.0, 172.71.146.195",Mozilla/5.0
+2026-08-26 14:36:43,open,481_close_email_lee_solar__v2,481,close,email,lee_solar__v2,"140.248.44.0, 172.71.156.192",Mozilla/5.0
+2026-08-26 14:36:43,open,486_close_email_lee_solar__v1,486,close,email,lee_solar__v1,"140.248.44.0, 172.71.156.192",Mozilla/5.0
