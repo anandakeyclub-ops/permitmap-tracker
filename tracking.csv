@@ -3580,3 +3580,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-26 14:13:42,open,2016_followup_2_pinellas_pool__v2,2016,followup,2,pinellas_pool__v2,"104.28.57.249, 172.71.146.195",Mozilla/5.0
 2026-08-26 14:13:42,open,2043_close_email_sarasota_roofing__v2,2043,close,email,sarasota_roofing__v2,"104.28.57.249, 172.71.146.195",Mozilla/5.0
 2026-08-26 14:13:42,open,2014_followup_2_pinellas_pool__v2,2014,followup,2,pinellas_pool__v2,"104.28.57.249, 172.71.146.194",Mozilla/5.0
+2026-08-26 14:36:39,open,676_close_email_osceola_roofing__v2,676,close,email,osceola_roofing__v2,"140.248.44.0, 172.71.146.195",Mozilla/5.0
+2026-08-26 14:36:39,open,685_close_email_osceola_hvac__v2,685,close,email,osceola_hvac__v2,"140.248.44.0, 172.71.146.194",Mozilla/5.0
+2026-08-26 14:36:39,open,683_close_email_osceola_hvac__v2,683,close,email,osceola_hvac__v2,"140.248.44.0, 172.71.151.196",Mozilla/5.0
+2026-08-26 14:36:39,open,681_close_email_osceola_roofing__v2,681,close,email,osceola_roofing__v2,"140.248.44.0, 172.71.146.194",Mozilla/5.0
+2026-08-26 14:36:39,open,1652_followup_2_pasco_plumbing__v2,1652,followup,2,pasco_plumbing__v2,"140.248.44.0, 172.71.146.195",Mozilla/5.0
