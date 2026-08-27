@@ -3664,3 +3664,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-27 14:01:26,open,2462_followup_1_lee_general_contractor__v0,2462,followup,1,lee_general_contractor__v0,"172.226.188.16, 172.68.12.90",Mozilla/5.0
 2026-08-27 16:02:15,open,2399_followup_1_martin_general_contractor__v0,2399,followup,1,martin_general_contractor__v0,"140.248.30.1, 172.71.146.126",Mozilla/5.0
 2026-08-27 20:59:14,open,406_first_outreach_martin_general_contractor__v2,406,first,outreach,martin_general_contractor__v2,"72.153.153.18, 172.68.175.106","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-08-27 20:59:27,click,406_first_outreach_martin_general_contractor__v2,406,first,outreach,martin_general_contractor__v2,"72.153.153.18, 172.69.22.17","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
