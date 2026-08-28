@@ -3693,3 +3693,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-28 11:44:03,open,1577_close_email_lee_plumbing__v2,1577,close,email,lee_plumbing__v2,"74.179.70.50, 104.22.72.63","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-28 12:06:22,open,1554_close_email_lee_roofing__v2,1554,close,email,lee_roofing__v2,"104.28.103.14, 172.71.151.192",Mozilla/5.0
 2026-08-28 12:19:53,open,1554_close_email_lee_roofing__v2,1554,close,email,lee_roofing__v2,"104.28.103.14, 104.22.86.37",Mozilla/5.0
+2026-08-28 12:44:42,open,1796_followup_1_manatee_hvac__v0,1796,followup,1,manatee_hvac__v0,"47.200.222.41, 172.68.12.91",Mozilla/5.0
