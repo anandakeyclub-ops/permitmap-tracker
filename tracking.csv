@@ -3709,3 +3709,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-28 19:00:29,open,2324_first_outreach_palm_beach_roofing__v2,2324,first,outreach,palm_beach_roofing__v2,"104.28.132.113, 104.22.86.103",Mozilla/5.0
 2026-08-28 20:09:54,open,104_followup_1_martin_general_contractor__v2,104,followup,1,martin_general_contractor__v2,"140.248.44.0, 172.70.82.94",Mozilla/5.0
 2026-08-28 20:36:27,open,375_first_outreach_martin_hvac__v1,375,first,outreach,martin_hvac__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-08-28 21:44:51,open,1789_followup_1_manatee_hvac__v0,1789,followup,1,manatee_hvac__v0,"140.248.44.1, 172.71.151.191",Mozilla/5.0
+2026-08-28 21:44:51,open,2495_followup_1_pasco_general_contractor__v2,2495,followup,1,pasco_general_contractor__v2,"140.248.44.1, 172.71.151.192",Mozilla/5.0
+2026-08-28 21:44:51,open,1671_followup_2_pasco_general_contractor__v1,1671,followup,2,pasco_general_contractor__v1,"140.248.44.1, 172.71.151.192",Mozilla/5.0
+2026-08-28 21:44:51,open,2497_followup_1_pasco_general_contractor__v2,2497,followup,1,pasco_general_contractor__v2,"140.248.44.1, 172.71.151.192",Mozilla/5.0
+2026-08-28 21:44:51,open,1676_followup_2_pasco_general_contractor__v1,1676,followup,2,pasco_general_contractor__v1,"140.248.44.1, 172.71.151.192",Mozilla/5.0
