@@ -3705,3 +3705,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-28 17:18:47,open,255_followup_1_martin_general_contractor__v0,255,followup,1,martin_general_contractor__v0,"66.249.90.225, 162.159.106.187","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-28 17:18:55,open,413_first_outreach_martin_general_contractor__v2,413,first,outreach,martin_general_contractor__v2,"66.249.90.225, 162.159.106.187","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-08-28 17:29:35,open,100_followup_1_martin_general_contractor__v2,100,followup,1,martin_general_contractor__v2,"172.226.188.62, 172.71.151.195",Mozilla/5.0
+2026-08-28 17:44:13,open,1786_followup_1_manatee_hvac__v0,1786,followup,1,manatee_hvac__v0,"104.28.50.162, 172.68.12.77",Mozilla/5.0
