@@ -3694,3 +3694,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-28 12:06:22,open,1554_close_email_lee_roofing__v2,1554,close,email,lee_roofing__v2,"104.28.103.14, 172.71.151.192",Mozilla/5.0
 2026-08-28 12:19:53,open,1554_close_email_lee_roofing__v2,1554,close,email,lee_roofing__v2,"104.28.103.14, 104.22.86.37",Mozilla/5.0
 2026-08-28 12:44:42,open,1796_followup_1_manatee_hvac__v0,1796,followup,1,manatee_hvac__v0,"47.200.222.41, 172.68.12.91",Mozilla/5.0
+2026-08-28 12:53:32,open,2336_followup_1_palm_beach_hvac__v0,2336,followup,1,palm_beach_hvac__v0,"140.248.44.0, 172.68.12.90",Mozilla/5.0
