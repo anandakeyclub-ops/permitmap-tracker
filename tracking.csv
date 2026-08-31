@@ -3813,3 +3813,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-31 21:06:52,open,366_close_email_martin_hvac__v1,366,close,email,martin_hvac__v1,"104.28.57.249, 172.71.151.195",Mozilla/5.0
 2026-08-31 21:10:42,open,424_first_outreach_lee_roofing__v2,424,first,outreach,lee_roofing__v2,"72.153.153.77, 172.71.154.132","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-31 21:11:13,click,424_first_outreach_lee_roofing__v2,424,first,outreach,lee_roofing__v2,"72.153.153.77, 172.71.154.132","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
+2026-08-31 21:11:16,open,2405_followup_2_lee_roofing__v1,2405,followup,2,lee_roofing__v1,"72.153.231.16, 172.69.22.17","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-08-31 21:11:58,click,2405_followup_2_lee_roofing__v1,2405,followup,2,lee_roofing__v1,"72.153.231.16, 172.69.134.82","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
