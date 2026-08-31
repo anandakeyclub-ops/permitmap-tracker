@@ -3766,3 +3766,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-30 18:01:24,open,2422_first_outreach_lee_hvac__v2,2422,first,outreach,lee_hvac__v2,"172.226.188.35, 108.162.210.220",Mozilla/5.0
 2026-08-31 01:58:02,open,2013_followup_1_pinellas_pool__v2,2013,followup,1,pinellas_pool__v2,"140.248.44.0, 172.68.12.91",Mozilla/5.0
 2026-08-31 02:27:27,open,2013_followup_2_pinellas_pool__v2,2013,followup,2,pinellas_pool__v2,"140.248.44.0, 104.22.86.37",Mozilla/5.0
+2026-08-31 12:24:03,open,2364_followup_2_palm_beach_pool__v1,2364,followup,2,palm_beach_pool__v1,"3.145.14.100, 172.71.28.135","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+2026-08-31 12:24:16,click,2364_followup_2_palm_beach_pool__v1,2364,followup,2,palm_beach_pool__v1,"72.152.84.184, 104.23.201.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
