@@ -3810,3 +3810,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-31 20:31:16,open,2401_followup_2_martin_general_contractor__v1,2401,followup,2,martin_general_contractor__v1,"172.226.190.47, 104.22.86.102",Mozilla/5.0
 2026-08-31 21:02:27,open,23_followup_2_palm_beach_plumbing__v1,23,followup,2,palm_beach_plumbing__v1,"74.179.68.27, 162.158.41.64","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-08-31 21:02:51,click,23_followup_2_palm_beach_plumbing__v1,23,followup,2,palm_beach_plumbing__v1,"74.179.68.27, 108.162.246.51","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2026-08-31 21:06:52,open,366_close_email_martin_hvac__v1,366,close,email,martin_hvac__v1,"104.28.57.249, 172.71.151.195",Mozilla/5.0
