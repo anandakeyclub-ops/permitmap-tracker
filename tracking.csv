@@ -3843,3 +3843,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-31 21:27:07,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"172.226.188.58, 172.68.12.91",Mozilla/5.0
 2026-08-31 21:28:35,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"172.226.188.35, 104.22.86.37",Mozilla/5.0
 2026-08-31 21:48:50,open,566_first_outreach_pasco_pool__v2,566,first,outreach,pasco_pool__v2,"140.248.44.1, 172.70.255.69",Mozilla/5.0
+2026-08-31 22:33:14,open,2323_followup_2_palm_beach_roofing__v2,2323,followup,2,palm_beach_roofing__v2,"140.248.44.0, 104.22.86.37",Mozilla/5.0
