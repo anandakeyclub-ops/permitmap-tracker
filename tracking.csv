@@ -3880,3 +3880,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-01 16:51:38,open,81_followup_2_martin_plumbing__v1,81,followup,2,martin_plumbing__v1,"135.232.20.49, 172.71.191.117","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-01 16:51:57,click,81_followup_2_martin_plumbing__v1,81,followup,2,martin_plumbing__v1,"135.232.20.49, 172.71.151.191","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
 2026-09-01 17:21:47,open,66_followup_2_martin_hvac__v1,66,followup,2,martin_hvac__v1,"140.248.4.1, 104.22.100.135",Mozilla/5.0
+2026-09-01 17:37:54,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"146.75.236.1, 172.70.230.150",Mozilla/5.0
