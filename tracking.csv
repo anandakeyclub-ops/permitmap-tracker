@@ -3850,3 +3850,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-08-31 23:54:09,open,2896_followup_2_miami_dade_plumbing__v1,2896,followup,2,miami_dade_plumbing__v1,"104.28.57.243, 108.162.210.220",Mozilla/5.0
 2026-09-01 00:16:57,open,47_followup_2_palm_beach_general_contractor__v1,47,followup,2,palm_beach_general_contractor__v1,"172.226.190.57, 172.71.151.196",Mozilla/5.0
 2026-09-01 00:55:26,open,127_followup_2_palm_beach_hvac__v1,127,followup,2,palm_beach_hvac__v1,"104.28.57.249, 172.68.12.90",Mozilla/5.0
+2026-09-01 01:43:46,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"140.248.44.0, 172.70.255.69",Mozilla/5.0
