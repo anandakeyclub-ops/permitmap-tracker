@@ -3895,3 +3895,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-01 21:04:23,open,356_followup_1_martin_roofing__v0,356,followup,1,martin_roofing__v0,"74.179.70.60, 104.22.72.63","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-01 21:04:35,open,400_followup_1_martin_pool__v0,400,followup,1,martin_pool__v0,"34.213.226.119, 172.68.175.20","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
 2026-09-01 21:04:35,open,400_followup_1_martin_pool__v0,400,followup,1,martin_pool__v0,"72.153.230.151, 172.68.175.20","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-01 21:10:35,open,485_close_email_lee_solar__v2,485,close,email,lee_solar__v2,"140.248.44.1, 172.70.255.74",Mozilla/5.0
+2026-09-01 21:11:03,open,392_followup_1_martin_pool__v0,392,followup,1,martin_pool__v0,"140.248.44.0, 172.71.151.196",Mozilla/5.0
