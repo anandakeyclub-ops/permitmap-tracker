@@ -3888,3 +3888,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-01 19:39:52,open,2882_followup_2_miami_dade_hvac__v2,2882,followup,2,miami_dade_hvac__v2,"172.226.188.55, 172.71.151.196",Mozilla/5.0
 2026-09-01 20:14:48,open,202_followup_2_martin_hvac__v1,202,followup,2,martin_hvac__v1,"140.248.44.1, 104.23.248.21",Mozilla/5.0
 2026-09-01 20:15:12,open,73_followup_2_martin_hvac__v1,73,followup,2,martin_hvac__v1,"172.226.190.15, 104.23.248.21",Mozilla/5.0
+2026-09-01 21:03:04,open,222_followup_2_martin_plumbing__v2,222,followup,2,martin_plumbing__v2,"72.152.84.228, 104.23.201.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-01 21:03:26,open,356_followup_1_martin_roofing__v0,356,followup,1,martin_roofing__v0,"72.153.231.19, 172.68.175.93","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-01 21:03:38,click,222_followup_2_martin_plumbing__v2,222,followup,2,martin_plumbing__v2,"72.152.84.228, 104.23.201.88","Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.0 Safari/537.36"
