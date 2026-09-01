@@ -3870,3 +3870,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-01 12:32:38,open,2369_followup_2_palm_beach_pool__v1,2369,followup,2,palm_beach_pool__v1,"172.226.190.11, 104.22.86.125",Mozilla/5.0
 2026-09-01 12:32:38,open,2923_followup_2_miami_dade_general_contractor__v1,2923,followup,2,miami_dade_general_contractor__v1,"172.226.190.11, 104.22.86.125",Mozilla/5.0
 2026-09-01 12:32:38,open,2376_followup_2_palm_beach_general_contractor__v2,2376,followup,2,palm_beach_general_contractor__v2,"172.226.190.11, 104.22.86.124",Mozilla/5.0
+2026-09-01 12:52:55,open,2918_followup_2_miami_dade_general_contractor__v1,2918,followup,2,miami_dade_general_contractor__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
