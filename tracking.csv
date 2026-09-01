@@ -3871,3 +3871,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-01 12:32:38,open,2923_followup_2_miami_dade_general_contractor__v1,2923,followup,2,miami_dade_general_contractor__v1,"172.226.190.11, 104.22.86.125",Mozilla/5.0
 2026-09-01 12:32:38,open,2376_followup_2_palm_beach_general_contractor__v2,2376,followup,2,palm_beach_general_contractor__v2,"172.226.190.11, 104.22.86.124",Mozilla/5.0
 2026-09-01 12:52:55,open,2918_followup_2_miami_dade_general_contractor__v1,2918,followup,2,miami_dade_general_contractor__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
+2026-09-01 13:31:38,open,2878_followup_2_miami_dade_hvac__v2,2878,followup,2,miami_dade_hvac__v2,"140.248.44.0, 104.23.248.112",Mozilla/5.0
+2026-09-01 13:32:21,open,257_followup_1_palm_beach_roofing__v2,257,followup,1,palm_beach_roofing__v2,"172.226.188.5, 104.23.248.113",Mozilla/5.0
