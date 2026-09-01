@@ -3852,3 +3852,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-01 00:55:26,open,127_followup_2_palm_beach_hvac__v1,127,followup,2,palm_beach_hvac__v1,"104.28.57.249, 172.68.12.90",Mozilla/5.0
 2026-09-01 01:43:46,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"140.248.44.0, 172.70.255.69",Mozilla/5.0
 2026-09-01 02:26:20,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"172.226.190.20, 172.70.255.69",Mozilla/5.0
+2026-09-01 04:44:59,open,2422_followup_2_lee_hvac__v1,2422,followup,2,lee_hvac__v1,"172.226.190.24, 172.71.151.196",Mozilla/5.0
+2026-09-01 04:45:16,open,141_followup_2_palm_beach_plumbing__v1,141,followup,2,palm_beach_plumbing__v1,"140.248.20.0, 172.68.22.25",Mozilla/5.0
