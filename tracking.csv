@@ -3876,3 +3876,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-01 14:46:57,open,114_followup_2_palm_beach_roofing__v2,114,followup,2,palm_beach_roofing__v2,"172.225.24.59, 172.71.151.196",Mozilla/5.0
 2026-09-01 15:21:37,open,2900_followup_2_miami_dade_plumbing__v1,2900,followup,2,miami_dade_plumbing__v1,"140.248.44.0, 108.162.210.231",Mozilla/5.0
 2026-09-01 15:33:35,open,1652_close_email_pasco_plumbing__v2,1652,close,email,pasco_plumbing__v2,"140.248.44.1, 172.71.151.195",Mozilla/5.0
+2026-09-01 16:40:47,open,269_followup_1_palm_beach_roofing__v2,269,followup,1,palm_beach_roofing__v2,"74.179.68.15, 162.158.41.200","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
