@@ -3882,3 +3882,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-01 17:21:47,open,66_followup_2_martin_hvac__v1,66,followup,2,martin_hvac__v1,"140.248.4.1, 104.22.100.135",Mozilla/5.0
 2026-09-01 17:37:54,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"146.75.236.1, 172.70.230.150",Mozilla/5.0
 2026-09-01 18:00:27,open,2428_followup_2_lee_hvac__v1,2428,followup,2,lee_hvac__v1,"104.28.57.243, 108.162.210.231",Mozilla/5.0
+2026-09-01 18:15:54,open,319_followup_1_palm_beach_solar__v2,319,followup,1,palm_beach_solar__v2,"172.226.188.58, 172.71.151.195",Mozilla/5.0
