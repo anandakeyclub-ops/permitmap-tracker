@@ -3923,3 +3923,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-02 13:55:34,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"69.171.234.11, 104.22.72.63",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-09-02 13:55:47,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"173.252.97.4, 172.71.146.126",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-09-02 13:55:54,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"173.252.95.73, 104.22.148.13",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+2026-09-02 13:59:49,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"173.252.95.115, 172.71.150.17","Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
