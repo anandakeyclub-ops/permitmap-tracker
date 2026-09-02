@@ -3920,3 +3920,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-02 13:31:27,open,2416_followup_2_lee_roofing__v1,2416,followup,2,lee_roofing__v1,"172.226.190.6, 172.71.151.198",Mozilla/5.0
 2026-09-02 13:54:46,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"173.252.95.29, 172.71.150.17",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-09-02 13:54:49,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"173.252.69.38, 104.22.100.183","Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
+2026-09-02 13:55:34,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"69.171.234.11, 104.22.72.63",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
