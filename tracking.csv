@@ -3938,3 +3938,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-02 14:10:07,open,160_followup_2_palm_beach_pool__v1,160,followup,2,palm_beach_pool__v1,"104.28.57.239, 172.71.151.30",Mozilla/5.0
 2026-09-02 14:10:07,open,155_followup_2_palm_beach_pool__v1,155,followup,2,palm_beach_pool__v1,"104.28.57.239, 172.71.151.182",Mozilla/5.0
 2026-09-02 14:25:15,open,429_first_outreach_lee_roofing__v2,429,first,outreach,lee_roofing__v2,"104.28.57.248, 172.71.151.192",Mozilla/5.0
+2026-09-02 16:39:19,open,2315_close_email_palm_beach_roofing__v2,2315,close,email,palm_beach_roofing__v2,"72.152.84.254, 172.71.151.196","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-02 16:39:36,open,2319_close_email_palm_beach_roofing__v1,2319,close,email,palm_beach_roofing__v1,"72.152.84.9, 104.23.201.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-02 16:40:04,open,2324_close_email_palm_beach_roofing__v2,2324,close,email,palm_beach_roofing__v2,"72.153.153.26, 172.68.175.106","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-02 16:40:05,click,2315_close_email_palm_beach_roofing__v2,2315,close,email,palm_beach_roofing__v2,"72.152.84.254, 104.23.201.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36"
