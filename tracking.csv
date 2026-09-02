@@ -3924,3 +3924,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-02 13:55:47,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"173.252.97.4, 172.71.146.126",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-09-02 13:55:54,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"173.252.95.73, 104.22.148.13",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-09-02 13:59:49,click,reel_v1_maprevealreel_3f8ff2c9621ae5de,reel,v1,maprevealreel,3f8ff2c9621ae5de,"173.252.95.115, 172.71.150.17","Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
+2026-09-02 14:10:02,open,193_followup_2_martin_roofing__v2,193,followup,2,martin_roofing__v2,"104.28.57.239, 172.71.150.17",Mozilla/5.0
+2026-09-02 14:10:02,open,232_followup_2_martin_pool__v1,232,followup,2,martin_pool__v1,"104.28.57.239, 172.71.151.192",Mozilla/5.0
+2026-09-02 14:10:02,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"104.28.57.239, 172.71.150.17",Mozilla/5.0
+2026-09-02 14:10:02,open,194_followup_2_martin_roofing__v1,194,followup,2,martin_roofing__v1,"104.28.57.239, 172.71.150.17",Mozilla/5.0
+2026-09-02 14:10:02,open,238_followup_2_martin_pool__v2,238,followup,2,martin_pool__v2,"104.28.57.239, 172.71.150.16",Mozilla/5.0
+2026-09-02 14:10:02,open,227_followup_2_martin_pool__v1,227,followup,2,martin_pool__v1,"104.28.57.239, 172.71.151.192",Mozilla/5.0
