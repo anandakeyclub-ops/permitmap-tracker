@@ -3946,3 +3946,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-02 16:40:42,open,101_followup_2_martin_general_contractor__v0,101,followup,2,martin_general_contractor__v0,"74.179.68.93, 162.159.120.139","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-02 16:40:49,click,2324_close_email_palm_beach_roofing__v2,2324,close,email,palm_beach_roofing__v2,"72.153.153.26, 104.22.18.15","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
 2026-09-02 16:41:28,click,101_followup_2_martin_general_contractor__v0,101,followup,2,martin_general_contractor__v0,"74.179.68.93, 172.68.22.27","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
+2026-09-02 17:03:39,open,100_followup_2_martin_general_contractor__v2,100,followup,2,martin_general_contractor__v2,"172.226.188.22, 172.71.146.210",Mozilla/5.0
+2026-09-02 17:03:51,open,2323_close_email_palm_beach_roofing__v2,2323,close,email,palm_beach_roofing__v2,"172.226.190.25, 172.71.150.17",Mozilla/5.0
