@@ -3906,3 +3906,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-02 03:17:34,open,213_followup_2_martin_plumbing__v2,213,followup,2,martin_plumbing__v2,"172.226.188.59, 172.71.151.195",Mozilla/5.0
 2026-09-02 04:07:23,open,30_followup_2_palm_beach_pool__v2,30,followup,2,palm_beach_pool__v2,"172.226.188.46, 172.71.151.192",Mozilla/5.0
 2026-09-02 06:01:00,open,684_followup_1_osceola_hvac__v0,684,followup,1,osceola_hvac__v0,"140.248.44.1, 172.71.151.191",Mozilla/5.0
+2026-09-02 06:20:44,open,684_close_email_osceola_hvac__v2,684,close,email,osceola_hvac__v2,"140.248.44.0, 172.68.12.91",Mozilla/5.0
