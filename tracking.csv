@@ -3930,3 +3930,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-02 14:10:02,open,194_followup_2_martin_roofing__v1,194,followup,2,martin_roofing__v1,"104.28.57.239, 172.71.150.17",Mozilla/5.0
 2026-09-02 14:10:02,open,238_followup_2_martin_pool__v2,238,followup,2,martin_pool__v2,"104.28.57.239, 172.71.150.16",Mozilla/5.0
 2026-09-02 14:10:02,open,227_followup_2_martin_pool__v1,227,followup,2,martin_pool__v1,"104.28.57.239, 172.71.151.192",Mozilla/5.0
+2026-09-02 14:10:06,open,2875_followup_2_miami_dade_hvac__v1,2875,followup,2,miami_dade_hvac__v1,"104.28.57.239, 108.162.210.231",Mozilla/5.0
+2026-09-02 14:10:06,open,265_followup_1_palm_beach_roofing__v2,265,followup,1,palm_beach_roofing__v2,"104.28.57.239, 108.162.210.231",Mozilla/5.0
+2026-09-02 14:10:06,open,2873_followup_2_miami_dade_hvac__v1,2873,followup,2,miami_dade_hvac__v1,"104.28.57.239, 108.162.210.231",Mozilla/5.0
+2026-09-02 14:10:06,open,263_followup_1_palm_beach_roofing__v2,263,followup,1,palm_beach_roofing__v2,"104.28.57.239, 172.71.151.196",Mozilla/5.0
+2026-09-02 14:10:06,open,2885_followup_2_miami_dade_hvac__v1,2885,followup,2,miami_dade_hvac__v1,"104.28.57.239, 172.71.151.182",Mozilla/5.0
