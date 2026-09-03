@@ -4016,3 +4016,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-03 21:04:42,click,2436_followup_2_lee_plumbing__v1,2436,followup,2,lee_plumbing__v1,"54.71.6.36, 104.23.160.17",Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
 2026-09-03 21:23:55,open,1598_close_email_lee_pool__v2,1598,close,email,lee_pool__v2,"140.248.44.0, 108.162.210.231",Mozilla/5.0
 2026-09-03 21:29:05,open,2440_followup_2_lee_plumbing__v1,2440,followup,2,lee_plumbing__v1,"104.28.132.113, 172.71.151.186",Mozilla/5.0
+2026-09-03 23:16:28,open,2436_followup_2_lee_plumbing__v1,2436,followup,2,lee_plumbing__v1,"140.248.44.1, 104.22.86.37",Mozilla/5.0
