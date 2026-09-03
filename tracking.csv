@@ -3952,3 +3952,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-02 23:10:33,open,2898_followup_2_miami_dade_plumbing__v1,2898,followup,2,miami_dade_plumbing__v1,"140.248.44.0, 172.71.151.192",Mozilla/5.0
 2026-09-03 00:51:28,open,2332_close_email_palm_beach_hvac__v0,2332,close,email,palm_beach_hvac__v0,"140.248.44.0, 172.71.151.195",Mozilla/5.0
 2026-09-03 01:18:11,open,574_first_outreach_pasco_solar__v2,574,first,outreach,pasco_solar__v2,"140.248.44.0, 172.71.146.126",Mozilla/5.0
+2026-09-03 01:56:31,open,199_followup_2_martin_hvac__v1,199,followup,2,martin_hvac__v1,"104.28.132.113, 172.71.151.195",Mozilla/5.0
+2026-09-03 01:56:31,open,76_followup_2_martin_plumbing__v1,76,followup,2,martin_plumbing__v1,"104.28.132.113, 172.71.151.195",Mozilla/5.0
+2026-09-03 01:56:31,open,69_followup_2_martin_hvac__v1,69,followup,2,martin_hvac__v1,"104.28.132.113, 172.71.151.196",Mozilla/5.0
+2026-09-03 01:56:31,open,200_followup_2_martin_hvac__v1,200,followup,2,martin_hvac__v1,"104.28.132.113, 172.71.151.196",Mozilla/5.0
+2026-09-03 01:56:31,open,326_followup_1_palm_beach_solar__v2,326,followup,1,palm_beach_solar__v2,"104.28.132.113, 172.71.151.195",Mozilla/5.0
