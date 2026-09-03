@@ -3985,3 +3985,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-03 12:42:46,open,302_followup_1_palm_beach_pool__v0,302,followup,1,palm_beach_pool__v0,"172.226.188.53, 172.71.146.127",Mozilla/5.0
 2026-09-03 12:42:46,open,307_followup_1_palm_beach_pool__v0,307,followup,1,palm_beach_pool__v0,"172.226.188.53, 172.71.151.197",Mozilla/5.0
 2026-09-03 12:42:46,open,310_followup_1_palm_beach_pool__v0,310,followup,1,palm_beach_pool__v0,"172.226.188.53, 172.71.146.127",Mozilla/5.0
+2026-09-03 12:42:47,open,2314_close_email_palm_beach_roofing__v1,2314,close,email,palm_beach_roofing__v1,"172.226.188.53, 172.68.12.91",Mozilla/5.0
