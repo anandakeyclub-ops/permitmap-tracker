@@ -3980,3 +3980,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-03 11:54:03,open,246_followup_2_martin_general_contractor__v2,246,followup,2,martin_general_contractor__v2,"74.179.68.74, 104.22.72.63","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-03 11:54:04,open,246_followup_2_martin_general_contractor__v2,246,followup,2,martin_general_contractor__v2,"74.179.70.74, 162.159.120.138","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-03 11:54:16,click,246_followup_2_martin_general_contractor__v2,246,followup,2,martin_general_contractor__v2,"74.179.68.59, 104.22.72.63","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36"
+2026-09-03 12:42:46,open,297_followup_1_palm_beach_plumbing__v0,297,followup,1,palm_beach_plumbing__v0,"172.226.188.53, 172.71.151.197",Mozilla/5.0
+2026-09-03 12:42:46,open,298_followup_1_palm_beach_plumbing__v2,298,followup,1,palm_beach_plumbing__v2,"172.226.188.53, 172.71.151.198",Mozilla/5.0
+2026-09-03 12:42:46,open,302_followup_1_palm_beach_pool__v0,302,followup,1,palm_beach_pool__v0,"172.226.188.53, 172.71.146.127",Mozilla/5.0
+2026-09-03 12:42:46,open,307_followup_1_palm_beach_pool__v0,307,followup,1,palm_beach_pool__v0,"172.226.188.53, 172.71.151.197",Mozilla/5.0
+2026-09-03 12:42:46,open,310_followup_1_palm_beach_pool__v0,310,followup,1,palm_beach_pool__v0,"172.226.188.53, 172.71.146.127",Mozilla/5.0
