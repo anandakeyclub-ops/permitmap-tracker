@@ -4009,3 +4009,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-03 19:27:11,open,375_followup_1_martin_hvac__v0,375,followup,1,martin_hvac__v0,"140.248.44.1, 104.22.86.102",Mozilla/5.0
 2026-09-03 20:58:06,open,457_first_outreach_lee_plumbing__v2,457,first,outreach,lee_plumbing__v2,"72.153.230.151, 172.68.175.19","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-03 20:58:19,click,457_first_outreach_lee_plumbing__v2,457,first,outreach,lee_plumbing__v2,"72.153.230.151, 104.22.20.54","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
+2026-09-03 21:00:26,open,2436_followup_2_lee_plumbing__v1,2436,followup,2,lee_plumbing__v1,"72.153.153.71, 162.158.167.157","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
