@@ -4038,3 +4038,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-04 16:48:57,click,107_close_email_palm_beach_roofing__v2,107,close,email,palm_beach_roofing__v2,"72.152.84.184, 172.71.151.196","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
 2026-09-04 17:05:41,open,1466_first_outreach_palm_beach_roofing__v2,1466,first,outreach,palm_beach_roofing__v2,"140.248.44.0, 172.71.151.196",Mozilla/5.0
 2026-09-04 17:18:10,open,90_close_email_martin_pool__v2,90,close,email,martin_pool__v2,"140.248.4.1, 104.23.209.77",Mozilla/5.0
+2026-09-04 21:57:19,open,86_close_email_martin_pool__v2,86,close,email,martin_pool__v2,"172.226.188.56, 172.71.151.196",Mozilla/5.0
+2026-09-04 21:57:19,open,63_close_email_martin_roofing__v0,63,close,email,martin_roofing__v0,"172.226.188.56, 172.71.151.195",Mozilla/5.0
+2026-09-04 21:57:19,open,85_close_email_martin_pool__v2,85,close,email,martin_pool__v2,"172.226.188.56, 172.71.151.196",Mozilla/5.0
+2026-09-04 21:57:19,open,59_close_email_martin_roofing__v2,59,close,email,martin_roofing__v2,"172.226.188.56, 172.71.151.195",Mozilla/5.0
+2026-09-04 21:57:19,open,185_close_email_martin_roofing__v2,185,close,email,martin_roofing__v2,"172.226.188.56, 172.71.151.196",Mozilla/5.0
