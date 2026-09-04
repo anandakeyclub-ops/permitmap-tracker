@@ -4025,3 +4025,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-04 00:25:17,open,1589_close_email_lee_pool__v2,1589,close,email,lee_pool__v2,"172.226.188.54, 172.70.255.99",Mozilla/5.0
 2026-09-04 02:10:17,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"140.248.4.0, 172.71.195.113",Mozilla/5.0
 2026-09-04 10:55:31,click,2436_followup_2_lee_plumbing__v1,2436,followup,2,lee_plumbing__v1,"54.244.195.39, 104.23.160.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36"
+2026-09-04 11:39:54,open,23_close_email_palm_beach_plumbing__v0,23,close,email,palm_beach_plumbing__v0,"74.179.68.35, 162.158.41.131","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-04 11:40:08,click,23_close_email_palm_beach_plumbing__v0,23,close,email,palm_beach_plumbing__v0,"74.179.68.35, 172.71.151.192","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
