@@ -4053,3 +4053,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-04 21:57:19,open,43_close_email_palm_beach_solar__v2,43,close,email,palm_beach_solar__v2,"172.226.188.56, 104.22.86.37",Mozilla/5.0
 2026-09-04 21:57:19,open,114_close_email_palm_beach_roofing__v2,114,close,email,palm_beach_roofing__v2,"172.226.188.56, 172.71.151.196",Mozilla/5.0
 2026-09-04 21:57:19,open,60_close_email_martin_roofing__v2,60,close,email,martin_roofing__v2,"172.226.188.56, 104.22.86.37",Mozilla/5.0
+2026-09-04 23:30:41,open,25_followup_1_palm_beach_plumbing__v0,25,followup,1,palm_beach_plumbing__v0,"74.125.210.11, 172.71.151.196",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
