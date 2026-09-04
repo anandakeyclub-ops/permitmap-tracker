@@ -4049,3 +4049,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-04 21:57:19,open,54_close_email_martin_roofing__v2,54,close,email,martin_roofing__v2,"172.226.188.56, 172.71.151.195",Mozilla/5.0
 2026-09-04 21:57:19,open,88_close_email_martin_pool__v2,88,close,email,martin_pool__v2,"172.226.188.56, 172.71.151.195",Mozilla/5.0
 2026-09-04 21:57:19,open,92_close_email_martin_pool__v2,92,close,email,martin_pool__v2,"172.226.188.56, 172.71.151.196",Mozilla/5.0
+2026-09-04 21:57:19,open,121_close_email_palm_beach_roofing__v2,121,close,email,palm_beach_roofing__v2,"172.226.188.56, 104.22.86.37",Mozilla/5.0
+2026-09-04 21:57:19,open,43_close_email_palm_beach_solar__v2,43,close,email,palm_beach_solar__v2,"172.226.188.56, 104.22.86.37",Mozilla/5.0
+2026-09-04 21:57:19,open,114_close_email_palm_beach_roofing__v2,114,close,email,palm_beach_roofing__v2,"172.226.188.56, 172.71.151.196",Mozilla/5.0
+2026-09-04 21:57:19,open,60_close_email_martin_roofing__v2,60,close,email,martin_roofing__v2,"172.226.188.56, 104.22.86.37",Mozilla/5.0
