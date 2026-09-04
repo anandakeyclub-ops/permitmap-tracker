@@ -4023,3 +4023,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-04 00:25:16,open,1592_close_email_lee_pool__v2,1592,close,email,lee_pool__v2,"172.226.188.54, 172.71.151.191",Mozilla/5.0
 2026-09-04 00:25:16,open,254_followup_2_martin_general_contractor__v1,254,followup,2,martin_general_contractor__v1,"172.226.188.54, 172.71.151.192",Mozilla/5.0
 2026-09-04 00:25:17,open,1589_close_email_lee_pool__v2,1589,close,email,lee_pool__v2,"172.226.188.54, 172.70.255.99",Mozilla/5.0
+2026-09-04 02:10:17,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"140.248.4.0, 172.71.195.113",Mozilla/5.0
