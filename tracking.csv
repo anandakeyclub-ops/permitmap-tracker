@@ -4059,3 +4059,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-05 05:27:56,open,2408_followup_2_lee_roofing__v2,2408,followup,2,lee_roofing__v2,"140.248.44.1, 172.71.146.127",Mozilla/5.0
 2026-09-05 12:57:48,open,679_first_outreach_osceola_roofing__v2,679,first,outreach,osceola_roofing__v2,"140.248.44.1, 172.68.12.90",Mozilla/5.0
 2026-09-05 13:12:27,open,2918_followup_2_miami_dade_general_contractor__v1,2918,followup,2,miami_dade_general_contractor__v1,"140.248.44.0, 104.23.248.113",Mozilla/5.0
+2026-09-05 13:54:18,open,2918_followup_1_miami_dade_general_contractor__v0,2918,followup,1,miami_dade_general_contractor__v0,"140.248.44.1, 172.68.12.77",Mozilla/5.0
