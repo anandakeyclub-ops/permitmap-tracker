@@ -4099,3 +4099,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-06 04:20:45,open,684_followup_2_osceola_hvac__v1,684,followup,2,osceola_hvac__v1,"146.75.248.0, 172.71.146.210",Mozilla/5.0
 2026-09-06 04:45:46,open,684_followup_1_osceola_hvac__v0,684,followup,1,osceola_hvac__v0,"146.75.248.0, 172.71.151.196",Mozilla/5.0
 2026-09-06 05:33:29,open,684_close_email_osceola_hvac__v2,684,close,email,osceola_hvac__v2,"146.75.248.0, 172.71.151.191",Mozilla/5.0
+2026-09-06 13:43:49,open,2882_close_email_miami_dade_hvac__v1,2882,close,email,miami_dade_hvac__v1,"140.248.44.1, 172.71.146.211",Mozilla/5.0
