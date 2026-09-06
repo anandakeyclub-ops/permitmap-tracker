@@ -4094,3 +4094,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-06 01:27:32,open,47_close_email_palm_beach_general_contractor__v1,47,close,email,palm_beach_general_contractor__v1,"172.226.190.63, 172.71.151.195",Mozilla/5.0
 2026-09-06 01:27:33,open,45_close_email_palm_beach_general_contractor__v2,45,close,email,palm_beach_general_contractor__v2,"172.226.190.63, 172.71.146.211",Mozilla/5.0
 2026-09-06 01:44:38,open,2878_close_email_miami_dade_hvac__v1,2878,close,email,miami_dade_hvac__v1,"172.226.190.10, 172.71.146.194",Mozilla/5.0
+2026-09-06 02:54:56,open,30_close_email_palm_beach_pool__v2,30,close,email,palm_beach_pool__v2,"172.226.190.31, 104.23.248.113",Mozilla/5.0
