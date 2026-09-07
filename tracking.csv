@@ -4123,3 +4123,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-07 21:14:20,click,2386_close_email_palm_beach_general_contractor__v2,2386,close,email,palm_beach_general_contractor__v2,"72.152.84.32, 172.71.151.185","Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.0 Safari/537.36"
 2026-09-07 21:32:43,open,287_followup_2_palm_beach_plumbing__v2,287,followup,2,palm_beach_plumbing__v2,"172.225.251.15, 172.71.146.211",Mozilla/5.0
 2026-09-07 22:08:43,open,279_followup_2_palm_beach_hvac__v1,279,followup,2,palm_beach_hvac__v1,"69.147.92.219, 172.71.146.210",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-09-07 22:14:17,open,171_close_email_palm_beach_general_contractor__v2,171,close,email,palm_beach_general_contractor__v2,"172.226.190.35, 172.71.146.195",Mozilla/5.0
+2026-09-07 22:14:17,open,137_close_email_palm_beach_plumbing__v2,137,close,email,palm_beach_plumbing__v2,"172.226.190.35, 172.71.146.179",Mozilla/5.0
+2026-09-07 22:14:17,open,168_close_email_palm_beach_general_contractor__v2,168,close,email,palm_beach_general_contractor__v2,"172.226.190.35, 172.71.146.194",Mozilla/5.0
+2026-09-07 22:14:17,open,172_close_email_palm_beach_general_contractor__v2,172,close,email,palm_beach_general_contractor__v2,"172.226.190.35, 172.71.146.194",Mozilla/5.0
+2026-09-07 22:14:17,open,147_close_email_palm_beach_plumbing__v0,147,close,email,palm_beach_plumbing__v0,"172.226.190.35, 172.71.146.194",Mozilla/5.0
