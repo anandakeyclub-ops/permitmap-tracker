@@ -4140,3 +4140,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-08 01:56:26,open,169_close_email_palm_beach_general_contractor__v1,169,close,email,palm_beach_general_contractor__v1,"140.248.44.0, 172.70.82.93",Mozilla/5.0
 2026-09-08 02:49:37,open,141_close_email_palm_beach_plumbing__v2,141,close,email,palm_beach_plumbing__v2,"140.248.44.0, 108.162.210.231",Mozilla/5.0
 2026-09-08 03:09:22,open,257_followup_2_palm_beach_roofing__v1,257,followup,2,palm_beach_roofing__v1,"172.226.188.41, 104.23.248.20",Mozilla/5.0
+2026-09-08 03:55:20,open,160_close_email_palm_beach_pool__v1,160,close,email,palm_beach_pool__v1,"24.238.3.54, 172.71.146.211","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-09-08 03:55:20,open,160_close_email_palm_beach_pool__v1,160,close,email,palm_beach_pool__v1,"24.238.3.54, 172.68.12.91","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
