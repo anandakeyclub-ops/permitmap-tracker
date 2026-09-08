@@ -4159,3 +4159,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-08 14:50:27,open,308_followup_2_palm_beach_pool__v2,308,followup,2,palm_beach_pool__v2,"172.226.188.34, 172.70.82.94",Mozilla/5.0
 2026-09-08 14:50:27,open,302_followup_2_palm_beach_pool__v2,302,followup,2,palm_beach_pool__v2,"172.226.188.34, 172.70.82.93",Mozilla/5.0
 2026-09-08 14:50:27,open,315_followup_2_palm_beach_pool__v2,315,followup,2,palm_beach_pool__v2,"172.226.188.34, 172.70.82.94",Mozilla/5.0
+2026-09-08 16:46:24,open,3466_first_outreach_volusia_general_contractor__v1,3466,first,outreach,volusia_general_contractor__v1,"72.153.231.19, 104.22.20.11","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-08 16:46:54,click,3466_first_outreach_volusia_general_contractor__v1,3466,first,outreach,volusia_general_contractor__v1,"72.153.231.19, 104.23.160.201","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36"
