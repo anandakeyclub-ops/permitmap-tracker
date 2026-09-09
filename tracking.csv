@@ -4235,3 +4235,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-09 11:47:12,click,2395_close_email_martin_general_contractor__v1,2395,close,email,martin_general_contractor__v1,"135.232.20.103, 104.22.93.11","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
 2026-09-09 11:56:44,open,90_followup_2_martin_pool__v1,90,followup,2,martin_pool__v1,"146.75.236.0, 104.23.187.33",Mozilla/5.0
 2026-09-09 13:21:13,open,2399_close_email_martin_general_contractor__v1,2399,close,email,martin_general_contractor__v1,"172.226.192.24, 104.23.201.89",Mozilla/5.0
+2026-09-09 13:29:38,open,2393_close_email_martin_general_contractor__v0,2393,close,email,martin_general_contractor__v0,"174.48.181.113, 172.71.146.138",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
