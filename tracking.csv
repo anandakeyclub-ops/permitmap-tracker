@@ -4243,3 +4243,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-09 16:44:06,click,406_followup_2_martin_general_contractor__v0,406,followup,2,martin_general_contractor__v0,"72.153.230.170, 162.158.167.78","Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.0 Safari/537.36"
 2026-09-09 16:44:12,open,2159_first_outreach_volusia_general_contractor__v0,2159,first,outreach,volusia_general_contractor__v0,"72.153.153.18, 104.22.17.37","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-09 16:44:24,click,2159_first_outreach_volusia_general_contractor__v0,2159,first,outreach,volusia_general_contractor__v0,"72.153.153.18, 172.68.175.105","Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.0 Safari/537.36"
+2026-09-09 16:57:50,open,250_close_email_martin_general_contractor__v2,250,close,email,martin_general_contractor__v2,"172.226.188.32, 172.71.146.200",Mozilla/5.0
+2026-09-09 16:57:50,open,356_followup_2_martin_roofing__v2,356,followup,2,martin_roofing__v2,"172.226.188.32, 172.71.146.201",Mozilla/5.0
+2026-09-09 16:57:50,open,393_followup_2_martin_pool__v2,393,followup,2,martin_pool__v2,"172.226.188.32, 172.71.146.201",Mozilla/5.0
+2026-09-09 16:57:50,open,402_followup_2_martin_pool__v2,402,followup,2,martin_pool__v2,"172.226.188.32, 172.71.151.195",Mozilla/5.0
+2026-09-09 16:57:50,open,246_close_email_martin_general_contractor__v2,246,close,email,martin_general_contractor__v2,"172.226.188.32, 172.71.146.201",Mozilla/5.0
