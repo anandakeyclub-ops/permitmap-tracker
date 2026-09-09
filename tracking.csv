@@ -4224,3 +4224,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-09 04:44:50,open,684_close_email_osceola_hvac__v2,684,close,email,osceola_hvac__v2,"140.248.44.0, 104.22.87.6",Mozilla/5.0
 2026-09-09 05:02:49,open,684_followup_2_osceola_hvac__v1,684,followup,2,osceola_hvac__v1,"140.248.44.0, 172.71.146.127",Mozilla/5.0
 2026-09-09 05:02:49,open,684_followup_1_osceola_hvac__v0,684,followup,1,osceola_hvac__v0,"140.248.44.0, 172.68.12.91",Mozilla/5.0
+2026-09-09 05:56:56,open,392_followup_2_martin_pool__v1,392,followup,2,martin_pool__v1,"172.226.140.1, 162.159.110.98",Mozilla/5.0
