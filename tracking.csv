@@ -4294,3 +4294,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-10 13:14:16,open,415_followup_1_martin_general_contractor__v1,415,followup,1,martin_general_contractor__v1,"104.28.132.113, 104.22.86.119",Mozilla/5.0
 2026-09-10 13:14:16,open,375_followup_2_martin_hvac__v1,375,followup,2,martin_hvac__v1,"104.28.132.113, 104.22.87.5",Mozilla/5.0
 2026-09-10 13:14:16,open,367_followup_2_martin_hvac__v1,367,followup,2,martin_hvac__v1,"104.28.132.113, 104.22.86.118",Mozilla/5.0
+2026-09-10 13:42:39,open,2467_followup_2_lee_general_contractor__v0,2467,followup,2,lee_general_contractor__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
+2026-09-10 13:42:39,open,2465_followup_2_lee_general_contractor__v1,2465,followup,2,lee_general_contractor__v1,"104.28.132.113, 104.23.248.113",Mozilla/5.0
+2026-09-10 13:42:39,open,1456_followup_1_palm_beach_roofing__v1,1456,followup,1,palm_beach_roofing__v1,"104.28.132.113, 104.23.248.113",Mozilla/5.0
+2026-09-10 13:42:39,open,1459_followup_1_palm_beach_roofing__v0,1459,followup,1,palm_beach_roofing__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
+2026-09-10 13:42:39,open,2458_followup_2_lee_pool__v0,2458,followup,2,lee_pool__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
