@@ -4315,3 +4315,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-10 16:44:32,click,502_first_outreach_lee_general_contractor__v1,502,first,outreach,lee_general_contractor__v1,"74.179.67.157, 104.22.72.63","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
 2026-09-10 16:45:12,click,502_first_outreach_lee_general_contractor__v1,502,first,outreach,lee_general_contractor__v1,"74.179.67.157, 172.71.151.186","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36"
 2026-09-10 19:58:15,open,2889_close_email_miami_dade_plumbing__v2,2889,close,email,miami_dade_plumbing__v2,"172.226.190.58, 172.71.151.185",Mozilla/5.0
+2026-09-10 20:34:36,open,2889_followup_2_miami_dade_plumbing__v1,2889,followup,2,miami_dade_plumbing__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
