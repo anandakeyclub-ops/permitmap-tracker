@@ -4277,3 +4277,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-10 00:51:42,open,210_close_email_martin_hvac__v0,210,close,email,martin_hvac__v0,"172.226.190.58, 172.71.146.210",Mozilla/5.0
 2026-09-10 00:51:42,open,2395_close_email_martin_general_contractor__v1,2395,close,email,martin_general_contractor__v1,"172.226.190.58, 172.71.146.210",Mozilla/5.0
 2026-09-10 00:51:42,open,205_close_email_martin_hvac__v1,205,close,email,martin_hvac__v1,"172.226.190.58, 104.22.87.6",Mozilla/5.0
+2026-09-10 03:33:15,open,213_close_email_martin_plumbing__v0,213,close,email,martin_plumbing__v0,"140.248.44.1, 172.70.82.93",Mozilla/5.0
