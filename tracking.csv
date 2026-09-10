@@ -4282,3 +4282,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-10 06:45:38,open,213_close_email_martin_plumbing__v0,213,close,email,martin_plumbing__v0,"140.248.44.1, 104.22.87.6",Mozilla/5.0
 2026-09-10 09:52:17,click,3466_first_outreach_volusia_general_contractor__v1,3466,first,outreach,volusia_general_contractor__v1,"205.169.39.76, 162.159.104.125","Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36"
 2026-09-10 09:52:24,click,3466_first_outreach_volusia_general_contractor__v1,3466,first,outreach,volusia_general_contractor__v1,"205.169.39.76, 162.158.174.40","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
+2026-09-10 11:54:53,open,1466_followup_1_palm_beach_roofing__v1,1466,followup,1,palm_beach_roofing__v1,"104.28.132.113, 172.70.255.53",Mozilla/5.0
