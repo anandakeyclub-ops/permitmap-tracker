@@ -4280,3 +4280,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-10 03:33:15,open,213_close_email_martin_plumbing__v0,213,close,email,martin_plumbing__v0,"140.248.44.1, 172.70.82.93",Mozilla/5.0
 2026-09-10 06:32:33,open,90_first_outreach_martin_pool__v2,90,first,outreach,martin_pool__v2,"104.28.132.113, 172.71.146.127",Mozilla/5.0
 2026-09-10 06:45:38,open,213_close_email_martin_plumbing__v0,213,close,email,martin_plumbing__v0,"140.248.44.1, 104.22.87.6",Mozilla/5.0
+2026-09-10 09:52:17,click,3466_first_outreach_volusia_general_contractor__v1,3466,first,outreach,volusia_general_contractor__v1,"205.169.39.76, 162.159.104.125","Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36"
