@@ -4271,3 +4271,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-09 21:21:14,open,1564_first_outreach_lee_hvac__v1,1564,first,outreach,lee_hvac__v1,"140.248.44.1, 172.71.146.210",Mozilla/5.0
 2026-09-09 21:30:18,open,2371_close_email_palm_beach_pool__v0,2371,close,email,palm_beach_pool__v0,"104.28.57.240, 172.71.146.145",Mozilla/5.0
 2026-09-09 23:31:43,open,488_first_outreach_lee_solar__v1,488,first,outreach,lee_solar__v1,"140.248.44.1, 172.70.82.94",Mozilla/5.0
+2026-09-10 00:51:42,open,2396_close_email_martin_general_contractor__v0,2396,close,email,martin_general_contractor__v0,"172.226.190.58, 172.71.146.210",Mozilla/5.0
+2026-09-10 00:51:42,open,224_close_email_martin_plumbing__v0,224,close,email,martin_plumbing__v0,"172.226.190.58, 172.71.146.210",Mozilla/5.0
+2026-09-10 00:51:42,open,206_close_email_martin_hvac__v0,206,close,email,martin_hvac__v0,"172.226.190.58, 172.71.146.126",Mozilla/5.0
+2026-09-10 00:51:42,open,210_close_email_martin_hvac__v0,210,close,email,martin_hvac__v0,"172.226.190.58, 172.71.146.210",Mozilla/5.0
+2026-09-10 00:51:42,open,2395_close_email_martin_general_contractor__v1,2395,close,email,martin_general_contractor__v1,"172.226.190.58, 172.71.146.210",Mozilla/5.0
