@@ -4299,3 +4299,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-10 13:42:39,open,1456_followup_1_palm_beach_roofing__v1,1456,followup,1,palm_beach_roofing__v1,"104.28.132.113, 104.23.248.113",Mozilla/5.0
 2026-09-10 13:42:39,open,1459_followup_1_palm_beach_roofing__v0,1459,followup,1,palm_beach_roofing__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
 2026-09-10 13:42:39,open,2458_followup_2_lee_pool__v0,2458,followup,2,lee_pool__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
+2026-09-10 13:42:39,open,2448_followup_2_lee_pool__v0,2448,followup,2,lee_pool__v0,"104.28.132.113, 104.23.248.113",Mozilla/5.0
+2026-09-10 13:42:39,open,1462_followup_1_palm_beach_roofing__v0,1462,followup,1,palm_beach_roofing__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
+2026-09-10 13:42:40,open,2451_followup_2_lee_pool__v0,2451,followup,2,lee_pool__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
+2026-09-10 13:42:40,open,1466_followup_1_palm_beach_roofing__v1,1466,followup,1,palm_beach_roofing__v1,"104.28.132.113, 104.23.248.112",Mozilla/5.0
