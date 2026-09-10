@@ -4303,3 +4303,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-10 13:42:39,open,1462_followup_1_palm_beach_roofing__v0,1462,followup,1,palm_beach_roofing__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
 2026-09-10 13:42:40,open,2451_followup_2_lee_pool__v0,2451,followup,2,lee_pool__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
 2026-09-10 13:42:40,open,1466_followup_1_palm_beach_roofing__v1,1466,followup,1,palm_beach_roofing__v1,"104.28.132.113, 104.23.248.112",Mozilla/5.0
+2026-09-10 14:17:41,open,487_first_outreach_lee_solar__v0,487,first,outreach,lee_solar__v0,"104.28.132.113, 104.23.248.20",Mozilla/5.0
