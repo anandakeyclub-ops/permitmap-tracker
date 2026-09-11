@@ -4328,3 +4328,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-11 01:22:51,open,2428_close_email_lee_hvac__v1,2428,close,email,lee_hvac__v1,"140.248.44.0, 172.71.146.127",Mozilla/5.0
 2026-09-11 01:50:47,open,2430_close_email_lee_hvac__v1,2430,close,email,lee_hvac__v1,"172.226.190.9, 172.71.151.29",Mozilla/5.0
 2026-09-11 02:56:25,open,2889_followup_1_miami_dade_plumbing__v0,2889,followup,1,miami_dade_plumbing__v0,"140.248.44.1, 172.71.146.210",Mozilla/5.0
+2026-09-11 04:30:09,open,2422_close_email_lee_hvac__v1,2422,close,email,lee_hvac__v1,"104.28.132.113, 172.71.151.30",Mozilla/5.0
