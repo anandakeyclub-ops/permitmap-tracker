@@ -4349,3 +4349,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-11 14:59:17,open,3007_first_outreach_palm_beach_roofing__v2,3007,first,outreach,palm_beach_roofing__v2,"140.248.44.0, 104.22.86.118",Mozilla/5.0
 2026-09-11 15:00:02,open,279_close_email_palm_beach_hvac__v1,279,close,email,palm_beach_hvac__v1,"69.147.95.10, 104.22.100.158",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-09-11 17:00:12,open,457_followup_1_lee_plumbing__v1,457,followup,1,lee_plumbing__v1,"135.232.19.38, 172.71.146.194","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-11 17:38:59,open,319_close_email_palm_beach_solar__v1,319,close,email,palm_beach_solar__v1,"172.226.188.57, 172.71.146.211",Mozilla/5.0
