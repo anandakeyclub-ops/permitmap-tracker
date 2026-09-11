@@ -4352,3 +4352,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-11 17:38:59,open,319_close_email_palm_beach_solar__v1,319,close,email,palm_beach_solar__v1,"172.226.188.57, 172.71.146.211",Mozilla/5.0
 2026-09-11 18:08:50,open,1455_followup_1_palm_beach_roofing__v1,1455,followup,1,palm_beach_roofing__v1,"146.75.136.1, 162.158.41.130",Mozilla/5.0
 2026-09-11 18:32:15,open,3493_first_outreach_miami_dade_hvac__v1,3493,first,outreach,miami_dade_hvac__v1,"146.75.136.1, 104.22.72.32",Mozilla/5.0
+2026-09-11 19:10:46,open,3486_first_outreach_miami_dade_hvac__v0,3486,first,outreach,miami_dade_hvac__v0,"140.248.44.0, 172.71.146.126",Mozilla/5.0
