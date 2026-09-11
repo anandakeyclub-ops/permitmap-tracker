@@ -4331,3 +4331,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-11 04:30:09,open,2422_close_email_lee_hvac__v1,2422,close,email,lee_hvac__v1,"104.28.132.113, 172.71.151.30",Mozilla/5.0
 2026-09-11 05:19:12,open,2451_followup_2_lee_pool__v0,2451,followup,2,lee_pool__v0,"172.226.188.16, 172.68.12.91",Mozilla/5.0
 2026-09-11 11:15:47,open,202_close_email_martin_hvac__v1,202,close,email,martin_hvac__v1,"140.248.44.0, 104.23.248.112",Mozilla/5.0
+2026-09-11 11:41:01,open,263_close_email_palm_beach_roofing__v0,263,close,email,palm_beach_roofing__v0,"135.232.20.13, 162.158.78.5","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-11 11:41:11,open,269_close_email_palm_beach_roofing__v0,269,close,email,palm_beach_roofing__v0,"72.152.84.208, 104.23.201.88","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-11 11:41:14,click,263_close_email_palm_beach_roofing__v0,263,close,email,palm_beach_roofing__v0,"135.232.20.13, 172.71.151.191","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
