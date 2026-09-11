@@ -4354,3 +4354,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-11 18:32:15,open,3493_first_outreach_miami_dade_hvac__v1,3493,first,outreach,miami_dade_hvac__v1,"146.75.136.1, 104.22.72.32",Mozilla/5.0
 2026-09-11 19:10:46,open,3486_first_outreach_miami_dade_hvac__v0,3486,first,outreach,miami_dade_hvac__v0,"140.248.44.0, 172.71.146.126",Mozilla/5.0
 2026-09-11 20:15:23,open,3007_first_outreach_palm_beach_roofing__v2,3007,first,outreach,palm_beach_roofing__v2,"140.248.44.0, 172.71.151.191",Mozilla/5.0
+2026-09-11 20:57:17,open,3485_first_outreach_miami_dade_hvac__v0,3485,first,outreach,miami_dade_hvac__v0,"172.226.190.0, 172.71.151.196",Mozilla/5.0
+2026-09-11 20:58:16,open,461_followup_1_lee_plumbing__v1,461,followup,1,lee_plumbing__v1,"140.248.44.0, 172.71.151.30",Mozilla/5.0
+2026-09-11 20:58:16,open,460_followup_1_lee_plumbing__v0,460,followup,1,lee_plumbing__v0,"140.248.44.0, 172.71.151.30",Mozilla/5.0
+2026-09-11 20:58:16,open,453_followup_1_lee_plumbing__v1,453,followup,1,lee_plumbing__v1,"140.248.44.0, 172.71.151.30",Mozilla/5.0
+2026-09-11 20:58:16,open,455_followup_1_lee_plumbing__v0,455,followup,1,lee_plumbing__v0,"140.248.44.0, 172.71.146.211",Mozilla/5.0
