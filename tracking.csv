@@ -4368,3 +4368,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-12 04:12:54,open,410_followup_2_martin_general_contractor__v0,410,followup,2,martin_general_contractor__v0,"172.226.168.46, 172.71.151.195",Mozilla/5.0
 2026-09-12 09:53:14,open,2405_close_email_lee_roofing__v1,2405,close,email,lee_roofing__v1,"46.105.91.188, 172.68.194.228","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
 2026-09-12 12:45:14,open,485_first_outreach_lee_solar__v1,485,first,outreach,lee_solar__v1,"172.226.190.36, 172.71.151.195",Mozilla/5.0
+2026-09-12 13:28:00,open,2462_followup_2_lee_general_contractor__v1,2462,followup,2,lee_general_contractor__v1,"172.226.188.58, 172.71.156.208",Mozilla/5.0
