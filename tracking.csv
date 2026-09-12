@@ -4366,3 +4366,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-12 00:27:26,open,2408_close_email_lee_roofing__v0,2408,close,email,lee_roofing__v0,"140.248.44.0, 172.71.151.192",Mozilla/5.0
 2026-09-12 02:57:43,open,319_close_email_palm_beach_solar__v1,319,close,email,palm_beach_solar__v1,"172.226.190.25, 172.71.146.127",Mozilla/5.0
 2026-09-12 04:12:54,open,410_followup_2_martin_general_contractor__v0,410,followup,2,martin_general_contractor__v0,"172.226.168.46, 172.71.151.195",Mozilla/5.0
+2026-09-12 09:53:14,open,2405_close_email_lee_roofing__v1,2405,close,email,lee_roofing__v1,"46.105.91.188, 172.68.194.228","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0"
