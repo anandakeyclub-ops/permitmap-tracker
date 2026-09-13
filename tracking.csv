@@ -4404,3 +4404,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-13 17:41:20,open,349_close_email_martin_roofing__v0,349,close,email,martin_roofing__v0,"172.226.188.2, 172.70.82.93",Mozilla/5.0
 2026-09-13 17:41:20,open,355_close_email_martin_roofing__v1,355,close,email,martin_roofing__v1,"172.226.188.2, 172.70.82.93",Mozilla/5.0
 2026-09-13 17:41:20,open,352_close_email_martin_roofing__v0,352,close,email,martin_roofing__v0,"172.226.188.2, 172.70.82.94",Mozilla/5.0
+2026-09-13 19:20:38,open,3493_first_outreach_miami_dade_hvac__v1,3493,first,outreach,miami_dade_hvac__v1,"146.75.146.0, 104.23.251.175",Mozilla/5.0
