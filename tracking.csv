@@ -4398,3 +4398,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-13 14:45:16,open,402_close_email_martin_pool__v1,402,close,email,martin_pool__v1,"172.226.188.5, 104.22.87.6",Mozilla/5.0
 2026-09-13 14:45:16,open,2481_followup_1_pasco_hvac__v1,2481,followup,1,pasco_hvac__v1,"172.226.188.5, 104.22.87.6",Mozilla/5.0
 2026-09-13 14:45:16,open,358_close_email_martin_roofing__v0,358,close,email,martin_roofing__v0,"172.226.188.5, 104.22.87.6",Mozilla/5.0
+2026-09-13 17:07:54,open,2471_followup_2_lee_general_contractor__v1,2471,followup,2,lee_general_contractor__v1,"140.248.44.1, 172.68.12.90",Mozilla/5.0
