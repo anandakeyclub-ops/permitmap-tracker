@@ -4390,3 +4390,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-13 03:45:25,open,684_close_email_osceola_hvac__v2,684,close,email,osceola_hvac__v2,"140.248.44.0, 172.68.12.90",Mozilla/5.0
 2026-09-13 04:06:51,open,684_followup_2_osceola_hvac__v1,684,followup,2,osceola_hvac__v1,"140.248.44.0, 172.71.146.126",Mozilla/5.0
 2026-09-13 13:46:35,open,2465_followup_2_lee_general_contractor__v1,2465,followup,2,lee_general_contractor__v1,"104.28.59.160, 172.68.174.91",Mozilla/5.0
+2026-09-13 14:45:16,open,393_close_email_martin_pool__v1,393,close,email,martin_pool__v1,"172.226.188.5, 172.71.147.153",Mozilla/5.0
+2026-09-13 14:45:16,open,397_close_email_martin_pool__v0,397,close,email,martin_pool__v0,"172.226.188.5, 172.71.147.154",Mozilla/5.0
+2026-09-13 14:45:16,open,2505_followup_1_pasco_general_contractor__v0,2505,followup,1,pasco_general_contractor__v0,"172.226.188.5, 104.22.160.45",Mozilla/5.0
+2026-09-13 14:45:16,open,2482_followup_1_pasco_hvac__v1,2482,followup,1,pasco_hvac__v1,"172.226.188.5, 104.22.160.45",Mozilla/5.0
+2026-09-13 14:45:16,open,348_close_email_martin_roofing__v1,348,close,email,martin_roofing__v1,"172.226.188.5, 172.71.147.153",Mozilla/5.0
