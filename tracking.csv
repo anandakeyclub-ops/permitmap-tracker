@@ -4442,3 +4442,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-14 21:18:33,click,3639_first_outreach_martin_general_contractor__v0,3639,first,outreach,martin_general_contractor__v0,"72.152.84.238, 104.22.160.32","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
 2026-09-14 21:18:41,click,424_followup_2_lee_roofing__v1,424,followup,2,lee_roofing__v1,"74.179.68.90, 172.71.151.192","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
 2026-09-14 21:19:34,click,424_followup_2_lee_roofing__v1,424,followup,2,lee_roofing__v1,"44.194.118.42, 172.70.35.181",Go-http-client/2.0
+2026-09-14 21:21:58,open,3629_first_outreach_palm_beach_general_contractor__v0,3629,first,outreach,palm_beach_general_contractor__v0,"50.248.30.81, 104.22.87.5",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
