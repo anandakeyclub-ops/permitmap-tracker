@@ -4444,3 +4444,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-14 21:19:34,click,424_followup_2_lee_roofing__v1,424,followup,2,lee_roofing__v1,"44.194.118.42, 172.70.35.181",Go-http-client/2.0
 2026-09-14 21:21:58,open,3629_first_outreach_palm_beach_general_contractor__v0,3629,first,outreach,palm_beach_general_contractor__v0,"50.248.30.81, 104.22.87.5",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-09-14 22:13:41,open,3646_first_outreach_martin_general_contractor__v0,3646,first,outreach,martin_general_contractor__v0,"174.218.244.35, 172.68.12.76","Mozilla/5.0 (Linux; Android 16; SM-S721U1 Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/151.0.7922.200 Mobile Safari/537.36"
+2026-09-14 23:11:34,open,1519_followup_1_palm_beach_general_contractor__v0,1519,followup,1,palm_beach_general_contractor__v0,"172.226.188.55, 104.22.160.34",Mozilla/5.0
+2026-09-14 23:11:34,open,1522_followup_1_palm_beach_general_contractor__v1,1522,followup,1,palm_beach_general_contractor__v1,"172.226.188.55, 104.22.160.34",Mozilla/5.0
+2026-09-14 23:11:34,open,2998_followup_1_palm_beach_roofing__v0,2998,followup,1,palm_beach_roofing__v0,"172.226.188.55, 104.22.160.34",Mozilla/5.0
+2026-09-14 23:11:34,open,1515_followup_1_palm_beach_general_contractor__v0,1515,followup,1,palm_beach_general_contractor__v0,"172.226.188.55, 104.22.160.34",Mozilla/5.0
+2026-09-14 23:11:34,open,1526_followup_1_palm_beach_general_contractor__v1,1526,followup,1,palm_beach_general_contractor__v1,"172.226.188.55, 104.22.160.34",Mozilla/5.0
