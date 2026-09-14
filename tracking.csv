@@ -4407,3 +4407,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-13 19:20:38,open,3493_first_outreach_miami_dade_hvac__v1,3493,first,outreach,miami_dade_hvac__v1,"146.75.146.0, 104.23.251.175",Mozilla/5.0
 2026-09-14 03:38:56,open,2422_close_email_lee_hvac__v1,2422,close,email,lee_hvac__v1,"104.28.132.113, 104.23.248.113",Mozilla/5.0
 2026-09-14 11:45:01,open,1477_followup_1_palm_beach_hvac__v1,1477,followup,1,palm_beach_hvac__v1,"66.249.92.44, 172.70.35.75","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-09-14 11:50:45,open,1526_followup_1_palm_beach_general_contractor__v1,1526,followup,1,palm_beach_general_contractor__v1,"172.226.175.1, 104.22.160.32",Mozilla/5.0
