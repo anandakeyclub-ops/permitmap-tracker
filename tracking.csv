@@ -4468,3 +4468,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 00:58:21,open,363_close_email_martin_hvac__v0,363,close,email,martin_hvac__v0,"140.248.44.1, 104.23.248.113",Mozilla/5.0
 2026-09-15 00:58:21,open,418_followup_2_martin_general_contractor__v0,418,followup,2,martin_general_contractor__v0,"140.248.44.1, 104.23.248.113",Mozilla/5.0
 2026-09-15 00:58:21,open,415_followup_2_martin_general_contractor__v1,415,followup,2,martin_general_contractor__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
+2026-09-15 00:58:21,open,390_close_email_martin_plumbing__v0,390,close,email,martin_plumbing__v0,"140.248.44.1, 104.23.248.113",Mozilla/5.0
+2026-09-15 00:58:21,open,425_followup_2_lee_roofing__v0,425,followup,2,lee_roofing__v0,"140.248.44.1, 104.23.248.113",Mozilla/5.0
