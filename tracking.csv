@@ -4488,3 +4488,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 13:54:27,open,3685_first_outreach_lee_plumbing__v1,3685,first,outreach,lee_plumbing__v1,"50.245.69.94, 104.23.248.20",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-09-15 14:16:18,open,3685_first_outreach_lee_plumbing__v1,3685,first,outreach,lee_plumbing__v1,"50.245.69.94, 172.68.12.77",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-09-15 14:46:24,open,3685_first_outreach_lee_plumbing__v1,3685,first,outreach,lee_plumbing__v1,"50.245.69.94, 104.22.160.42",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-09-15 15:36:33,open,3685_first_outreach_lee_plumbing__v1,3685,first,outreach,lee_plumbing__v1,"50.245.69.94, 172.70.82.94",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
