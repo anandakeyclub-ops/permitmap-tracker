@@ -4516,3 +4516,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 18:02:34,open,485_followup_1_lee_solar__v1,485,followup,1,lee_solar__v1,"140.248.44.1, 172.68.12.77",Mozilla/5.0
 2026-09-15 18:07:05,open,1564_followup_1_lee_hvac__v1,1564,followup,1,lee_hvac__v1,"195.12.51.118, 104.22.160.59",Mozilla/5.0
 2026-09-15 19:37:07,open,485_followup_1_lee_solar__v1,485,followup,1,lee_solar__v1,"140.248.44.0, 104.22.160.57",Mozilla/5.0
+2026-09-15 19:49:11,open,3670_first_outreach_lee_hvac__v0,3670,first,outreach,lee_hvac__v0,"71.208.28.44, 104.22.160.27",Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:155.0) Gecko/20100101 Firefox/155.0
+2026-09-15 19:49:23,open,3670_first_outreach_lee_hvac__v0,3670,first,outreach,lee_hvac__v0,"71.208.28.44, 104.22.160.29",Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:155.0) Gecko/20100101 Firefox/155.0
