@@ -4508,3 +4508,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 16:54:38,click,3664_first_outreach_lee_roofing__v1,3664,first,outreach,lee_roofing__v1,"44.194.118.42, 104.22.93.11",Go-http-client/2.0
 2026-09-15 17:06:21,open,3069_followup_1_martin_general_contractor__v0,3069,followup,1,martin_general_contractor__v0,"172.226.188.39, 108.162.210.231",Mozilla/5.0
 2026-09-15 17:18:11,open,2462_close_email_lee_general_contractor__v1,2462,close,email,lee_general_contractor__v1,"140.248.44.1, 108.162.210.231",Mozilla/5.0
+2026-09-15 17:21:52,open,1564_followup_1_lee_hvac__v1,1564,followup,1,lee_hvac__v1,"172.226.188.42, 108.162.210.231",Mozilla/5.0
