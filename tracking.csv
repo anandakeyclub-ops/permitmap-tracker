@@ -4510,3 +4510,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 17:18:11,open,2462_close_email_lee_general_contractor__v1,2462,close,email,lee_general_contractor__v1,"140.248.44.1, 108.162.210.231",Mozilla/5.0
 2026-09-15 17:21:52,open,1564_followup_1_lee_hvac__v1,1564,followup,1,lee_hvac__v1,"172.226.188.42, 108.162.210.231",Mozilla/5.0
 2026-09-15 17:35:33,open,3063_followup_1_martin_general_contractor__v0,3063,followup,1,martin_general_contractor__v0,"146.75.252.1, 162.159.99.96",Mozilla/5.0
+2026-09-15 17:38:01,open,3658_first_outreach_lee_roofing__v1,3658,first,outreach,lee_roofing__v1,"140.248.44.0, 104.22.160.3",Mozilla/5.0
+2026-09-15 17:39:23,open,3060_followup_1_martin_general_contractor__v0,3060,followup,1,martin_general_contractor__v0,"69.147.94.143, 104.22.104.92",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
