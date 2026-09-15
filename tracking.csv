@@ -4529,3 +4529,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 21:04:36,click,1637_first_outreach_pasco_hvac__v1,1637,first,outreach,pasco_hvac__v1,"72.153.231.4, 172.68.175.20","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36"
 2026-09-15 21:04:41,click,1646_first_outreach_pasco_hvac__v0,1646,first,outreach,pasco_hvac__v0,"135.232.20.2, 104.22.104.90","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36"
 2026-09-15 21:08:43,open,526_first_outreach_pasco_hvac__v0,526,first,outreach,pasco_hvac__v0,"140.248.44.1, 172.71.156.162",Mozilla/5.0
+2026-09-15 21:15:59,open,3061_followup_1_martin_general_contractor__v0,3061,followup,1,martin_general_contractor__v0,"104.28.85.125, 104.22.160.42",Mozilla/5.0
