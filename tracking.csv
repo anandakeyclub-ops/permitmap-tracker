@@ -4472,3 +4472,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 00:58:21,open,425_followup_2_lee_roofing__v0,425,followup,2,lee_roofing__v0,"140.248.44.1, 104.23.248.113",Mozilla/5.0
 2026-09-15 01:03:54,open,375_close_email_martin_hvac__v1,375,close,email,martin_hvac__v1,"140.248.44.0, 108.162.210.231",Mozilla/5.0
 2026-09-15 01:20:27,open,416_followup_2_martin_general_contractor__v1,416,followup,2,martin_general_contractor__v1,"140.248.44.0, 172.71.156.162",Mozilla/5.0
+2026-09-15 04:44:50,open,3632_first_outreach_palm_beach_general_contractor__v1,3632,first,outreach,palm_beach_general_contractor__v1,"124.122.133.239, 172.68.241.89",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-09-15 04:45:12,click,9245_dcstl_nvkidday_hcnt_eafdi_xducece_eskoxabiwr__n5,9245,dcstl,nvkidday,hcnt_eafdi_xducece_eskoxabiwr__n5,"149.56.85.115, 104.22.160.69","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
