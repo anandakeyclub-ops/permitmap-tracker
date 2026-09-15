@@ -4506,3 +4506,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 16:53:16,click,3664_first_outreach_lee_roofing__v1,3664,first,outreach,lee_roofing__v1,"72.152.84.96, 104.23.201.88","Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
 2026-09-15 16:54:35,open,1539_followup_1_martin_general_contractor__v0,1539,followup,1,martin_general_contractor__v0,"135.232.20.124, 104.22.160.57","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-15 16:54:38,click,3664_first_outreach_lee_roofing__v1,3664,first,outreach,lee_roofing__v1,"44.194.118.42, 104.22.93.11",Go-http-client/2.0
+2026-09-15 17:06:21,open,3069_followup_1_martin_general_contractor__v0,3069,followup,1,martin_general_contractor__v0,"172.226.188.39, 108.162.210.231",Mozilla/5.0
