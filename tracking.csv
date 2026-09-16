@@ -4563,3 +4563,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 08:04:25,open,3052_followup_1_palm_beach_general_contractor__v1,3052,followup,1,palm_beach_general_contractor__v1,"104.28.132.113, 104.22.160.42",Mozilla/5.0
 2026-09-16 08:13:24,open,684_close_email_osceola_hvac__v2,684,close,email,osceola_hvac__v2,"140.248.44.1, 104.22.160.69",Mozilla/5.0
 2026-09-16 10:21:08,open,319_close_email_palm_beach_solar__v1,319,close,email,palm_beach_solar__v1,"172.226.190.8, 172.70.82.93",Mozilla/5.0
+2026-09-16 11:52:10,open,457_followup_2_lee_plumbing__v1,457,followup,2,lee_plumbing__v1,"135.232.20.5, 104.22.100.183","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-16 11:52:21,click,457_followup_2_lee_plumbing__v1,457,followup,2,lee_plumbing__v1,"135.232.20.5, 104.22.102.13","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36"
