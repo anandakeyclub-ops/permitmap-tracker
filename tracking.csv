@@ -4583,3 +4583,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 13:23:38,open,476_followup_1_lee_pool__v0,476,followup,1,lee_pool__v0,"172.226.190.25, 104.22.87.6",Mozilla/5.0
 2026-09-16 13:46:17,open,562_followup_1_pasco_pool__v0,562,followup,1,pasco_pool__v0,"35.141.74.114, 104.22.160.3",Mozilla/5.0
 2026-09-16 15:10:22,open,319_followup_1_palm_beach_solar__v2,319,followup,1,palm_beach_solar__v2,"140.248.44.0, 104.22.160.68",Mozilla/5.0
+2026-09-16 15:27:45,open,3082_followup_1_lee_roofing__v1,3082,followup,1,lee_roofing__v1,"140.248.44.1, 104.22.160.39",Mozilla/5.0
+2026-09-16 15:27:45,open,3077_followup_1_lee_roofing__v0,3077,followup,1,lee_roofing__v0,"140.248.44.1, 104.22.160.39",Mozilla/5.0
+2026-09-16 15:27:45,open,3112_followup_1_lee_plumbing__v1,3112,followup,1,lee_plumbing__v1,"140.248.44.1, 104.22.160.39",Mozilla/5.0
+2026-09-16 15:27:45,open,3110_followup_1_lee_plumbing__v1,3110,followup,1,lee_plumbing__v1,"140.248.44.1, 104.22.160.39",Mozilla/5.0
+2026-09-16 15:27:45,open,2487_followup_1_pasco_hvac__v1,2487,followup,1,pasco_hvac__v1,"140.248.44.1, 104.22.160.39",Mozilla/5.0
