@@ -4579,3 +4579,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 12:22:18,open,1509_followup_1_palm_beach_pool__v0,1509,followup,1,palm_beach_pool__v0,"172.226.190.30, 172.71.156.162",Mozilla/5.0
 2026-09-16 12:24:46,open,3087_followup_1_lee_hvac__v0,3087,followup,1,lee_hvac__v0,"172.226.188.48, 172.68.12.90",Mozilla/5.0
 2026-09-16 12:27:22,open,3076_followup_1_lee_roofing__v0,3076,followup,1,lee_roofing__v0,"104.28.132.113, 172.68.71.84",Mozilla/5.0
+2026-09-16 13:03:52,open,1489_followup_1_palm_beach_plumbing__v1,1489,followup,1,palm_beach_plumbing__v1,"69.147.86.139, 104.22.160.33",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
