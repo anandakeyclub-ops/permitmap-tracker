@@ -4603,3 +4603,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 16:59:49,open,3151_first_outreach_pasco_general_contractor__v1,3151,first,outreach,pasco_general_contractor__v1,"72.153.153.17, 162.158.167.124","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-16 16:59:53,open,3142_first_outreach_pasco_hvac__v1,3142,first,outreach,pasco_hvac__v1,"140.248.44.0, 108.162.210.231",Mozilla/5.0
 2026-09-16 17:05:58,open,3151_first_outreach_pasco_general_contractor__v1,3151,first,outreach,pasco_general_contractor__v1,"140.248.44.0, 172.68.12.76",Mozilla/5.0
+2026-09-16 17:09:44,open,2875_first_outreach_miami_dade_hvac__v1,2875,first,outreach,miami_dade_hvac__v1,"72.153.231.16, 172.68.175.20","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-16 17:10:09,click,2875_first_outreach_miami_dade_hvac__v1,2875,first,outreach,miami_dade_hvac__v1,"72.153.231.16, 162.158.167.78","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
