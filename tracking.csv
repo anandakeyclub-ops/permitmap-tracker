@@ -4556,3 +4556,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 02:13:57,open,540_followup_1_pasco_plumbing__v1,540,followup,1,pasco_plumbing__v1,"172.226.190.36, 104.23.248.113",Mozilla/5.0
 2026-09-16 02:13:57,open,544_followup_1_pasco_plumbing__v0,544,followup,1,pasco_plumbing__v0,"172.226.190.36, 104.23.248.112",Mozilla/5.0
 2026-09-16 02:13:57,open,542_followup_1_pasco_plumbing__v1,542,followup,1,pasco_plumbing__v1,"172.226.190.36, 104.23.248.113",Mozilla/5.0
+2026-09-16 02:31:53,open,2462_close_email_lee_general_contractor__v1,2462,close,email,lee_general_contractor__v1,"140.248.44.0, 104.22.160.42",Mozilla/5.0
