@@ -4576,3 +4576,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 11:58:24,open,2493_followup_2_pasco_general_contractor__v0,2493,followup,2,pasco_general_contractor__v0,"74.179.68.27, 172.68.22.24","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-16 11:58:35,click,2493_followup_2_pasco_general_contractor__v0,2493,followup,2,pasco_general_contractor__v0,"74.179.68.27, 172.68.22.30","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36"
 2026-09-16 12:09:58,open,2494_followup_2_pasco_general_contractor__v1,2494,followup,2,pasco_general_contractor__v1,"172.226.190.34, 104.22.160.59",Mozilla/5.0
+2026-09-16 12:22:18,open,1509_followup_1_palm_beach_pool__v0,1509,followup,1,palm_beach_pool__v0,"172.226.190.30, 172.71.156.162",Mozilla/5.0
