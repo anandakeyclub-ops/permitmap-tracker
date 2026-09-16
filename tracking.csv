@@ -4533,3 +4533,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-15 23:11:07,open,531_first_outreach_pasco_hvac__v1,531,first,outreach,pasco_hvac__v1,"172.226.188.12, 172.68.12.76",Mozilla/5.0
 2026-09-16 00:07:43,open,2896_followup_1_miami_dade_plumbing__v0,2896,followup,1,miami_dade_plumbing__v0,"174.176.225.241, 104.22.160.39",Mozilla/5.0
 2026-09-16 00:48:35,open,487_followup_1_lee_solar__v0,487,followup,1,lee_solar__v0,"104.28.132.113, 172.68.12.77",Mozilla/5.0
+2026-09-16 01:11:25,open,1560_followup_1_lee_hvac__v1,1560,followup,1,lee_hvac__v1,"172.226.188.24, 104.22.160.49",Mozilla/5.0
+2026-09-16 01:11:25,open,1564_followup_1_lee_hvac__v1,1564,followup,1,lee_hvac__v1,"172.226.188.24, 104.22.160.49",Mozilla/5.0
+2026-09-16 01:11:25,open,1569_followup_1_lee_hvac__v0,1569,followup,1,lee_hvac__v0,"172.226.188.24, 104.22.160.49",Mozilla/5.0
+2026-09-16 01:11:25,open,484_followup_1_lee_solar__v1,484,followup,1,lee_solar__v1,"172.226.188.24, 104.22.160.49",Mozilla/5.0
+2026-09-16 01:11:25,open,485_followup_1_lee_solar__v1,485,followup,1,lee_solar__v1,"172.226.188.24, 104.22.160.49",Mozilla/5.0
