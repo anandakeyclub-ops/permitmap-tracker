@@ -4541,3 +4541,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 01:11:26,open,1467_followup_2_palm_beach_roofing__v1,1467,followup,2,palm_beach_roofing__v1,"172.226.188.24, 172.70.82.34",Mozilla/5.0
 2026-09-16 01:11:26,open,426_followup_2_lee_roofing__v0,426,followup,2,lee_roofing__v0,"172.226.188.24, 172.70.82.94",Mozilla/5.0
 2026-09-16 01:11:27,open,1459_followup_2_palm_beach_roofing__v0,1459,followup,2,palm_beach_roofing__v0,"172.226.188.24, 172.70.82.34",Mozilla/5.0
+2026-09-16 01:32:12,open,571_followup_1_pasco_solar__v0,571,followup,1,pasco_solar__v0,"172.226.190.16, 104.22.160.69",Mozilla/5.0
+2026-09-16 01:32:12,open,559_followup_1_pasco_pool__v0,559,followup,1,pasco_pool__v0,"172.226.190.16, 104.22.160.39",Mozilla/5.0
+2026-09-16 01:32:12,open,551_followup_1_pasco_plumbing__v0,551,followup,1,pasco_plumbing__v0,"172.226.190.16, 104.22.160.69",Mozilla/5.0
+2026-09-16 01:32:12,open,560_followup_1_pasco_pool__v0,560,followup,1,pasco_pool__v0,"172.226.190.16, 172.70.82.94",Mozilla/5.0
+2026-09-16 01:32:12,open,569_followup_1_pasco_pool__v1,569,followup,1,pasco_pool__v1,"172.226.190.16, 172.70.82.94",Mozilla/5.0
