@@ -4562,3 +4562,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 03:25:05,open,3063_followup_1_martin_general_contractor__v0,3063,followup,1,martin_general_contractor__v0,"140.248.44.1, 104.22.87.6",Mozilla/5.0
 2026-09-16 08:04:25,open,3052_followup_1_palm_beach_general_contractor__v1,3052,followup,1,palm_beach_general_contractor__v1,"104.28.132.113, 104.22.160.42",Mozilla/5.0
 2026-09-16 08:13:24,open,684_close_email_osceola_hvac__v2,684,close,email,osceola_hvac__v2,"140.248.44.1, 104.22.160.69",Mozilla/5.0
+2026-09-16 10:21:08,open,319_close_email_palm_beach_solar__v1,319,close,email,palm_beach_solar__v1,"172.226.190.8, 172.70.82.93",Mozilla/5.0
