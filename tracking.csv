@@ -4634,3 +4634,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-17 12:18:57,click,1716_followup_1_polk_general_contractor__v1,1716,followup,1,polk_general_contractor__v1,"74.179.70.11, 162.159.120.132","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
 2026-09-17 12:27:59,open,1545_followup_1_lee_roofing__v1,1545,followup,1,lee_roofing__v1,"140.248.0.1, 104.22.160.41",Mozilla/5.0
 2026-09-17 12:28:49,open,3063_followup_1_martin_general_contractor__v0,3063,followup,1,martin_general_contractor__v0,"140.248.44.1, 104.23.248.113",Mozilla/5.0
+2026-09-17 13:13:10,open,1678_first_outreach_polk_roofing__v1,1678,first,outreach,polk_roofing__v1,"172.56.102.0, 108.162.210.231","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-09-17 13:13:10,open,1678_first_outreach_polk_roofing__v1,1678,first,outreach,polk_roofing__v1,"172.56.102.0, 104.22.87.5","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
