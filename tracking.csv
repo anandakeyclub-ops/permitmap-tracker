@@ -4639,3 +4639,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-17 13:26:14,open,1696_first_outreach_polk_hvac__v0,1696,first,outreach,polk_hvac__v0,"140.248.44.0, 104.22.87.5",Mozilla/5.0
 2026-09-17 13:26:51,click,1696_first_outreach_polk_hvac__v0,1696,first,outreach,polk_hvac__v0,"174.212.34.57, 104.23.248.21","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1"
 2026-09-17 14:03:55,open,3061_followup_1_martin_general_contractor__v0,3061,followup,1,martin_general_contractor__v0,"104.28.85.125, 172.70.255.245",Mozilla/5.0
+2026-09-17 16:26:04,open,3128_followup_1_lee_general_contractor__v1,3128,followup,1,lee_general_contractor__v1,"146.75.234.48, 104.22.160.27",Mozilla/5.0
