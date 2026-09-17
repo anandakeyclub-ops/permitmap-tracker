@@ -4675,3 +4675,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-17 17:17:40,open,2451_first_outreach_lee_pool__v0,2451,first,outreach,lee_pool__v0,"73.55.84.209, 104.22.86.118","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
 2026-09-17 17:24:03,open,2391_first_outreach_martin_general_contractor__v1,2391,first,outreach,martin_general_contractor__v1,"140.248.44.0, 172.70.82.33",Mozilla/5.0
 2026-09-17 17:41:40,open,2441_first_outreach_lee_plumbing__v0,2441,first,outreach,lee_plumbing__v0,"37.19.199.138, 104.22.160.39",Mozilla/5.0
+2026-09-17 17:47:54,open,1546_followup_1_lee_roofing__v0,1546,followup,1,lee_roofing__v0,"140.248.44.0, 104.22.160.49",Mozilla/5.0
