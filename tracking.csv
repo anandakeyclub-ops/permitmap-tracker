@@ -4618,3 +4618,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-16 21:30:37,click,598_first_outreach_polk_roofing__v0,598,first,outreach,polk_roofing__v0,"9.169.121.179, 172.70.38.230","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
 2026-09-16 22:14:11,open,2383_first_outreach_palm_beach_general_contractor__v1,2383,first,outreach,palm_beach_general_contractor__v1,"146.75.164.0, 172.71.166.31",Mozilla/5.0
 2026-09-16 23:22:05,open,2428_first_outreach_lee_hvac__v1,2428,first,outreach,lee_hvac__v1,"172.226.190.8, 104.22.160.34",Mozilla/5.0
+2026-09-17 10:20:27,open,3685_first_outreach_lee_plumbing__v1,3685,first,outreach,lee_plumbing__v1,"50.245.69.94, 104.22.87.6",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
