@@ -4738,3 +4738,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 14:48:04,open,3523_followup_1_miami_dade_general_contractor__v1,3523,followup,1,miami_dade_general_contractor__v1,"172.226.188.17, 172.70.82.94",Mozilla/5.0
 2026-09-18 14:48:04,open,3125_followup_1_lee_general_contractor__v1,3125,followup,1,lee_general_contractor__v1,"172.226.188.17, 172.70.82.94",Mozilla/5.0
 2026-09-18 14:48:04,open,3123_followup_1_lee_general_contractor__v1,3123,followup,1,lee_general_contractor__v1,"172.226.188.17, 172.70.82.94",Mozilla/5.0
+2026-09-18 14:58:45,open,664_first_outreach_polk_general_contractor__v1,664,first,outreach,polk_general_contractor__v1,"66.102.7.38, 172.71.166.151",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
