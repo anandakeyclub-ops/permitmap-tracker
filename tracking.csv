@@ -4730,3 +4730,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 11:56:14,click,3172_first_outreach_polk_general_contractor__v1,3172,first,outreach,polk_general_contractor__v1,"172.252.65.105, 104.22.102.13","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
 2026-09-18 11:57:27,open,1598_followup_1_lee_pool__v0,1598,followup,1,lee_pool__v0,"172.226.190.14, 104.22.87.6",Mozilla/5.0
 2026-09-18 13:01:00,open,3172_first_outreach_polk_general_contractor__v1,3172,first,outreach,polk_general_contractor__v1,"72.17.77.138, 104.22.160.29",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-09-18 14:46:49,open,1736_first_outreach_osceola_general_contractor__v0,1736,first,outreach,osceola_general_contractor__v0,"140.248.44.0, 104.22.87.6",Mozilla/5.0
+2026-09-18 14:48:04,open,1546_followup_1_lee_roofing__v0,1546,followup,1,lee_roofing__v0,"172.226.188.17, 104.22.160.3",Mozilla/5.0
+2026-09-18 14:48:04,open,2045_followup_1_sarasota_roofing__v1,2045,followup,1,sarasota_roofing__v1,"172.226.188.17, 104.22.160.3",Mozilla/5.0
+2026-09-18 14:48:04,open,1548_followup_1_lee_roofing__v1,1548,followup,1,lee_roofing__v1,"172.226.188.17, 104.22.160.3",Mozilla/5.0
+2026-09-18 14:48:04,open,3117_followup_1_lee_general_contractor__v1,3117,followup,1,lee_general_contractor__v1,"172.226.188.17, 104.22.160.3",Mozilla/5.0
