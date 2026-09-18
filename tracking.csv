@@ -4784,3 +4784,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 18:58:01,open,1594_followup_1_lee_pool__v0,1594,followup,1,lee_pool__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
 2026-09-18 18:58:01,open,425_close_email_lee_roofing__v0,425,close,email,lee_roofing__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
 2026-09-18 18:58:01,open,1582_followup_1_lee_plumbing__v0,1582,followup,1,lee_plumbing__v0,"104.28.132.113, 104.23.248.112",Mozilla/5.0
+2026-09-18 19:54:25,open,117_first_outreach_palm_beach_roofing__v1,117,first,outreach,palm_beach_roofing__v1,"74.125.210.11, 104.23.245.76",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
