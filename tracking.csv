@@ -4695,3 +4695,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 01:34:49,open,1717_followup_1_polk_general_contractor__v1,1717,followup,1,polk_general_contractor__v1,"172.226.188.14, 104.22.160.57",Mozilla/5.0
 2026-09-18 01:34:49,open,1719_followup_1_polk_general_contractor__v0,1719,followup,1,polk_general_contractor__v0,"172.226.188.14, 104.22.160.57",Mozilla/5.0
 2026-09-18 01:34:49,open,665_followup_2_polk_general_contractor__v0,665,followup,2,polk_general_contractor__v0,"172.226.188.14, 104.22.160.57",Mozilla/5.0
+2026-09-18 01:34:50,open,3122_followup_1_lee_general_contractor__v0,3122,followup,1,lee_general_contractor__v0,"172.226.188.14, 172.68.12.91",Mozilla/5.0
+2026-09-18 01:34:50,open,3129_followup_1_lee_general_contractor__v0,3129,followup,1,lee_general_contractor__v0,"172.226.188.14, 172.68.12.90",Mozilla/5.0
