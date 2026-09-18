@@ -4778,3 +4778,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 17:31:24,open,3493_followup_1_miami_dade_hvac__v1,3493,followup,1,miami_dade_hvac__v1,"172.226.3.172, 162.158.187.93",Mozilla/5.0
 2026-09-18 17:39:33,open,3_first_outreach_palm_beach_roofing__v1,3,first,outreach,palm_beach_roofing__v1,"142.250.32.8, 104.22.160.57",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-18 17:45:29,open,3486_followup_1_miami_dade_hvac__v0,3486,followup,1,miami_dade_hvac__v0,"172.226.190.10, 172.70.82.93",Mozilla/5.0
+2026-09-18 18:28:33,open,1554_followup_1_lee_roofing__v1,1554,followup,1,lee_roofing__v1,"146.75.234.48, 104.22.118.49",Mozilla/5.0
