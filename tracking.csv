@@ -4701,3 +4701,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 11:50:01,click,424_close_email_lee_roofing__v1,424,close,email,lee_roofing__v1,"135.232.20.35, 104.22.93.11","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36"
 2026-09-18 11:50:15,open,1577_followup_1_lee_plumbing__v1,1577,followup,1,lee_plumbing__v1,"135.232.20.8, 104.22.160.69","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-18 11:50:25,click,1577_followup_1_lee_plumbing__v1,1577,followup,1,lee_plumbing__v1,"135.232.20.8, 104.23.209.219","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-09-18 11:50:55,click,424_close_email_lee_roofing__v1,424,close,email,lee_roofing__v1,"34.197.67.5, 104.23.211.209",Go-http-client/2.0
