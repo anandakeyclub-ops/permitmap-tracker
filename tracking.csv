@@ -4735,3 +4735,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 14:48:04,open,2045_followup_1_sarasota_roofing__v1,2045,followup,1,sarasota_roofing__v1,"172.226.188.17, 104.22.160.3",Mozilla/5.0
 2026-09-18 14:48:04,open,1548_followup_1_lee_roofing__v1,1548,followup,1,lee_roofing__v1,"172.226.188.17, 104.22.160.3",Mozilla/5.0
 2026-09-18 14:48:04,open,3117_followup_1_lee_general_contractor__v1,3117,followup,1,lee_general_contractor__v1,"172.226.188.17, 104.22.160.3",Mozilla/5.0
+2026-09-18 14:48:04,open,3523_followup_1_miami_dade_general_contractor__v1,3523,followup,1,miami_dade_general_contractor__v1,"172.226.188.17, 172.70.82.94",Mozilla/5.0
+2026-09-18 14:48:04,open,3125_followup_1_lee_general_contractor__v1,3125,followup,1,lee_general_contractor__v1,"172.226.188.17, 172.70.82.94",Mozilla/5.0
+2026-09-18 14:48:04,open,3123_followup_1_lee_general_contractor__v1,3123,followup,1,lee_general_contractor__v1,"172.226.188.17, 172.70.82.94",Mozilla/5.0
