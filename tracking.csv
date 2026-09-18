@@ -4689,3 +4689,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 00:36:30,open,2499_followup_2_pasco_general_contractor__v1,2499,followup,2,pasco_general_contractor__v1,"172.226.190.7, 104.22.160.39",Mozilla/5.0
 2026-09-18 00:36:30,open,2497_followup_2_pasco_general_contractor__v0,2497,followup,2,pasco_general_contractor__v0,"172.226.190.7, 104.22.160.39",Mozilla/5.0
 2026-09-18 00:36:31,open,2495_followup_2_pasco_general_contractor__v0,2495,followup,2,pasco_general_contractor__v0,"172.226.190.7, 104.22.87.6",Mozilla/5.0
+2026-09-18 01:34:49,open,604_followup_2_polk_roofing__v1,604,followup,2,polk_roofing__v1,"172.226.188.14, 104.22.160.57",Mozilla/5.0
+2026-09-18 01:34:49,open,1722_followup_1_polk_general_contractor__v0,1722,followup,1,polk_general_contractor__v0,"172.226.188.14, 104.22.160.57",Mozilla/5.0
+2026-09-18 01:34:49,open,1709_followup_1_polk_general_contractor__v1,1709,followup,1,polk_general_contractor__v1,"172.226.188.14, 104.22.160.57",Mozilla/5.0
+2026-09-18 01:34:49,open,1717_followup_1_polk_general_contractor__v1,1717,followup,1,polk_general_contractor__v1,"172.226.188.14, 104.22.160.57",Mozilla/5.0
+2026-09-18 01:34:49,open,1719_followup_1_polk_general_contractor__v0,1719,followup,1,polk_general_contractor__v0,"172.226.188.14, 104.22.160.57",Mozilla/5.0
+2026-09-18 01:34:49,open,665_followup_2_polk_general_contractor__v0,665,followup,2,polk_general_contractor__v0,"172.226.188.14, 104.22.160.57",Mozilla/5.0
