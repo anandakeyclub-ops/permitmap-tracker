@@ -4775,3 +4775,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 17:08:06,open,2545_first_outreach_osceola_general_contractor__v1,2545,first,outreach,osceola_general_contractor__v1,"66.249.92.192, 104.22.100.158","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-09-18 17:08:23,open,2551_first_outreach_osceola_general_contractor__v1,2551,first,outreach,osceola_general_contractor__v1,"66.249.92.206, 104.23.209.4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-09-18 17:15:56,open,66_first_outreach_martin_hvac__v0,66,first,outreach,martin_hvac__v0,"172.226.188.8, 104.22.160.68",Mozilla/5.0
+2026-09-18 17:31:24,open,3493_followup_1_miami_dade_hvac__v1,3493,followup,1,miami_dade_hvac__v1,"172.226.3.172, 162.158.187.93",Mozilla/5.0
