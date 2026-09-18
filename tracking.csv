@@ -4740,3 +4740,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 14:48:04,open,3123_followup_1_lee_general_contractor__v1,3123,followup,1,lee_general_contractor__v1,"172.226.188.17, 172.70.82.94",Mozilla/5.0
 2026-09-18 14:58:45,open,664_first_outreach_polk_general_contractor__v1,664,first,outreach,polk_general_contractor__v1,"66.102.7.38, 172.71.166.151",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-18 15:05:35,open,658_first_outreach_polk_general_contractor__v0,658,first,outreach,polk_general_contractor__v0,"73.27.144.5, 104.22.160.69","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+2026-09-18 15:28:23,open,2440_first_outreach_lee_plumbing__v1,2440,first,outreach,lee_plumbing__v1,"104.28.39.128, 162.158.10.172",Mozilla/5.0
