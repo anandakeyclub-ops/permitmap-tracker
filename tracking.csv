@@ -4789,3 +4789,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-18 22:43:44,open,3486_followup_1_miami_dade_hvac__v0,3486,followup,1,miami_dade_hvac__v0,"172.226.188.57, 104.22.160.69",Mozilla/5.0
 2026-09-18 22:54:53,open,60_first_outreach_martin_roofing__v0,60,first,outreach,martin_roofing__v0,"69.147.86.138, 172.70.94.27",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-09-18 23:30:17,open,0_first_outreach_palm_beach_roofing__v1,0,first,outreach,palm_beach_roofing__v1,"172.226.188.8, 104.23.248.113",Mozilla/5.0
+2026-09-19 01:10:00,open,419_close_email_martin_general_contractor__v1,419,close,email,martin_general_contractor__v1,"172.226.188.21, 104.22.160.39",Mozilla/5.0
+2026-09-19 01:10:00,open,3497_followup_1_miami_dade_hvac__v1,3497,followup,1,miami_dade_hvac__v1,"172.226.188.21, 104.22.160.39",Mozilla/5.0
+2026-09-19 01:10:00,open,3493_followup_1_miami_dade_hvac__v1,3493,followup,1,miami_dade_hvac__v1,"172.226.188.21, 104.22.160.39",Mozilla/5.0
+2026-09-19 01:10:00,open,3498_followup_1_miami_dade_hvac__v1,3498,followup,1,miami_dade_hvac__v1,"172.226.188.21, 104.22.160.39",Mozilla/5.0
+2026-09-19 01:10:00,open,3494_followup_1_miami_dade_hvac__v1,3494,followup,1,miami_dade_hvac__v1,"172.226.188.21, 172.70.82.94",Mozilla/5.0
