@@ -4799,3 +4799,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-19 01:10:00,open,415_close_email_martin_general_contractor__v1,415,close,email,martin_general_contractor__v1,"172.226.188.21, 172.70.82.93",Mozilla/5.0
 2026-09-19 01:10:00,open,3495_followup_1_miami_dade_hvac__v1,3495,followup,1,miami_dade_hvac__v1,"172.226.188.21, 172.70.82.93",Mozilla/5.0
 2026-09-19 02:56:43,open,2385_first_outreach_palm_beach_general_contractor__v0,2385,first,outreach,palm_beach_general_contractor__v0,"189.163.199.49, 162.158.174.40",Mozilla/5.0
+2026-09-19 06:39:40,open,684_close_email_osceola_hvac__v2,684,close,email,osceola_hvac__v2,"140.248.44.1, 104.22.160.57",Mozilla/5.0
