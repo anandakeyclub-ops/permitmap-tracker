@@ -4794,3 +4794,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-19 01:10:00,open,3493_followup_1_miami_dade_hvac__v1,3493,followup,1,miami_dade_hvac__v1,"172.226.188.21, 104.22.160.39",Mozilla/5.0
 2026-09-19 01:10:00,open,3498_followup_1_miami_dade_hvac__v1,3498,followup,1,miami_dade_hvac__v1,"172.226.188.21, 104.22.160.39",Mozilla/5.0
 2026-09-19 01:10:00,open,3494_followup_1_miami_dade_hvac__v1,3494,followup,1,miami_dade_hvac__v1,"172.226.188.21, 172.70.82.94",Mozilla/5.0
+2026-09-19 01:10:00,open,3496_followup_1_miami_dade_hvac__v0,3496,followup,1,miami_dade_hvac__v0,"172.226.188.21, 172.70.82.94",Mozilla/5.0
+2026-09-19 01:10:00,open,418_close_email_martin_general_contractor__v0,418,close,email,martin_general_contractor__v0,"172.226.188.21, 172.70.82.93",Mozilla/5.0
+2026-09-19 01:10:00,open,415_close_email_martin_general_contractor__v1,415,close,email,martin_general_contractor__v1,"172.226.188.21, 172.70.82.93",Mozilla/5.0
+2026-09-19 01:10:00,open,3495_followup_1_miami_dade_hvac__v1,3495,followup,1,miami_dade_hvac__v1,"172.226.188.21, 172.70.82.93",Mozilla/5.0
