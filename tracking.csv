@@ -28,3 +28,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-19 17:16:02,open,1464_close_email_palm_beach_roofing__v1,1464,close,email,palm_beach_roofing__v1,"66.249.92.142, 104.22.104.93","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-09-19 17:16:11,open,1467_close_email_palm_beach_roofing__v1,1467,close,email,palm_beach_roofing__v1,"66.249.92.206, 104.23.209.4","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-09-19 17:23:19,open,20_first_outreach_palm_beach_plumbing__v0,20,first,outreach,palm_beach_plumbing__v0,"172.226.190.59, 104.22.160.57",Mozilla/5.0
+2026-09-19 17:29:02,open,1455_close_email_palm_beach_roofing__v1,1455,close,email,palm_beach_roofing__v1,"146.75.136.0, 172.71.151.191",Mozilla/5.0
