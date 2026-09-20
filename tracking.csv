@@ -46,3 +46,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-20 11:23:53,open,3670_first_outreach_lee_hvac__v0,3670,first,outreach,lee_hvac__v0,"71.208.28.44, 104.22.87.5",Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:156.0) Gecko/20100101 Firefox/156.0
 2026-09-20 11:30:11,open,3670_first_outreach_lee_hvac__v0,3670,first,outreach,lee_hvac__v0,"71.208.28.44, 104.22.160.57",Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:156.0) Gecko/20100101 Firefox/156.0
 2026-09-20 15:49:49,open,47_close_email_palm_beach_general_contractor__v2,47,close,email,palm_beach_general_contractor__v2,"140.248.44.1, 104.22.160.34",Mozilla/5.0
+2026-09-20 16:22:07,open,1679_first_outreach_polk_roofing__v1,1679,first,outreach,polk_roofing__v1,"104.28.103.14, 172.68.71.84",Mozilla/5.0
