@@ -42,3 +42,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-19 22:15:24,open,80_first_outreach_martin_plumbing__v0,80,first,outreach,martin_plumbing__v0,"74.125.210.1, 172.71.22.182",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-19 23:34:21,open,160_first_outreach_palm_beach_pool__v1,160,first,outreach,palm_beach_pool__v1,"24.238.3.54, 104.22.87.5","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
 2026-09-20 00:36:26,open,58_close_email_martin_roofing,58,close,email,martin_roofing,"172.226.190.8, 104.22.160.39",Mozilla/5.0
+2026-09-20 07:49:57,open,1455_close_email_palm_beach_roofing__v1,1455,close,email,palm_beach_roofing__v1,"172.224.243.7, 172.68.22.24",Mozilla/5.0
