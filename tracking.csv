@@ -164,3 +164,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-21 23:28:27,open,1515_followup_2_palm_beach_general_contractor__v0,1515,followup,2,palm_beach_general_contractor__v0,"104.28.57.243, 172.71.151.195",Mozilla/5.0
 2026-09-21 23:28:27,open,1493_followup_2_palm_beach_plumbing__v0,1493,followup,2,palm_beach_plumbing__v0,"104.28.57.243, 172.71.151.191",Mozilla/5.0
 2026-09-21 23:28:27,open,3000_followup_2_palm_beach_roofing__v0,3000,followup,2,palm_beach_roofing__v0,"104.28.57.243, 172.71.151.195",Mozilla/5.0
+2026-09-21 23:28:27,open,1514_followup_2_palm_beach_general_contractor__v1,1514,followup,2,palm_beach_general_contractor__v1,"104.28.57.243, 108.162.210.231",Mozilla/5.0
+2026-09-21 23:28:28,open,1495_followup_2_palm_beach_plumbing__v1,1495,followup,2,palm_beach_plumbing__v1,"104.28.57.243, 108.162.210.231",Mozilla/5.0
+2026-09-21 23:28:28,open,1498_followup_2_palm_beach_pool__v1,1498,followup,2,palm_beach_pool__v1,"104.28.57.243, 108.162.210.231",Mozilla/5.0
+2026-09-21 23:28:28,open,1489_followup_2_palm_beach_plumbing__v1,1489,followup,2,palm_beach_plumbing__v1,"104.28.57.243, 108.162.210.231",Mozilla/5.0
