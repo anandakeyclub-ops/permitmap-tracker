@@ -69,3 +69,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-21 11:55:20,click,3016_followup_2_palm_beach_hvac__v1,3016,followup,2,palm_beach_hvac__v1,"135.232.20.12, 104.22.160.49","Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
 2026-09-21 12:48:22,open,2997_followup_2_palm_beach_roofing__v1,2997,followup,2,palm_beach_roofing__v1,"104.28.132.113, 104.22.87.6",Mozilla/5.0
 2026-09-21 12:55:37,open,3008_followup_2_palm_beach_roofing__v0,3008,followup,2,palm_beach_roofing__v0,"140.248.44.1, 104.22.87.5",Mozilla/5.0
+2026-09-21 13:07:59,open,2422_first_outreach_lee_hvac__v1,2422,first,outreach,lee_hvac__v1,"172.226.188.39, 172.68.12.90",Mozilla/5.0
