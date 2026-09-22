@@ -230,3 +230,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-22 13:40:24,open,1482_followup_2_palm_beach_hvac__v0,1482,followup,2,palm_beach_hvac__v0,"104.28.57.248, 172.71.151.192",Mozilla/5.0
 2026-09-22 13:40:24,open,1509_followup_2_palm_beach_pool__v0,1509,followup,2,palm_beach_pool__v0,"104.28.57.248, 172.70.82.93",Mozilla/5.0
 2026-09-22 13:40:24,open,1502_followup_2_palm_beach_pool__v1,1502,followup,2,palm_beach_pool__v1,"104.28.57.248, 172.70.82.94",Mozilla/5.0
+2026-09-22 15:53:12,open,3601_followup_1_palm_beach_hvac__v0,3601,followup,1,palm_beach_hvac__v0,"104.28.132.113, 172.71.151.195",Mozilla/5.0
+2026-09-22 15:53:12,open,3608_followup_1_palm_beach_plumbing__v0,3608,followup,1,palm_beach_plumbing__v0,"104.28.132.113, 172.71.151.196",Mozilla/5.0
+2026-09-22 15:53:12,open,3519_followup_2_miami_dade_general_contractor__v0,3519,followup,2,miami_dade_general_contractor__v0,"104.28.132.113, 172.71.151.196",Mozilla/5.0
+2026-09-22 15:53:12,open,3515_followup_2_miami_dade_general_contractor__v1,3515,followup,2,miami_dade_general_contractor__v1,"104.28.132.113, 172.71.151.182",Mozilla/5.0
+2026-09-22 15:53:12,open,4083_followup_1_miami_dade_general_contractor__v1,4083,followup,1,miami_dade_general_contractor__v1,"104.28.132.113, 172.71.151.195",Mozilla/5.0
