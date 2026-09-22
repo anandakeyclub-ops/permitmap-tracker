@@ -223,3 +223,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-22 13:08:29,open,214_first_outreach_martin_plumbing__v0,214,first,outreach,martin_plumbing__v0,"74.125.213.36, 108.162.238.71",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-22 13:08:34,click,214_first_outreach_martin_plumbing__v0,214,first,outreach,martin_plumbing__v0,"104.184.199.77, 172.71.151.196","Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
 2026-09-22 13:20:18,open,230_first_outreach_martin_pool__v1,230,first,outreach,martin_pool__v1,"74.125.210.8, 172.71.151.182",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-09-22 13:40:24,open,1490_followup_2_palm_beach_plumbing__v1,1490,followup,2,palm_beach_plumbing__v1,"104.28.57.248, 172.71.151.191",Mozilla/5.0
+2026-09-22 13:40:24,open,1477_followup_2_palm_beach_hvac__v1,1477,followup,2,palm_beach_hvac__v1,"104.28.57.248, 172.71.151.192",Mozilla/5.0
+2026-09-22 13:40:24,open,1506_followup_2_palm_beach_pool__v1,1506,followup,2,palm_beach_pool__v1,"104.28.57.248, 172.71.151.192",Mozilla/5.0
+2026-09-22 13:40:24,open,1472_followup_2_palm_beach_hvac__v0,1472,followup,2,palm_beach_hvac__v0,"104.28.57.248, 172.71.151.192",Mozilla/5.0
+2026-09-22 13:40:24,open,1482_followup_2_palm_beach_hvac__v0,1482,followup,2,palm_beach_hvac__v0,"104.28.57.248, 172.71.151.192",Mozilla/5.0
