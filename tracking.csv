@@ -266,3 +266,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-22 21:14:15,open,1564_followup_2_lee_hvac__v1,1564,followup,2,lee_hvac__v1,"140.248.44.0, 104.23.248.20",Mozilla/5.0
 2026-09-22 21:17:05,open,3088_followup_2_lee_hvac__v1,3088,followup,2,lee_hvac__v1,"3.234.229.252, 104.22.104.93","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 2026-09-22 21:20:38,open,1564_followup_2_lee_hvac__v1,1564,followup,2,lee_hvac__v1,"140.248.44.0, 104.22.86.119",Mozilla/5.0
+2026-09-22 21:34:38,open,1564_followup_2_lee_hvac__v1,1564,followup,2,lee_hvac__v1,"140.248.44.0, 172.71.151.195",Mozilla/5.0
