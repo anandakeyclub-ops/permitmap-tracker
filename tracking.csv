@@ -177,3 +177,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-22 02:40:52,open,3610_followup_1_palm_beach_plumbing__v0,3610,followup,1,palm_beach_plumbing__v0,"172.226.188.5, 172.71.151.195",Mozilla/5.0
 2026-09-22 05:45:34,open,3016_followup_2_palm_beach_hvac__v1,3016,followup,2,palm_beach_hvac__v1,"104.28.132.113, 172.71.151.195",Mozilla/5.0
 2026-09-22 09:54:39,open,4192_first_outreach_palm_beach_plumbing__v1,4192,first,outreach,palm_beach_plumbing__v1,"162.206.16.119, 172.71.151.196",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-09-22 10:00:48,open,1475_followup_1_palm_beach_hvac__v1,1475,followup,1,palm_beach_hvac__v1,"140.248.44.1, 172.71.151.195",Mozilla/5.0
