@@ -262,3 +262,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-22 18:42:42,open,451_close_email_lee_plumbing__v0,451,close,email,lee_plumbing__v0,"74.125.210.8, 104.22.56.72",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-22 19:09:12,open,3008_followup_2_palm_beach_roofing__v0,3008,followup,2,palm_beach_roofing__v0,"104.28.132.113, 172.71.151.182",Mozilla/5.0
 2026-09-22 19:37:21,open,2371_first_outreach_palm_beach_pool__v1,2371,first,outreach,palm_beach_pool__v1,"2a06:98c0:3600::103,172.68.245.151, 172.68.245.4",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-09-22 20:19:47,open,498_followup_2_lee_general_contractor__v1,498,followup,2,lee_general_contractor__v1,"2a06:98c0:3600::103,172.71.203.97, 172.71.151.192",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
