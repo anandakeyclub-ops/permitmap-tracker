@@ -270,3 +270,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-22 21:45:49,open,2013_close_email_pinellas_pool__v2,2013,close,email,pinellas_pool__v2,"104.28.132.113, 172.70.82.93",Mozilla/5.0
 2026-09-22 21:50:53,open,1564_followup_2_lee_hvac__v1,1564,followup,2,lee_hvac__v1,"140.248.44.1, 172.71.151.191",Mozilla/5.0
 2026-09-22 21:53:07,open,1564_followup_2_lee_hvac__v1,1564,followup,2,lee_hvac__v1,"104.28.132.113, 104.23.248.113",Mozilla/5.0
+2026-09-22 22:16:42,open,488_followup_2_lee_solar__v1,488,followup,2,lee_solar__v1,"104.28.132.113, 172.71.151.195",Mozilla/5.0
