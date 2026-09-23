@@ -291,3 +291,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-23 02:08:15,open,3057_followup_2_martin_general_contractor__v1,3057,followup,2,martin_general_contractor__v1,"140.248.44.0, 172.71.151.181",Mozilla/5.0
 2026-09-23 02:19:04,open,1545_followup_2_lee_roofing__v1,1545,followup,2,lee_roofing__v1,"146.75.232.1, 172.71.151.196",Mozilla/5.0
 2026-09-23 02:34:18,open,3088_followup_2_lee_hvac__v1,3088,followup,2,lee_hvac__v1,"140.248.44.1, 172.70.82.93",Mozilla/5.0
+2026-09-23 02:58:41,open,3120_followup_2_lee_general_contractor__v1,3120,followup,2,lee_general_contractor__v1,"104.28.132.113, 172.71.151.191",Mozilla/5.0
