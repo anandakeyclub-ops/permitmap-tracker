@@ -286,3 +286,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-23 00:36:32,open,487_followup_2_lee_solar__v0,487,followup,2,lee_solar__v0,"172.226.190.50, 172.71.151.192",Mozilla/5.0
 2026-09-23 00:58:47,open,3063_followup_2_martin_general_contractor__v0,3063,followup,2,martin_general_contractor__v0,"172.225.246.51, 172.71.151.195",Mozilla/5.0
 2026-09-23 01:14:52,open,509_followup_2_lee_general_contractor__v1,509,followup,2,lee_general_contractor__v1,"172.226.190.32, 172.71.151.195",Mozilla/5.0
+2026-09-23 01:20:33,open,2422_followup_1_lee_hvac__v1,2422,followup,1,lee_hvac__v1,"172.226.188.21, 172.71.151.192",Mozilla/5.0
