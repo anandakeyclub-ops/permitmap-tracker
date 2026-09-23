@@ -452,3 +452,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-23 17:53:57,click,reel_v1_threejobsmissedreel_record_0417af1f72ca8bd2,reel,v1,threejobsmissedreel,record_0417af1f72ca8bd2,"35.87.23.226, 104.22.72.32","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
 2026-09-23 17:54:03,click,reel_v1_threejobsmissedreel_record_0417af1f72ca8bd2,reel,v1,threejobsmissedreel,record_0417af1f72ca8bd2,"35.87.23.226, 162.159.120.133","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
 2026-09-23 17:54:47,click,reel_v1_threejobsmissedreel_record_0417af1f72ca8bd2,reel,v1,threejobsmissedreel,record_0417af1f72ca8bd2,"173.252.87.6, 172.69.65.22",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+2026-09-23 18:06:50,open,500_followup_2_lee_general_contractor__v0,500,followup,2,lee_general_contractor__v0,"104.28.132.113, 172.71.151.21",Mozilla/5.0
+2026-09-23 18:06:50,open,481_followup_2_lee_solar__v0,481,followup,2,lee_solar__v0,"104.28.132.113, 172.71.151.21",Mozilla/5.0
+2026-09-23 18:06:50,open,462_close_email_lee_plumbing__v0,462,close,email,lee_plumbing__v0,"104.28.132.113, 172.71.151.22",Mozilla/5.0
+2026-09-23 18:06:50,open,478_followup_2_lee_pool__v0,478,followup,2,lee_pool__v0,"104.28.132.113, 172.71.151.22",Mozilla/5.0
+2026-09-23 18:06:50,open,485_followup_2_lee_solar__v1,485,followup,2,lee_solar__v1,"104.28.132.113, 172.71.151.22",Mozilla/5.0
