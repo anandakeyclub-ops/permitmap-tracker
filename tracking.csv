@@ -457,3 +457,6 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-23 18:06:50,open,462_close_email_lee_plumbing__v0,462,close,email,lee_plumbing__v0,"104.28.132.113, 172.71.151.22",Mozilla/5.0
 2026-09-23 18:06:50,open,478_followup_2_lee_pool__v0,478,followup,2,lee_pool__v0,"104.28.132.113, 172.71.151.22",Mozilla/5.0
 2026-09-23 18:06:50,open,485_followup_2_lee_solar__v1,485,followup,2,lee_solar__v1,"104.28.132.113, 172.71.151.22",Mozilla/5.0
+2026-09-23 18:06:51,open,434_close_email_lee_roofing__v1,434,close,email,lee_roofing__v1,"104.28.132.113, 172.68.12.77",Mozilla/5.0
+2026-09-23 18:06:51,open,4131_followup_1_charlotte_hvac__v1,4131,followup,1,charlotte_hvac__v1,"104.28.132.113, 172.68.12.77",Mozilla/5.0
+2026-09-23 18:06:51,open,486_followup_2_lee_solar__v0,486,followup,2,lee_solar__v0,"104.28.132.113, 172.68.12.77",Mozilla/5.0
