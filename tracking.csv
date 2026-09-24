@@ -465,3 +465,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-23 22:18:10,click,reel_v1_threejobsmissedreel_record_0417af1f72ca8bd2,reel,v1,threejobsmissedreel,record_0417af1f72ca8bd2,"66.249.66.32, 104.23.211.208",Googlebot-Image/1.0
 2026-09-23 22:45:01,open,2431_followup_1_lee_hvac__v0,2431,followup,1,lee_hvac__v0,"140.248.44.0, 104.23.248.113",Mozilla/5.0
 2026-09-24 00:03:54,open,1526_followup_2_palm_beach_general_contractor__v1,1526,followup,2,palm_beach_general_contractor__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
+2026-09-24 01:52:24,open,2521_followup_1_polk_hvac__v1,2521,followup,1,polk_hvac__v1,"140.248.44.1, 172.70.82.93",Mozilla/5.0
