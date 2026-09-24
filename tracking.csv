@@ -570,3 +570,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-24 19:35:19,open,2467_followup_1_lee_general_contractor__v0,2467,followup,1,lee_general_contractor__v0,"104.28.132.113, 172.71.151.195",Mozilla/5.0
 2026-09-24 20:31:30,open,2013_followup_2_pinellas_pool__v2,2013,followup,2,pinellas_pool__v2,"172.226.190.34, 104.23.248.20",Mozilla/5.0
 2026-09-24 20:47:39,open,2432_followup_1_lee_plumbing__v0,2432,followup,1,lee_plumbing__v0,"73.28.70.243, 172.68.12.77","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+2026-09-24 21:28:51,open,515_followup_1_pasco_roofing__v0,515,followup,1,pasco_roofing__v0,"74.179.70.83, 162.159.120.133","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-24 21:29:05,click,515_followup_1_pasco_roofing__v0,515,followup,1,pasco_roofing__v0,"74.179.70.83, 172.68.22.19","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
