@@ -481,3 +481,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-24 04:47:44,open,3658_followup_1_lee_roofing__v1,3658,followup,1,lee_roofing__v1,"140.248.44.0, 108.162.210.231",Mozilla/5.0
 2026-09-24 05:34:59,open,1598_followup_2_lee_pool__v0,1598,followup,2,lee_pool__v0,"172.226.190.28, 172.71.151.196",Mozilla/5.0
 2026-09-24 11:27:40,open,2332_followup_1_palm_beach_hvac__v1,2332,followup,1,palm_beach_hvac__v1,"187.15.85.60, 104.22.10.88",Mozilla/5.0
+2026-09-24 11:52:50,open,3_followup_1_palm_beach_roofing__v1,3,followup,1,palm_beach_roofing__v1,"66.249.92.197, 104.23.213.42","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-09-24 11:52:57,open,7_followup_1_palm_beach_roofing__v1,7,followup,1,palm_beach_roofing__v1,"66.249.92.41, 104.23.209.5","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-09-24 11:53:05,open,43_followup_1_palm_beach_solar__v1,43,followup,1,palm_beach_solar__v1,"66.249.92.197, 104.23.213.168","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-09-24 11:53:06,open,40_followup_1_palm_beach_solar__v1,40,followup,1,palm_beach_solar__v1,"135.232.20.5, 172.71.151.196","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+2026-09-24 11:53:07,open,7_followup_1_palm_beach_roofing__v1,7,followup,1,palm_beach_roofing__v1,"74.125.210.10, 104.22.56.73",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
