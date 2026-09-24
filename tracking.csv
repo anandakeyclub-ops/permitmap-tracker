@@ -518,3 +518,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-24 13:55:47,open,633_first_outreach_polk_plumbing__v0,633,first,outreach,polk_plumbing__v0,"35.145.222.194, 172.68.12.76","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
 2026-09-24 13:55:47,open,633_first_outreach_polk_plumbing__v0,633,first,outreach,polk_plumbing__v0,"35.145.222.194, 172.71.151.195","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
 2026-09-24 14:34:39,open,2434_followup_1_lee_plumbing__v0,2434,followup,1,lee_plumbing__v0,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-24 16:08:18,open,2355_followup_1_palm_beach_plumbing__v1,2355,followup,1,palm_beach_plumbing__v1,"172.226.188.35, 172.68.12.77",Mozilla/5.0
