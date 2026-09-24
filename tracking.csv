@@ -587,3 +587,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-24 21:39:00,click,2017_first_outreach_pinellas_pool__v1,2017,first,outreach,pinellas_pool__v1,"135.232.20.49, 104.23.213.147","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
 2026-09-24 21:42:06,open,3151_followup_1_pasco_general_contractor__v1,3151,followup,1,pasco_general_contractor__v1,"140.248.44.0, 172.71.151.185",Mozilla/5.0
 2026-09-24 21:43:57,open,519_followup_1_pasco_roofing__v1,519,followup,1,pasco_roofing__v1,"69.147.92.219, 104.22.101.51",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-09-24 22:34:50,open,2018_first_outreach_pinellas_pool__v0,2018,first,outreach,pinellas_pool__v0,"146.75.128.1, 172.69.17.56",Mozilla/5.0
