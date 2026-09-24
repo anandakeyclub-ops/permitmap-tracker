@@ -567,3 +567,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-24 18:20:43,open,188_followup_1_martin_roofing__v0,188,followup,1,martin_roofing__v0,"74.125.210.10, 172.71.151.195",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-24 18:46:40,open,2436_followup_1_lee_plumbing__v1,2436,followup,1,lee_plumbing__v1,"172.226.190.25, 172.71.151.196",Mozilla/5.0
 2026-09-24 18:54:52,open,7_followup_1_palm_beach_roofing__v1,7,followup,1,palm_beach_roofing__v1,"172.226.188.18, 104.22.86.118",Mozilla/5.0
+2026-09-24 19:35:19,open,2467_followup_1_lee_general_contractor__v0,2467,followup,1,lee_general_contractor__v0,"104.28.132.113, 172.71.151.195",Mozilla/5.0
