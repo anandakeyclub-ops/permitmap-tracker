@@ -569,3 +569,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-24 18:54:52,open,7_followup_1_palm_beach_roofing__v1,7,followup,1,palm_beach_roofing__v1,"172.226.188.18, 104.22.86.118",Mozilla/5.0
 2026-09-24 19:35:19,open,2467_followup_1_lee_general_contractor__v0,2467,followup,1,lee_general_contractor__v0,"104.28.132.113, 172.71.151.195",Mozilla/5.0
 2026-09-24 20:31:30,open,2013_followup_2_pinellas_pool__v2,2013,followup,2,pinellas_pool__v2,"172.226.190.34, 104.23.248.20",Mozilla/5.0
+2026-09-24 20:47:39,open,2432_followup_1_lee_plumbing__v0,2432,followup,1,lee_plumbing__v0,"73.28.70.243, 172.68.12.77","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
