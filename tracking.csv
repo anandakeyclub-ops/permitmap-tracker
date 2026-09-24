@@ -469,3 +469,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-24 01:56:45,open,3128_followup_2_lee_general_contractor__v1,3128,followup,2,lee_general_contractor__v1,"140.248.44.1, 172.71.151.29",Mozilla/5.0
 2026-09-24 02:03:15,open,593_followup_1_polk_roofing__v1,593,followup,1,polk_roofing__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
 2026-09-24 03:06:01,open,1707_followup_1_polk_hvac__v1,1707,followup,1,polk_hvac__v1,"140.248.44.0, 172.71.151.182",Mozilla/5.0
+2026-09-24 03:27:05,open,2045_followup_2_sarasota_roofing__v1,2045,followup,2,sarasota_roofing__v1,"104.28.132.113, 172.70.255.245",Mozilla/5.0
