@@ -754,3 +754,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-25 17:40:27,open,360_first_outreach_martin_roofing__v1,360,first,outreach,martin_roofing__v1,"74.125.210.10, 172.71.151.192",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-25 17:50:48,open,378_first_outreach_martin_plumbing__v0,378,first,outreach,martin_plumbing__v0,"74.125.210.10, 104.22.56.206",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-25 19:13:16,open,127_followup_1_palm_beach_hvac__v1,127,followup,1,palm_beach_hvac__v1,"140.248.44.0, 172.71.151.196",Mozilla/5.0
+2026-09-25 19:22:49,open,279_first_outreach_palm_beach_hvac__v1,279,first,outreach,palm_beach_hvac__v1,"69.147.93.95, 104.23.211.209",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
