@@ -594,3 +594,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-24 23:56:32,open,2462_followup_1_lee_general_contractor__v1,2462,followup,1,lee_general_contractor__v1,"146.75.232.1, 104.22.118.49",Mozilla/5.0
 2026-09-25 00:07:38,open,73_followup_1_martin_hvac__v1,73,followup,1,martin_hvac__v1,"104.28.132.113, 172.68.12.91",Mozilla/5.0
 2026-09-25 00:14:38,open,3132_followup_1_pasco_hvac__v0,3132,followup,1,pasco_hvac__v0,"162.191.12.88, 104.22.62.16",Mozilla/5.0
+2026-09-25 01:43:11,open,1725_first_outreach_osceola_general_contractor__v0,1725,first,outreach,osceola_general_contractor__v0,"2a06:98c0:3600::103,104.22.100.21, 104.22.100.158",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
