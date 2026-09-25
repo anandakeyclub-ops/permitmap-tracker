@@ -596,3 +596,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-25 00:14:38,open,3132_followup_1_pasco_hvac__v0,3132,followup,1,pasco_hvac__v0,"162.191.12.88, 104.22.62.16",Mozilla/5.0
 2026-09-25 01:43:11,open,1725_first_outreach_osceola_general_contractor__v0,1725,first,outreach,osceola_general_contractor__v0,"2a06:98c0:3600::103,104.22.100.21, 104.22.100.158",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-09-25 02:22:54,open,1640_followup_1_pasco_hvac__v1,1640,followup,1,pasco_hvac__v1,"146.75.232.1, 172.69.70.51",Mozilla/5.0
+2026-09-25 02:34:11,open,2918_followup_1_miami_dade_general_contractor__v1,2918,followup,1,miami_dade_general_contractor__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-25 02:34:11,open,2050_followup_2_sarasota_roofing__v1,2050,followup,2,sarasota_roofing__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-25 02:34:11,open,2042_followup_2_sarasota_roofing__v0,2042,followup,2,sarasota_roofing__v0,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-25 02:34:11,open,2350_followup_1_palm_beach_plumbing__v0,2350,followup,1,palm_beach_plumbing__v0,"140.248.44.1, 172.71.151.195",Mozilla/5.0
+2026-09-25 02:34:11,open,2352_followup_1_palm_beach_plumbing__v1,2352,followup,1,palm_beach_plumbing__v1,"140.248.44.1, 172.71.151.195",Mozilla/5.0
