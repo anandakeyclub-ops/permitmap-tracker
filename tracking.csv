@@ -616,3 +616,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-25 03:28:48,open,1704_followup_1_polk_hvac__v1,1704,followup,1,polk_hvac__v1,"104.28.57.239, 172.71.151.192",Mozilla/5.0
 2026-09-25 03:28:48,open,3161_followup_1_polk_hvac__v1,3161,followup,1,polk_hvac__v1,"104.28.57.239, 172.71.151.192",Mozilla/5.0
 2026-09-25 03:28:48,open,2509_followup_1_polk_hvac__v1,2509,followup,1,polk_hvac__v1,"104.28.57.239, 172.71.151.191",Mozilla/5.0
+2026-09-25 03:28:49,open,1696_followup_1_polk_hvac__v0,1696,followup,1,polk_hvac__v0,"104.28.57.239, 108.162.210.231",Mozilla/5.0
+2026-09-25 03:28:49,open,1681_followup_1_polk_roofing__v1,1681,followup,1,polk_roofing__v1,"104.28.57.239, 108.162.210.231",Mozilla/5.0
+2026-09-25 03:28:49,open,1685_followup_1_polk_roofing__v0,1685,followup,1,polk_roofing__v0,"104.28.57.239, 108.162.210.231",Mozilla/5.0
+2026-09-25 03:28:49,open,4134_followup_1_lee_general_contractor__v1,4134,followup,1,lee_general_contractor__v1,"104.28.57.239, 108.162.210.231",Mozilla/5.0
+2026-09-25 03:28:49,open,1693_followup_1_polk_hvac__v0,1693,followup,1,polk_hvac__v0,"104.28.57.239, 108.162.210.231",Mozilla/5.0
