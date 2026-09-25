@@ -657,3 +657,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-25 04:31:47,open,513_followup_1_pasco_roofing__v0,513,followup,1,pasco_roofing__v0,"140.248.44.0, 172.71.151.30",Mozilla/5.0
 2026-09-25 06:58:32,click,reel_v1_threejobsmissedreel_record_02b9081c8f4dd859,reel,v1,threejobsmissedreel,record_02b9081c8f4dd859,"66.249.66.40, 162.158.152.201",Googlebot-Image/1.0
 2026-09-25 07:17:33,open,1736_followup_1_osceola_general_contractor__v0,1736,followup,1,osceola_general_contractor__v0,"172.226.188.56, 104.23.248.113",Mozilla/5.0
+2026-09-25 10:55:57,open,3008_followup_2_palm_beach_roofing__v0,3008,followup,2,palm_beach_roofing__v0,"140.248.44.0, 172.70.82.94",Mozilla/5.0
