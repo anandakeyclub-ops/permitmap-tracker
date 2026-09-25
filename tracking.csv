@@ -630,3 +630,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-25 03:51:21,open,2456_followup_1_lee_pool__v1,2456,followup,1,lee_pool__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
 2026-09-25 03:51:21,open,2451_followup_1_lee_pool__v0,2451,followup,1,lee_pool__v0,"140.248.44.1, 172.71.151.195",Mozilla/5.0
 2026-09-25 03:51:21,open,2441_followup_1_lee_plumbing__v0,2441,followup,1,lee_plumbing__v0,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-25 03:51:23,open,7_followup_1_palm_beach_roofing__v1,7,followup,1,palm_beach_roofing__v1,"140.248.44.1, 172.71.151.186",Mozilla/5.0
+2026-09-25 03:51:23,open,107_followup_1_palm_beach_roofing__v0,107,followup,1,palm_beach_roofing__v0,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-25 03:51:23,open,42_followup_1_palm_beach_solar__v1,42,followup,1,palm_beach_solar__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-25 03:51:23,open,8_followup_1_palm_beach_roofing__v0,8,followup,1,palm_beach_roofing__v0,"140.248.44.1, 172.71.151.195",Mozilla/5.0
+2026-09-25 03:51:23,open,2434_followup_1_lee_plumbing__v0,2434,followup,1,lee_plumbing__v0,"140.248.44.1, 104.22.87.5",Mozilla/5.0
