@@ -756,3 +756,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-25 19:13:16,open,127_followup_1_palm_beach_hvac__v1,127,followup,1,palm_beach_hvac__v1,"140.248.44.0, 172.71.151.196",Mozilla/5.0
 2026-09-25 19:22:49,open,279_first_outreach_palm_beach_hvac__v1,279,first,outreach,palm_beach_hvac__v1,"69.147.93.95, 104.23.211.209",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-09-25 19:22:57,open,328_first_outreach_palm_beach_solar__v0,328,first,outreach,palm_beach_solar__v0,"104.28.132.113, 172.71.151.186",Mozilla/5.0
+2026-09-25 19:25:19,open,160_followup_1_palm_beach_pool__v1,160,followup,1,palm_beach_pool__v1,"92.208.182.224, 172.71.151.195","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-09-25 19:25:19,open,160_followup_1_palm_beach_pool__v1,160,followup,1,palm_beach_pool__v1,"92.208.182.224, 172.71.151.195","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
