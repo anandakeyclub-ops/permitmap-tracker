@@ -719,3 +719,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-25 15:52:30,open,80_followup_1_martin_plumbing__v0,80,followup,1,martin_plumbing__v0,"74.125.213.43, 104.22.56.206",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-25 15:59:01,open,1649_followup_1_pasco_plumbing__v0,1649,followup,1,pasco_plumbing__v0,"146.75.128.1, 172.69.59.24",Mozilla/5.0
 2026-09-25 16:33:56,open,47_followup_1_palm_beach_general_contractor__v0,47,followup,1,palm_beach_general_contractor__v0,"172.226.188.55, 172.71.151.195",Mozilla/5.0
+2026-09-25 16:50:43,open,273_first_outreach_palm_beach_hvac__v1,273,first,outreach,palm_beach_hvac__v1,"66.249.92.128, 172.71.151.192","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-09-25 16:50:51,open,278_first_outreach_palm_beach_hvac__v0,278,first,outreach,palm_beach_hvac__v0,"66.249.92.33, 172.71.223.40","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
