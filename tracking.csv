@@ -641,3 +641,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-25 04:31:37,open,571_followup_2_pasco_solar__v0,571,followup,2,pasco_solar__v0,"140.248.44.0, 172.71.151.192",Mozilla/5.0
 2026-09-25 04:31:37,open,553_followup_2_pasco_plumbing__v0,553,followup,2,pasco_plumbing__v0,"140.248.44.0, 172.71.151.191",Mozilla/5.0
 2026-09-25 04:31:37,open,561_followup_2_pasco_pool__v0,561,followup,2,pasco_pool__v0,"140.248.44.0, 172.71.151.191",Mozilla/5.0
+2026-09-25 04:31:41,open,3131_followup_1_pasco_hvac__v1,3131,followup,1,pasco_hvac__v1,"140.248.44.0, 172.71.151.186",Mozilla/5.0
+2026-09-25 04:31:41,open,3146_followup_1_pasco_general_contractor__v1,3146,followup,1,pasco_general_contractor__v1,"140.248.44.0, 172.71.151.192",Mozilla/5.0
+2026-09-25 04:31:41,open,2489_followup_2_pasco_hvac__v0,2489,followup,2,pasco_hvac__v0,"140.248.44.0, 172.71.151.186",Mozilla/5.0
+2026-09-25 04:31:41,open,2491_followup_2_pasco_hvac__v0,2491,followup,2,pasco_hvac__v0,"140.248.44.0, 172.71.151.185",Mozilla/5.0
+2026-09-25 04:31:41,open,3144_followup_1_pasco_hvac__v0,3144,followup,1,pasco_hvac__v0,"140.248.44.0, 172.71.151.186",Mozilla/5.0
