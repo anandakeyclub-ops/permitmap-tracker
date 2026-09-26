@@ -790,3 +790,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-26 13:03:31,click,reel_v1_threejobsmissedreel_record_0181246c37f02507,reel,v1,threejobsmissedreel,record_0181246c37f02507,"69.63.184.4, 104.23.245.77",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-09-26 13:15:17,open,152_followup_1_palm_beach_pool__v1,152,followup,1,palm_beach_pool__v1,"172.226.190.17, 172.71.151.191",Mozilla/5.0
 2026-09-26 13:17:53,click,reel_v1_threejobsmissedreel_record_0181246c37f02507,reel,v1,threejobsmissedreel,record_0181246c37f02507,"173.252.95.40, 104.22.148.69",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+2026-09-26 14:19:46,open,90_close_email_martin_pool__v2,90,close,email,martin_pool__v2,"104.28.57.241, 172.71.151.191",Mozilla/5.0
