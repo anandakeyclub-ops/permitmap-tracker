@@ -880,3 +880,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-26 18:58:50,open,325_first_outreach_palm_beach_solar__v1,325,first,outreach,palm_beach_solar__v1,"2a06:98c0:3600::103,104.23.253.51, 104.23.253.125",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-09-26 19:25:05,open,3055_close_email_palm_beach_general_contractor__v0,3055,close,email,palm_beach_general_contractor__v0,"172.226.190.29, 104.23.248.113",Mozilla/5.0
 2026-09-26 19:57:09,open,3623_followup_2_palm_beach_general_contractor__v0,3623,followup,2,palm_beach_general_contractor__v0,"172.226.188.10, 172.71.151.195",Mozilla/5.0
+2026-09-26 20:38:40,open,2918_followup_1_miami_dade_general_contractor__v0,2918,followup,1,miami_dade_general_contractor__v0,"140.248.44.1, 172.71.151.191",Mozilla/5.0
