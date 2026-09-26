@@ -884,3 +884,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-26 21:31:14,open,336_first_outreach_palm_beach_general_contractor__v1,336,first,outreach,palm_beach_general_contractor__v1,"172.226.188.12, 172.71.151.195",Mozilla/5.0
 2026-09-26 21:58:28,open,2918_followup_1_miami_dade_general_contractor__v1,2918,followup,1,miami_dade_general_contractor__v1,"140.248.44.0, 172.71.151.196",Mozilla/5.0
 2026-09-26 22:30:29,open,2997_close_email_palm_beach_roofing__v1,2997,close,email,palm_beach_roofing__v1,"172.226.190.1, 172.71.151.196",Mozilla/5.0
+2026-09-26 23:18:56,open,23_followup_1_palm_beach_plumbing__v0,23,followup,1,palm_beach_plumbing__v0,"140.248.44.1, 172.71.151.195",Mozilla/5.0
+2026-09-26 23:18:56,open,3025_close_email_palm_beach_hvac__v1,3025,close,email,palm_beach_hvac__v1,"140.248.44.1, 172.71.151.195",Mozilla/5.0
+2026-09-26 23:18:56,open,3018_close_email_palm_beach_hvac__v1,3018,close,email,palm_beach_hvac__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-26 23:18:56,open,3022_close_email_palm_beach_hvac__v1,3022,close,email,palm_beach_hvac__v1,"140.248.44.1, 172.71.151.196",Mozilla/5.0
+2026-09-26 23:18:56,open,3011_close_email_palm_beach_hvac__v0,3011,close,email,palm_beach_hvac__v0,"140.248.44.1, 172.71.151.196",Mozilla/5.0
