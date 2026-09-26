@@ -781,3 +781,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-26 08:48:44,open,3016_close_email_palm_beach_hvac__v1,3016,close,email,palm_beach_hvac__v1,"104.28.132.113, 104.22.56.73",Mozilla/5.0
 2026-09-26 09:23:01,open,1475_close_email_palm_beach_hvac__v1,1475,close,email,palm_beach_hvac__v1,"140.248.44.0, 104.23.248.113",Mozilla/5.0
 2026-09-26 10:37:06,open,282_first_outreach_palm_beach_hvac__v0,282,first,outreach,palm_beach_hvac__v0,"104.28.132.113, 172.71.146.165",Mozilla/5.0
+2026-09-26 11:05:08,open,170_followup_1_palm_beach_general_contractor__v0,170,followup,1,palm_beach_general_contractor__v0,"140.248.44.1, 104.22.86.118",Mozilla/5.0
