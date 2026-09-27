@@ -902,3 +902,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-27 02:30:57,open,1501_close_email_palm_beach_pool__v1,1501,close,email,palm_beach_pool__v1,"140.248.44.0, 172.71.151.185",Mozilla/5.0
 2026-09-27 02:30:57,open,1511_close_email_palm_beach_pool__v0,1511,close,email,palm_beach_pool__v0,"140.248.44.0, 172.71.151.195",Mozilla/5.0
 2026-09-27 02:30:57,open,1495_close_email_palm_beach_plumbing__v1,1495,close,email,palm_beach_plumbing__v1,"140.248.44.0, 172.71.151.196",Mozilla/5.0
+2026-09-27 02:30:58,open,1500_close_email_palm_beach_pool__v0,1500,close,email,palm_beach_pool__v0,"140.248.44.0, 172.68.12.91",Mozilla/5.0
