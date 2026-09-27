@@ -906,3 +906,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-27 03:18:05,open,574_followup_2_pasco_solar__v0,574,followup,2,pasco_solar__v0,"140.248.44.1, 172.68.12.91",Mozilla/5.0
 2026-09-27 11:36:29,click,reel_v1_threejobsmissedreel_record_0181246c37f02507,reel,v1,threejobsmissedreel,record_0181246c37f02507,"66.249.66.34, 172.71.195.114",Googlebot-Image/1.0
 2026-09-27 11:58:55,open,3034_close_email_palm_beach_plumbing__v0,3034,close,email,palm_beach_plumbing__v0,"190.112.223.149, 172.71.151.191","Mozilla/5.0 (Linux; Android 16; SM-S906U Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/153.0.8010.36 Mobile Safari/537.36"
+2026-09-27 12:39:32,open,353_first_outreach_martin_roofing__v0,353,first,outreach,martin_roofing__v0,"74.125.210.1, 172.71.151.196",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
