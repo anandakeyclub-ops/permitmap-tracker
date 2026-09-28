@@ -930,3 +930,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-28 13:12:41,open,1790_close_email_manatee_hvac__v2,1790,close,email,manatee_hvac__v2,"140.248.44.0, 172.71.151.196",Mozilla/5.0
 2026-09-28 14:09:51,open,4129_followup_2_charlotte_hvac__v0,4129,followup,2,charlotte_hvac__v0,"2a06:98c0:3600::103,162.158.159.72, 172.71.151.192",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-09-28 15:11:35,open,4166_followup_1_palm_beach_roofing__v0,4166,followup,1,palm_beach_roofing__v0,"172.226.188.17, 172.68.12.77",Mozilla/5.0
+2026-09-28 15:24:15,open,2332_followup_2_palm_beach_hvac__v1,2332,followup,2,palm_beach_hvac__v1,"187.15.85.56, 172.69.138.122",Mozilla/5.0
