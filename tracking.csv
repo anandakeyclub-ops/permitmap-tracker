@@ -957,3 +957,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-28 20:39:49,click,1577_close_email_lee_plumbing__v1,1577,close,email,lee_plumbing__v1,"135.232.20.81, 172.70.135.213","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36"
 2026-09-28 20:41:43,open,1554_close_email_lee_roofing__v1,1554,close,email,lee_roofing__v1,"146.75.234.49, 172.71.151.195",Mozilla/5.0
 2026-09-28 20:56:14,open,2045_close_email_sarasota_roofing__v1,2045,close,email,sarasota_roofing__v1,"172.226.190.28, 172.71.151.196",Mozilla/5.0
+2026-09-28 21:12:42,open,1554_close_email_lee_roofing__v1,1554,close,email,lee_roofing__v1,"140.248.44.0, 172.71.146.139",Mozilla/5.0
+2026-09-28 21:13:07,open,1598_close_email_lee_pool__v0,1598,close,email,lee_pool__v0,"140.248.44.0, 108.162.210.231",Mozilla/5.0
