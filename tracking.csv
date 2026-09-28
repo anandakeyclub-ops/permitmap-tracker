@@ -941,3 +941,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-28 16:32:44,click,502_close_email_lee_general_contractor__v1,502,close,email,lee_general_contractor__v1,"74.179.68.43, 104.22.72.32","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
 2026-09-28 16:35:04,open,1564_close_email_lee_hvac__v1,1564,close,email,lee_hvac__v1,"140.248.44.1, 172.70.255.70",Mozilla/5.0
 2026-09-28 16:51:56,open,485_followup_2_lee_solar__v1,485,followup,2,lee_solar__v1,"140.248.44.1, 104.23.248.21",Mozilla/5.0
+2026-09-28 16:58:03,open,488_close_email_lee_solar__v1,488,close,email,lee_solar__v1,"140.248.44.0, 108.162.210.231",Mozilla/5.0
