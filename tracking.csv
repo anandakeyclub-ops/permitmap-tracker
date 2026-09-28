@@ -928,3 +928,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-28 11:20:43,click,4165_followup_1_palm_beach_roofing__v1,4165,followup,1,palm_beach_roofing__v1,"72.153.153.71, 104.22.20.39","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36"
 2026-09-28 13:02:18,open,3629_followup_2_palm_beach_general_contractor__v0,3629,followup,2,palm_beach_general_contractor__v0,"50.248.30.81, 172.71.151.192",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-09-28 13:12:41,open,1790_close_email_manatee_hvac__v2,1790,close,email,manatee_hvac__v2,"140.248.44.0, 172.71.151.196",Mozilla/5.0
+2026-09-28 14:09:51,open,4129_followup_2_charlotte_hvac__v0,4129,followup,2,charlotte_hvac__v0,"2a06:98c0:3600::103,162.158.159.72, 172.71.151.192",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
