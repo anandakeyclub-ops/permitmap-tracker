@@ -1009,3 +1009,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 12:15:05,open,120_followup_2_palm_beach_roofing__v1,120,followup,2,palm_beach_roofing__v1,"74.125.210.138, 172.68.22.21",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-29 14:11:55,open,117_followup_2_palm_beach_roofing__v1,117,followup,2,palm_beach_roofing__v1,"74.125.210.140, 172.71.151.191",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-29 14:16:02,open,3658_followup_2_lee_roofing__v1,3658,followup,2,lee_roofing__v1,"140.248.44.1, 172.71.151.191",Mozilla/5.0
+2026-09-29 14:17:19,open,2378_followup_2_palm_beach_general_contractor__v0,2378,followup,2,palm_beach_general_contractor__v0,"172.226.188.35, 172.68.22.31",Mozilla/5.0
+2026-09-29 14:17:19,open,2370_followup_2_palm_beach_pool__v1,2370,followup,2,palm_beach_pool__v1,"172.226.188.35, 172.68.22.25",Mozilla/5.0
+2026-09-29 14:17:19,open,2365_followup_2_palm_beach_pool__v0,2365,followup,2,palm_beach_pool__v0,"172.226.188.35, 172.71.146.139",Mozilla/5.0
+2026-09-29 14:17:19,open,4168_followup_1_palm_beach_hvac__v0,4168,followup,1,palm_beach_hvac__v0,"172.226.188.35, 172.71.146.138",Mozilla/5.0
+2026-09-29 14:17:19,open,4172_followup_1_palm_beach_hvac__v1,4172,followup,1,palm_beach_hvac__v1,"172.226.188.35, 172.68.22.24",Mozilla/5.0
