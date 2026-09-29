@@ -1078,3 +1078,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 20:57:55,open,526_followup_2_pasco_hvac__v0,526,followup,2,pasco_hvac__v0,"140.248.44.1, 172.70.255.70",Mozilla/5.0
 2026-09-29 21:04:22,open,114_followup_2_palm_beach_roofing__v1,114,followup,2,palm_beach_roofing__v1,"146.75.234.48, 172.71.151.191",Mozilla/5.0
 2026-09-29 21:04:22,open,114_followup_2_palm_beach_roofing__v1,114,followup,2,palm_beach_roofing__v1,"146.75.234.48, 104.22.24.193",Mozilla/5.0
+2026-09-29 21:09:10,open,492_close_email_lee_solar__v1,492,close,email,lee_solar__v1,"140.248.44.1, 172.68.22.25",Mozilla/5.0
+2026-09-29 21:09:10,open,4210_followup_1_palm_beach_general_contractor__v0,4210,followup,1,palm_beach_general_contractor__v0,"140.248.44.1, 172.68.22.25",Mozilla/5.0
+2026-09-29 21:09:10,open,472_close_email_lee_pool__v0,472,close,email,lee_pool__v0,"140.248.44.1, 172.68.22.24",Mozilla/5.0
+2026-09-29 21:09:10,open,479_close_email_lee_pool__v1,479,close,email,lee_pool__v1,"140.248.44.1, 172.68.22.24",Mozilla/5.0
+2026-09-29 21:09:10,open,4207_followup_1_palm_beach_general_contractor__v0,4207,followup,1,palm_beach_general_contractor__v0,"140.248.44.1, 172.68.22.24",Mozilla/5.0
