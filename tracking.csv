@@ -1017,3 +1017,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 14:31:43,open,2462_followup_1_lee_general_contractor__v1,2462,followup,1,lee_general_contractor__v1,"140.248.44.1, 172.68.12.220",Mozilla/5.0
 2026-09-29 15:05:06,open,7_followup_2_palm_beach_roofing__v1,7,followup,2,palm_beach_roofing__v1,"172.226.190.44, 104.23.248.21",Mozilla/5.0
 2026-09-29 15:42:04,open,ctr_24939a28d332_followup_1_osceola_pool__v0,ctr,24939a28d332,followup,1_osceola_pool__v0,"140.248.44.1, 172.71.151.192",Mozilla/5.0
+2026-09-29 16:03:58,open,485_close_email_lee_solar__v1,485,close,email,lee_solar__v1,"172.226.190.49, 104.22.86.30",Mozilla/5.0
