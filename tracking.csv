@@ -1019,3 +1019,7 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 15:42:04,open,ctr_24939a28d332_followup_1_osceola_pool__v0,ctr,24939a28d332,followup,1_osceola_pool__v0,"140.248.44.1, 172.71.151.192",Mozilla/5.0
 2026-09-29 16:03:58,open,485_close_email_lee_solar__v1,485,close,email,lee_solar__v1,"172.226.190.49, 104.22.86.30",Mozilla/5.0
 2026-09-29 16:14:30,open,2422_followup_2_lee_hvac__v1,2422,followup,2,lee_hvac__v1,"172.226.175.7, 172.68.22.25",Mozilla/5.0
+2026-09-29 16:16:54,open,2406_followup_2_lee_roofing__v1,2406,followup,2,lee_roofing__v1,"66.249.92.142, 172.71.151.192","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-09-29 16:17:20,open,2415_followup_2_lee_roofing__v0,2415,followup,2,lee_roofing__v0,"66.249.92.32, 104.22.100.42","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-09-29 16:17:34,open,2435_followup_2_lee_plumbing__v1,2435,followup,2,lee_plumbing__v1,"66.249.92.32, 104.22.100.158","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-09-29 16:18:00,open,2436_followup_2_lee_plumbing__v1,2436,followup,2,lee_plumbing__v1,"135.232.20.87, 172.71.195.113","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
