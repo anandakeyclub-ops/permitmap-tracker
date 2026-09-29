@@ -1085,3 +1085,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 21:09:10,open,4207_followup_1_palm_beach_general_contractor__v0,4207,followup,1,palm_beach_general_contractor__v0,"140.248.44.1, 172.68.22.24",Mozilla/5.0
 2026-09-29 21:09:13,open,4193_followup_1_palm_beach_plumbing__v1,4193,followup,1,palm_beach_plumbing__v1,"140.248.44.1, 104.22.86.75",Mozilla/5.0
 2026-09-29 21:09:13,open,4186_followup_1_palm_beach_plumbing__v1,4186,followup,1,palm_beach_plumbing__v1,"140.248.44.1, 104.22.86.30",Mozilla/5.0
+2026-09-29 21:31:57,open,2441_followup_2_lee_plumbing__v0,2441,followup,2,lee_plumbing__v0,"172.225.251.103, 172.71.23.27",Mozilla/5.0
