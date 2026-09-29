@@ -1005,3 +1005,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 11:20:34,click,3664_followup_2_lee_roofing__v1,3664,followup,2,lee_roofing__v1,"72.152.84.1, 172.70.127.76","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36"
 2026-09-29 11:20:57,click,3666_followup_2_lee_hvac__v0,3666,followup,2,lee_hvac__v0,"74.179.67.169, 172.71.146.128","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.0 Safari/537.36"
 2026-09-29 11:21:07,click,3664_followup_2_lee_roofing__v1,3664,followup,2,lee_roofing__v1,"34.197.67.5, 172.68.245.4",Go-http-client/2.0
+2026-09-29 12:02:27,open,7_followup_2_palm_beach_roofing__v1,7,followup,2,palm_beach_roofing__v1,"140.248.44.0, 172.71.151.195",Mozilla/5.0
