@@ -971,3 +971,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 02:23:13,open,2053_close_email_sarasota_roofing__v0,2053,close,email,sarasota_roofing__v0,"140.248.44.1, 172.71.146.139",Mozilla/5.0
 2026-09-29 02:25:03,open,485_followup_2_lee_solar__v1,485,followup,2,lee_solar__v1,"104.28.103.14, 172.68.12.91",Mozilla/5.0
 2026-09-29 03:25:33,open,4142_followup_2_charlotte_plumbing__v1,4142,followup,2,charlotte_plumbing__v1,"140.248.44.0, 172.71.146.139",Mozilla/5.0
+2026-09-29 05:21:20,open,485_close_email_lee_solar__v1,485,close,email,lee_solar__v1,"140.248.44.0, 172.71.151.196",Mozilla/5.0
