@@ -1053,3 +1053,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 16:42:25,click,2436_followup_2_lee_plumbing__v1,2436,followup,2,lee_plumbing__v1,"9.169.124.23, 172.71.151.192","Mozilla/5.0 (Linux; Android 9; itel A27) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6943.143 Mobile Safari/537.36"
 2026-09-29 16:47:43,open,2451_followup_2_lee_pool__v0,2451,followup,2,lee_pool__v0,"104.28.132.113, 172.68.22.24",Mozilla/5.0
 2026-09-29 16:48:08,open,2462_followup_2_lee_general_contractor__v1,2462,followup,2,lee_general_contractor__v1,"140.248.44.1, 172.70.255.70",Mozilla/5.0
+2026-09-29 16:53:27,open,2440_followup_2_lee_plumbing__v1,2440,followup,2,lee_plumbing__v1,"104.28.39.139, 162.158.10.172",Mozilla/5.0
+2026-09-29 16:55:13,open,1564_close_email_lee_hvac__v1,1564,close,email,lee_hvac__v1,"140.248.44.0, 172.68.12.76",Mozilla/5.0
