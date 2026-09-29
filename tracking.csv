@@ -1092,3 +1092,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 22:23:49,open,516_followup_2_pasco_roofing__v1,516,followup,2,pasco_roofing__v1,"66.249.80.131, 162.159.104.211",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-29 22:27:44,open,562_close_email_pasco_pool__v0,562,close,email,pasco_pool__v0,"104.28.132.113, 104.23.248.21",Mozilla/5.0
 2026-09-29 22:35:59,open,3128_close_email_lee_general_contractor__v1,3128,close,email,lee_general_contractor__v1,"172.226.190.59, 172.71.151.192",Mozilla/5.0
+2026-09-29 22:47:46,open,7_followup_2_palm_beach_roofing__v1,7,followup,2,palm_beach_roofing__v1,"172.226.190.53, 172.68.12.77",Mozilla/5.0
