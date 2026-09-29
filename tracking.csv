@@ -1074,3 +1074,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 20:41:53,open,515_followup_2_pasco_roofing__v0,515,followup,2,pasco_roofing__v0,"135.232.20.87, 172.71.151.192","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-09-29 20:43:10,click,515_followup_2_pasco_roofing__v0,515,followup,2,pasco_roofing__v0,"135.232.20.86, 104.22.101.50","Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
 2026-09-29 20:47:46,open,516_followup_2_pasco_roofing__v1,516,followup,2,pasco_roofing__v1,"74.125.210.132, 104.23.245.77",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-09-29 20:51:16,open,302_first_outreach_palm_beach_pool__v1,302,first,outreach,palm_beach_pool__v1,"140.248.44.1, 172.68.12.76",Mozilla/5.0
