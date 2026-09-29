@@ -966,3 +966,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 00:18:42,open,487_close_email_lee_solar__v0,487,close,email,lee_solar__v0,"140.248.44.1, 172.71.146.138",Mozilla/5.0
 2026-09-29 00:56:47,open,4196_followup_1_palm_beach_plumbing__v0,4196,followup,1,palm_beach_plumbing__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
 2026-09-29 01:34:38,open,2013_first_outreach_pinellas_pool__v0,2013,first,outreach,pinellas_pool__v0,"140.248.44.1, 172.68.12.77",Mozilla/5.0
+2026-09-29 01:45:19,open,170_followup_1_palm_beach_general_contractor__v0,170,followup,1,palm_beach_general_contractor__v0,"140.248.44.1, 104.22.86.118",Mozilla/5.0
