@@ -965,3 +965,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 00:07:48,open,1545_close_email_lee_roofing__v1,1545,close,email,lee_roofing__v1,"146.75.128.1, 172.71.151.192",Mozilla/5.0
 2026-09-29 00:18:42,open,487_close_email_lee_solar__v0,487,close,email,lee_solar__v0,"140.248.44.1, 172.71.146.138",Mozilla/5.0
 2026-09-29 00:56:47,open,4196_followup_1_palm_beach_plumbing__v0,4196,followup,1,palm_beach_plumbing__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-09-29 01:34:38,open,2013_first_outreach_pinellas_pool__v0,2013,first,outreach,pinellas_pool__v0,"140.248.44.1, 172.68.12.77",Mozilla/5.0
