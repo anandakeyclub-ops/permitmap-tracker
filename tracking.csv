@@ -1189,3 +1189,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-30 17:52:57,open,46_followup_2_palm_beach_general_contractor__v0,46,followup,2,palm_beach_general_contractor__v0,"140.248.44.0, 108.162.210.231",Mozilla/5.0
 2026-09-30 18:06:42,open,2013_first_outreach_pinellas_pool__v0,2013,first,outreach,pinellas_pool__v0,"104.28.57.240, 172.68.22.24",Mozilla/5.0
 2026-09-30 18:14:24,click,reel_v1_permitbreakdownreel_record_00a0cb203cc4c87c,reel,v1,permitbreakdownreel,record_00a0cb203cc4c87c,"35.95.150.64, 104.23.160.189","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+2026-09-30 18:15:41,click,reel_v1_permitbreakdownreel_record_00a0cb203cc4c87c,reel,v1,permitbreakdownreel,record_00a0cb203cc4c87c,"69.63.184.2, 104.22.24.193",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
