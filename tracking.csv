@@ -1177,3 +1177,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-30 16:33:25,click,424_first_outreach_lee_roofing__v1,424,first,outreach,lee_roofing__v1,"44.194.118.42, 172.68.245.4",Go-http-client/2.0
 2026-09-30 16:36:09,click,424_first_outreach_lee_roofing__v1,424,first,outreach,lee_roofing__v1,"72.152.84.30, 104.23.201.88","Mozilla/5.0 (Macintosh; Intel Mac OS X 15_7_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
 2026-09-30 16:40:11,open,3629_close_email_palm_beach_general_contractor__v0,3629,close,email,palm_beach_general_contractor__v0,"50.248.30.81, 172.71.151.195",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+2026-09-30 16:41:31,open,3600_close_email_palm_beach_hvac__v0,3600,close,email,palm_beach_hvac__v0,"108.202.225.226, 172.68.22.24","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0 OneOutlook/1.2026.915.300"
