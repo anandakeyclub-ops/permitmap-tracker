@@ -1191,3 +1191,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-30 18:14:24,click,reel_v1_permitbreakdownreel_record_00a0cb203cc4c87c,reel,v1,permitbreakdownreel,record_00a0cb203cc4c87c,"35.95.150.64, 104.23.160.189","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
 2026-09-30 18:15:41,click,reel_v1_permitbreakdownreel_record_00a0cb203cc4c87c,reel,v1,permitbreakdownreel,record_00a0cb203cc4c87c,"69.63.184.2, 104.22.24.193",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-09-30 18:31:22,open,426_first_outreach_lee_roofing__v0,426,first,outreach,lee_roofing__v0,"74.125.213.37, 172.71.146.164",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-09-30 19:46:59,open,3580_close_email_palm_beach_roofing__v0,3580,close,email,palm_beach_roofing__v0,"146.75.182.15, 104.22.136.27",Mozilla/5.0
