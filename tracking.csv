@@ -1185,3 +1185,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-30 16:55:33,open,3624_close_email_palm_beach_general_contractor__v0,3624,close,email,palm_beach_general_contractor__v0,"172.226.188.49, 104.23.248.21",Mozilla/5.0
 2026-09-30 17:34:57,open,165_followup_2_palm_beach_pool__v0,165,followup,2,palm_beach_pool__v0,"74.125.213.35, 104.22.56.73",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
 2026-09-30 17:43:53,open,3596_close_email_palm_beach_hvac__v0,3596,close,email,palm_beach_hvac__v0,"69.147.86.72, 172.68.22.25",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-09-30 17:45:24,open,485_followup_2_lee_solar__v1,485,followup,2,lee_solar__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
