@@ -1096,3 +1096,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-29 23:16:29,open,562_close_email_pasco_pool__v0,562,close,email,pasco_pool__v0,"140.248.44.0, 104.23.248.197",Mozilla/5.0
 2026-09-29 23:23:23,open,531_followup_1_pasco_hvac__v1,531,followup,1,pasco_hvac__v1,"172.226.190.24, 172.68.22.30",Mozilla/5.0
 2026-09-30 00:04:35,open,1545_close_email_lee_roofing__v1,1545,close,email,lee_roofing__v1,"172.226.190.4, 172.68.12.76",Mozilla/5.0
+2026-09-30 00:47:29,open,509_close_email_lee_general_contractor__v1,509,close,email,lee_general_contractor__v1,"140.248.44.1, 172.68.12.90",Mozilla/5.0
