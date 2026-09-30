@@ -1182,3 +1182,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-30 16:49:16,open,3723_followup_1_pasco_hvac__v0,3723,followup,1,pasco_hvac__v0,"87.248.114.142, 172.69.224.148",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-09-30 16:50:59,open,430_first_outreach_lee_roofing__v1,430,first,outreach,lee_roofing__v1,"104.28.57.239, 172.68.22.24",Mozilla/5.0
 2026-09-30 16:50:59,open,430_first_outreach_lee_roofing__v1,430,first,outreach,lee_roofing__v1,"104.28.57.239, 108.162.210.231",Mozilla/5.0
+2026-09-30 16:55:33,open,3624_close_email_palm_beach_general_contractor__v0,3624,close,email,palm_beach_general_contractor__v0,"172.226.188.49, 104.23.248.21",Mozilla/5.0
