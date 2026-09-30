@@ -1183,3 +1183,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-30 16:50:59,open,430_first_outreach_lee_roofing__v1,430,first,outreach,lee_roofing__v1,"104.28.57.239, 172.68.22.24",Mozilla/5.0
 2026-09-30 16:50:59,open,430_first_outreach_lee_roofing__v1,430,first,outreach,lee_roofing__v1,"104.28.57.239, 108.162.210.231",Mozilla/5.0
 2026-09-30 16:55:33,open,3624_close_email_palm_beach_general_contractor__v0,3624,close,email,palm_beach_general_contractor__v0,"172.226.188.49, 104.23.248.21",Mozilla/5.0
+2026-09-30 17:34:57,open,165_followup_2_palm_beach_pool__v0,165,followup,2,palm_beach_pool__v0,"74.125.213.35, 104.22.56.73",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
