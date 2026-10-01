@@ -1260,3 +1260,9 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 13:31:28,open,110_followup_2_palm_beach_roofing__v1,110,followup,2,palm_beach_roofing__v1,"140.248.44.1, 104.22.86.75",Mozilla/5.0
 2026-10-01 13:31:28,open,3098_close_email_lee_hvac__v0,3098,close,email,lee_hvac__v0,"140.248.44.1, 104.22.86.75",Mozilla/5.0
 2026-10-01 13:59:07,open,3142_followup_2_pasco_hvac__v1,3142,followup,2,pasco_hvac__v1,"140.248.44.0, 108.162.210.231",Mozilla/5.0
+2026-10-01 15:39:48,open,3696_followup_2_lee_general_contractor__v1,3696,followup,2,lee_general_contractor__v1,"140.248.44.0, 172.71.146.165",Mozilla/5.0
+2026-10-01 15:39:48,open,3704_followup_2_lee_general_contractor__v1,3704,followup,2,lee_general_contractor__v1,"140.248.44.0, 172.71.146.164",Mozilla/5.0
+2026-10-01 15:39:48,open,4231_followup_1_lee_roofing__v0,4231,followup,1,lee_roofing__v0,"140.248.44.0, 172.71.146.165",Mozilla/5.0
+2026-10-01 15:39:48,open,4134_followup_2_lee_general_contractor__v1,4134,followup,2,lee_general_contractor__v1,"140.248.44.0, 172.71.146.199",Mozilla/5.0
+2026-10-01 15:39:48,open,3688_followup_2_lee_plumbing__v0,3688,followup,2,lee_plumbing__v0,"140.248.44.0, 172.71.146.165",Mozilla/5.0
+2026-10-01 15:39:48,open,3694_followup_2_lee_plumbing__v0,3694,followup,2,lee_plumbing__v0,"140.248.44.0, 172.71.146.164",Mozilla/5.0
