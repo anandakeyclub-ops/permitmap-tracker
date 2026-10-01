@@ -27,6 +27,7 @@ import io
 import json
 import os
 import threading
+import hashlib
 import time
 from collections import defaultdict
 from datetime import date, datetime
@@ -416,6 +417,111 @@ def flush():
     _flush_buffer()
     return jsonify({"status": "flushed", "timestamp": datetime.utcnow().isoformat()})
 
+
+
+# ── SendGrid Event Webhook ───────────────────────────────────────────────────
+SENDGRID_EVENT_HEADERS = [
+    "timestamp", "event", "email_hash", "sg_event_id", "sg_message_id",
+    "reason", "response", "status", "url", "ip", "user_agent",
+]
+SENDGRID_EVENT_PATH = "sendgrid_events.csv"
+_sendgrid_seen: set[str] = set()
+_sendgrid_lock = threading.Lock()
+
+
+def _sendgrid_remote_csv() -> tuple[str, str]:
+    global GITHUB_PATH
+    original = GITHUB_PATH
+    try:
+        GITHUB_PATH = SENDGRID_EVENT_PATH
+        return _get_remote_csv()
+    finally:
+        GITHUB_PATH = original
+
+
+def _sendgrid_push_csv(content: str, sha: str) -> bool:
+    global GITHUB_PATH
+    original = GITHUB_PATH
+    try:
+        GITHUB_PATH = SENDGRID_EVENT_PATH
+        return _push_csv(content, sha)
+    finally:
+        GITHUB_PATH = original
+
+
+def _persist_sendgrid_events(events: list[dict]) -> None:
+    if not events:
+        return
+    remote, sha = _sendgrid_remote_csv()
+    existing_rows = list(csv.DictReader(io.StringIO(remote))) if remote.strip() else []
+    known = {row.get("sg_event_id", "") for row in existing_rows if row.get("sg_event_id")}
+    out = io.StringIO()
+    writer = csv.DictWriter(out, fieldnames=SENDGRID_EVENT_HEADERS, extrasaction="ignore")
+    writer.writeheader()
+    for row in existing_rows:
+        writer.writerow(row)
+    for event in events:
+        event_id = str(event.get("sg_event_id") or "")
+        if event_id and event_id in known:
+            continue
+        email = str(event.get("email") or "").strip().lower()
+        writer.writerow({
+            "timestamp": event.get("timestamp", ""),
+            "event": event.get("event", ""),
+            "email_hash": hashlib.sha256(email.encode("utf-8")).hexdigest() if email else "",
+            "sg_event_id": event_id,
+            "sg_message_id": event.get("sg_message_id", ""),
+            "reason": event.get("reason", ""),
+            "response": event.get("response", ""),
+            "status": event.get("status", ""),
+            "url": event.get("url", ""),
+            "ip": request.headers.get("X-Forwarded-For", request.remote_addr or ""),
+            "user_agent": request.headers.get("User-Agent", ""),
+        })
+        if event_id:
+            known.add(event_id)
+    if not _sendgrid_push_csv(out.getvalue(), sha):
+        raise RuntimeError("SendGrid event persistence failed")
+
+
+def _verify_sendgrid_signature(payload: bytes) -> bool:
+    public_key = os.environ.get("SENDGRID_EVENT_WEBHOOK_PUBLIC_KEY", "").strip()
+    if not public_key:
+        return False
+    signature = request.headers.get("X-Twilio-Email-Event-Webhook-Signature", "")
+    timestamp = request.headers.get("X-Twilio-Email-Event-Webhook-Timestamp", "")
+    if not signature or not timestamp:
+        return False
+    try:
+        from ecdsa import VerifyingKey, NIST256p, BadSignatureError
+        sig = base64.b64decode(signature)
+        key_bytes = base64.b64decode(public_key)
+        vk = VerifyingKey.from_string(key_bytes, curve=NIST256p)
+        return vk.verify(sig, timestamp.encode("utf-8") + payload, hashfunc=hashlib.sha256)
+    except Exception as exc:
+        print(f"[sendgrid] signature verification failed: {exc}")
+        return False
+
+
+@app.route("/api/webhooks/sendgrid/events", methods=["POST"])
+def sendgrid_events():
+    payload = request.get_data(cache=True)
+    if not _verify_sendgrid_signature(payload):
+        return jsonify({"error": "invalid signature"}), 401
+    try:
+        events = json.loads(payload.decode("utf-8"))
+        if not isinstance(events, list):
+            raise ValueError("payload must be an array")
+        allowed = {"processed", "delivered", "deferred", "bounce", "dropped",
+                   "spamreport", "unsubscribe", "group_unsubscribe",
+                   "group_resubscribe", "open", "click"}
+        filtered = [e for e in events if isinstance(e, dict) and e.get("event") in allowed]
+        with _sendgrid_lock:
+            _persist_sendgrid_events(filtered)
+        return jsonify({"accepted": len(filtered)}), 200
+    except Exception as exc:
+        print(f"[sendgrid] webhook processing failed: {exc}")
+        return jsonify({"error": "processing failed"}), 500
 
 @app.route("/healthz")
 def healthz():
