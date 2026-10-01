@@ -495,23 +495,18 @@ def _verify_sendgrid_signature(payload: bytes) -> bool:
         print(f"[sendgrid] verify reject: headers signature={bool(signature)} timestamp={bool(timestamp)}", flush=True)
         return False
     try:
-        from ecdsa import VerifyingKey, NIST256p
-        from ecdsa.util import sigdecode_der
+        from cryptography.hazmat.primitives import hashes, serialization
+        from cryptography.hazmat.primitives.asymmetric import ec
         sig = base64.b64decode(signature, validate=True)
-        key_bytes = base64.b64decode(public_key, validate=True)
-        print(f"[sendgrid] verify inputs: key_bytes={len(key_bytes)} sig_bytes={len(sig)} timestamp_len={len(timestamp)}", flush=True)
-        # SendGrid publishes an uncompressed SEC1 public key (0x04 || X || Y).
-        # ecdsa.from_string expects X || Y for this curve, so strip the SEC1 prefix.
-        if len(key_bytes) == 65 and key_bytes[0] == 4:
-            key_bytes = key_bytes[1:]
-        if len(key_bytes) != 64:
-            raise ValueError(f"unexpected SendGrid public-key length: {len(key_bytes)}")
-        vk = VerifyingKey.from_string(key_bytes, curve=NIST256p, hashfunc=hashlib.sha256)
-        return vk.verify(sig, timestamp.encode("utf-8") + payload, hashfunc=hashlib.sha256, sigdecode=sigdecode_der)
+        key_der = base64.b64decode(public_key, validate=True)
+        vk = serialization.load_der_public_key(key_der)
+        if not isinstance(vk, ec.EllipticCurvePublicKey) or not isinstance(vk.curve, ec.SECP256R1):
+            raise ValueError("unexpected SendGrid public key algorithm/curve")
+        vk.verify(sig, timestamp.encode("utf-8") + payload, ec.ECDSA(hashes.SHA256()))
+        return True
     except Exception as exc:
         print(f"[sendgrid] signature verification failed: {type(exc).__name__}: {exc}", flush=True)
         return False
-
 
 @app.route("/api/webhooks/sendgrid/events", methods=["POST"])
 def sendgrid_events():
