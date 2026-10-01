@@ -1239,3 +1239,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 00:53:57,open,2425_followup_2_lee_hvac__v1,2425,followup,2,lee_hvac__v1,"140.248.44.1, 172.71.146.145",Mozilla/5.0
 2026-10-01 01:19:30,open,170_followup_2_palm_beach_general_contractor__v0,170,followup,2,palm_beach_general_contractor__v0,"140.248.44.1, 172.71.146.145",Mozilla/5.0
 2026-10-01 01:43:12,open,165_followup_2_palm_beach_pool__v0,165,followup,2,palm_beach_pool__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-10-01 01:46:32,open,46_followup_2_palm_beach_general_contractor__v0,46,followup,2,palm_beach_general_contractor__v0,"104.28.132.113, 172.68.22.25",Mozilla/5.0
