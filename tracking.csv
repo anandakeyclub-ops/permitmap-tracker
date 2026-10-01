@@ -1246,3 +1246,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 03:07:08,open,3624_close_email_palm_beach_general_contractor__v0,3624,close,email,palm_beach_general_contractor__v0,"140.248.44.1, 108.162.210.231",Mozilla/5.0
 2026-10-01 03:13:26,open,2494_followup_1_pasco_general_contractor__v1,2494,followup,1,pasco_general_contractor__v1,"104.28.132.113, 172.70.82.94",Mozilla/5.0
 2026-10-01 04:14:52,open,30_followup_2_palm_beach_pool__v0,30,followup,2,palm_beach_pool__v0,"172.226.188.35, 172.68.12.91",Mozilla/5.0
+2026-10-01 04:17:37,open,3610_close_email_palm_beach_plumbing__v0,3610,close,email,palm_beach_plumbing__v0,"172.226.188.17, 108.162.210.231",Mozilla/5.0
