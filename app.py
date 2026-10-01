@@ -494,6 +494,7 @@ def _verify_sendgrid_signature(payload: bytes) -> bool:
         return False
     try:
         from ecdsa import VerifyingKey, NIST256p
+        from ecdsa.util import sigdecode_der
         sig = base64.b64decode(signature)
         key_bytes = base64.b64decode(public_key)
         # SendGrid publishes an uncompressed SEC1 public key (0x04 || X || Y).
@@ -503,7 +504,7 @@ def _verify_sendgrid_signature(payload: bytes) -> bool:
         if len(key_bytes) != 64:
             raise ValueError(f"unexpected SendGrid public-key length: {len(key_bytes)}")
         vk = VerifyingKey.from_string(key_bytes, curve=NIST256p, hashfunc=hashlib.sha256)
-        return vk.verify(sig, timestamp.encode("utf-8") + payload, hashfunc=hashlib.sha256)
+        return vk.verify(sig, timestamp.encode("utf-8") + payload, hashfunc=hashlib.sha256, sigdecode=sigdecode_der)
     except Exception as exc:
         print(f"[sendgrid] signature verification failed: {exc}")
         return False
