@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 SUPPRESSION_PATH = "sendgrid_suppressions.csv"
 SUPPRESSION_HEADERS = ["email_hash", "reason", "event", "sg_event_id", "updated_at"]
 HARD_EVENTS = {"bounce", "dropped", "spamreport", "unsubscribe", "group_unsubscribe"}
+HARD_BOUNCE_TYPES = {"bounce", "blocked"}
 
 
 def email_hash(email: str) -> str:
@@ -22,6 +23,13 @@ def build_suppression_rows(events: list[dict], existing_csv: str = "") -> str:
         email = str(e.get("email") or "").strip().lower()
         if event not in HARD_EVENTS or not email:
             continue
+        # A deferred event is never a suppression. For bounce, only permanent/hard
+        # failures should suppress; SendGrid test events and transient failures must not.
+        if event == "bounce":
+            status = str(e.get("status") or "")
+            bounce_type = str(e.get("type") or "").strip().lower()
+            if not (status.startswith("5") or bounce_type in HARD_BOUNCE_TYPES):
+                continue
         h = email_hash(email)
         reason = str(e.get("reason") or event)
         by_hash[h] = {
