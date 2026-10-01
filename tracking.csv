@@ -1232,3 +1232,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-09-30 23:51:34,open,169_followup_1_palm_beach_general_contractor__v0,169,followup,1,palm_beach_general_contractor__v0,"104.28.57.239, 108.162.210.231",Mozilla/5.0
 2026-10-01 00:30:14,open,134_followup_2_palm_beach_hvac__v0,134,followup,2,palm_beach_hvac__v0,"140.248.44.0, 172.70.82.94",Mozilla/5.0
 2026-10-01 00:33:19,open,169_followup_2_palm_beach_general_contractor__v0,169,followup,2,palm_beach_general_contractor__v0,"104.28.132.113, 172.70.82.93",Mozilla/5.0
+2026-10-01 00:53:57,open,2428_followup_2_lee_hvac__v1,2428,followup,2,lee_hvac__v1,"140.248.44.1, 172.71.146.145",Mozilla/5.0
+2026-10-01 00:53:57,open,1608_close_email_lee_general_contractor__v1,1608,close,email,lee_general_contractor__v1,"140.248.44.1, 172.71.146.145",Mozilla/5.0
+2026-10-01 00:53:57,open,2422_followup_2_lee_hvac__v1,2422,followup,2,lee_hvac__v1,"140.248.44.1, 172.71.146.145",Mozilla/5.0
+2026-10-01 00:53:57,open,2427_followup_2_lee_hvac__v0,2427,followup,2,lee_hvac__v0,"140.248.44.1, 172.71.146.144",Mozilla/5.0
+2026-10-01 00:53:57,open,2425_followup_2_lee_hvac__v1,2425,followup,2,lee_hvac__v1,"140.248.44.1, 172.71.146.145",Mozilla/5.0
