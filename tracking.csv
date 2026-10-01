@@ -1276,3 +1276,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 15:39:54,open,4240_followup_1_lee_roofing__v0,4240,followup,1,lee_roofing__v0,"140.248.44.0, 104.23.248.112",Mozilla/5.0
 2026-10-01 15:39:54,open,558_close_email_pasco_pool__v0,558,close,email,pasco_pool__v0,"140.248.44.0, 172.71.146.164",Mozilla/5.0
 2026-10-01 15:39:54,open,553_close_email_pasco_plumbing__v0,553,close,email,pasco_plumbing__v0,"140.248.44.0, 104.23.248.21",Mozilla/5.0
+2026-10-01 15:39:56,open,4266_followup_1_lee_plumbing__v1,4266,followup,1,lee_plumbing__v1,"140.248.44.0, 104.23.248.112",Mozilla/5.0
+2026-10-01 15:39:56,open,4279_followup_1_lee_general_contractor__v0,4279,followup,1,lee_general_contractor__v0,"140.248.44.0, 172.71.146.199",Mozilla/5.0
+2026-10-01 15:39:56,open,4268_followup_1_lee_plumbing__v1,4268,followup,1,lee_plumbing__v1,"140.248.44.0, 104.23.248.21",Mozilla/5.0
+2026-10-01 15:39:56,open,4272_followup_1_lee_plumbing__v0,4272,followup,1,lee_plumbing__v0,"140.248.44.0, 104.23.248.112",Mozilla/5.0
+2026-10-01 15:39:56,open,4264_followup_1_lee_plumbing__v0,4264,followup,1,lee_plumbing__v0,"140.248.44.0, 172.71.146.198",Mozilla/5.0
