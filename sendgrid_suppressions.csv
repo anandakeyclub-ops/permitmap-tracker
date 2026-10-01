@@ -1,6 +1,7 @@
 email_hash,reason,event,sg_event_id,updated_at
 258d5fc06da3e11692e0f9ed10bc9412c8e299ef780e39f744fbfca6bf7976e8,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItSTNKWkl6TllSUEswdWh1MUI4aTcwUS0w,2026-10-01T12:21:26.974150+00:00
 272f379ea5185e814ca34ffbd8b3286dbe6619bac129ccc82228a46a77e7bbbe,"550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information, go to https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-cc7e5335132si4726745a12.100 - gsmtp",bounce,Ym91bmNlLTAtMTA5ODg3MDEyLTJkM0NQZnNaVGMybm5vdXd2VXpKU1EtMA,2026-10-01T12:09:49.571138+00:00
+273f6ec2fc79031c824daff15d9415db2e8f2dd2a934b6b8b13540b5f94062b0,group_unsubscribe,group_unsubscribe,r4WvXxMYB4G4bxhsj_9CFQ==,2026-10-01T17:08:01.853680+00:00
 2b1d42394ea363ed5d32883da0ad4cb39cedb0e2a8a1912ce62aec3c15547817,unable to get mx info: failed to get IPs from PTR record: lookup <nil>: unrecognized address,bounce,Ym91bmNlLTQtMTA5ODg3MDEyLWtTTWlLaVZQVGM2UFdpd054Snc1cnctMA,2026-10-01T12:26:18.107516+00:00
 336e9454533b51419a89616d726a22cbc2c9f2539dadeca441ab43de23c056cf,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItbDZNM0NHZmdTR1czclREWGhyWXdRdy0w,2026-10-01T12:27:57.014168+00:00
 431dc94efcc4d06f224d015446edd39630726b51159620f353589461e82a7cd7,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItSlpuZ3J4b2FTNjZhdzFXbVlhU2NlUS0w,2026-10-01T12:27:14.064470+00:00
