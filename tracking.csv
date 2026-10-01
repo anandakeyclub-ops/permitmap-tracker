@@ -1249,3 +1249,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 04:17:37,open,3610_close_email_palm_beach_plumbing__v0,3610,close,email,palm_beach_plumbing__v0,"172.226.188.17, 108.162.210.231",Mozilla/5.0
 2026-10-01 11:21:40,open,3140_followup_2_pasco_hvac__v1,3140,followup,2,pasco_hvac__v1,"72.153.216.187, 172.71.154.120","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-10-01 11:22:20,click,3140_followup_2_pasco_hvac__v1,3140,followup,2,pasco_hvac__v1,"72.153.216.187, 104.22.20.10","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
+2026-10-01 12:31:25,open,3493_followup_1_miami_dade_hvac__v1,3493,followup,1,miami_dade_hvac__v1,"146.75.146.1, 172.70.215.38",Mozilla/5.0
