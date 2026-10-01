@@ -1266,3 +1266,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 15:39:48,open,4134_followup_2_lee_general_contractor__v1,4134,followup,2,lee_general_contractor__v1,"140.248.44.0, 172.71.146.199",Mozilla/5.0
 2026-10-01 15:39:48,open,3688_followup_2_lee_plumbing__v0,3688,followup,2,lee_plumbing__v0,"140.248.44.0, 172.71.146.165",Mozilla/5.0
 2026-10-01 15:39:48,open,3694_followup_2_lee_plumbing__v0,3694,followup,2,lee_plumbing__v0,"140.248.44.0, 172.71.146.164",Mozilla/5.0
+2026-10-01 15:39:50,open,2406_followup_2_lee_roofing__v1,2406,followup,2,lee_roofing__v1,"140.248.44.0, 104.23.248.112",Mozilla/5.0
+2026-10-01 15:39:50,open,4146_followup_2_lee_pool__v0,4146,followup,2,lee_pool__v0,"140.248.44.0, 104.23.248.21",Mozilla/5.0
+2026-10-01 15:39:50,open,3683_followup_2_lee_plumbing__v0,3683,followup,2,lee_plumbing__v0,"140.248.44.0, 104.23.248.20",Mozilla/5.0
+2026-10-01 15:39:51,open,3697_followup_2_lee_general_contractor__v1,3697,followup,2,lee_general_contractor__v1,"140.248.44.0, 104.23.248.21",Mozilla/5.0
+2026-10-01 15:39:51,open,2441_followup_2_lee_plumbing__v0,2441,followup,2,lee_plumbing__v0,"140.248.44.0, 104.23.248.21",Mozilla/5.0
