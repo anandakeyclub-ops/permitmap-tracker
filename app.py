@@ -523,6 +523,17 @@ def sendgrid_events():
         filtered = [e for e in events if isinstance(e, dict) and e.get("event") in allowed]
         with _sendgrid_lock:
             _persist_sendgrid_events(filtered)
+            from sendgrid_suppression import build_suppression_rows, SUPPRESSION_PATH
+            global GITHUB_PATH
+            original_path = GITHUB_PATH
+            try:
+                GITHUB_PATH = SUPPRESSION_PATH
+                current, sha = _get_remote_csv()
+                updated = build_suppression_rows(filtered, current)
+                if updated != current and not _push_csv(updated, sha):
+                    raise RuntimeError("SendGrid suppression persistence failed")
+            finally:
+                GITHUB_PATH = original_path
         return jsonify({"accepted": len(filtered)}), 200
     except Exception as exc:
         print(f"[sendgrid] webhook processing failed: {exc}")
