@@ -1283,3 +1283,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 15:39:56,open,4264_followup_1_lee_plumbing__v0,4264,followup,1,lee_plumbing__v0,"140.248.44.0, 172.71.146.198",Mozilla/5.0
 2026-10-01 15:39:57,open,4282_followup_1_lee_general_contractor__v1,4282,followup,1,lee_general_contractor__v1,"140.248.44.0, 104.23.248.20",Mozilla/5.0
 2026-10-01 15:39:57,open,4284_followup_1_lee_general_contractor__v0,4284,followup,1,lee_general_contractor__v0,"140.248.44.0, 104.23.248.112",Mozilla/5.0
+2026-10-01 16:18:42,open,3718_followup_1_pasco_hvac__v0,3718,followup,1,pasco_hvac__v0,"140.248.44.1, 172.71.146.199",Mozilla/5.0
+2026-10-01 16:18:42,open,3730_followup_1_pasco_general_contractor__v1,3730,followup,1,pasco_general_contractor__v1,"140.248.44.1, 172.71.146.198",Mozilla/5.0
+2026-10-01 16:18:42,open,3736_followup_1_pasco_general_contractor__v0,3736,followup,1,pasco_general_contractor__v0,"140.248.44.1, 172.71.146.199",Mozilla/5.0
+2026-10-01 16:18:42,open,3728_followup_1_pasco_general_contractor__v1,3728,followup,1,pasco_general_contractor__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
+2026-10-01 16:18:42,open,3720_followup_1_pasco_hvac__v1,3720,followup,1,pasco_hvac__v1,"140.248.44.1, 104.23.248.113",Mozilla/5.0
