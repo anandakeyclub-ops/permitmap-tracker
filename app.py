@@ -422,7 +422,7 @@ def flush():
 # ── SendGrid Event Webhook ───────────────────────────────────────────────────
 SENDGRID_EVENT_HEADERS = [
     "timestamp", "event", "email_hash", "sg_event_id", "sg_message_id",
-    "reason", "response", "status", "url", "ip", "user_agent",
+    "reason", "response", "status", "url", "tracking_id", "send_type", "county", "trade", "ip", "user_agent",
 ]
 SENDGRID_EVENT_PATH = "sendgrid_events.csv"
 _sendgrid_seen: set[str] = set()
@@ -475,6 +475,10 @@ def _persist_sendgrid_events(events: list[dict]) -> None:
             "response": event.get("response", ""),
             "status": event.get("status", ""),
             "url": event.get("url", ""),
+            "tracking_id": event.get("tracking_id", ""),
+            "send_type": event.get("send_type", ""),
+            "county": event.get("county", ""),
+            "trade": event.get("trade", ""),
             "ip": request.headers.get("X-Forwarded-For", request.remote_addr or ""),
             "user_agent": request.headers.get("User-Agent", ""),
         })
