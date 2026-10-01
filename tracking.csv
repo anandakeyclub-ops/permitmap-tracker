@@ -1289,3 +1289,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 16:18:42,open,3728_followup_1_pasco_general_contractor__v1,3728,followup,1,pasco_general_contractor__v1,"140.248.44.1, 104.23.248.112",Mozilla/5.0
 2026-10-01 16:18:42,open,3720_followup_1_pasco_hvac__v1,3720,followup,1,pasco_hvac__v1,"140.248.44.1, 104.23.248.113",Mozilla/5.0
 2026-10-01 16:33:36,open,47_followup_2_palm_beach_general_contractor__v0,47,followup,2,palm_beach_general_contractor__v0,"140.248.44.1, 172.68.22.31",Mozilla/5.0
+2026-10-01 18:58:52,open,353_first_outreach_martin_roofing__v0,353,first,outreach,martin_roofing__v0,"74.125.210.132, 172.71.31.226",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
