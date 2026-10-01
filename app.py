@@ -493,10 +493,16 @@ def _verify_sendgrid_signature(payload: bytes) -> bool:
     if not signature or not timestamp:
         return False
     try:
-        from ecdsa import VerifyingKey, NIST256p, BadSignatureError
+        from ecdsa import VerifyingKey, NIST256p
         sig = base64.b64decode(signature)
         key_bytes = base64.b64decode(public_key)
-        vk = VerifyingKey.from_string(key_bytes, curve=NIST256p)
+        # SendGrid publishes an uncompressed SEC1 public key (0x04 || X || Y).
+        # ecdsa.from_string expects X || Y for this curve, so strip the SEC1 prefix.
+        if len(key_bytes) == 65 and key_bytes[0] == 4:
+            key_bytes = key_bytes[1:]
+        if len(key_bytes) != 64:
+            raise ValueError(f"unexpected SendGrid public-key length: {len(key_bytes)}")
+        vk = VerifyingKey.from_string(key_bytes, curve=NIST256p, hashfunc=hashlib.sha256)
         return vk.verify(sig, timestamp.encode("utf-8") + payload, hashfunc=hashlib.sha256)
     except Exception as exc:
         print(f"[sendgrid] signature verification failed: {exc}")
