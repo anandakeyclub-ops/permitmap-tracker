@@ -1318,3 +1318,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-02 14:48:13,open,539_followup_2_pasco_hvac__v0,539,followup,2,pasco_hvac__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
 2026-10-02 16:13:05,open,302_followup_1_palm_beach_pool__v1,302,followup,1,palm_beach_pool__v1,"140.248.44.1, 172.71.146.210",Mozilla/5.0
 2026-10-02 18:11:44,open,50_followup_2_palm_beach_general_contractor__v0,50,followup,2,palm_beach_general_contractor__v0,"140.248.44.1, 172.71.146.206",Mozilla/5.0
+2026-10-02 20:51:59,open,2918_close_email_miami_dade_general_contractor__v2,2918,close,email,miami_dade_general_contractor__v2,"104.28.132.113, 172.68.12.77",Mozilla/5.0
+2026-10-02 20:52:01,open,2918_close_email_miami_dade_general_contractor__v2,2918,close,email,miami_dade_general_contractor__v2,"140.248.44.1, 172.70.255.70",Mozilla/5.0
