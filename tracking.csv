@@ -1304,3 +1304,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-02 11:30:23,open,316_followup_1_palm_beach_pool__v1,316,followup,1,palm_beach_pool__v1,"172.226.190.51, 104.22.86.74",Mozilla/5.0
 2026-10-02 12:21:14,open,3493_followup_1_miami_dade_hvac__v1,3493,followup,1,miami_dade_hvac__v1,"104.28.85.125, 172.71.147.233",Mozilla/5.0
 2026-10-02 13:44:58,open,425_first_outreach_lee_roofing__v0,425,first,outreach,lee_roofing__v0,"74.125.210.131, 172.71.146.207",Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+2026-10-02 14:48:05,open,3585_close_email_palm_beach_roofing__v0,3585,close,email,palm_beach_roofing__v0,"140.248.44.0, 172.68.12.76",Mozilla/5.0
+2026-10-02 14:48:05,open,3576_close_email_palm_beach_roofing__v0,3576,close,email,palm_beach_roofing__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-10-02 14:48:05,open,3575_close_email_palm_beach_roofing__v1,3575,close,email,palm_beach_roofing__v1,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-10-02 14:48:05,open,141_followup_2_palm_beach_plumbing__v0,141,followup,2,palm_beach_plumbing__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-10-02 14:48:05,open,169_followup_2_palm_beach_general_contractor__v0,169,followup,2,palm_beach_general_contractor__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
