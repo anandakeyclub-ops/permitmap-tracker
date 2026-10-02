@@ -1302,3 +1302,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-02 09:37:57,open,574_close_email_pasco_solar__v0,574,close,email,pasco_solar__v0,"140.248.44.0, 172.71.146.201",Mozilla/5.0
 2026-10-02 11:19:50,click,263_followup_1_palm_beach_roofing__v0,263,followup,1,palm_beach_roofing__v0,"9.169.124.71, 172.71.150.64","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36"
 2026-10-02 11:30:23,open,316_followup_1_palm_beach_pool__v1,316,followup,1,palm_beach_pool__v1,"172.226.190.51, 104.22.86.74",Mozilla/5.0
+2026-10-02 12:21:14,open,3493_followup_1_miami_dade_hvac__v1,3493,followup,1,miami_dade_hvac__v1,"104.28.85.125, 172.71.147.233",Mozilla/5.0
