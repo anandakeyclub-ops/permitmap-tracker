@@ -1309,3 +1309,8 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-02 14:48:05,open,3575_close_email_palm_beach_roofing__v1,3575,close,email,palm_beach_roofing__v1,"140.248.44.0, 172.68.12.77",Mozilla/5.0
 2026-10-02 14:48:05,open,141_followup_2_palm_beach_plumbing__v0,141,followup,2,palm_beach_plumbing__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
 2026-10-02 14:48:05,open,169_followup_2_palm_beach_general_contractor__v0,169,followup,2,palm_beach_general_contractor__v0,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-10-02 14:48:10,open,1625_followup_2_pasco_roofing__v1,1625,followup,2,pasco_roofing__v1,"140.248.44.0, 172.68.12.76",Mozilla/5.0
+2026-10-02 14:48:10,open,1633_followup_2_pasco_hvac__v1,1633,followup,2,pasco_hvac__v1,"140.248.44.0, 172.68.12.76",Mozilla/5.0
+2026-10-02 14:48:10,open,1637_followup_2_pasco_hvac__v1,1637,followup,2,pasco_hvac__v1,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-10-02 14:48:10,open,1667_followup_2_pasco_general_contractor__v1,1667,followup,2,pasco_general_contractor__v1,"140.248.44.0, 172.68.12.77",Mozilla/5.0
+2026-10-02 14:48:10,open,1665_followup_2_pasco_general_contractor__v0,1665,followup,2,pasco_general_contractor__v0,"140.248.44.0, 172.68.12.91",Mozilla/5.0
