@@ -1298,3 +1298,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-01 23:27:36,open,3160_followup_1_pasco_general_contractor__v1,3160,followup,1,pasco_general_contractor__v1,"140.248.44.1, 172.71.146.115",Mozilla/5.0
 2026-10-02 03:22:47,open,1677_followup_2_pasco_general_contractor__v1,1677,followup,2,pasco_general_contractor__v1,"140.248.44.0, 172.70.82.94",Mozilla/5.0
 2026-10-02 04:55:38,open,3708_followup_2_lee_general_contractor__v0,3708,followup,2,lee_general_contractor__v0,"104.28.132.113, 172.70.82.94",Mozilla/5.0
+2026-10-02 05:17:46,open,30_close_email_palm_beach_pool__v2,30,close,email,palm_beach_pool__v2,"172.226.190.47, 172.70.82.93",Mozilla/5.0
