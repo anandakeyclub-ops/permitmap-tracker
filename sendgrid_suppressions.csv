@@ -1,4 +1,5 @@
 email_hash,reason,event,sg_event_id,updated_at
+2207b787a482b5642101e4831ec45b6dbef10b06dba9aa520d24ca517476d2b4,"550 5.7.520 Access denied, Your organization does not allow external forwarding. Please contact your administrator for further assistance. AS(7555)",bounce,Ym91bmNlLTEwOTg4NzAxMi0yMElwRXdVNlRYaXRqbGNxU1NzdF9BLTE,2026-10-02T12:13:40.254663+00:00
 258d5fc06da3e11692e0f9ed10bc9412c8e299ef780e39f744fbfca6bf7976e8,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItSTNKWkl6TllSUEswdWh1MUI4aTcwUS0w,2026-10-01T12:21:26.974150+00:00
 272f379ea5185e814ca34ffbd8b3286dbe6619bac129ccc82228a46a77e7bbbe,"550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. For more information, go to https://support.google.com/mail/?p=NoSuchUser 41be03b00d2f7-cc7e5335132si4726745a12.100 - gsmtp",bounce,Ym91bmNlLTAtMTA5ODg3MDEyLTJkM0NQZnNaVGMybm5vdXd2VXpKU1EtMA,2026-10-01T12:09:49.571138+00:00
 273f6ec2fc79031c824daff15d9415db2e8f2dd2a934b6b8b13540b5f94062b0,group_unsubscribe,group_unsubscribe,r4WvXxMYB4G4bxhsj_9CFQ==,2026-10-01T17:08:01.853680+00:00
