@@ -1323,3 +1323,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-03 00:27:34,open,315_followup_1_palm_beach_pool__v1,315,followup,1,palm_beach_pool__v1,"104.28.132.113, 172.70.82.93",Mozilla/5.0
 2026-10-03 08:25:21,open,2408_followup_2_lee_roofing__v0,2408,followup,2,lee_roofing__v0,"140.248.44.1, 172.68.12.90",Mozilla/5.0
 2026-10-03 09:51:16,open,7_followup_1_palm_beach_roofing__v1,7,followup,1,palm_beach_roofing__v1,"172.226.190.37, 172.68.22.20",Mozilla/5.0
+2026-10-03 16:45:30,click,reel_v1_permitbreakdownreel_record_00a0cb203cc4c87c,reel,v1,permitbreakdownreel,record_00a0cb203cc4c87c,"173.252.69.41, 172.68.22.20",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
