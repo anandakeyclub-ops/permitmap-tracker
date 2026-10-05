@@ -1334,3 +1334,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-05 17:42:37,open,4299_first_outreach_pasco_general_contractor__v1,4299,first,outreach,pasco_general_contractor__v1,"172.226.188.27, 172.68.12.76",Mozilla/5.0
 2026-10-05 18:28:20,open,3158_followup_1_pasco_general_contractor__v1,3158,followup,1,pasco_general_contractor__v1,"140.248.44.1, 104.22.86.31",Mozilla/5.0
 2026-10-05 19:24:28,open,3087_followup_2_lee_hvac__v0,3087,followup,2,lee_hvac__v0,"140.248.44.0, 172.70.82.94",Mozilla/5.0
+2026-10-05 22:25:41,open,2045_close_email_sarasota_roofing__v1,2045,close,email,sarasota_roofing__v1,"172.226.188.40, 172.68.12.77",Mozilla/5.0
