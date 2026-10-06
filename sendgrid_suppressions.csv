@@ -1,4 +1,5 @@
 email_hash,reason,event,sg_event_id,updated_at
+163783dd7c4ea5fad90cb4273399ae7293d1b389d587de2f9dfc61e1b69cf66a,"451 4.4.4 Mail received as unauthenticated, incoming to a recipient domain configured in a hosted tenant which has no mail-enabled subscriptions. ATTR5 [DM3PEPF000265B9.namprd04.prod.outlook.com 2026-10-06T12:11:33.410Z 08DF23176FDB4DD8]",bounce,Ym91bmNlLTAtMTA5ODg3MDEyLUdob2tISGw2UTFpTFdwTFdPRDVrZnctMA,2026-10-06T12:11:48.960631+00:00
 21b16df0060494a13720028b3f2c3b429722ee501c500da7a4bd449a691fdc0d,550 #5.1.0 Address rejected.,bounce,Ym91bmNlLTAtMTA5ODg3MDEyLVRvRU10TEI5VEctaXdxSmxvS0hOVEEtMA,2026-10-05T12:11:35.146829+00:00
 2207b787a482b5642101e4831ec45b6dbef10b06dba9aa520d24ca517476d2b4,"550 5.7.520 Access denied, Your organization does not allow external forwarding. Please contact your administrator for further assistance. AS(7555)",bounce,Ym91bmNlLTEwOTg4NzAxMi0yMElwRXdVNlRYaXRqbGNxU1NzdF9BLTE,2026-10-02T12:13:40.254663+00:00
 258d5fc06da3e11692e0f9ed10bc9412c8e299ef780e39f744fbfca6bf7976e8,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItSTNKWkl6TllSUEswdWh1MUI4aTcwUS0w,2026-10-01T12:21:26.974150+00:00
