@@ -1341,3 +1341,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-06 13:17:41,open,3087_followup_2_lee_hvac__v0,3087,followup,2,lee_hvac__v0,"140.248.44.1, 172.71.146.123",Mozilla/5.0
 2026-10-06 14:03:19,click,reel_v1_threejobsmissedreel_record_01036fa55a68e73d,reel,v1,threejobsmissedreel,record_01036fa55a68e73d,"173.252.87.44, 172.71.147.100",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-10-06 14:03:21,click,reel_v1_threejobsmissedreel_record_01036fa55a68e73d,reel,v1,threejobsmissedreel,record_01036fa55a68e73d,"173.252.95.27, 172.71.147.230",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+2026-10-06 14:04:06,click,reel_v1_threejobsmissedreel_record_01036fa55a68e73d,reel,v1,threejobsmissedreel,record_01036fa55a68e73d,"173.252.69.31, 104.22.56.72",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
