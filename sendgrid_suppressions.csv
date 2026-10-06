@@ -10,6 +10,7 @@ email_hash,reason,event,sg_event_id,updated_at
 2b69e6c92abce4f9a9577f36819a91be3495f38a0fa58532e141eee9b67dd3f5,error dialing remote address: dial tcp 149.72.204.95:0->15.197.148.33:25: i/o timeout,bounce,Ym91bmNlLTQtMTA5ODg3MDEyLUtnUzFLb3JxUTBlUURLWGlMZkc0bWctMA,2026-10-05T12:14:12.528153+00:00
 2be050a7f68fc09bea951c2b5a8b87de39b591bc9cff46b29499eb92880ab751,550 No mailbox by that name is currently available,bounce,Ym91bmNlLTAtMTA5ODg3MDEyLVNrai1TU3piUTVHeUk3OTQyU0sySnctMA,2026-10-05T12:17:06.649110+00:00
 2dc5c9e1c6baca21f43af84599367db662e2a0f123d527535d732aa8411228fc,552 5.2.2 <sales@hughes-mech-elect.com> Quota exceeded (mailbox for user is full),bounce,Ym91bmNlLTEwOTg4NzAxMi1xMDFZR1hKbVRJNnZDNDZKZU93eElRLTE,2026-10-02T12:11:08.255878+00:00
+2e07aac6955c17f571b7e477435229114b3fdd24057736819e9ae7ddab1dfe7d,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItcjMycl9MamJRLW1QVkdEbm1oREw3Zy0w,2026-10-06T12:21:54.085753+00:00
 309440fddd2876c78da6555ea32c6b0951c661aed760683edde4ffa89a2b37c6,550 permanent failure for one or more recipients (jmyers@tischlerwindows.com:blocked),bounce,Ym91bmNlLTAtMTA5ODg3MDEyLTl3MTBmenF2VGIyWnVqektVNUZuUUEtMA,2026-10-06T12:01:04.298316+00:00
 336e9454533b51419a89616d726a22cbc2c9f2539dadeca441ab43de23c056cf,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItbDZNM0NHZmdTR1czclREWGhyWXdRdy0w,2026-10-01T12:27:57.014168+00:00
 34099c34b4ca8a0135dd6ada2e72d609ce26106cfe9b28a9f5c4d8766587671e,Invalid,dropped,ZHJvcC0xMDk4ODcwMTItd0EySkpMTWZTMG1FV3BqdEhHUHpYQS0w,2026-10-02T12:38:32.962110+00:00
