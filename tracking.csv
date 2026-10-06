@@ -1353,3 +1353,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-06 18:41:39,open,141_close_email_palm_beach_plumbing__v0,141,close,email,palm_beach_plumbing__v0,"140.248.44.0, 172.71.146.115",Mozilla/5.0
 2026-10-06 19:25:23,open,0_close_email_palm_beach_roofing__v1,0,close,email,palm_beach_roofing__v1,"140.248.44.0, 172.71.146.114",Mozilla/5.0
 2026-10-06 19:42:16,open,3087_close_email_lee_hvac__v0,3087,close,email,lee_hvac__v0,"140.248.44.0, 172.71.146.175",Mozilla/5.0
+2026-10-06 20:28:31,open,169_close_email_palm_beach_general_contractor__v0,169,close,email,palm_beach_general_contractor__v0,"140.248.44.1, 172.70.255.70",Mozilla/5.0
