@@ -32,7 +32,7 @@ email_hash,reason,event,sg_event_id,updated_at
 6c6a0541fe025dc346568ec9cfc9720942a0b5caaed9ddedf5ae48412fa1789b,error dialing remote address: dial tcp 149.72.204.95:0->76.223.67.189:25: i/o timeout,bounce,Ym91bmNlLTQtMTA5ODg3MDEyLUJNdG94M3o5VGR5M29JS3VvdmlDSkEtMA,2026-10-05T12:09:25.823996+00:00
 74955eb64325a3808b223ae1ccfd3ba5b294619e06bba5157eebb62542853662,"550 5.7.520 Access denied, Your organization does not allow external forwarding. Please contact your administrator for further assistance. AS(7555)",bounce,Ym91bmNlLTEwOTg4NzAxMi1JUkt3S0VWU1JjT2Fzdy1uU2M2VE1RLTE,2026-10-01T12:28:26.656965+00:00
 782c8beb3c337d61039fcafcba7bb82484ab83a84da62e1a837744523a5ea42a,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItR0FKWXotbmFUNTZ3Sm8xd2tUQVEzUS0w,2026-10-06T12:27:15.292178+00:00
-7d8dd10c1a4995fbd64df2281bf24bb871b4e6f3344175986b99cb04b24974d5,452 4.2.2 Mailbox full,bounce,Ym91bmNlLTUtMTA5ODg3MDEyLW5QZE4zbEpwUVltSF9jc1ZfSjhOX2ctMA,2026-10-01T12:17:25.413095+00:00
+7d8dd10c1a4995fbd64df2281bf24bb871b4e6f3344175986b99cb04b24974d5,452 4.2.2 Mailbox full,bounce,Ym91bmNlLTAtMTA5ODg3MDEyLUpPS1dVT2pGUlFhSWhONWk1bEZDMHctMA,2026-10-07T12:28:54.759160+00:00
 802bdc899a6165b18911dd5523816ad8cfdefe70d383e7317329fd66defa0452,unable to get mx info: failed to get IPs from PTR record: lookup <nil>: unrecognized address,bounce,Ym91bmNlLTQtMTA5ODg3MDEyLUNTdjdvclpLVEF5a3BIQlEtYU5RUnctMA,2026-10-02T12:41:25.413955+00:00
 80d5a5b95590a8da122db30249c0c4cc323a363a5e3c5601c45c4a4592476ad5,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItUmktRU1vck5TZUdzNTlGZjQ3azZDQS0w,2026-10-01T12:31:22.655784+00:00
 81c4fe6d2ace755cab3df16f891cff22bce51ca5fb697e2181e7c4dbedf32fc9,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItSkpvMVlWTy1URm1rZzRCS0ZPS2FNdy0w,2026-10-05T12:32:30.801366+00:00
