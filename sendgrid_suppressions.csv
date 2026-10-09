@@ -1,4 +1,5 @@
 email_hash,reason,event,sg_event_id,updated_at
+1151ab5fc3045d9f26e23d0a7e1e981f1614b2638448c49ace2827f8e8e04060,550 No mailbox by that name is currently available,bounce,Ym91bmNlLTAtMTA5ODg3MDEyLXhxQzBCV2JpUWhXUXhEVU5qQm5IbVEtMA,2026-10-09T12:41:11.866020+00:00
 163783dd7c4ea5fad90cb4273399ae7293d1b389d587de2f9dfc61e1b69cf66a,"451 4.4.4 Mail received as unauthenticated, incoming to a recipient domain configured in a hosted tenant which has no mail-enabled subscriptions. ATTR5 [DM3PEPF000265B9.namprd04.prod.outlook.com 2026-10-06T12:11:33.410Z 08DF23176FDB4DD8]",bounce,Ym91bmNlLTAtMTA5ODg3MDEyLUdob2tISGw2UTFpTFdwTFdPRDVrZnctMA,2026-10-06T12:11:48.960631+00:00
 1a9a77cc63ce89d737f2f39ee7f7d5568f78ab814c5ae8a7827e5568bce74a9e,Bounced Address,dropped,ZHJvcC0xMDk4ODcwMTItWnoyalJDb3VSZm10Nk0yeFozN3Y5Zy0w,2026-10-07T12:14:34.949871+00:00
 21b16df0060494a13720028b3f2c3b429722ee501c500da7a4bd449a691fdc0d,550 #5.1.0 Address rejected.,bounce,Ym91bmNlLTAtMTA5ODg3MDEyLVRvRU10TEI5VEctaXdxSmxvS0hOVEEtMA,2026-10-05T12:11:35.146829+00:00
