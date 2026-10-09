@@ -1366,3 +1366,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-08 13:36:41,open,3087_followup_2_lee_hvac__v0,3087,followup,2,lee_hvac__v0,"140.248.44.1, 162.158.41.65",Mozilla/5.0
 2026-10-08 23:18:10,open,2360_close_email_palm_beach_pool__v0,2360,close,email,palm_beach_pool__v0,"140.248.44.0, 172.71.146.148",Mozilla/5.0
 2026-10-09 11:23:10,open,4172_followup_2_palm_beach_hvac__v1,4172,followup,2,palm_beach_hvac__v1,"76.153.139.48, 172.70.82.93","Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Mobile Safari/537.36"
+2026-10-09 11:36:35,open,4194_followup_2_palm_beach_plumbing__v0,4194,followup,2,palm_beach_plumbing__v0,"172.58.130.170, 162.158.41.64","Mozilla/5.0 (Linux; Android 16; SM-S928U1 Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/153.0.8010.36 Mobile Safari/537.36"
