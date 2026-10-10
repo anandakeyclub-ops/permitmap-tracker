@@ -1375,3 +1375,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-09 20:23:04,open,90_first_outreach_martin_pool__v1,90,first,outreach,martin_pool__v1,"146.75.244.0, 162.158.63.69",Mozilla/5.0
 2026-10-09 22:51:31,open,73_followup_2_martin_hvac__v1,73,followup,2,martin_hvac__v1,"104.28.132.113, 172.68.12.77",Mozilla/5.0
 2026-10-10 00:35:04,open,89_followup_1_martin_pool__v1,89,followup,1,martin_pool__v1,"172.226.188.24, 104.23.248.112",Mozilla/5.0
+2026-10-10 03:23:25,open,58_followup_2_martin_roofing__v1,58,followup,2,martin_roofing__v1,"172.226.190.10, 104.22.86.74",Mozilla/5.0
