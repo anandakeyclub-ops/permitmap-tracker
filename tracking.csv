@@ -1387,3 +1387,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-12 15:26:36,open,1492_first_outreach_palm_beach_plumbing__v1,1492,first,outreach,palm_beach_plumbing__v1,"2a06:98c0:3600::103,172.71.190.179, 162.158.41.138",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-10-12 17:23:12,open,3008_first_outreach_palm_beach_roofing__v0,3008,first,outreach,palm_beach_roofing__v0,"140.248.44.1, 104.22.160.48",Mozilla/5.0
 2026-10-12 17:36:03,open,467_first_outreach_lee_pool__v0,467,first,outreach,lee_pool__v0,"76.148.105.74, 172.71.151.181","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+2026-10-12 18:00:23,open,287_first_outreach_palm_beach_plumbing__v2,287,first,outreach,palm_beach_plumbing__v2,"69.147.93.139, 172.71.146.115",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
