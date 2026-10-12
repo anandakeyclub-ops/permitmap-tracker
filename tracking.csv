@@ -1382,3 +1382,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-12 11:11:52,open,90_first_outreach_martin_pool__v1,90,first,outreach,martin_pool__v1,"172.226.196.4, 172.71.146.206",Mozilla/5.0
 2026-10-12 11:24:19,open,3017_first_outreach_palm_beach_hvac__v0,3017,first,outreach,palm_beach_hvac__v0,"140.248.44.0, 172.68.12.91",Mozilla/5.0
 2026-10-12 11:24:39,open,3017_first_outreach_palm_beach_hvac__v0,3017,first,outreach,palm_beach_hvac__v0,"140.248.44.0, 104.22.160.48",Mozilla/5.0
+2026-10-12 12:18:12,open,1482_first_outreach_palm_beach_hvac__v0,1482,first,outreach,palm_beach_hvac__v0,"69.147.86.139, 162.158.42.24",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
