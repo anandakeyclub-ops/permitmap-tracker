@@ -1400,3 +1400,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-13 11:30:25,open,215_followup_1_martin_plumbing__v0,215,followup,1,martin_plumbing__v0,"172.226.188.0, 108.162.210.231",Mozilla/5.0
 2026-10-13 11:34:31,open,4195_close_email_palm_beach_plumbing__v1,4195,close,email,palm_beach_plumbing__v1,"139.68.243.223, 104.22.160.18","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
 2026-10-13 11:34:31,open,4195_close_email_palm_beach_plumbing__v1,4195,close,email,palm_beach_plumbing__v1,"139.68.243.223, 104.22.86.75","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+2026-10-13 11:57:59,open,4205_close_email_palm_beach_general_contractor__v1,4205,close,email,palm_beach_general_contractor__v1,"104.28.132.113, 162.158.42.3",Mozilla/5.0
