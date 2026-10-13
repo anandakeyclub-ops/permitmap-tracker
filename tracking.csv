@@ -1409,3 +1409,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-13 13:59:29,open,1455_followup_1_palm_beach_roofing__v1,1455,followup,1,palm_beach_roofing__v1,"140.248.20.1, 172.71.146.140",Mozilla/5.0
 2026-10-13 14:07:39,open,1465_followup_1_palm_beach_roofing__v1,1465,followup,1,palm_beach_roofing__v1,"172.226.178.16, 172.70.94.27",Mozilla/5.0
 2026-10-13 14:14:02,open,303_close_email_palm_beach_pool__v0,303,close,email,palm_beach_pool__v0,"2a06:98c0:3600::103,172.70.115.214, 172.70.115.132",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
+2026-10-13 16:01:50,open,315_close_email_palm_beach_pool__v1,315,close,email,palm_beach_pool__v1,"140.248.44.0, 172.70.255.70",Mozilla/5.0
