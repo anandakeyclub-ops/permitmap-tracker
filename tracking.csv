@@ -1403,3 +1403,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-13 11:57:59,open,4205_close_email_palm_beach_general_contractor__v1,4205,close,email,palm_beach_general_contractor__v1,"104.28.132.113, 162.158.42.3",Mozilla/5.0
 2026-10-13 11:58:14,open,207_followup_1_martin_hvac__v0,207,followup,1,martin_hvac__v0,"140.248.44.0, 162.158.42.3",Mozilla/5.0
 2026-10-13 12:10:40,open,3486_followup_1_miami_dade_hvac__v0,3486,followup,1,miami_dade_hvac__v0,"172.226.190.1, 172.71.146.148",Mozilla/5.0
+2026-10-13 12:52:18,open,4205_close_email_palm_beach_general_contractor__v1,4205,close,email,palm_beach_general_contractor__v1,"140.248.44.1, 172.68.12.90",Mozilla/5.0
+2026-10-13 12:53:39,open,224_followup_1_martin_plumbing__v0,224,followup,1,martin_plumbing__v0,"172.226.188.55, 162.158.42.24",Mozilla/5.0
