@@ -1430,3 +1430,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-15 02:06:17,open,251_followup_1_martin_general_contractor__v0,251,followup,1,martin_general_contractor__v0,"172.225.130.41, 172.69.7.192",Mozilla/5.0
 2026-10-15 09:58:24,open,2476_followup_2_lee_general_contractor__v0,2476,followup,2,lee_general_contractor__v0,"69.138.130.30, 162.158.42.24",Mozilla/5.0
 2026-10-15 10:32:01,open,496_first_outreach_lee_general_contractor__v0,496,first,outreach,lee_general_contractor__v0,"172.56.1.90, 108.162.210.231",Mozilla/5.0
+2026-10-15 23:33:15,open,90_first_outreach_martin_pool__v1,90,first,outreach,martin_pool__v1,"140.248.0.0, 172.68.138.131",Mozilla/5.0
