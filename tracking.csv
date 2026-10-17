@@ -1438,3 +1438,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-16 18:34:07,open,2323_close_email_palm_beach_roofing__v1,2323,close,email,palm_beach_roofing__v1,"104.28.132.113, 198.41.227.193",Mozilla/5.0
 2026-10-17 01:56:16,open,574_first_outreach_pasco_solar__v0,574,first,outreach,pasco_solar__v0,"140.248.44.1, 108.162.210.218",Mozilla/5.0
 2026-10-17 03:00:01,open,485_close_email_lee_solar__v1,485,close,email,lee_solar__v1,"140.248.44.1, 162.158.41.54",Mozilla/5.0
+2026-10-17 13:03:58,click,reel_v1_threejobsmissedreel_record_000edb44bee0ae0e,reel,v1,threejobsmissedreel,record_000edb44bee0ae0e,"173.252.95.23, 162.158.41.36",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
