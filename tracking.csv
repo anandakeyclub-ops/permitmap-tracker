@@ -1440,3 +1440,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-17 03:00:01,open,485_close_email_lee_solar__v1,485,close,email,lee_solar__v1,"140.248.44.1, 162.158.41.54",Mozilla/5.0
 2026-10-17 13:03:58,click,reel_v1_threejobsmissedreel_record_000edb44bee0ae0e,reel,v1,threejobsmissedreel,record_000edb44bee0ae0e,"173.252.95.23, 162.158.41.36",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-10-17 13:04:49,click,reel_v1_threejobsmissedreel_record_000edb44bee0ae0e,reel,v1,threejobsmissedreel,record_000edb44bee0ae0e,"173.252.70.34, 108.162.237.33",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+2026-10-17 13:04:52,click,reel_v1_threejobsmissedreel_record_000edb44bee0ae0e,reel,v1,threejobsmissedreel,record_000edb44bee0ae0e,"69.63.184.32, 172.68.70.188",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
