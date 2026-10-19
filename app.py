@@ -109,23 +109,53 @@ def _github_headers() -> dict:
     }
 
 
+class RemoteFetchError(RuntimeError):
+    """Raised when the stored CSV cannot be read completely.
+
+    Writers must never treat this as "file is empty": doing so replaced the whole
+    SendGrid event ledger with a header plus a few rows once the file passed the
+    1 MiB limit of the GitHub contents API (which returns empty content for larger
+    files while still returning a valid sha).
+    """
+
+
 def _get_remote_csv() -> tuple[str, str]:
-    """Fetch current tracking.csv from GitHub. Returns (content_str, sha)."""
+    """Fetch current CSV from GitHub. Returns (content_str, sha).
+
+    Only a genuine 404 yields an empty/new file. Any other failure, or any
+    response whose body does not match the size GitHub reports, raises
+    RemoteFetchError so callers abort instead of overwriting history.
+    """
     url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_PATH}"
     try:
         r = requests.get(url, headers=_github_headers(),
                          params={"ref": GITHUB_BRANCH}, timeout=10)
-        if r.status_code == 200:
-            data    = r.json()
-            content = base64.b64decode(data["content"]).decode("utf-8")
-            return content, data["sha"]
-        elif r.status_code == 404:
-            # File doesn't exist yet — create with headers
-            header_line = ",".join(CSV_HEADERS) + "\n"
-            return header_line, ""
     except Exception as e:
-        print(f"[tracker] GitHub fetch error: {e}")
-    return ",".join(CSV_HEADERS) + "\n", ""
+        raise RemoteFetchError(f"GitHub fetch error: {e}") from e
+    if r.status_code == 404:
+        # File doesn't exist yet — create with headers
+        return ",".join(CSV_HEADERS) + "\n", ""
+    if r.status_code != 200:
+        raise RemoteFetchError(f"GitHub fetch status {r.status_code}")
+    data = r.json()
+    sha = data.get("sha", "")
+    size = int(data.get("size") or 0)
+    raw = base64.b64decode(data.get("content") or "")
+    if size and len(raw) != size:
+        # Contents API omits the body for files over 1 MiB; fetch the raw bytes.
+        try:
+            r2 = requests.get(url, headers={**_github_headers(),
+                              "Accept": "application/vnd.github.raw+json"},
+                              params={"ref": GITHUB_BRANCH}, timeout=30)
+        except Exception as e:
+            raise RemoteFetchError(f"GitHub raw fetch error: {e}") from e
+        if r2.status_code != 200:
+            raise RemoteFetchError(f"GitHub raw fetch status {r2.status_code}")
+        raw = r2.content
+        if len(raw) != size:
+            raise RemoteFetchError(
+                f"GitHub body {len(raw)} bytes != reported size {size}")
+    return raw.decode("utf-8"), sha
 
 
 def _push_csv(content: str, sha: str) -> bool:
@@ -233,7 +263,11 @@ def _log_event(tracking_id: str, event: str):
 def _load_all_rows() -> list[dict]:
     """Load all rows from GitHub CSV."""
     _flush_buffer()  # make sure buffer is flushed first
-    content, _ = _get_remote_csv()
+    try:
+        content, _ = _get_remote_csv()
+    except RemoteFetchError as e:
+        print(f"[tracker] stats fetch failed: {e}")
+        return []
     rows = []
     try:
         reader = csv.DictReader(io.StringIO(content))
@@ -484,6 +518,8 @@ def _persist_sendgrid_events(events: list[dict]) -> None:
         })
         if event_id:
             known.add(event_id)
+    if sha and len(out.getvalue()) < len(remote):
+        raise RuntimeError("SendGrid event ledger would shrink; refusing to write")
     if not _sendgrid_push_csv(out.getvalue(), sha):
         raise RuntimeError("SendGrid event persistence failed")
 
