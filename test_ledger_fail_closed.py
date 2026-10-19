@@ -100,7 +100,18 @@ def test_persist_appends_and_keeps_history(monkeypatch):
     old = hdr + "\n" + "1,processed,h,e0,m,,,,,,,,,,\n"
     seen = {}
     monkeypatch.setattr(A.requests, "get", lambda *a, **k: R(200, meta(old.encode())))
-    monkeypatch.setattr(A, "_push_csv", lambda c, s: seen.update(c=c, s=s) or True)
+    monkeypatch.setattr(A, "_push_csv", lambda c, s, path=None: seen.update(c=c, s=s, path=path) or True)
     with A.app.test_request_context():
         A._persist_sendgrid_events([{"event": "processed", "sg_event_id": "e1", "email": "x@y.z", "timestamp": 2}])
-    assert "e0" in seen["c"] and "e1" in seen["c"] and seen["s"] == "abc"
+    assert "e0" in seen["c"] and "e1" in seen["c"] and seen["s"] == "abc" and seen["path"] == "sendgrid_events.csv"
+
+
+def test_no_global_path_swapping(monkeypatch):
+    """Concurrent tracking flushes must never be redirected to the SendGrid ledger path."""
+    urls = []
+    monkeypatch.setattr(A.requests, "get", lambda url, **k: urls.append(url) or R(404))
+    A._get_remote_csv()
+    A._sendgrid_remote_csv()
+    A._get_remote_csv()
+    assert [u.rsplit("/", 1)[1] for u in urls] == ["tracking.csv", "sendgrid_events.csv", "tracking.csv"]
+    assert A.GITHUB_PATH == "tracking.csv"

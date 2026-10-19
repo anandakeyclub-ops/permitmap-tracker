@@ -119,14 +119,14 @@ class RemoteFetchError(RuntimeError):
     """
 
 
-def _get_remote_csv() -> tuple[str, str]:
+def _get_remote_csv(path: str | None = None) -> tuple[str, str]:
     """Fetch current CSV from GitHub. Returns (content_str, sha).
 
     Only a genuine 404 yields an empty/new file. Any other failure, or any
     response whose body does not match the size GitHub reports, raises
     RemoteFetchError so callers abort instead of overwriting history.
     """
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_PATH}"
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path or GITHUB_PATH}"
     try:
         r = requests.get(url, headers=_github_headers(),
                          params={"ref": GITHUB_BRANCH}, timeout=10)
@@ -158,12 +158,12 @@ def _get_remote_csv() -> tuple[str, str]:
     return raw.decode("utf-8"), sha
 
 
-def _push_csv(content: str, sha: str) -> bool:
+def _push_csv(content: str, sha: str, path: str | None = None) -> bool:
     """Push updated tracking.csv to GitHub."""
     if not GITHUB_TOKEN:
         print("[tracker] No GITHUB_TOKEN — skipping push")
         return False
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_PATH}"
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path or GITHUB_PATH}"
     payload = {
         "message": f"tracking update {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')}",
         "content": base64.b64encode(content.encode("utf-8")).decode("utf-8"),
@@ -464,23 +464,11 @@ _sendgrid_lock = threading.Lock()
 
 
 def _sendgrid_remote_csv() -> tuple[str, str]:
-    global GITHUB_PATH
-    original = GITHUB_PATH
-    try:
-        GITHUB_PATH = SENDGRID_EVENT_PATH
-        return _get_remote_csv()
-    finally:
-        GITHUB_PATH = original
+    return _get_remote_csv(SENDGRID_EVENT_PATH)
 
 
 def _sendgrid_push_csv(content: str, sha: str) -> bool:
-    global GITHUB_PATH
-    original = GITHUB_PATH
-    try:
-        GITHUB_PATH = SENDGRID_EVENT_PATH
-        return _push_csv(content, sha)
-    finally:
-        GITHUB_PATH = original
+    return _push_csv(content, sha, SENDGRID_EVENT_PATH)
 
 
 def _persist_sendgrid_events(events: list[dict]) -> None:
@@ -564,16 +552,10 @@ def sendgrid_events():
         with _sendgrid_lock:
             _persist_sendgrid_events(filtered)
             from sendgrid_suppression import build_suppression_rows, SUPPRESSION_PATH
-            global GITHUB_PATH
-            original_path = GITHUB_PATH
-            try:
-                GITHUB_PATH = SUPPRESSION_PATH
-                current, sha = _get_remote_csv()
-                updated = build_suppression_rows(filtered, current)
-                if updated != current and not _push_csv(updated, sha):
-                    raise RuntimeError("SendGrid suppression persistence failed")
-            finally:
-                GITHUB_PATH = original_path
+            current, sha = _get_remote_csv(SUPPRESSION_PATH)
+            updated = build_suppression_rows(filtered, current)
+            if updated != current and not _push_csv(updated, sha, SUPPRESSION_PATH):
+                raise RuntimeError("SendGrid suppression persistence failed")
         return jsonify({"accepted": len(filtered)}), 200
     except Exception as exc:
         print(f"[sendgrid] webhook processing failed: {exc}")
