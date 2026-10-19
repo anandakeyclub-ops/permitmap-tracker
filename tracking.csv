@@ -1443,3 +1443,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-17 13:04:52,click,reel_v1_threejobsmissedreel_record_000edb44bee0ae0e,reel,v1,threejobsmissedreel,record_000edb44bee0ae0e,"69.63.184.32, 172.68.70.188",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-10-17 13:19:01,click,reel_v1_threejobsmissedreel_record_000edb44bee0ae0e,reel,v1,threejobsmissedreel,record_000edb44bee0ae0e,"173.252.82.113, 104.22.148.29",facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
 2026-10-19 16:14:04,open,90_first_outreach_martin_pool__v1,90,first,outreach,martin_pool__v1,"140.248.0.0, 172.71.190.154",Mozilla/5.0
+2026-10-19 16:19:30,open,1632_first_outreach_pasco_roofing__v1,1632,first,outreach,pasco_roofing__v1,"66.249.92.8, 162.158.41.105","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
