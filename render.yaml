@@ -6,3 +6,5 @@ services:
     startCommand: gunicorn app:app
     ignoredPaths:
       - tracking.csv
+      - sendgrid_events.csv
+      - sendgrid_suppressions.csv
