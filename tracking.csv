@@ -1447,3 +1447,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-19 16:22:42,open,4151_first_outreach_charlotte_pool__v1,4151,first,outreach,charlotte_pool__v1,"104.28.132.113, 104.22.42.132",Mozilla/5.0
 2026-10-19 19:19:40,open,3052_first_outreach_palm_beach_general_contractor__v1,3052,first,outreach,palm_beach_general_contractor__v1,"140.248.4.1, 104.22.93.10",Mozilla/5.0
 2026-10-19 22:17:15,open,1564_close_email_lee_hvac__v1,1564,close,email,lee_hvac__v1,"172.226.190.11, 172.70.83.94",Mozilla/5.0
+2026-10-20 14:11:34,open,3674_followup_2_lee_hvac__v1,3674,followup,2,lee_hvac__v1,"140.248.44.1, 172.71.146.126",Mozilla/5.0
