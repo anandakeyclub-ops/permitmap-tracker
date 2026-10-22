@@ -1454,3 +1454,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-21 14:23:26,open,2332_close_email_palm_beach_hvac__v0,2332,close,email,palm_beach_hvac__v0,"140.248.44.0, 172.70.83.91",Mozilla/5.0
 2026-10-21 14:32:07,open,2332_close_email_palm_beach_hvac__v1,2332,close,email,palm_beach_hvac__v1,"104.28.57.247, 172.70.83.92",Mozilla/5.0
 2026-10-21 18:50:12,open,4166_followup_1_palm_beach_roofing__v0,4166,followup,1,palm_beach_roofing__v0,"140.248.44.1, 104.23.248.38",Mozilla/5.0
+2026-10-22 15:32:27,click,3466_first_outreach_volusia_general_contractor__v1,3466,first,outreach,volusia_general_contractor__v1,"5.182.127.196, 172.71.146.110","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
