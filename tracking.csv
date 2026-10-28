@@ -1567,3 +1567,5 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-28 13:42:27,open,1484_followup_2_palm_beach_plumbing__v1,1484,followup,2,palm_beach_plumbing__v1,"140.248.44.0, 108.162.210.218",Mozilla/5.0
 2026-10-28 15:36:11,open,1465_close_email_palm_beach_roofing__v1,1465,close,email,palm_beach_roofing__v1,"146.75.164.0, 172.71.147.99",Mozilla/5.0
 2026-10-28 16:06:57,open,154_followup_1_palm_beach_pool__v1,154,followup,1,palm_beach_pool__v1,"172.226.190.3, 172.71.147.99",Mozilla/5.0
+2026-10-28 16:16:14,open,3028_followup_1_palm_beach_plumbing__v0,3028,followup,1,palm_beach_plumbing__v0,"66.249.92.97, 172.70.134.201","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
+2026-10-28 16:16:24,open,3040_followup_1_palm_beach_plumbing__v1,3040,followup,1,palm_beach_plumbing__v1,"66.249.92.97, 172.70.134.201","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
