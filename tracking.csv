@@ -1599,3 +1599,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-28 18:08:39,open,102_followup_2_martin_general_contractor__v1,102,followup,2,martin_general_contractor__v1,"134.56.226.92, 104.22.86.169",Mozilla/4.0 (compatible; ms-office; MSOffice 16)
 2026-10-28 18:33:48,open,215_followup_2_martin_plumbing__v0,215,followup,2,martin_plumbing__v0,"172.226.190.8, 108.162.210.218",Mozilla/5.0
 2026-10-29 00:28:15,open,347_followup_2_martin_roofing__v1,347,followup,2,martin_roofing__v1,"140.248.44.0, 172.71.147.234",Mozilla/5.0
+2026-10-29 01:23:54,open,1484_followup_2_palm_beach_plumbing__v1,1484,followup,2,palm_beach_plumbing__v1,"172.226.188.15, 172.71.146.149",Mozilla/5.0
