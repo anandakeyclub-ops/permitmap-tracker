@@ -1649,3 +1649,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-29 13:22:27,open,2394_followup_2_martin_general_contractor__v0,2394,followup,2,martin_general_contractor__v0,"140.248.44.1, 172.68.12.98",Mozilla/5.0
 2026-10-29 13:32:48,open,3158_followup_2_pasco_general_contractor__v1,3158,followup,2,pasco_general_contractor__v1,"140.248.44.0, 104.22.86.122",Mozilla/5.0
 2026-10-29 14:31:56,click,2388_followup_2_martin_general_contractor__v1,2388,followup,2,martin_general_contractor__v1,"104.28.126.211, 172.71.147.146","Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/27.0.1 Mobile/15E148 Safari/604.1"
+2026-10-29 15:51:17,open,224_followup_2_martin_plumbing__v0,224,followup,2,martin_plumbing__v0,"140.248.44.1, 172.71.147.37",Mozilla/5.0
