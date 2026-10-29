@@ -1642,3 +1642,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-29 11:28:01,open,562_followup_1_pasco_pool__v0,562,followup,1,pasco_pool__v0,"35.141.74.114, 172.68.12.102",Mozilla/5.0
 2026-10-29 11:46:27,open,2494_followup_2_pasco_general_contractor__v1,2494,followup,2,pasco_general_contractor__v1,"140.248.44.1, 104.22.86.169",Mozilla/5.0
 2026-10-29 12:08:45,open,3158_followup_2_pasco_general_contractor__v1,3158,followup,2,pasco_general_contractor__v1,"140.248.44.1, 172.68.12.69",Mozilla/5.0
+2026-10-29 12:12:12,open,3714_followup_2_pasco_hvac__v1,3714,followup,2,pasco_hvac__v1,"97.103.188.55, 172.70.255.77","Mozilla/5.0 (Linux; Android 16; SM-S916U Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/156.0.8078.47 Mobile Safari/537.36"
