@@ -1686,3 +1686,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-30 22:32:24,open,3011_first_outreach_palm_beach_hvac__v0,3011,first,outreach,palm_beach_hvac__v0,"69.147.86.73, 172.71.170.143",YahooMailProxy; https://help.yahoo.com/kb/yahoo-mail-proxy-SLN28749.html
 2026-10-30 22:40:40,open,7_followup_2_palm_beach_roofing__v1,7,followup,2,palm_beach_roofing__v1,"140.248.44.1, 172.68.12.68",Mozilla/5.0
 2026-10-30 22:40:40,open,7_followup_1_palm_beach_roofing__v1,7,followup,1,palm_beach_roofing__v1,"140.248.44.1, 172.68.12.98",Mozilla/5.0
+2026-10-30 23:10:43,open,1756_followup_1_lake_general_contractor__v0,1756,followup,1,lake_general_contractor__v0,"140.248.44.1, 104.22.72.26",Mozilla/5.0
