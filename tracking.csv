@@ -1690,3 +1690,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-31 01:21:09,open,1756_followup_1_lake_general_contractor__v0,1756,followup,1,lake_general_contractor__v0,"172.226.190.33, 104.22.86.169",Mozilla/5.0
 2026-10-31 01:40:12,open,3057_followup_1_martin_general_contractor__v1,3057,followup,1,martin_general_contractor__v1,"140.248.44.1, 104.22.72.57",Mozilla/5.0
 2026-10-31 15:58:42,open,158_close_email_palm_beach_pool__v1,158,close,email,palm_beach_pool__v1,"172.225.251.90, 172.71.146.126",Mozilla/5.0
+2026-10-31 18:08:17,open,158_first_outreach_palm_beach_pool__v1,158,first,outreach,palm_beach_pool__v1,"104.28.132.113, 172.71.151.197",Mozilla/5.0
