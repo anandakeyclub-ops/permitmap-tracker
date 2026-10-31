@@ -1687,3 +1687,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-10-30 22:40:40,open,7_followup_2_palm_beach_roofing__v1,7,followup,2,palm_beach_roofing__v1,"140.248.44.1, 172.68.12.68",Mozilla/5.0
 2026-10-30 22:40:40,open,7_followup_1_palm_beach_roofing__v1,7,followup,1,palm_beach_roofing__v1,"140.248.44.1, 172.68.12.98",Mozilla/5.0
 2026-10-30 23:10:43,open,1756_followup_1_lake_general_contractor__v0,1756,followup,1,lake_general_contractor__v0,"140.248.44.1, 104.22.72.26",Mozilla/5.0
+2026-10-31 01:21:09,open,1756_followup_1_lake_general_contractor__v0,1756,followup,1,lake_general_contractor__v0,"172.226.190.33, 104.22.86.169",Mozilla/5.0
