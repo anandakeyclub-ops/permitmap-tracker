@@ -115,3 +115,39 @@ def test_no_global_path_swapping(monkeypatch):
     A._get_remote_csv()
     assert [u.rsplit("/", 1)[1] for u in urls] == ["tracking.csv", "sendgrid_events.csv", "tracking.csv"]
     assert A.GITHUB_PATH == "tracking.csv"
+
+
+@pytest.mark.parametrize("remote,sha", [
+    (",".join(A.CSV_HEADERS) + "\n", ""),
+    ("", "existing-sha"),
+    ("wrong,columns\n", "existing-sha"),
+    (",".join(A.SENDGRID_EVENT_HEADERS) + "\n", ""),
+])
+def test_sendgrid_event_ledger_missing_or_wrong_schema_never_overwritten(
+    monkeypatch, remote, sha
+):
+    pushed = []
+    monkeypatch.setattr(A, "_sendgrid_remote_csv", lambda: (remote, sha))
+    monkeypatch.setattr(A, "_push_csv", lambda *args, **kwargs: pushed.append(1) or True)
+    with A.app.test_request_context():
+        with pytest.raises(A.RemoteFetchError):
+            A._persist_sendgrid_events([{"event": "delivered", "sg_event_id": "new"}])
+    assert pushed == []
+
+
+@pytest.mark.parametrize("bad_row", [
+    "too,few,fields\n",
+    ",".join(["x"] * (len(A.SENDGRID_EVENT_HEADERS) + 1)) + "\n",
+    '"unclosed,quote\n',
+])
+def test_sendgrid_event_ledger_truncated_or_overflowing_rows_never_replaced(
+    monkeypatch, bad_row
+):
+    pushed = []
+    remote = ",".join(A.SENDGRID_EVENT_HEADERS) + "\n" + bad_row
+    monkeypatch.setattr(A, "_sendgrid_remote_csv", lambda: (remote, "existing-sha"))
+    monkeypatch.setattr(A, "_push_csv", lambda *args, **kwargs: pushed.append(1) or True)
+    with A.app.test_request_context():
+        with pytest.raises(A.RemoteFetchError):
+            A._persist_sendgrid_events([{"event": "delivered", "sg_event_id": "new"}])
+    assert pushed == []
