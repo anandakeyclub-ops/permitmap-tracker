@@ -633,6 +633,27 @@ def _require_csv_ledger(content: str, sha: str, headers: list[str], label: str) 
         raise RemoteFetchError(f"{label} ledger has truncated or overflowing rows")
 
 
+def _require_suppression_recipients(events: list[dict]) -> None:
+    """Never acknowledge an opt-out that cannot be bound to an email address.
+
+    The suppression builder intentionally skips events without an email.
+    Failing before any ledger read/write prevents a malformed unsubscribe,
+    spam report or hard-bounce event being silently accepted as processed.
+    """
+    from sendgrid_suppression import HARD_EVENTS
+
+    for event in events:
+        if event.get("event") not in HARD_EVENTS:
+            continue
+        email = event.get("email")
+        if not isinstance(email, str):
+            raise ValueError("safety-critical SendGrid event has no valid recipient")
+        if (email.count("@") != 1
+                or not all(email.split("@", 1))
+                or any(char.isspace() or ord(char) < 32 for char in email)):
+            raise ValueError("safety-critical SendGrid event has no valid recipient")
+
+
 @app.route("/api/webhooks/sendgrid/events", methods=["POST"])
 def sendgrid_events():
     payload = request.get_data(cache=True)
@@ -646,6 +667,9 @@ def sendgrid_events():
                    "spamreport", "unsubscribe", "group_unsubscribe",
                    "group_resubscribe", "open", "click"}
         filtered = [e for e in events if isinstance(e, dict) and e.get("event") in allowed]
+        # An unactionable opt-out must fail the provider acknowledgement.
+        # Validate before touching either durable ledger.
+        _require_suppression_recipients(filtered)
         with _sendgrid_lock:
             from sendgrid_suppression import (
                 build_suppression_rows, SUPPRESSION_PATH, SUPPRESSION_HEADERS,
