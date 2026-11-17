@@ -10,6 +10,7 @@ import io
 import pytest
 
 import app as tracker
+from sendgrid_suppression import SUPPRESSION_PATH
 
 
 class FakeResponse:
@@ -174,7 +175,7 @@ def test_malformed_sendgrid_ledger_refuses_even_duplicate_replay(monkeypatch):
 @pytest.mark.parametrize("ledger_path", [
     tracker.GITHUB_PATH,
     tracker.SENDGRID_EVENT_PATH,
-    tracker.SUPPRESSION_PATH,
+    SUPPRESSION_PATH,
 ])
 def test_strict_data_branch_never_creates_missing_ledger(monkeypatch, ledger_path):
     """A missing snapshot must not be bootstrapped by a successful GitHub PUT."""
