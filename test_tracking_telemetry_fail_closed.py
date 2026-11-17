@@ -130,3 +130,62 @@ def test_overlapping_flushes_are_serialized_and_preserve_both_events(monkeypatch
     assert len(writes) == 2
     assert "first" in remote[0] and "second" in remote[0]
     assert tracker._buffer == []
+
+
+@pytest.mark.parametrize("path", ["/stats", "/stats_json"])
+def test_missing_tracking_csv_404_is_not_valid_zero_activity(monkeypatch, path):
+    """The GitHub Contents API also returns 404 for wrong branch/permissions."""
+    class Missing:
+        status_code = 404
+
+    monkeypatch.setattr(tracker, "_buffer", [])
+    monkeypatch.setattr(tracker.requests, "get", lambda *a, **k: Missing())
+    response = tracker.app.test_client().get(path)
+    assert response.status_code == 503
+    assert response.headers["Cache-Control"] == "no-store"
+    assert response.headers["Retry-After"] == "60"
+
+
+@pytest.mark.parametrize("content", [
+    "",
+    "wrong,columns\n",
+    "timestamp,event,tracking_id\n2026-11-17,click,one\n",
+])
+def test_wrong_schema_does_not_produce_false_zero_statistics(monkeypatch, content):
+    monkeypatch.setattr(tracker, "_buffer", [])
+    monkeypatch.setattr(tracker, "_get_remote_csv", lambda: (content, "syntheticsha"))
+    response = tracker.app.test_client().get("/stats_json")
+    assert response.status_code == 503
+    assert response.get_json() == {"error": "tracking_data_unavailable"}
+
+
+def test_malformed_csv_overflow_does_not_produce_complete_statistics(monkeypatch):
+    valid_header = ",".join(tracker.CSV_HEADERS)
+    malformed = valid_header + "\n" + ",".join(["v"] * (len(tracker.CSV_HEADERS) + 1)) + "\n"
+    monkeypatch.setattr(tracker, "_buffer", [])
+    monkeypatch.setattr(tracker, "_get_remote_csv", lambda: (malformed, "syntheticsha"))
+    assert tracker.app.test_client().get("/stats_json").status_code == 503
+
+
+def test_existing_empty_provisioned_ledger_can_report_real_zero(monkeypatch):
+    canonical = ",".join(tracker.CSV_HEADERS) + "\n"
+    monkeypatch.setattr(tracker, "_buffer", [])
+    monkeypatch.setattr(tracker, "_get_remote_csv", lambda: (canonical, "existing_blob_sha"))
+    response = tracker.app.test_client().get("/stats_json")
+    assert response.status_code == 200
+    assert response.get_json()["total_events"] == 0
+
+
+def test_missing_or_wrong_schema_ledger_never_overwritten_during_flush(monkeypatch):
+    event = _synthetic_row("must-not-disappear")
+    monkeypatch.setattr(tracker, "_buffer", [event])
+    observed_writes = []
+    monkeypatch.setattr(tracker, "_push_csv", lambda *a: observed_writes.append(a) or True)
+    for content, sha in [
+        (",".join(tracker.CSV_HEADERS) + "\n", ""),
+        ("bad,columns\n", "syntheticsha"),
+    ]:
+        monkeypatch.setattr(tracker, "_get_remote_csv", lambda c=content, s=sha: (c, s))
+        assert tracker._flush_buffer() is False
+        assert tracker._buffer == [event]
+    assert observed_writes == []
