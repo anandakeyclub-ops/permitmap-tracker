@@ -60,7 +60,7 @@ def test_acknowledged_github_push_dequeues_events(monkeypatch):
     monkeypatch.setattr(tracker, "_buffer", [original])
     monkeypatch.setattr(
         tracker, "_get_remote_csv",
-        lambda: (",".join(tracker.CSV_HEADERS) + "\n", ""),
+        lambda: (",".join(tracker.CSV_HEADERS) + "\n", "synthetic-existing-sha"),
     )
     captured = []
     monkeypatch.setattr(tracker, "_push_csv", lambda text, sha: captured.append(text) or True)
