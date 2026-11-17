@@ -183,6 +183,11 @@ def _get_remote_csv(path: str | None = None) -> tuple[str, str]:
 def _push_csv(content: str, sha: str, path: str | None = None) -> bool:
     """Push updated tracking.csv to GitHub."""
     data_branch = _checked_data_branch()
+    # Strict cutover requires a verified snapshot of every ledger. An empty
+    # SHA would make the GitHub Contents API CREATE a replacement ledger when
+    # a branch or path is missing. Never bootstrap mutable evidence here.
+    if REQUIRE_SEPARATE_DATA_BRANCH and not sha:
+        raise RemoteFetchError("strict data-branch cutover requires existing ledger SHA")
     if not GITHUB_TOKEN:
         print("[tracker] No GITHUB_TOKEN — skipping push")
         return False
