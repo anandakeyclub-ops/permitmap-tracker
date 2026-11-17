@@ -18,6 +18,7 @@ def email_hash(email: str) -> str:
 def build_suppression_rows(events: list[dict], existing_csv: str = "") -> str:
     existing = list(csv.DictReader(io.StringIO(existing_csv))) if existing_csv.strip() else []
     by_hash = {r.get("email_hash", ""): r for r in existing if r.get("email_hash")}
+    modified = False
     for e in events:
         event = str(e.get("event") or "")
         email = str(e.get("email") or "").strip().lower()
@@ -32,13 +33,26 @@ def build_suppression_rows(events: list[dict], existing_csv: str = "") -> str:
                 continue
         h = email_hash(email)
         reason = str(e.get("reason") or event)
+        event_id = str(e.get("sg_event_id") or "")
+        previous = by_hash.get(h)
+        # SendGrid may retry one event. Do not create a new commit and reset
+        # the recorded suppression timestamp for an identical event ID.
+        if (event_id and previous and previous.get("sg_event_id") == event_id
+                and previous.get("event") == event):
+            continue
+        modified = True
         by_hash[h] = {
             "email_hash": h,
             "reason": reason,
             "event": event,
-            "sg_event_id": str(e.get("sg_event_id") or ""),
+            "sg_event_id": event_id,
             "updated_at": datetime.now(timezone.utc).isoformat(),
         }
+    # A non-suppression event (delivery, click, soft bounce) is *not* a
+    # reason to normalize and rewrite the entire safety ledger. Preserve its
+    # original bytes and GitHub commit/SHA when no suppression state changes.
+    if not modified:
+        return existing_csv
     out = io.StringIO()
     w = csv.DictWriter(out, fieldnames=SUPPRESSION_HEADERS)
     w.writeheader()
