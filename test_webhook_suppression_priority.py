@@ -126,7 +126,7 @@ def test_new_opt_out_persists_even_when_non_suppression_in_same_batch():
     "unsubscribe", "group_unsubscribe", "spamreport", "dropped", "bounce",
 ])
 @pytest.mark.parametrize("recipient", [
-    None, "", "not-an-address", "two@@example.test", "a@example.test\\nheader",
+    None, "", "not-an-address", "two@@example.test", "a@example.test\nheader",
 ])
 def test_missing_safety_critical_recipient_never_acknowledged(monkeypatch, event_name, recipient):
     event = {"event": event_name, "sg_event_id": "synthetic-invalid"}
