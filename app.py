@@ -629,10 +629,14 @@ def sendgrid_events():
             # suppression list, and must not result in a rewrite.
             current, sha = _get_remote_csv(SUPPRESSION_PATH)
             _require_csv_ledger(current, sha, SUPPRESSION_HEADERS, "SendGrid suppression")
-            _persist_sendgrid_events(filtered)
+            # A durable opt-out is more urgent than an analytics receipt. Persist
+            # suppression first: if it fails, never acknowledge or append events;
+            # if event persistence fails afterward, return 500 for provider retry
+            # while keeping the already-committed suppression in place.
             changed = build_suppression_rows(filtered, current)
             if changed != current and not _push_csv(changed, sha, SUPPRESSION_PATH):
                 raise RuntimeError("SendGrid suppression persistence failed")
+            _persist_sendgrid_events(filtered)
         return jsonify({"accepted": len(filtered)}), 200
     except Exception as exc:
         print(f"[sendgrid] webhook processing failed: {exc}")
