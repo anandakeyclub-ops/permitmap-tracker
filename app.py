@@ -81,6 +81,11 @@ def _validate_destination(raw: str) -> str | None:
 GITHUB_TOKEN  = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO   = os.environ.get("GITHUB_REPO", "anandakeyclub-ops/permitmap-tracker")
 GITHUB_BRANCH = os.environ.get("GITHUB_BRANCH", "main")
+# Code deploys follow main; data writes may use a separately controlled branch.
+# Keep legacy behavior until a verified snapshot and explicit cutover are ready.
+GITHUB_DATA_BRANCH = os.environ.get("GITHUB_DATA_BRANCH", GITHUB_BRANCH)
+GITHUB_CODE_BRANCH = os.environ.get("GITHUB_CODE_BRANCH", "main")
+REQUIRE_SEPARATE_DATA_BRANCH = os.environ.get("REQUIRE_SEPARATE_DATA_BRANCH", "0").lower() in ("1", "true", "yes")
 GITHUB_PATH   = "tracking.csv"
 
 CSV_HEADERS = ["timestamp", "event", "tracking_id", "contractor_id",
@@ -122,6 +127,20 @@ class RemoteFetchError(RuntimeError):
     """
 
 
+def _checked_data_branch() -> str:
+    """Refuse unsafe ledger writes/reads when strict branch isolation is enabled.
+
+    Enabling the strict gate is a coordinated cutover, not an automatic migration.
+    A complete ledger snapshot must already exist on the data branch.
+    """
+    branch = GITHUB_DATA_BRANCH.strip()
+    if not branch:
+        raise RemoteFetchError("GitHub ledger branch is empty")
+    if REQUIRE_SEPARATE_DATA_BRANCH and branch == GITHUB_CODE_BRANCH:
+        raise RemoteFetchError("GitHub ledger branch equals auto-deployed code branch")
+    return branch
+
+
 def _get_remote_csv(path: str | None = None) -> tuple[str, str]:
     """Fetch current CSV from GitHub. Returns (content_str, sha).
 
@@ -132,7 +151,7 @@ def _get_remote_csv(path: str | None = None) -> tuple[str, str]:
     url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path or GITHUB_PATH}"
     try:
         r = requests.get(url, headers=_github_headers(),
-                         params={"ref": GITHUB_BRANCH}, timeout=10)
+                         params={"ref": _checked_data_branch()}, timeout=10)
     except Exception as e:
         raise RemoteFetchError(f"GitHub fetch error: {e}") from e
     if r.status_code == 404:
@@ -149,7 +168,7 @@ def _get_remote_csv(path: str | None = None) -> tuple[str, str]:
         try:
             r2 = requests.get(url, headers={**_github_headers(),
                               "Accept": "application/vnd.github.raw+json"},
-                              params={"ref": GITHUB_BRANCH}, timeout=30)
+                              params={"ref": _checked_data_branch()}, timeout=30)
         except Exception as e:
             raise RemoteFetchError(f"GitHub raw fetch error: {e}") from e
         if r2.status_code != 200:
@@ -163,6 +182,7 @@ def _get_remote_csv(path: str | None = None) -> tuple[str, str]:
 
 def _push_csv(content: str, sha: str, path: str | None = None) -> bool:
     """Push updated tracking.csv to GitHub."""
+    data_branch = _checked_data_branch()
     if not GITHUB_TOKEN:
         print("[tracker] No GITHUB_TOKEN — skipping push")
         return False
@@ -170,7 +190,7 @@ def _push_csv(content: str, sha: str, path: str | None = None) -> bool:
     payload = {
         "message": f"tracking update {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')}",
         "content": base64.b64encode(content.encode("utf-8")).decode("utf-8"),
-        "branch":  GITHUB_BRANCH,
+        "branch":  data_branch,
     }
     if sha:
         payload["sha"] = sha
@@ -537,6 +557,7 @@ def _persist_sendgrid_events(events: list[dict]) -> None:
     writer.writeheader()
     for row in existing_rows:
         writer.writerow(row)
+    appended = 0
     for event in events:
         event_id = str(event.get("sg_event_id") or "")
         if event_id and event_id in known:
@@ -559,8 +580,13 @@ def _persist_sendgrid_events(events: list[dict]) -> None:
             "ip": request.headers.get("X-Forwarded-For", request.remote_addr or ""),
             "user_agent": request.headers.get("User-Agent", ""),
         })
+        appended += 1
         if event_id:
             known.add(event_id)
+    # An all-duplicate delivery webhook is already durably acknowledged.
+    # Preserve the exact ledger bytes/SHA and avoid a data-only deploy commit.
+    if appended == 0:
+        return
     if sha and len(out.getvalue()) < len(remote):
         raise RuntimeError("SendGrid event ledger would shrink; refusing to write")
     if not _sendgrid_push_csv(out.getvalue(), sha):
