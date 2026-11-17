@@ -90,6 +90,8 @@ def test_failed_read_aborts_without_write(monkeypatch):
 def test_tracking_flush_never_lands_in_ledger(monkeypatch):
     gh = FakeGitHub()
     gh.files["sendgrid_events.csv"] = ((HDR + "\n").encode(), "sha0")
+    # Production tracking history is pre-provisioned: absence must fail closed.
+    gh.files["tracking.csv"] = ((",".join(A.CSV_HEADERS) + "\n").encode(), "sha-tracking")
     monkeypatch.setattr(A.requests, "get", gh.get)
     monkeypatch.setattr(A.requests, "put", gh.put)
     monkeypatch.setattr(A, "GITHUB_TOKEN", "t")
