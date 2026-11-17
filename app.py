@@ -591,6 +591,22 @@ def _verify_sendgrid_signature(payload: bytes) -> bool:
         print(f"[sendgrid] signature verification failed: {type(exc).__name__}: {exc}", flush=True)
         return False
 
+def _require_csv_ledger(content: str, sha: str, headers: list[str], label: str) -> None:
+    """Require an existing, parseable CSV with precisely the expected fields."""
+    if not sha or content.partition("\n")[0].rstrip("\r") != ",".join(headers):
+        raise RemoteFetchError(f"{label} ledger missing or schema mismatch")
+    try:
+        reader = csv.DictReader(io.StringIO(content), strict=True)
+        rows = list(reader)
+    except csv.Error as exc:
+        raise RemoteFetchError(f"{label} ledger malformed") from exc
+    if reader.fieldnames != headers or any(
+        None in row or any(value is None for value in row.values())
+        for row in rows
+    ):
+        raise RemoteFetchError(f"{label} ledger has truncated or overflowing rows")
+
+
 @app.route("/api/webhooks/sendgrid/events", methods=["POST"])
 def sendgrid_events():
     payload = request.get_data(cache=True)
@@ -605,11 +621,17 @@ def sendgrid_events():
                    "group_resubscribe", "open", "click"}
         filtered = [e for e in events if isinstance(e, dict) and e.get("event") in allowed]
         with _sendgrid_lock:
-            _persist_sendgrid_events(filtered)
-            from sendgrid_suppression import build_suppression_rows, SUPPRESSION_PATH
+            from sendgrid_suppression import (
+                build_suppression_rows, SUPPRESSION_PATH, SUPPRESSION_HEADERS,
+            )
+            # Validate the safety-critical opt-out ledger *before* persisting
+            # events. A 404, altered schema or partial row is never an empty
+            # suppression list, and must not result in a rewrite.
             current, sha = _get_remote_csv(SUPPRESSION_PATH)
-            updated = build_suppression_rows(filtered, current)
-            if updated != current and not _push_csv(updated, sha, SUPPRESSION_PATH):
+            _require_csv_ledger(current, sha, SUPPRESSION_HEADERS, "SendGrid suppression")
+            _persist_sendgrid_events(filtered)
+            changed = build_suppression_rows(filtered, current)
+            if changed != current and not _push_csv(changed, sha, SUPPRESSION_PATH):
                 raise RuntimeError("SendGrid suppression persistence failed")
         return jsonify({"accepted": len(filtered)}), 200
     except Exception as exc:
