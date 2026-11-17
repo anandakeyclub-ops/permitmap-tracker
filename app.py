@@ -95,6 +95,9 @@ PIXEL_GIF = (
 # In-memory buffer — flushed to GitHub every N writes or every M seconds
 _buffer: list[dict] = []
 _buffer_lock = threading.Lock()
+# Serialize GitHub read-modify-write transactions; overlapping flushes can
+# otherwise race on the same remote SHA and discard/duplicate observations.
+_flush_lock = threading.Lock()
 _last_flush  = time.time()
 FLUSH_EVERY_N = 5    # flush after this many events
 FLUSH_EVERY_S = 120  # flush every 2 minutes regardless
@@ -182,38 +185,46 @@ def _push_csv(content: str, sha: str, path: str | None = None) -> bool:
     return False
 
 
-def _flush_buffer():
-    """Append buffered rows to GitHub CSV."""
+def _flush_buffer() -> bool:
+    """True only if the rows taken from the buffer were acknowledged upstream.
+
+    Never report success after a rejected GitHub write. The flush lock keeps
+    separate background threads from racing read/modify/write transactions.
+    A successful return does not claim durability for later new arrivals.
+    """
     global _last_flush
-    with _buffer_lock:
-        if not _buffer:
-            _last_flush = time.time()
-            return
-        rows_to_write = list(_buffer)
-        _buffer.clear()
-
-    try:
-        remote_csv, sha = _get_remote_csv()
-        out = io.StringIO()
-        # Preserve existing content, strip trailing newline
-        existing = remote_csv.rstrip("\n")
-        # If file only has headers or is empty, start fresh
-        if not existing or existing == ",".join(CSV_HEADERS):
-            out.write(",".join(CSV_HEADERS) + "\n")
-        else:
-            out.write(existing + "\n")
-        writer = csv.DictWriter(out, fieldnames=CSV_HEADERS, extrasaction="ignore")
-        for row in rows_to_write:
-            writer.writerow(row)
-        _push_csv(out.getvalue(), sha)
-    except Exception as e:
-        print(f"[tracker] Flush error: {e}")
-        # Put rows back in buffer so they're not lost
+    with _flush_lock:
         with _buffer_lock:
-            _buffer.extend(rows_to_write)
+            if not _buffer:
+                _last_flush = time.time()
+                return True
+            rows_to_write = list(_buffer)
+            _buffer.clear()
 
-    _last_flush = time.time()
-
+        try:
+            remote_csv, sha = _get_remote_csv()
+            _require_tracking_ledger_header(remote_csv, sha)
+            out = io.StringIO()
+            existing = remote_csv.rstrip("\n")
+            if not existing or existing == ",".join(CSV_HEADERS):
+                out.write(",".join(CSV_HEADERS) + "\n")
+            else:
+                out.write(existing + "\n")
+            writer = csv.DictWriter(out, fieldnames=CSV_HEADERS, extrasaction="ignore")
+            for row in rows_to_write:
+                writer.writerow(row)
+            if not _push_csv(out.getvalue(), sha):
+                raise RemoteFetchError("tracking events not acknowledged by GitHub")
+            return True
+        except Exception as e:
+            print(f"[tracker] Flush error: {e}")
+            # Failed rows were observed before new arrivals. Preserve their
+            # order and never count a rejected write as a successful flush.
+            with _buffer_lock:
+                _buffer[:0] = rows_to_write
+            return False
+        finally:
+            _last_flush = time.time()
 
 def _maybe_flush(force: bool = False):
     with _buffer_lock:
@@ -260,21 +271,33 @@ def _log_event(tracking_id: str, event: str):
 
 # ── Stats ─────────────────────────────────────────────────────────────────────
 
+def _require_tracking_ledger_header(content: str, sha: str) -> None:
+    """Never silently bootstrap or accept a wrong-schema tracking ledger.
+
+    A 404 can mean an incorrect branch or permissions, not an empty history.
+    The production tracking ledger must be provisioned separately before use.
+    """
+    if not sha:
+        raise RemoteFetchError("tracking ledger missing (no GitHub blob SHA)")
+    first_line = content.partition("\n")[0].rstrip("\r")
+    if first_line != ",".join(CSV_HEADERS):
+        raise RemoteFetchError("tracking ledger schema mismatch")
+
+
 def _load_all_rows() -> list[dict]:
-    """Load all rows from GitHub CSV."""
-    _flush_buffer()  # make sure buffer is flushed first
+    """Load a complete, valid tracking ledger; otherwise fail closed."""
+    if not _flush_buffer():
+        raise RemoteFetchError("tracking events are buffered but unacknowledged")
     try:
-        content, _ = _get_remote_csv()
-    except RemoteFetchError as e:
-        print(f"[tracker] stats fetch failed: {e}")
-        return []
-    rows = []
-    try:
-        reader = csv.DictReader(io.StringIO(content))
+        content, sha = _get_remote_csv()
+        _require_tracking_ledger_header(content, sha)
+        reader = csv.DictReader(io.StringIO(content), strict=True)
         rows = list(reader)
-    except Exception:
-        pass
-    return rows
+        if any(None in row for row in rows):
+            raise RemoteFetchError("tracking ledger contains overflowing CSV columns")
+        return rows
+    except (csv.Error, UnicodeError) as exc:
+        raise RemoteFetchError("tracking ledger CSV malformed") from exc
 
 
 def _build_stats(rows: list[dict]) -> dict:
@@ -361,15 +384,29 @@ def click(tracking_id: str):
 
 @app.route("/stats_json")
 def stats_json():
-    rows  = _load_all_rows()
+    try:
+        rows = _load_all_rows()
+    except RemoteFetchError:
+        response = jsonify({"error": "tracking_data_unavailable"})
+        response.status_code = 503
+        response.headers["Cache-Control"] = "no-store"
+        response.headers["Retry-After"] = "60"
+        return response
     stats = _build_stats(rows)
     return jsonify(stats)
 
 
 @app.route("/stats")
 def stats():
-    rows  = _load_all_rows()
-    data  = _build_stats(rows)
+    try:
+        rows = _load_all_rows()
+    except RemoteFetchError:
+        return Response(
+            "Tracking statistics are temporarily unavailable.",
+            status=503, mimetype="text/plain",
+            headers={"Cache-Control": "no-store", "Retry-After": "60"},
+        )
+    data = _build_stats(rows)
     today = date.today().strftime("%B %d, %Y")
 
     stage_rows = ""
@@ -448,7 +485,12 @@ def stats():
 @app.route("/flush")
 def flush():
     """Manual flush endpoint — call to force persist buffer to GitHub."""
-    _flush_buffer()
+    if not _flush_buffer():
+        response = jsonify({"error": "tracking_persistence_unavailable"})
+        response.status_code = 503
+        response.headers["Cache-Control"] = "no-store"
+        response.headers["Retry-After"] = "60"
+        return response
     return jsonify({"status": "flushed", "timestamp": datetime.utcnow().isoformat()})
 
 
@@ -475,7 +517,20 @@ def _persist_sendgrid_events(events: list[dict]) -> None:
     if not events:
         return
     remote, sha = _sendgrid_remote_csv()
-    existing_rows = list(csv.DictReader(io.StringIO(remote))) if remote.strip() else []
+    # Never replace historical SendGrid data after a 404, wrong branch,
+    # schema change, or truncated existing ledger.
+    if not sha or remote.partition("\n")[0].rstrip("\r") != ",".join(SENDGRID_EVENT_HEADERS):
+        raise RemoteFetchError("SendGrid event ledger missing or schema mismatch")
+    try:
+        reader = csv.DictReader(io.StringIO(remote), strict=True)
+        existing_rows = list(reader)
+    except csv.Error as exc:
+        raise RemoteFetchError("SendGrid event ledger malformed") from exc
+    if reader.fieldnames != SENDGRID_EVENT_HEADERS or any(
+        None in row or any(value is None for value in row.values())
+        for row in existing_rows
+    ):
+        raise RemoteFetchError("SendGrid event ledger has truncated or overflowing rows")
     known = {row.get("sg_event_id", "") for row in existing_rows if row.get("sg_event_id")}
     out = io.StringIO()
     writer = csv.DictWriter(out, fieldnames=SENDGRID_EVENT_HEADERS, extrasaction="ignore")
@@ -536,6 +591,22 @@ def _verify_sendgrid_signature(payload: bytes) -> bool:
         print(f"[sendgrid] signature verification failed: {type(exc).__name__}: {exc}", flush=True)
         return False
 
+def _require_csv_ledger(content: str, sha: str, headers: list[str], label: str) -> None:
+    """Require an existing, parseable CSV with precisely the expected fields."""
+    if not sha or content.partition("\n")[0].rstrip("\r") != ",".join(headers):
+        raise RemoteFetchError(f"{label} ledger missing or schema mismatch")
+    try:
+        reader = csv.DictReader(io.StringIO(content), strict=True)
+        rows = list(reader)
+    except csv.Error as exc:
+        raise RemoteFetchError(f"{label} ledger malformed") from exc
+    if reader.fieldnames != headers or any(
+        None in row or any(value is None for value in row.values())
+        for row in rows
+    ):
+        raise RemoteFetchError(f"{label} ledger has truncated or overflowing rows")
+
+
 @app.route("/api/webhooks/sendgrid/events", methods=["POST"])
 def sendgrid_events():
     payload = request.get_data(cache=True)
@@ -550,11 +621,17 @@ def sendgrid_events():
                    "group_resubscribe", "open", "click"}
         filtered = [e for e in events if isinstance(e, dict) and e.get("event") in allowed]
         with _sendgrid_lock:
-            _persist_sendgrid_events(filtered)
-            from sendgrid_suppression import build_suppression_rows, SUPPRESSION_PATH
+            from sendgrid_suppression import (
+                build_suppression_rows, SUPPRESSION_PATH, SUPPRESSION_HEADERS,
+            )
+            # Validate the safety-critical opt-out ledger *before* persisting
+            # events. A 404, altered schema or partial row is never an empty
+            # suppression list, and must not result in a rewrite.
             current, sha = _get_remote_csv(SUPPRESSION_PATH)
-            updated = build_suppression_rows(filtered, current)
-            if updated != current and not _push_csv(updated, sha, SUPPRESSION_PATH):
+            _require_csv_ledger(current, sha, SUPPRESSION_HEADERS, "SendGrid suppression")
+            _persist_sendgrid_events(filtered)
+            changed = build_suppression_rows(filtered, current)
+            if changed != current and not _push_csv(changed, sha, SUPPRESSION_PATH):
                 raise RuntimeError("SendGrid suppression persistence failed")
         return jsonify({"accepted": len(filtered)}), 200
     except Exception as exc:

@@ -69,6 +69,11 @@ def test_ledger_over_1mib_is_preserved_on_webhook(monkeypatch):
     raw, n = big_ledger(1048576 + 5000)
     assert len(raw) > 1048576
     gh.files["sendgrid_events.csv"] = (raw, "sha0")
+    # A real webhook requires a pre-existing canonical opt-out ledger.
+    from sendgrid_suppression import SUPPRESSION_HEADERS
+    gh.files["sendgrid_suppressions.csv"] = (
+        (",".join(SUPPRESSION_HEADERS) + "\r\n").encode(), "sha-suppression"
+    )
     r = post(A.app.test_client(), gh, [{"event": "processed", "email": "a@b.c", "sg_event_id": "new1", "timestamp": 1792999999}], monkeypatch)
     assert r.status_code == 200, r.get_data(as_text=True)
     after = list(csv.DictReader(io.StringIO(gh.files["sendgrid_events.csv"][0].decode())))
@@ -80,6 +85,11 @@ def test_failed_read_aborts_without_write(monkeypatch):
     gh = FakeGitHub()
     raw, n = big_ledger(1048576 + 5000)
     gh.files["sendgrid_events.csv"] = (raw, "sha0")
+    # A real webhook requires a pre-existing canonical opt-out ledger.
+    from sendgrid_suppression import SUPPRESSION_HEADERS
+    gh.files["sendgrid_suppressions.csv"] = (
+        (",".join(SUPPRESSION_HEADERS) + "\r\n").encode(), "sha-suppression"
+    )
     orig = gh.get
     gh.get = lambda url, headers=None, **k: Resp(502) if "raw" in (headers or {}).get("Accept", "") else orig(url, headers=headers, **k)
     r = post(A.app.test_client(), gh, [{"event": "processed", "email": "a@b.c", "sg_event_id": "new2", "timestamp": 1}], monkeypatch)
@@ -90,6 +100,8 @@ def test_failed_read_aborts_without_write(monkeypatch):
 def test_tracking_flush_never_lands_in_ledger(monkeypatch):
     gh = FakeGitHub()
     gh.files["sendgrid_events.csv"] = ((HDR + "\n").encode(), "sha0")
+    # Production tracking history is pre-provisioned: absence must fail closed.
+    gh.files["tracking.csv"] = ((",".join(A.CSV_HEADERS) + "\n").encode(), "sha-tracking")
     monkeypatch.setattr(A.requests, "get", gh.get)
     monkeypatch.setattr(A.requests, "put", gh.put)
     monkeypatch.setattr(A, "GITHUB_TOKEN", "t")

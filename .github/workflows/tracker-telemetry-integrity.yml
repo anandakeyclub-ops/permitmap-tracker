@@ -1,0 +1,37 @@
+name: Tracker telemetry integrity (no provider writes)
+
+on:
+  pull_request:
+    paths:
+      - 'app.py'
+      - 'test_*.py'
+      - '.github/workflows/tracker-telemetry-integrity.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'app.py'
+      - 'test_*.py'
+      - '.github/workflows/tracker-telemetry-integrity.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    env:
+      # Synthetic marker required by the existing FakeGitHub write tests.
+      # pytest-socket blocks real connections; this is never a usable credential.
+      GITHUB_TOKEN: 'synthetic-ci-no-network'
+      STRIPE_SECRET_KEY: ''
+      STRIPE_TEST_SECRET_KEY: ''
+      SENDGRID_API_KEY: ''
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m pip install --disable-pip-version-check -r requirements.txt pytest pytest-socket
+      - run: python -m pytest -q --disable-socket test_*.py
