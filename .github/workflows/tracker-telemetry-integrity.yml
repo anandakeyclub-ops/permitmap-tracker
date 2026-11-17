@@ -22,7 +22,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 12
     env:
-      GITHUB_TOKEN: ''
+      # Synthetic marker required by the existing FakeGitHub write tests.
+      # pytest-socket blocks real connections; this is never a usable credential.
+      GITHUB_TOKEN: 'synthetic-ci-no-network'
       STRIPE_SECRET_KEY: ''
       STRIPE_TEST_SECRET_KEY: ''
       SENDGRID_API_KEY: ''
