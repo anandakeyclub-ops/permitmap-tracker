@@ -203,6 +203,7 @@ def _flush_buffer() -> bool:
 
         try:
             remote_csv, sha = _get_remote_csv()
+            _require_tracking_ledger_header(remote_csv, sha)
             out = io.StringIO()
             existing = remote_csv.rstrip("\n")
             if not existing or existing == ",".join(CSV_HEADERS):
@@ -270,24 +271,33 @@ def _log_event(tracking_id: str, event: str):
 
 # ── Stats ─────────────────────────────────────────────────────────────────────
 
+def _require_tracking_ledger_header(content: str, sha: str) -> None:
+    """Never silently bootstrap or accept a wrong-schema tracking ledger.
+
+    A 404 can mean an incorrect branch or permissions, not an empty history.
+    The production tracking ledger must be provisioned separately before use.
+    """
+    if not sha:
+        raise RemoteFetchError("tracking ledger missing (no GitHub blob SHA)")
+    first_line = content.partition("\n")[0].rstrip("\r")
+    if first_line != ",".join(CSV_HEADERS):
+        raise RemoteFetchError("tracking ledger schema mismatch")
+
+
 def _load_all_rows() -> list[dict]:
-    """Load all rows from GitHub CSV."""
+    """Load a complete, valid tracking ledger; otherwise fail closed."""
     if not _flush_buffer():
         raise RemoteFetchError("tracking events are buffered but unacknowledged")
     try:
-        content, _ = _get_remote_csv()
-    except RemoteFetchError as e:
-        print(f"[tracker] stats fetch failed: {e}")
-        # Never turn unavailable evidence (e.g., expired GitHub token / 401)
-        # into an apparently legitimate zero-event dashboard.
-        raise
-    rows = []
-    try:
-        reader = csv.DictReader(io.StringIO(content))
+        content, sha = _get_remote_csv()
+        _require_tracking_ledger_header(content, sha)
+        reader = csv.DictReader(io.StringIO(content), strict=True)
         rows = list(reader)
-    except Exception:
-        pass
-    return rows
+        if any(None in row for row in rows):
+            raise RemoteFetchError("tracking ledger contains overflowing CSV columns")
+        return rows
+    except (csv.Error, UnicodeError) as exc:
+        raise RemoteFetchError("tracking ledger CSV malformed") from exc
 
 
 def _build_stats(rows: list[dict]) -> dict:
