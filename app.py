@@ -517,7 +517,20 @@ def _persist_sendgrid_events(events: list[dict]) -> None:
     if not events:
         return
     remote, sha = _sendgrid_remote_csv()
-    existing_rows = list(csv.DictReader(io.StringIO(remote))) if remote.strip() else []
+    # Never replace historical SendGrid data after a 404, wrong branch,
+    # schema change, or truncated existing ledger.
+    if not sha or remote.partition("\n")[0].rstrip("\r") != ",".join(SENDGRID_EVENT_HEADERS):
+        raise RemoteFetchError("SendGrid event ledger missing or schema mismatch")
+    try:
+        reader = csv.DictReader(io.StringIO(remote), strict=True)
+        existing_rows = list(reader)
+    except csv.Error as exc:
+        raise RemoteFetchError("SendGrid event ledger malformed") from exc
+    if reader.fieldnames != SENDGRID_EVENT_HEADERS or any(
+        None in row or any(value is None for value in row.values())
+        for row in existing_rows
+    ):
+        raise RemoteFetchError("SendGrid event ledger has truncated or overflowing rows")
     known = {row.get("sg_event_id", "") for row in existing_rows if row.get("sg_event_id")}
     out = io.StringIO()
     writer = csv.DictWriter(out, fieldnames=SENDGRID_EVENT_HEADERS, extrasaction="ignore")
