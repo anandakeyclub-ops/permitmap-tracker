@@ -180,7 +180,7 @@ def test_webhook_never_writes_events_when_suppression_ledger_untrustworthy(
 
 def test_webhook_accepts_valid_existing_suppression_ledger_without_mutation(monkeypatch):
     from sendgrid_suppression import SUPPRESSION_HEADERS
-    current = ",".join(SUPPRESSION_HEADERS) + "\n"
+    current = ",".join(SUPPRESSION_HEADERS) + "\r\n"
     writes = []
     monkeypatch.setattr(A, "_verify_sendgrid_signature", lambda payload: True)
     monkeypatch.setattr(A, "_get_remote_csv", lambda path=None: (current, "existing-sha"))
