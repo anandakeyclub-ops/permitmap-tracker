@@ -205,12 +205,17 @@ def _flush_buffer():
         writer = csv.DictWriter(out, fieldnames=CSV_HEADERS, extrasaction="ignore")
         for row in rows_to_write:
             writer.writerow(row)
-        _push_csv(out.getvalue(), sha)
+        if not _push_csv(out.getvalue(), sha):
+            # A rejected GitHub write is not a successful flush. Preserve
+            # in-memory events until an acknowledged write can complete.
+            raise RemoteFetchError("tracking events not acknowledged by GitHub")
     except Exception as e:
         print(f"[tracker] Flush error: {e}")
-        # Put rows back in buffer so they're not lost
+        # Failed rows predate new arrivals; retain their original order.
+        # For ambiguous transport failures, a later deduplication layer is
+        # still required before claiming exactly-once tracking delivery.
         with _buffer_lock:
-            _buffer.extend(rows_to_write)
+            _buffer[:0] = rows_to_write
 
     _last_flush = time.time()
 
@@ -267,7 +272,9 @@ def _load_all_rows() -> list[dict]:
         content, _ = _get_remote_csv()
     except RemoteFetchError as e:
         print(f"[tracker] stats fetch failed: {e}")
-        return []
+        # Never turn unavailable evidence (e.g., expired GitHub token / 401)
+        # into an apparently legitimate zero-event dashboard.
+        raise
     rows = []
     try:
         reader = csv.DictReader(io.StringIO(content))
@@ -361,15 +368,29 @@ def click(tracking_id: str):
 
 @app.route("/stats_json")
 def stats_json():
-    rows  = _load_all_rows()
+    try:
+        rows = _load_all_rows()
+    except RemoteFetchError:
+        response = jsonify({"error": "tracking_data_unavailable"})
+        response.status_code = 503
+        response.headers["Cache-Control"] = "no-store"
+        response.headers["Retry-After"] = "60"
+        return response
     stats = _build_stats(rows)
     return jsonify(stats)
 
 
 @app.route("/stats")
 def stats():
-    rows  = _load_all_rows()
-    data  = _build_stats(rows)
+    try:
+        rows = _load_all_rows()
+    except RemoteFetchError:
+        return Response(
+            "Tracking statistics are temporarily unavailable.",
+            status=503, mimetype="text/plain",
+            headers={"Cache-Control": "no-store", "Retry-After": "60"},
+        )
+    data = _build_stats(rows)
     today = date.today().strftime("%B %d, %Y")
 
     stage_rows = ""
