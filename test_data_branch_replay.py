@@ -10,6 +10,7 @@ import io
 import pytest
 
 import app as tracker
+from sendgrid_suppression import SUPPRESSION_PATH
 
 
 class FakeResponse:
@@ -169,3 +170,34 @@ def test_malformed_sendgrid_ledger_refuses_even_duplicate_replay(monkeypatch):
         with pytest.raises(tracker.RemoteFetchError):
             tracker._persist_sendgrid_events([{"event": "delivered", "sg_event_id": "known-1"}])
     assert writes == []
+
+
+@pytest.mark.parametrize("ledger_path", [
+    tracker.GITHUB_PATH,
+    tracker.SENDGRID_EVENT_PATH,
+    SUPPRESSION_PATH,
+])
+def test_strict_data_branch_never_creates_missing_ledger(monkeypatch, ledger_path):
+    """A missing snapshot must not be bootstrapped by a successful GitHub PUT."""
+    _set_isolated(monkeypatch)
+    monkeypatch.setattr(tracker, "GITHUB_TOKEN", "synthetic-token")
+    calls = []
+    monkeypatch.setattr(tracker.requests, "put", lambda *a, **kw: calls.append(kw) or FakeResponse(201))
+    with pytest.raises(tracker.RemoteFetchError, match="existing ledger SHA"):
+        tracker._push_csv("fake-history\\n", "", ledger_path)
+    assert calls == []
+
+
+def test_legacy_missing_file_creation_contract_is_unchanged(monkeypatch):
+    """Legacy path remains available until explicitly governed cutover."""
+    _set_isolated(monkeypatch)
+    monkeypatch.setattr(tracker, "REQUIRE_SEPARATE_DATA_BRANCH", False)
+    monkeypatch.setattr(tracker, "GITHUB_TOKEN", "synthetic-token")
+    sent = []
+    def put(*args, **kwargs):
+        sent.append(kwargs["json"])
+        return FakeResponse(201)
+    monkeypatch.setattr(tracker.requests, "put", put)
+    assert tracker._push_csv("header\\n", "", tracker.GITHUB_PATH)
+    assert len(sent) == 1
+    assert "sha" not in sent[0]
