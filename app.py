@@ -95,6 +95,9 @@ PIXEL_GIF = (
 # In-memory buffer — flushed to GitHub every N writes or every M seconds
 _buffer: list[dict] = []
 _buffer_lock = threading.Lock()
+# Serialize GitHub read-modify-write transactions; overlapping flushes can
+# otherwise race on the same remote SHA and discard/duplicate observations.
+_flush_lock = threading.Lock()
 _last_flush  = time.time()
 FLUSH_EVERY_N = 5    # flush after this many events
 FLUSH_EVERY_S = 120  # flush every 2 minutes regardless
@@ -182,43 +185,45 @@ def _push_csv(content: str, sha: str, path: str | None = None) -> bool:
     return False
 
 
-def _flush_buffer():
-    """Append buffered rows to GitHub CSV."""
+def _flush_buffer() -> bool:
+    """True only if the rows taken from the buffer were acknowledged upstream.
+
+    Never report success after a rejected GitHub write. The flush lock keeps
+    separate background threads from racing read/modify/write transactions.
+    A successful return does not claim durability for later new arrivals.
+    """
     global _last_flush
-    with _buffer_lock:
-        if not _buffer:
-            _last_flush = time.time()
-            return
-        rows_to_write = list(_buffer)
-        _buffer.clear()
-
-    try:
-        remote_csv, sha = _get_remote_csv()
-        out = io.StringIO()
-        # Preserve existing content, strip trailing newline
-        existing = remote_csv.rstrip("\n")
-        # If file only has headers or is empty, start fresh
-        if not existing or existing == ",".join(CSV_HEADERS):
-            out.write(",".join(CSV_HEADERS) + "\n")
-        else:
-            out.write(existing + "\n")
-        writer = csv.DictWriter(out, fieldnames=CSV_HEADERS, extrasaction="ignore")
-        for row in rows_to_write:
-            writer.writerow(row)
-        if not _push_csv(out.getvalue(), sha):
-            # A rejected GitHub write is not a successful flush. Preserve
-            # in-memory events until an acknowledged write can complete.
-            raise RemoteFetchError("tracking events not acknowledged by GitHub")
-    except Exception as e:
-        print(f"[tracker] Flush error: {e}")
-        # Failed rows predate new arrivals; retain their original order.
-        # For ambiguous transport failures, a later deduplication layer is
-        # still required before claiming exactly-once tracking delivery.
+    with _flush_lock:
         with _buffer_lock:
-            _buffer[:0] = rows_to_write
+            if not _buffer:
+                _last_flush = time.time()
+                return True
+            rows_to_write = list(_buffer)
+            _buffer.clear()
 
-    _last_flush = time.time()
-
+        try:
+            remote_csv, sha = _get_remote_csv()
+            out = io.StringIO()
+            existing = remote_csv.rstrip("\n")
+            if not existing or existing == ",".join(CSV_HEADERS):
+                out.write(",".join(CSV_HEADERS) + "\n")
+            else:
+                out.write(existing + "\n")
+            writer = csv.DictWriter(out, fieldnames=CSV_HEADERS, extrasaction="ignore")
+            for row in rows_to_write:
+                writer.writerow(row)
+            if not _push_csv(out.getvalue(), sha):
+                raise RemoteFetchError("tracking events not acknowledged by GitHub")
+            return True
+        except Exception as e:
+            print(f"[tracker] Flush error: {e}")
+            # Failed rows were observed before new arrivals. Preserve their
+            # order and never count a rejected write as a successful flush.
+            with _buffer_lock:
+                _buffer[:0] = rows_to_write
+            return False
+        finally:
+            _last_flush = time.time()
 
 def _maybe_flush(force: bool = False):
     with _buffer_lock:
@@ -267,7 +272,8 @@ def _log_event(tracking_id: str, event: str):
 
 def _load_all_rows() -> list[dict]:
     """Load all rows from GitHub CSV."""
-    _flush_buffer()  # make sure buffer is flushed first
+    if not _flush_buffer():
+        raise RemoteFetchError("tracking events are buffered but unacknowledged")
     try:
         content, _ = _get_remote_csv()
     except RemoteFetchError as e:
@@ -469,7 +475,12 @@ def stats():
 @app.route("/flush")
 def flush():
     """Manual flush endpoint — call to force persist buffer to GitHub."""
-    _flush_buffer()
+    if not _flush_buffer():
+        response = jsonify({"error": "tracking_persistence_unavailable"})
+        response.status_code = 503
+        response.headers["Cache-Control"] = "no-store"
+        response.headers["Retry-After"] = "60"
+        return response
     return jsonify({"status": "flushed", "timestamp": datetime.utcnow().isoformat()})
 
 
