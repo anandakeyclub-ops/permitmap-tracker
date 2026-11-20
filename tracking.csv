@@ -1764,3 +1764,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-11-20 01:35:37,open,1430_followup_2_alachua_solar__v0,1430,followup,2,alachua_solar__v0,"66.249.92.15, 104.22.160.53","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246 Mozilla/5.0"
 2026-11-20 01:35:43,open,1431_followup_2_alachua_solar__v1,1431,followup,2,alachua_solar__v1,"72.152.84.147, 104.22.115.11","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
 2026-11-20 01:35:56,click,1431_followup_2_alachua_solar__v1,1431,followup,2,alachua_solar__v1,"72.152.84.147, 104.22.72.27","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+2026-11-20 03:13:17,open,1392_followup_1_alachua_hvac__v1,1392,followup,1,alachua_hvac__v1,"172.226.188.14, 104.22.160.34",Mozilla/5.0
