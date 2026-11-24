@@ -1784,3 +1784,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-11-22 14:19:03,open,1437_followup_2_alachua_general_contractor__v0,1437,followup,2,alachua_general_contractor__v0,"146.75.248.0, 104.22.160.59",Mozilla/5.0
 2026-11-24 00:35:39,open,1736_first_outreach_osceola_general_contractor__v0,1736,first,outreach,osceola_general_contractor__v0,"140.248.44.1, 172.70.255.193",Mozilla/5.0
 2026-11-24 02:29:35,open,1412_followup_1_alachua_plumbing__v0,1412,followup,1,alachua_plumbing__v0,"140.248.44.0, 104.22.72.60",Mozilla/5.0
+2026-11-24 04:28:31,open,1437_followup_2_alachua_general_contractor__v0,1437,followup,2,alachua_general_contractor__v0,"172.225.246.44, 172.71.147.90",Mozilla/5.0
