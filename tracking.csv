@@ -1788,3 +1788,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-11-24 13:06:20,open,47_close_email_palm_beach_general_contractor__v0,47,close,email,palm_beach_general_contractor__v0,"172.226.188.23, 104.22.160.20",Mozilla/5.0
 2026-11-24 13:06:20,open,47_followup_2_palm_beach_general_contractor__v0,47,followup,2,palm_beach_general_contractor__v0,"172.226.188.23, 104.22.160.107",Mozilla/5.0
 2026-11-24 17:45:36,open,58_followup_2_martin_roofing__v1,58,followup,2,martin_roofing__v1,"140.248.44.1, 172.71.147.106",Mozilla/5.0
+2026-11-25 04:01:06,open,1387_followup_1_alachua_hvac__v0,1387,followup,1,alachua_hvac__v0,"140.248.44.0, 172.71.147.103",Mozilla/5.0
