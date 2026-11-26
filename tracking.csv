@@ -1815,3 +1815,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-11-26 00:25:09,open,ctr_9d8b419ff777_followup_1_palm_beach_roofing__v1,ctr,9d8b419ff777,followup,1_palm_beach_roofing__v1,"146.75.232.1, 104.22.118.13",Mozilla/5.0
 2026-11-26 04:12:14,open,ctr_7076643fac43_followup_1_palm_beach_roofing__v0,ctr,7076643fac43,followup,1_palm_beach_roofing__v0,"172.226.190.14, 172.70.83.91",Mozilla/5.0
 2026-11-26 07:24:13,open,ctr_e2755b22566e_followup_1_palm_beach_plumbing__v0,ctr,e2755b22566e,followup,1_palm_beach_plumbing__v0,"140.248.44.0, 104.22.86.134",Mozilla/5.0
+2026-11-26 10:04:49,open,1437_followup_2_alachua_general_contractor__v0,1437,followup,2,alachua_general_contractor__v0,"172.225.251.48, 172.71.146.111",Mozilla/5.0
