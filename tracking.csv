@@ -1836,3 +1836,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-11-26 17:36:04,open,ctr_a6863097a4dc_followup_1_hillsborough_roofing__v0,ctr,a6863097a4dc,followup,1_hillsborough_roofing__v0,"140.248.44.1, 108.162.212.203",Mozilla/5.0
 2026-11-26 19:12:13,open,ctr_8be18332fe7a_followup_2_miami_dade_hvac__v0,ctr,8be18332fe7a,followup,2_miami_dade_hvac__v0,"172.226.190.22, 172.71.150.242",Mozilla/5.0
 2026-11-26 20:06:05,open,ctr_3945e2c39d15_followup_2_miami_dade_general_contractor__v1,ctr,3945e2c39d15,followup,2_miami_dade_general_contractor__v1,"140.248.44.0, 172.71.147.106",Mozilla/5.0
+2026-11-27 00:14:41,open,ctr_c9b0f7e81650_followup_1_miami_dade_general_contractor__v1,ctr,c9b0f7e81650,followup,1_miami_dade_general_contractor__v1,"172.226.190.56, 108.162.212.203",Mozilla/5.0
