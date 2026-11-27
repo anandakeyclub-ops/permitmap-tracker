@@ -1838,3 +1838,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-11-26 20:06:05,open,ctr_3945e2c39d15_followup_2_miami_dade_general_contractor__v1,ctr,3945e2c39d15,followup,2_miami_dade_general_contractor__v1,"140.248.44.0, 172.71.147.106",Mozilla/5.0
 2026-11-27 00:14:41,open,ctr_c9b0f7e81650_followup_1_miami_dade_general_contractor__v1,ctr,c9b0f7e81650,followup,1_miami_dade_general_contractor__v1,"172.226.190.56, 108.162.212.203",Mozilla/5.0
 2026-11-27 01:42:14,open,ctr_3945e2c39d15_followup_2_miami_dade_general_contractor__v1,ctr,3945e2c39d15,followup,2_miami_dade_general_contractor__v1,"104.28.57.241, 108.162.212.203",Mozilla/5.0
+2026-11-27 03:07:07,open,ctr_a7b961b4f779_followup_2_miami_dade_hvac__v1,ctr,a7b961b4f779,followup,2_miami_dade_hvac__v1,"104.28.132.113, 172.70.255.35",Mozilla/5.0
