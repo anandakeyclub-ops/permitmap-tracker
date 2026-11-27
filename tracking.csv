@@ -1842,3 +1842,4 @@ timestamp,event,tracking_id,contractor_id,send_type,county,trade,ip,user_agent
 2026-11-27 03:55:47,open,ctr_a6863097a4dc_followup_1_hillsborough_roofing__v0,ctr,a6863097a4dc,followup,1_hillsborough_roofing__v0,"35.145.201.30, 172.71.150.21",Mozilla/5.0
 2026-11-27 10:47:23,open,ctr_5f7081e6de7a_followup_2_lee_roofing__v0,ctr,5f7081e6de7a,followup,2_lee_roofing__v0,"104.28.47.38, 104.23.160.46",Mozilla/5.0
 2026-11-27 15:40:50,open,ctr_0658871b72e4_followup_2_hillsborough_general_contractor__v1,ctr,0658871b72e4,followup,2_hillsborough_general_contractor__v1,"140.248.44.0, 172.71.146.121",Mozilla/5.0
+2026-11-27 16:23:10,open,ctr_def46537a54c_followup_2_sarasota_general_contractor__v0,ctr,def46537a54c,followup,2_sarasota_general_contractor__v0,"172.226.188.24, 172.71.146.2",Mozilla/5.0
